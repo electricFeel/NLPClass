@@ -1,7 +1,7 @@
 import sys
 import tweepy
-#yes: two seperate APIs because I could'nt get 
-#tweepy to behave
+#yes: two seperate APIs because I couldn't get 
+#tweepy to behave and give me trends
 import twitter
 import sqlite3 as lite
 
