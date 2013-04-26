@@ -192,21 +192,3 @@ ALLOWED_HOSTNAMES = {'www.nytimes.com': NYTArticleExtractor,
                      # 'hosted.ap.org',
                      # 'www.reuters.com',
                      # 'www.usatoday.com'}
-
-
-class ArticleNotParsable(Exception):
-    """ Exception for when Article Parsing fails """
-    pass
-
-
-ALLOWED_HOSTNAMES = {'www.nytimes.com': NYTArticleExtractor,
-                     'www.cnn.com': CNNArticleExtractor,
-                     'www.washingtonpost.com': WashingtonPostArticleExtractor
-                     }
-                     # 'www.foxnews.com',
-                     # 'abcnews.go.com',
-                     # 'hosted.ap.org',
-                     # 'www.reuters.com',
-                     # 'www.usatoday.com',
-                     # 'www.latimes.com',
-                     # 'www.miamiherald.com'}
