@@ -1,5 +1,4 @@
 import settings
-import extractor
 
 import urllib
 import urllib2
