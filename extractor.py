@@ -119,6 +119,80 @@ class CNNArticleExtractor(ArticleExtractor):
 
         return article
 
+class LATimesArticleExtractor(ArticleExtractor):
+    """ LATimes.com article extractor"""
+    def article(self):
+        soup = BeautifulSoup(self.raw_text)
+
+        title = soup.select("title")
+        paragraphs = soup.find("div", {"id": "story-body-text"}).select('p')
+
+        if len(title) == 0 or len(paragraphs) == 0:
+            raise ArticleNotParsable()
+
+        article = dict()
+
+        article['title'] = clean_html(title[0])
+        article['paragraphs'] = map(clean_html, paragraphs)
+
+        print len(paragraphs)
+
+        return article
+
+class MiamiHeraldExtractor(ArticleExtractor):
+    """ MiamiHerald.com extractor"""
+    def article(self):
+        soup = BeautifulSoup(self.raw_text)
+
+        title = soup.select("title")
+        paragraphs = soup.select(".entry-content p")
+
+        if len(title) == 0 or len(paragraphs) == 0:
+            raise ArticleNotParsable()
+
+        article = dict()
+
+        article['title'] = clean_html(title[0])
+        article['paragraphs'] = map(clean_html, paragraphs)
+
+        return article
+
+class FoxNewsExtractor(ArticleExtractor):
+    """FoxNews.com Extractor"""
+    def article(self):
+        soup = BeautifulSoup(self.raw_text)
+
+        title = soup.select("title")
+        paragraphs = soup.select(".article-text p")
+
+        if len(title) == 0 or len(paragraphs) == 0:
+            raise ArticleNotParsable()
+
+        article = dict()
+
+        article['title'] = clean_html(title[0])
+        article['paragraphs'] = map(clean_html, paragraphs)
+
+        return article
+
+class ArticleNotParsable(Exception):
+    """ Exception for when Article Parsing fails """
+    pass
+
+
+ALLOWED_HOSTNAMES = {'www.nytimes.com': NYTArticleExtractor,
+                     'www.cnn.com': CNNArticleExtractor,
+                     'www.washingtonpost.com': WashingtonPostArticleExtractor,
+                     'www.latimes.com': LATimesArticleExtractor,
+                     'www.miamiherald.com': MiamiHeraldExtractor,
+                     'www.foxnews.com': FoxNewsExtractor,
+
+                     }
+                     # 'abcnews.go.com',
+                     # 'hosted.ap.org',
+                     # 'www.reuters.com',
+                     # 'www.usatoday.com'}
+
 
 class ArticleNotParsable(Exception):
     """ Exception for when Article Parsing fails """
