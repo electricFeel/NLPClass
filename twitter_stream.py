@@ -1,25 +1,22 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+import settings
+import extractor
+from util import unshorten, is_url_allowed
+
 import sys
 import tweepy
-#yes: two seperate APIs because I couldn't get 
-#tweepy to behave and give me trends
-import twitter
 import sqlite3 as lite
 
-consumer_key=""
-consumer_secret=""
-access_key = ""
-access_secret = "" 
-
-
-
-auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-auth.set_access_token(access_key, access_secret)
+auth = tweepy.OAuthHandler(settings.CONSUMER_KEY, settings.CONSUMER_SECRET)
+auth.set_access_token(settings.ACCESS_KEY, settings.ACCESS_SECRET)
 api = tweepy.API(auth)
+
 
 class CustomStreamListener(tweepy.StreamListener):
     con = None
     cur = None
-    
+
     try:
         con = lite.connect('twitter_data.db')
         cur = con.cursor()
@@ -31,23 +28,30 @@ class CustomStreamListener(tweepy.StreamListener):
         print "Error %s" % e.args[0]
 
     def on_status(self, status):
-        print status.text
+        if status.entities['urls']:
+            for url in status.entities['urls']:
+                if is_url_allowed(unshorten(url['expanded_url'])):
+                    from pprint import pprint
+                    print unshorten(url['expanded_url'])
+                    try:
+                        pprint(extractor.build_extractor(unshorten(url['expanded_url'])).article())
+                    except:
+                        print 'not parsable'
+                    print '----'
 
     def on_error(self, status_code):
         print >> sys.stderr, 'Encountered error with status code:', status_code
-        return True # Don't kill the stream
+        return True  # Don't kill the stream
 
     def on_timeout(self):
         print >> sys.stderr, 'Timeout...'
-        return True # Don't kill the stream
+        return True  # Don't kill the stream
 
-sapi = tweepy.streaming.Stream(auth, CustomStreamListener())
+sapi = tweepy.Stream(auth, CustomStreamListener())
 
-#get the trends
-twitter_api = twitter.Twitter(domain="api.twitter.com", api_version='1')
-WORLD_WOE_ID = 1
-world_trends = twitter_api.trends._(WORLD_WOE_ID) 
-trends = world_trends()
-trends = [trend['name'] for trend in trends[0]['trends']]
-print trends
-sapi.filter(track=trends)
+# get the trends
+US_WOEID = 2450022
+us_trends = api.trends_place(US_WOEID)
+trends = [trend['name'].encode('utf-8') for trend in us_trends[0]['trends']]
+
+sapi.filter(track=trends, languages=['en'])
