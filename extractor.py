@@ -1,44 +1,34 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+import settings
+from util import unshorten, clean_html
+
 import urllib
 import urllib2
 import cookielib
 import urlparse
-import logging
-import nltk.util 
-import HTMLParser
 from bs4 import BeautifulSoup
 
 
-ALLOWED_HOSTNAMES = ['nytimes.com',
-                     'cnn.com',
-                     'washingtonpost.com']
-
-html_paser = HTMLParser.HTMLParser()
-
-
-def clean_html(text):
-    """ Sanitizes text to remove any html content / entities """
-    return html_paser.unescape(nltk.util.clean_html(str(text)))
+def build_extractor(url):
+    parsed = urlparse.urlparse(url)
+    extractor_cls = ALLOWED_HOSTNAMES.get(parsed.hostname, ArticleExtractor(url))
+    return extractor_cls(url)
 
 
 class ArticleExtractor():
     """ Base Class for Article Text Extraction """
-    # static variable
-    cj = cookielib.CookieJar()
 
     def __init__(self, url):
+        self.cj = cookielib.CookieJar()
         self.url = url
-        self.parsed = urlparse.urlparse(url)
-
-        # if self.parsed.hostname not in ALLOWED_HOSTNAMES:
-        #     raise Exception('Error: Domain %s not supported.'
-        #                     % self.parsed.hostname)
 
         # opener
-        self.opener = urllib2.build_opener(ArticleHTTPRedirectHandler(),
-                                           urllib2.HTTPHandler(debuglevel=1),
+        self.opener = urllib2.build_opener(urllib2.HTTPRedirectHandler(),
+                                           urllib2.HTTPHandler(debuglevel=0),
                                            urllib2.HTTPSHandler(debuglevel=0),
-                                           urllib2.HTTPCookieProcessor(self.cj)
-                                           )
+                                           urllib2.HTTPCookieProcessor(self.cj),
+                                           urllib2.HTTPErrorProcessor())
 
         # Fake a regular browser to get right content
         self.opener.addheaders = [
@@ -78,11 +68,16 @@ class NYTArticleExtractor(ArticleExtractor):
     def article(self):
         soup = BeautifulSoup(self.raw_text)
 
+        title = soup.find_all(itemprop="headline")
+        paragraphs = soup.find_all(itemprop="articleBody")
+
+        if len(title) == 0 or len(paragraphs) == 0:
+            raise ArticleNotParsable()
+
         article = dict()
 
-        article['title'] = clean_html(soup.find_all(itemprop="headline")[0])
-        article['paragraphs'] = map(clean_html,
-                                    soup.find_all(itemprop="articleBody"))
+        article['title'] = clean_html(title[0])
+        article['paragraphs'] = map(clean_html, paragraphs)
 
         return article
 
@@ -92,17 +87,52 @@ class WashingtonPostArticleExtractor(ArticleExtractor):
     def article(self):
         soup = BeautifulSoup(self.raw_text)
 
+        title = soup.select("h1[property=dc.title]")
+        paragraphs = soup.select(".article_body p")
+
+        if len(title) == 0 or len(paragraphs) == 0:
+            raise ArticleNotParsable()
+
         article = dict()
 
-        article['title'] = clean_html(soup.select("h1[property=dc.title]")[0])
-        article['paragraphs'] = map(clean_html, soup.select(".article_body p"))
+        article['title'] = clean_html(title[0])
+        article['paragraphs'] = map(clean_html, paragraphs)
 
         return article
 
 
-class ArticleHTTPRedirectHandler(urllib2.HTTPRedirectHandler):
-    """ Handles redirects to cache redirects """
-    def redirect_request(self, req, fp, code, msg, headers, newurl):
-        # TODO: caching
-        logging.info('Redirect')
-        return urllib2.HTTPRedirectHandler.redirect_request(self, req, fp, code, msg, headers, newurl)
+class CNNArticleExtractor(ArticleExtractor):
+    """ washingtonpost.com Article Extractor """
+    def article(self):
+        soup = BeautifulSoup(self.raw_text)
+
+        title = soup.select("h1")
+        paragraphs = soup.select(".cnn_strycntntlft > p:not(.cnn_strycbftrtxt)")
+
+        if len(title) == 0 or len(paragraphs) == 0:
+            raise ArticleNotParsable()
+
+        article = dict()
+
+        article['title'] = clean_html(title[0])
+        article['paragraphs'] = map(clean_html, paragraphs)
+
+        return article
+
+
+class ArticleNotParsable(Exception):
+    """ Exception for when Article Parsing fails """
+    pass
+
+
+ALLOWED_HOSTNAMES = {'www.nytimes.com': NYTArticleExtractor,
+                     'www.cnn.com': CNNArticleExtractor,
+                     'www.washingtonpost.com': WashingtonPostArticleExtractor
+                     }
+                     # 'www.foxnews.com',
+                     # 'abcnews.go.com',
+                     # 'hosted.ap.org',
+                     # 'www.reuters.com',
+                     # 'www.usatoday.com',
+                     # 'www.latimes.com',
+                     # 'www.miamiherald.com'}
