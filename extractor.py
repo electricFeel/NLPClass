@@ -119,6 +119,7 @@ class CNNArticleExtractor(ArticleExtractor):
 
         return article
 
+
 class LATimesArticleExtractor(ArticleExtractor):
     """ LATimes.com article extractor"""
     def article(self):
@@ -139,6 +140,7 @@ class LATimesArticleExtractor(ArticleExtractor):
 
         return article
 
+
 class MiamiHeraldExtractor(ArticleExtractor):
     """ MiamiHerald.com extractor"""
     def article(self):
@@ -157,6 +159,7 @@ class MiamiHeraldExtractor(ArticleExtractor):
 
         return article
 
+
 class FoxNewsExtractor(ArticleExtractor):
     """FoxNews.com Extractor"""
     def article(self):
@@ -165,6 +168,64 @@ class FoxNewsExtractor(ArticleExtractor):
         title = soup.select("title")
         paragraphs = soup.select(".article-text p")
 
+        if len(title) == 0 or len(paragraphs) == 0:
+            raise ArticleNotParsable()
+
+        article = dict()
+
+        article['title'] = clean_html(title[0])
+        article['paragraphs'] = map(clean_html, paragraphs)
+
+        return article
+
+
+class YahooNewsExtractor(ArticleExtractor):
+    """news.yahoo.com extractor"""
+    def article(self):
+        soup = BeautifulSoup(self.raw_text)
+
+        title = soup.select("title")
+        paragraphs = soup.find("div", {"id": "mediaarticlebody"}).select('p')
+
+        if len(title) == 0 or len(paragraphs) == 0:
+            raise ArticleNotParsable()
+
+        article = dict()
+
+        article['title'] = clean_html(title[0])
+        article['paragraphs'] = map(clean_html, paragraphs)
+
+        return article
+
+
+class MSNNewsExtractor(ArticleExtractor):
+    """msnnews.com extractor"""
+    def article(self):
+        soup = BeautifulSoup(self.raw_text)
+
+        title = soup.select(".articlecontent h1")
+        paragraphs = soup.select(".articlecontent p")
+
+        if len(title) == 0 or len(paragraphs) == 0:
+            raise ArticleNotParsable()
+
+        article = dict()
+
+        article['title'] = clean_html(title[0])
+        article['paragraphs'] = map(clean_html, paragraphs)
+
+        return article
+
+class CBSNewsExtractor(ArticleExtractor):
+    """nbcnews.com extractor"""
+    def article(self):
+        soup = BeautifulSoup(self.raw_text)
+
+        title = soup.find("div", {"id": "contentMain"}).select('h1')
+        paragraphs = soup.select(".storyText p")
+
+        print title
+        print paragraphs
         if len(title) == 0 or len(paragraphs) == 0:
             raise ArticleNotParsable()
 
@@ -186,9 +247,10 @@ ALLOWED_HOSTNAMES = {'www.nytimes.com': NYTArticleExtractor,
                      'www.latimes.com': LATimesArticleExtractor,
                      'www.miamiherald.com': MiamiHeraldExtractor,
                      'www.foxnews.com': FoxNewsExtractor,
-
+                     'news.yahoo.com': YahooNewsExtractor,
+                     'www.msn.com/': MSNNewsExtractor,
+                     'news.msn.com': MSNNewsExtractor,
+                     'www.cbsnews.com': CBSNewsExtractor
                      }
-                     # 'abcnews.go.com',
                      # 'hosted.ap.org',
-                     # 'www.reuters.com',
                      # 'www.usatoday.com'}
