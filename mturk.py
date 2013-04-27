@@ -1,11 +1,16 @@
+#!/usr/bin/env python
+
 from boto.mturk.connection import MTurkConnection
+from M2Crypto import httpslib, SSL
 from boto.mturk.question import *
+import settings
 import boto.mturk
+import os
 
 from nltk import tokenize
 
-ACCESS_ID = 'your acces key'
-SECRET_KEY = 'your secret key'
+ACCESS_ID = ''
+SECRET_KEY = ''
 HOST = 'mechanicalturk.sandbox.amazonaws.com'
 
 RANKS = [('Most Important', 5),
@@ -20,6 +25,30 @@ class MTurkSurveyFactory:
         a set of paragraphs that are passed to it
     """
     def __init__(self):
+        pass
+
+    def submitHITs(self, mtc=None, questionForms=[], max_assignments=1,
+               title='Rank the most important sentences',
+               description='Rank the following sentences by importantce',
+               keywords='summary, survey',
+               duration=60*5,
+               reward=0.05):
+        """ Creates and submits a list of HITTS with the exact same
+            title, descriptions, durations and prices from a list of questions.
+        """
+        if mtc is None:
+            mtc = MTurkConnection(aws_access_key_id=ACCESS_ID,
+                                  aws_secret_access_key=SECRET_KEY,
+                                  host=HOST)
+
+        for questionForm in questionForms:
+            mtc.create_hit(questions=questionForm,
+                           max_assignments=max_assignments,
+                           title=title,
+                           description=description,
+                           keywords=keywords,
+                           duration=duration,
+                           reward=0.05)
         pass
 
     def buildSurvey(self, paragraphs=[]):
@@ -79,28 +108,16 @@ class MTurkSurveyFactory:
         
         return questionForms
 
-        def submitHITs(self, questionForms=[], max_assignments=1,
-                       title='Rank the most important sentences',
-                       description='Rank the following sentences by importantce',
-                       keywords='summary, survey',
-                       duration=60*5,
-                       reward=0.05):
-            """ Creates and submits a list of HITTS with the exact same
-                title, descriptions, durations and prices from a list of questions.
-            """
-            mtc = MTurkConnection(aws_access_key_id=ACCESS_ID,
-                                  aws_secret_access_key=SECRET_KEY,
-                                  host=HOST)
 
-            for questionForm in questionForms:
-                mtc.create_hit(questions=questionForm,
-                               max_assignments=max_assignments,
-                               title=title,
-                               description=description,
-                               keywords=keywords,
-                               duration=duration,
-                               reward=0.05)
-            pass
+def https_connection_factory(host, port=None, strict=0, **ssl):
+    """HTTPS connection factory that creates secure connections
+    using M2Crypto."""
+    ctx = SSL.Context('tlsv1')
+    ctx.set_verify(SSL.verify_peer | SSL.verify_fail_if_no_peer_cert, depth=9)
+    ctx.load_client_ca('cacert.pem')
+    return httpslib.HTTPSConnection(host, port=port, strict=strict,
+                                    ssl_context=ctx)
+
 
 if __name__ == "__main__":
     text = ("Two young men with backpacks walked with purpose down "
@@ -112,5 +129,13 @@ if __name__ == "__main__":
     url = "http://www.cnn.com/2013/04/21/us/boston-week-review/?hpt=hp_t1"
     
     fact = MTurkSurveyFactory()
-    fact.buildSurvey([[url, title, text]])
+    questionForms = fact.buildSurvey([[url, title, text]])
+    print 'getting account balance'
+    
+    mtc = MTurkConnection(aws_access_key_id=ACCESS_ID,
+                         aws_secret_access_key=SECRET_KEY,
+                         host=HOST, is_secure=True,
+                         https_connection_factory=(https_connection_factory, ()))
+    fact.submitHITs(mtc=mtc, questionForms=questionForms)
+    print mtc.get_account_balance()
     
