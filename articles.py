@@ -1,14 +1,15 @@
 #mississippi ricin arrest
 mississippi = ['http://www.cnn.com/2013/04/27/justice/ricin-investigation/index.html?hpt=hp_t1',
-			   'http://www.nytimes.com/2013/04/28/us/mississippi-man-arrested-in-sending-of-letters-laced-with-ricin.html?_r=0',
-			   'http://www.latimes.com/news/nationworld/nation/la-naw-ricin-suspect-arrested-20130427,0,5431467.story',
-			   'http://www.foxnews.com/us/2013/04/27/miss-man-arrested-in-investigation-into-poisoned-letters-sent-to-president/',
-			   'http://news.yahoo.com/mississippi-man-targeted-ricin-letters-investigation-arrested-145219248.html',
-			   'http://news.msn.com/crime-justice/mississippi-man-arrested-in-ricin-letters-probe',
-			   'http://www.miamiherald.com/2013/04/26/3366796/man-named-in-ricin-mailing-case.html',
-			   'http://www.washingtonpost.com/national/fbi-miss-man-arrested-in-investigation-into-poisoned-letters-sent-to-president-others/2013/04/27/64a7324a-af4d-11e2-b59e-adb43da03a8a_story.html',
-			   '',
-			   '',]
+		'http://www.nytimes.com/2013/04/28/us/mississippi-man-arrested-in-sending-of-letters-laced-with-ricin.html?_r=0',
+		'http://www.latimes.com/news/nationworld/nation/la-naw-ricin-suspect-arrested-20130427,0,5431467.story',
+		'http://www.foxnews.com/us/2013/04/27/miss-man-arrested-in-investigation-into-poisoned-letters-sent-to-president/',
+		'http://news.yahoo.com/mississippi-man-targeted-ricin-letters-investigation-arrested-145219248.html',
+		'http://news.msn.com/crime-justice/mississippi-man-arrested-in-ricin-letters-probe',
+		'http://www.miamiherald.com/2013/04/26/3366796/man-named-in-ricin-mailing-case.html',
+		'http://www.washingtonpost.com/national/fbi-miss-man-arrested-in-investigation-into-poisoned-letters-sent-to-president-others/2013/04/27/64a7324a-af4d-11e2-b59e-adb43da03a8a_story.html',
+		'',
+		''
+	      ]
 
 #boston bomber miranda rights issue
 boston_miranda = ['http://www.foxnews.com/us/2013/04/25/officials-says-boston-bombing-suspect-described-terror-plot-before-miranda/',
@@ -20,7 +21,7 @@ boston_miranda = ['http://www.foxnews.com/us/2013/04/25/officials-says-boston-bo
                   '',
                   '',
                   '',
-                  '',
+                  ''
                  ]
 
 
