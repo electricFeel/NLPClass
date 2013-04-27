@@ -102,7 +102,7 @@ class WashingtonPostArticleExtractor(ArticleExtractor):
 
 
 class CNNArticleExtractor(ArticleExtractor):
-    """ washingtonpost.com Article Extractor """
+    """ cnn.com Article Extractor """
     def article(self):
         soup = BeautifulSoup(self.raw_text)
 
