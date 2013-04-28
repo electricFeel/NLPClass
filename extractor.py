@@ -224,8 +224,6 @@ class CBSNewsExtractor(ArticleExtractor):
         title = soup.find("div", {"id": "contentMain"}).select('h1')
         paragraphs = soup.select(".storyText p")
 
-        print title
-        print paragraphs
         if len(title) == 0 or len(paragraphs) == 0:
             raise ArticleNotParsable()
 
@@ -235,6 +233,44 @@ class CBSNewsExtractor(ArticleExtractor):
         article['paragraphs'] = map(clean_html, paragraphs)
 
         return article
+
+
+class APExtractor(ArticleExtractor):
+    """nbcnews.com extractor"""
+    def article(self):
+        soup = BeautifulSoup(self.raw_text)
+
+        title = soup.select(".entry-title")  # title is the first item
+        paragraphs = soup.select(".entry-content p")
+
+        if len(title) == 0 or len(paragraphs) == 0:
+            raise ArticleNotParsable()
+
+        article = dict()
+
+        article['title'] = clean_html(title[0])
+        article['paragraphs'] = map(clean_html, paragraphs)
+
+        return article
+
+
+class USATodayExtractor(ArticleExtractor):
+    def article(self):
+        soup = BeautifulSoup(self.raw_text)
+
+        title = soup.find_all(itemprop="headline")
+        paragraphs = soup.select("[itemprop=articleBody] > p")
+
+        if len(title) == 0 or len(paragraphs) == 0:
+            raise ArticleNotParsable()
+
+        article = dict()
+
+        article['title'] = clean_html(title[0])
+        article['paragraphs'] = map(clean_html, paragraphs)
+
+        return article
+
 
 class ArticleNotParsable(Exception):
     """ Exception for when Article Parsing fails """
@@ -250,7 +286,8 @@ ALLOWED_HOSTNAMES = {'www.nytimes.com': NYTArticleExtractor,
                      'news.yahoo.com': YahooNewsExtractor,
                      'www.msn.com/': MSNNewsExtractor,
                      'news.msn.com': MSNNewsExtractor,
-                     'www.cbsnews.com': CBSNewsExtractor
+                     'www.cbsnews.com': CBSNewsExtractor,
+                     'bigstory.ap.org': APExtractor,
+                     'hosted.ap.org': APExtractor,
+                     'www.usatoday.com': USATodayExtractor
                      }
-                     # 'hosted.ap.org',
-                     # 'www.usatoday.com'}
