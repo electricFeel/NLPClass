@@ -236,7 +236,7 @@ class CBSNewsExtractor(ArticleExtractor):
 
 
 class APExtractor(ArticleExtractor):
-    """nbcnews.com extractor"""
+    """AP news extractor"""
     def article(self):
         soup = BeautifulSoup(self.raw_text)
 
@@ -255,6 +255,7 @@ class APExtractor(ArticleExtractor):
 
 
 class USATodayExtractor(ArticleExtractor):
+    """USAToday.com extractor"""
     def article(self):
         soup = BeautifulSoup(self.raw_text)
 
