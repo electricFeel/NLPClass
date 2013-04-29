@@ -1,15 +1,15 @@
 #mississippi ricin arrest
 mississippi = ['http://www.cnn.com/2013/04/27/justice/ricin-investigation/index.html?hpt=hp_t1',
-		'http://www.nytimes.com/2013/04/28/us/mississippi-man-arrested-in-sending-of-letters-laced-with-ricin.html?_r=0',
-		'http://www.latimes.com/news/nationworld/nation/la-naw-ricin-suspect-arrested-20130427,0,5431467.story',
-		'http://www.foxnews.com/us/2013/04/27/miss-man-arrested-in-investigation-into-poisoned-letters-sent-to-president/',
-		'http://news.yahoo.com/mississippi-man-targeted-ricin-letters-investigation-arrested-145219248.html',
-		'http://news.msn.com/crime-justice/mississippi-man-arrested-in-ricin-letters-probe',
-		'http://www.miamiherald.com/2013/04/26/3366796/man-named-in-ricin-mailing-case.html',
-		'http://www.washingtonpost.com/national/fbi-miss-man-arrested-in-investigation-into-poisoned-letters-sent-to-president-others/2013/04/27/64a7324a-af4d-11e2-b59e-adb43da03a8a_story.html',
-		'',
-		''
-	      ]
+               'http://www.nytimes.com/2013/04/28/us/mississippi-man-arrested-in-sending-of-letters-laced-with-ricin.html?_r=0',
+               'http://www.latimes.com/news/nationworld/nation/la-naw-ricin-suspect-arrested-20130427,0,5431467.story',
+               'http://www.foxnews.com/us/2013/04/27/miss-man-arrested-in-investigation-into-poisoned-letters-sent-to-president/',
+               'http://news.yahoo.com/mississippi-man-targeted-ricin-letters-investigation-arrested-145219248.html',
+               'http://news.msn.com/crime-justice/mississippi-man-arrested-in-ricin-letters-probe',
+               'http://www.miamiherald.com/2013/04/26/3366796/man-named-in-ricin-mailing-case.html',
+               'http://www.washingtonpost.com/national/fbi-miss-man-arrested-in-investigation-into-poisoned-letters-sent-to-president-others/2013/04/27/64a7324a-af4d-11e2-b59e-adb43da03a8a_story.html',
+               '',
+               ''
+               ]
 
 #boston bomber miranda rights issue
 boston_miranda = ['http://www.foxnews.com/us/2013/04/25/officials-says-boston-bombing-suspect-described-terror-plot-before-miranda/',
@@ -22,6 +22,30 @@ boston_miranda = ['http://www.foxnews.com/us/2013/04/25/officials-says-boston-bo
                   '',
                   '',
                   ''
-                 ]
+                  ]
 
+# bangladesh building collapse
+bangladesh = ['http://www.cnn.com/2013/04/28/world/asia/bangladesh-building-collapse/index.html?hpt=hp_inthenews',
+              'http://abcnews.go.com/Business/wireStory/factories-inside-collapsed-building-bangladesh-19047503',
+              'http://www.nytimes.com/2013/04/29/world/asia/after-building-collapse-tears-and-rage-as-hope-fades-in-bangladesh.html?hp&_r=1&gwh=EF06AB4121AC70EDCA1B39657056B15A&&pagewanted=all',
+              'http://www.foxnews.com/world/2013/04/28/bangladesh-building-collapse-death-toll-exceeds-350/?test=latestnews',
+              'http://news.yahoo.com/owner-collapsed-building-captured-bangladesh-184621056.html',
+              'http://bigstory.ap.org/article/toll-bangladesh-building-collapse-climbs-290',
+              'http://www.latimes.com/news/world/worldnow/la-fg-wn-bangladesh-building-owner-arrested-20130428,0,5243745.story',
+              'http://www.miamiherald.com/2013/04/26/3365871/factories-inside-collapsed-building.html',
+              'http://news.msn.com/world/fire-at-collapsed-bangladesh-building-owner-is-arrested',
+              'http://www.cbsnews.com/8301-202_162-57581786/bangladesh-collapse-woman-dies-when-fire-disrupts-rescue'
+              ]
 
+# syria chemical weapons
+syria = ['http://www.cnn.com/2013/04/25/world/meast/syria-civil-war/index.html',
+         'http://news.yahoo.com/lawmakers-syria-chemical-weapons-could-menace-us-154735931.html',
+         'http://www.washingtonpost.com/world/middle_east/alleged-chemical-arms-use-in-syria-appears-to-fit-pattern-of-gradual-introduction-of-weapons/2013/04/28/306e5dc8-b038-11e2-9fb1-62de9581c946_story.html',
+         'http://www.usatoday.com/story/news/world/2013/04/26/syria-chemical-weapons/2115189/',
+         'http://www.nytimes.com/2013/04/26/world/middleeast/us-says-it-suspects-assad-used-chemical-weapons.html?pagewanted=all',
+         'http://www.latimes.com/news/world/worldnow/la-fg-wn-chemical-syria-20130428,0,4685355.story',
+         '',
+         '',
+         '',
+         ''
+         ]
