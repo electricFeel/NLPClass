@@ -85,6 +85,24 @@ jason_collins = ['http://www.cnn.com/2013/04/29/sport/collins-gay/index.html?hpt
                  'http://www.miamiherald.com/2013/04/29/3370838/nba-veteran-jason-collins-comes.html',
                  'http://www.latimes.com/local/lanow/la-me-ln-jason-collins-gay-20130429,0,6662860.story']
 
+#american held in north korea
+american_held_nk = ['http://www.foxnews.com/politics/2013/04/29/us-urges-nkorea-to-release-detained-american/?test=latestnews',
+                    'http://www.reuters.com/article/2013/04/27/us-korea-north-bae-idUSBRE93Q01H20130427',
+                    'http://www.cnn.com/2013/04/29/world/asia/north-korea-us-trial/',
+                    'http://www.nytimes.com/2013/04/28/world/asia/north-korea-expected-to-charge-american.html',
+                    'http://www.washingtonpost.com/world/asia_pacific/n-korea-says-detained-american-will-soon-face-trial/2013/04/27/47a48818-af12-11e2-8bf6-e70cb6ae066e_story.html',
+                    'http://www.latimes.com/news/world/worldnow/la-fg-wn-us-citizen-to-be-tried-in-north-korea-20130427,0,5064114.story',
+                    'http://news.yahoo.com/north-korea-says-american-tourist-holding-face-trial-035954456.html']
+
+#fight on everest
+sherpa_fight = ['http://www.cnn.com/2013/04/29/world/asia/nepal-mount-everest-fight/index.html',
+                'http://www.foxnews.com/world/2013/04/29/nepal-investigating-reports-fight-between-foreign-climbers-and-sherpas-on-mount/',
+                'http://abcnews.go.com/blogs/headlines/2013/04/climbers-abandon-mount-everest-expedition-after-brawling-with-sherpas/',
+                'http://news.msn.com/world/sherpas-attack-everest-climbers-at-23000-feet-up',
+                'http://news.yahoo.com/nepal-officials-vow-ensure-security-everest-fight-113033979.html',
+                'http://www.washingtonpost.com/world/asia_pacific/nepalese-officials-investing-reports-of-fight-between-3-foreign-climbers-and-guides-on-everest/2013/04/29/2cffd01e-b087-11e2-9fb1-62de9581c946_story.html'
+                ]
+
 if __name__=="__main__":
     print 'hello'
     total = []
@@ -97,4 +115,6 @@ if __name__=="__main__":
     total.extend(virgin_galactic)
     total.extend(michigan)
     total.extend(jason_collins)
+    total.extend(american_held_nk)
+    total.extend(sherpa_fight)
     print len(total)
