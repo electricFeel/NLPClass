@@ -103,6 +103,15 @@ sherpa_fight = ['http://www.cnn.com/2013/04/29/world/asia/nepal-mount-everest-fi
                 'http://www.washingtonpost.com/world/asia_pacific/nepalese-officials-investing-reports-of-fight-between-3-foreign-climbers-and-guides-on-everest/2013/04/29/2cffd01e-b087-11e2-9fb1-62de9581c946_story.html'
                 ]
 
+faa_furloughs = ['http://www.cnn.com/2013/04/27/politics/faa-legislation/index.html?hpt=hp_bn10',
+                 'http://www.foxnews.com/politics/2013/04/26/house-passes-bill-to-end-faa-furloughs-now-goes-to-obama-to-sign/',
+                 'http://www.cbsnews.com/8301-250_162-57581612/faa-furlough-fix-good-news-but-a-band-aid-w.h-says/',
+                 'http://www.latimes.com/business/money/la-fi-mo-furloughs-faa-airports-20130429,0,4983174.story',
+                 'http://www.washingtonpost.com/local/trafficandcommuting/congress-sends-obama-bill-to-end-delays/2013/04/26/27f94706-ae81-11e2-a986-eec837b1888b_story.html',
+                 'http://www.washingtonpost.com/blogs/the-fix/wp/2013/04/29/republicans-even-out-sequester-blame-game-with-faa-furloughs/',
+                 'http://www.nytimes.com/2013/04/24/us/politics/furloughs-caused-1200-flight-delays-on-monday-faa-says.html',
+                 'http://articles.latimes.com/2013/apr/24/business/la-fi-furlough-delays-20130424']
+
 if __name__=="__main__":
     print 'hello'
     total = []
@@ -117,4 +126,5 @@ if __name__=="__main__":
     total.extend(jason_collins)
     total.extend(american_held_nk)
     total.extend(sherpa_fight)
+    total.extend(faa_furloughs)
     print len(total)
