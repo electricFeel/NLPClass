@@ -114,7 +114,7 @@ faa_furloughs = ['http://www.cnn.com/2013/04/27/politics/faa-legislation/index.h
                  'http://articles.latimes.com/2013/apr/24/business/la-fi-furlough-delays-20130424']
 
 if __name__=="__main__":
-    print 'hello'
+    #spit back the length.
     total = []
     total.extend(mississippi)
     total.extend(boston_miranda)
