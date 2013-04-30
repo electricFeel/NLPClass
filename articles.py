@@ -103,6 +103,7 @@ sherpa_fight = ['http://www.cnn.com/2013/04/29/world/asia/nepal-mount-everest-fi
                 'http://www.washingtonpost.com/world/asia_pacific/nepalese-officials-investing-reports-of-fight-between-3-foreign-climbers-and-guides-on-everest/2013/04/29/2cffd01e-b087-11e2-9fb1-62de9581c946_story.html'
                 ]
 
+#faa furloughs
 faa_furloughs = ['http://www.cnn.com/2013/04/27/politics/faa-legislation/index.html?hpt=hp_bn10',
                  'http://www.foxnews.com/politics/2013/04/26/house-passes-bill-to-end-faa-furloughs-now-goes-to-obama-to-sign/',
                  'http://www.cbsnews.com/8301-250_162-57581612/faa-furlough-fix-good-news-but-a-band-aid-w.h-says/',
