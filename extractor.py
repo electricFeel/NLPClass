@@ -107,7 +107,7 @@ class CNNArticleExtractor(ArticleExtractor):
         soup = BeautifulSoup(self.raw_text)
 
         title = soup.select("h1")
-        paragraphs = soup.select(".cnn_strycntntlft > p:not(.cnn_strycbftrtxt)")
+        paragraphs = soup.find_all(attrs={'class': re.compile(r".*\bcnn_storypgraphtxt\b.*")})
 
         if len(title) == 0 or len(paragraphs) == 0:
             raise ArticleNotParsable()
