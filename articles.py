@@ -16,10 +16,6 @@ boston_miranda = ['http://www.foxnews.com/us/2013/04/25/officials-says-boston-bo
                   'http://www.cbsnews.com/8301-201_162-57581382/ap-boston-marathon-bombing-suspect-dzhokhar-tsarnaev-silent-after-read-miranda-rights/',
                   'http://www.washingtonpost.com/politics/courts_law/boston-honors-slain-mit-officer-investigators-want-to-talk-to-brothers-parents-in-russia/2013/04/24/be74738e-ad3e-11e2-a8e6-b6e4cc7c49d1_story.html',
                   'http://news.msn.com/crime-justice/official-bombings-suspect-described-his-role-in-plot-before-miranda',
-                  '',
-                  '',
-                  '',
-                  ''
                   ]
 
 # bangladesh building collapse
@@ -51,9 +47,54 @@ syria = ['http://www.cnn.com/2013/04/25/world/meast/syria-civil-war/index.html',
          'http://www.washingtonpost.com/world/middle_east/alleged-chemical-arms-use-in-syria-appears-to-fit-pattern-of-gradual-introduction-of-weapons/2013/04/28/306e5dc8-b038-11e2-9fb1-62de9581c946_story.html',
          'http://www.usatoday.com/story/news/world/2013/04/26/syria-chemical-weapons/2115189/',
          'http://www.nytimes.com/2013/04/26/world/middleeast/us-says-it-suspects-assad-used-chemical-weapons.html?pagewanted=all',
-         'http://www.latimes.com/news/world/worldnow/la-fg-wn-chemical-syria-20130428,0,4685355.story',
-         '',
-         '',
-         '',
-         ''
+         'http://www.latimes.com/news/world/worldnow/la-fg-wn-chemical-syria-20130428,0,4685355.story'
          ]
+
+#spain cyberattack arrest
+spain = ['http://www.cnn.com/2013/04/28/tech/spain-internet-attack-arrest/index.html?hpt=hp_t5',
+         'http://news.yahoo.com/suspect-biggest-cyberattack-internet-history-arrested-185532752.html',
+         'http://www.washingtonpost.com/world/europe/dutch-suspect-arrested-in-spain-over-massive-cyberattack-used-well-equipped-bunker-and-van/2013/04/28/c709a3ea-aff3-11e2-9fb1-62de9581c946_story.html',
+         'http://www.nbcnews.com/id/51679327/ns/technology_and_science-tech_and_gadgets/t/suspect-behind-biggest-cyberattack-nabbed-spain/',
+         'http://articles.latimes.com/2011/jun/11/business/la-fi-spanish-hackers-20110611',
+         'http://news.msn.com/crime-justice/dutch-cyberattack-suspect-arrested-in-spain'
+         ]
+
+#virgin galactic rocket test
+virgin_galactic = ['http://www.cnn.com/2013/04/29/travel/virgin-galactic-flight/index.html?hpt=hp_t2',
+                  'http://www.foxnews.com/science/2013/04/29/virgin-galactic-spaceshiptwo-1st-powered-flight/',
+                  'http://www.latimes.com/business/money/la-fi-mo-virgin-galactic-breaks-sound-barrier-20130429,0,213618.story',
+                  'http://www.cbsnews.com/8301-505143_162-57581956/virgin-galactic-takes-supersonic-step/',
+                  'http://www.nytimes.com/2013/04/30/science/space/virgin-galactics-spaceshiptwo-inches-closer-to-space.html?_r=0',
+                  'http://www.reuters.com/article/2013/04/29/ca-virgin-galactic-idUSnBw296309a+100+BSW20130429',
+                  'http://www.nbcnews.com/id/30990271/ns/technology_and_science-space/t/virgin-galactic-completes-initial-rocket-tests/#.UX8cjCvErU4']
+
+#woman abducted in michigan
+michigan = ['http://www.cnn.com/2013/04/29/justice/michigan-woman-abducted/index.html?hpt=hp_t2',
+            'http://www.usatoday.com/videos/news/2013/04/29/2121545/',
+            'http://news.yahoo.com/mich-police-believe-gas-station-clerk-abducted-193634709.html',
+            'http://www.foxnews.com/us/2013/04/29/police-rule-out-friends-relatives-after-mich-gas-station-clerk-goes-missing-on/',
+            'http://www.miamiherald.com/2013/04/29/3371205/mich-police-believe-gas-station.html',
+            ]
+
+#Jason Collins comes out
+jason_collins = ['http://www.cnn.com/2013/04/29/sport/collins-gay/index.html?hpt=hp_t3',
+                 'http://www.usatoday.com/story/sports/nba/2013/04/29/jason-collins-mark-madsen-charles-barkley-jarron-collins-rick-welts-gay-nba-player/2122429/',
+                 'http://www.nytimes.com/2013/04/30/sports/basketball/nba-center-jason-collins-comes-out-as-gay.html?pagewanted=all',
+                 'http://www.foxnews.com/sports/2013/04/29/nba-veteran-center-jason-collins-comes-out-as-gay-in-sports-illustrated-article/',
+                 'http://www.washingtonpost.com/sports/wizards/nba-player-jason-collins-says-hes-gay/2013/04/29/3cecad00-b0f8-11e2-9a98-4be1688d7d84_story.html',
+                 'http://www.miamiherald.com/2013/04/29/3370838/nba-veteran-jason-collins-comes.html',
+                 'http://www.latimes.com/local/lanow/la-me-ln-jason-collins-gay-20130429,0,6662860.story']
+
+if __name__=="__main__":
+    print 'hello'
+    total = []
+    total.extend(mississippi)
+    total.extend(boston_miranda)
+    total.extend(bangladesh)
+    total.extend(sunil_tripathi)
+    total.extend(syria)
+    total.extend(spain)
+    total.extend(virgin_galactic)
+    total.extend(michigan)
+    total.extend(jason_collins)
+    print len(total)
