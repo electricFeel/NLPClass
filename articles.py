@@ -113,6 +113,37 @@ faa_furloughs = ['http://www.cnn.com/2013/04/27/politics/faa-legislation/index.h
                  'http://www.nytimes.com/2013/04/24/us/politics/furloughs-caused-1200-flight-delays-on-monday-faa-says.html',
                  'http://articles.latimes.com/2013/apr/24/business/la-fi-furlough-delays-20130424']
 
+# bagram afghanistan plane crash
+bagram = ['http://www.washingtonpost.com/business/us-company-ids-7-americans-killed-in-afghanistan-cargo-plane-crash-6-from-mich-1-from-ky/2013/04/30/c04d10ac-b1f4-11e2-9fb1-62de9581c946_story.html',
+          'http://abcnews.go.com/International/wireStory/aircraft-crashes-base-afghanistan-19064649',
+          'http://www.cbsnews.com/8301-202_162-57582226/dramatic-video-appears-to-show-747-crash-in-afghanistan/',
+          'http://www.cnn.com/2013/04/29/world/asia/afghanistan-plane-crash/index.html?iref=allsearch',
+          'http://www.latimes.com/business/money/la-fi-mo-bagram-747-crash-20130430,0,6744374.story',
+          ]
+
+# michael jackson death trial
+jackson = ['http://news.yahoo.com/detective-testifies-jackson-docs-money-woes-235113865.html',
+           'http://www.latimes.com/local/lanow/la-me-ln-jackson-death-20130430,0,826715.story',
+           'http://www.cnn.com/2013/04/29/showbiz/jackson-death-trial-opens/index.html?hpt=hp_inthenews',
+           'http://bigstory.ap.org/article/jackson-back-spotlight-civil-trial-begins',
+           'http://abcnews.go.com/Entertainment/opening-statements-set-begin-michael-jackson-wrong-death/story?id=19063372'
+           ]
+
+# fda approves morning-after pills
+pills = ['http://www.cnn.com/2013/04/30/health/morning-after-pill/',
+         'http://www.usatoday.com/story/news/nation/2013/04/30/fda-plan-b-over-the-counter-emergency-contraception/2125131/',
+         'http://www.nytimes.com/2013/05/01/health/fda-lowers-age-for-morning-after-pill.html',
+         'http://www.foxnews.com/politics/2013/04/30/fda-morning-after-pill-to-move-over-counter/',
+         'http://www.cbsnews.com/8301-204_162-57582218/plan-b-one-step-approved-for-use-without-a-prescription-for-women-15-and-older/',
+         ]
+
+# orange juice poisoning at starbucks
+poison = ['http://www.usatoday.com/story/money/business/2013/04/30/tainted-orange-juice/2125579/',
+          'http://www.cnn.com/2013/04/30/justice/california-starbucks-tainted-juice/index.html',
+          'http://www.cbsnews.com/8301-504083_162-57582174-504083/poisoned-o.j-placed-in-calif-starbucks-woman-arrested-police-say/',
+          'http://abcnews.go.com/blogs/headlines/2013/04/poisoned-oj-slipped-into-starbucks-cold-case/',
+          'http://www.latimes.com/local/lanow/la-me-ln-woman-tainted-juice-starbucks-20130430,0,362185.story']
+
 if __name__=="__main__":
     #spit back the length.
     total = []
@@ -128,4 +159,8 @@ if __name__=="__main__":
     total.extend(american_held_nk)
     total.extend(sherpa_fight)
     total.extend(faa_furloughs)
+    total.extend(bagram)
+    total.extend(jackson)
+    total.extend(pills)
+    total.extend(poison)
     print len(total)
