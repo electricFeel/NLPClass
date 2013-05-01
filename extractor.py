@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import settings
 from util import unshorten, clean_html
-
+import re
 import urllib
 import urllib2
 import cookielib
