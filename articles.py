@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 #mississippi ricin arrest
 mississippi = ['http://www.cnn.com/2013/04/27/justice/ricin-investigation/index.html?hpt=hp_t1',
                'http://www.nytimes.com/2013/04/28/us/mississippi-man-arrested-in-sending-of-letters-laced-with-ricin.html?_r=0',
@@ -6,7 +9,7 @@ mississippi = ['http://www.cnn.com/2013/04/27/justice/ricin-investigation/index.
                'http://news.yahoo.com/mississippi-man-targeted-ricin-letters-investigation-arrested-145219248.html',
                'http://news.msn.com/crime-justice/mississippi-man-arrested-in-ricin-letters-probe',
                'http://www.miamiherald.com/2013/04/26/3366796/man-named-in-ricin-mailing-case.html',
-               'http://www.washingtonpost.com/national/fbi-miss-man-arrested-in-investigation-into-poisoned-letters-sent-to-president-others/2013/04/27/64a7324a-af4d-11e2-b59e-adb43da03a8a_story.html',
+               'http://www.washingtonpost.com/politics/mississippi-man-suspected-in-ricin-case-has-been-arrested-fbi-says/2013/04/27/e5954196-af50-11e2-8bf6-e70cb6ae066e_story.html',
                ]
 
 #boston bomber miranda rights issue
@@ -70,7 +73,7 @@ virgin_galactic = ['http://www.cnn.com/2013/04/29/travel/virgin-galactic-flight/
 
 #woman abducted in michigan
 michigan = ['http://www.cnn.com/2013/04/29/justice/michigan-woman-abducted/index.html?hpt=hp_t2',
-            'http://www.usatoday.com/videos/news/2013/04/29/2121545/',
+            # NOT ARTICLE 'http://www.usatoday.com/videos/news/2013/04/29/2121545/',
             'http://news.yahoo.com/mich-police-believe-gas-station-clerk-abducted-193634709.html',
             'http://www.foxnews.com/us/2013/04/29/police-rule-out-friends-relatives-after-mich-gas-station-clerk-goes-missing-on/',
             'http://www.miamiherald.com/2013/04/29/3371205/mich-police-believe-gas-station.html',
@@ -144,7 +147,7 @@ poison = ['http://www.usatoday.com/story/money/business/2013/04/30/tainted-orang
           'http://abcnews.go.com/blogs/headlines/2013/04/poisoned-oj-slipped-into-starbucks-cold-case/',
           'http://www.latimes.com/local/lanow/la-me-ln-woman-tainted-juice-starbucks-20130430,0,362185.story']
 
-if __name__=="__main__":
+if __name__ == "__main__":
     #spit back the length.
     total = []
     total.extend(mississippi)
@@ -164,3 +167,25 @@ if __name__=="__main__":
     total.extend(pills)
     total.extend(poison)
     print len(total)
+
+    # testing all articles and printing the ones with error
+    import extractor, sys
+    c = 0
+    exceptions = []
+    for x in total:
+        try:
+            e = extractor.build_extractor(x)
+            e.article()
+        except:
+            c += 1
+            print '---\n%d.\n' % c
+            print x
+            print ''
+            print sys.exc_info()
+            print '---'
+
+
+    #e = extractor.build_extractor('http://www.washingtonpost.com/politics/mississippi-man-suspected-in-ricin-case-has-been-arrested-fbi-says/2013/04/27/e5954196-af50-11e2-8bf6-e70cb6ae066e_story.html')
+    #e = extractor.build_extractor('http://www.latimes.com/local/lanow/la-me-ln-woman-tainted-juice-starbucks-20130430,0,362185.story')
+    #print e.raw_text
+    # e.article()
