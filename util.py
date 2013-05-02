@@ -1,11 +1,11 @@
-import settings
+import extractor
 
-import urllib
 import urllib2
 import cookielib
 import urlparse
 import nltk.util
 import HTMLParser
+
 
 class HTTPRedirectHandler(urllib2.HTTPRedirectHandler):
     """ Handles redirects to cache redirects """
@@ -56,6 +56,7 @@ def unshorten(url):
 
 
 def is_url_allowed(url):
+    """ Checks if the URL is allowed in the application """
     parsed = urlparse.urlparse(url)
     return (parsed.hostname in extractor.ALLOWED_HOSTNAMES)
 
