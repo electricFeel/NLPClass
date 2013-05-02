@@ -7,6 +7,8 @@ Required External Libraries
 - [nltk](http://nltk.org/)
 - [tweepy](https://github.com/tweepy/tweepy)
 - [BeatifulSoup](http://www.crummy.com/software/BeautifulSoup/)
+    - [html5lib](https://pypi.python.org/pypi/html5lib)
+    - [lxml](https://pypi.python.org/pypi/lxml)
 - [M2Crypto](http://chandlerproject.org/Projects/MeTooCrypto)
 
 Settings
