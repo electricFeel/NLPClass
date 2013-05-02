@@ -1,12 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import settings
-from util import unshorten, clean_html
-import re
+from util import clean_html
 import urllib
 import urllib2
 import cookielib
 import urlparse
+import unittest
 from bs4 import BeautifulSoup
 
 
@@ -45,7 +44,7 @@ class ArticleExtractor():
         if resp.getcode() == 200:
             self.raw_text = resp.read()
         else:
-            raise Exception('Error: Fetching %s failed.' % url)
+            raise Exception('Error: Fetching %s failed.' % self.url)
 
     def article(self):
         """ Returns a dictionary with the title and paragraphs of the article """
@@ -107,7 +106,7 @@ class CNNArticleExtractor(ArticleExtractor):
         soup = BeautifulSoup(self.raw_text)
 
         title = soup.select("h1")
-        paragraphs = soup.find_all(attrs={'class': re.compile(r".*\bcnn_storypgraphtxt\b.*")})
+        paragraphs = soup.select(".cnn_storypgraphtxt")
 
         if len(title) == 0 or len(paragraphs) == 0:
             raise ArticleNotParsable()
@@ -135,8 +134,6 @@ class LATimesArticleExtractor(ArticleExtractor):
 
         article['title'] = clean_html(title[0])
         article['paragraphs'] = map(clean_html, paragraphs)
-
-        print len(paragraphs)
 
         return article
 
@@ -216,6 +213,7 @@ class MSNNewsExtractor(ArticleExtractor):
 
         return article
 
+
 class CBSNewsExtractor(ArticleExtractor):
     """nbcnews.com extractor"""
     def article(self):
@@ -273,6 +271,68 @@ class USATodayExtractor(ArticleExtractor):
         return article
 
 
+class ABCNewsExtractor(ArticleExtractor):
+    """abcnews.go.com extractor"""
+    def article(self):
+        soup = BeautifulSoup(self.raw_text)
+
+        title = soup.select("h1.pagetitle")
+        paragraphs = soup.select("#innerbody .font-toggle > p")
+
+        # other case
+        if len(title) == 0 or len(paragraphs) == 0:
+            title = soup.select("h1.headline")
+            paragraphs = soup.select("#storyText > p")
+
+            if len(title) == 0 or len(paragraphs) == 0:
+                raise ArticleNotParsable()
+
+        article = dict()
+
+        article['title'] = clean_html(title[0])
+        article['paragraphs'] = map(clean_html, paragraphs)
+
+        return article
+
+
+class ReutersExtractor(ArticleExtractor):
+    """www.reuters.com extractor"""
+    def article(self):
+        soup = BeautifulSoup(self.raw_text)
+
+        title = soup.select("#articleContent h1")
+        paragraphs = soup.select("#articleText > p")
+
+        if len(title) == 0 or len(paragraphs) == 0:
+            raise ArticleNotParsable()
+
+        article = dict()
+
+        article['title'] = clean_html(title[0])
+        article['paragraphs'] = map(clean_html, paragraphs)
+
+        return article
+
+
+class NBCNewsExtractor(ArticleExtractor):
+    """www.nbcnews.com extractor"""
+    def article(self):
+        soup = BeautifulSoup(self.raw_text)
+
+        title = soup.select("h1#headline")
+        paragraphs = soup.select(".entry-content div > p")
+
+        if len(title) == 0 or len(paragraphs) == 0:
+            raise ArticleNotParsable()
+
+        article = dict()
+
+        article['title'] = clean_html(title[0])
+        article['paragraphs'] = map(clean_html, paragraphs)
+
+        return article
+
+
 class ArticleNotParsable(Exception):
     """ Exception for when Article Parsing fails """
     pass
@@ -290,5 +350,65 @@ ALLOWED_HOSTNAMES = {'www.nytimes.com': NYTArticleExtractor,
                      'www.cbsnews.com': CBSNewsExtractor,
                      'bigstory.ap.org': APExtractor,
                      'hosted.ap.org': APExtractor,
-                     'www.usatoday.com': USATodayExtractor
+                     'www.usatoday.com': USATodayExtractor,
+                     'abcnews.go.com': ABCNewsExtractor,
+                     'www.reuters.com': ReutersExtractor,
+                     'www.nbcnews.com': NBCNewsExtractor
                      }
+
+
+class ExtractorTests(unittest.TestCase):
+    def setUp(self):
+        pass
+
+    def test_apbigstory(self):
+        """ AP bigstory """
+        self.url = 'http://bigstory.ap.org/article/toll-bangladesh-building-collapse-climbs-290'
+        self.expected_title = u'UNIDENTIFIED VICTIMS OF BANGLADESH COLLAPSE BURIED'
+        self.expected_p = u'JURAIN, Bangladesh (AP) — Dozens of Bangladeshi garment workers whose bodies were too battered or decomposed to be identified were buried in a mass funeral, a week after the eight-story building they worked in collapsed, killing at least 410 people and injuring thousands.'
+        self.general_test()
+
+    def test_abcnews(self):
+        """ ABC News """
+        self.url = 'http://abcnews.go.com/Entertainment/opening-statements-set-begin-michael-jackson-wrong-death/story?id=19063372'
+        self.expected_title = u'Lawyer: Concert Promoter Pushed Michael Jackson Despite Rx Drug Struggle'
+        self.expected_p = u"Michael Jackson's family and friends knew the King of Pop abused prescription drugs, an attorney for Jackson's mother told a Los Angeles jury today, yet the promoters of his ill-fated 2009 comeback tour denied any knowledge of it."
+        self.general_test()
+
+    def general_test(self):
+        e = build_extractor(self.url).article()
+        self.assertEqual(e.title, self.expected_title)
+        self.assertEqual(e.paragraphs[0], self.expected_p)
+
+
+if __name__ == "__main__":
+    # evalute arguments
+
+    import argparse
+
+    parser = argparse.ArgumentParser(description='Extract articles. Prints 1st paragraph by default.')
+
+    parser.add_argument('url', metavar='URL', nargs='?',
+                        help='url of the article')
+
+    parser.add_argument('-f', action='store_true',
+                        help='prints full text')
+
+    parser.add_argument('--test', action='store_true',
+                        help='called to test the extractor unit tests')
+
+    args = parser.parse_args()
+
+    # executes script
+    if args.test:
+        unittest.main()
+
+    elif args.url:
+        a = build_extractor(args.url).article()
+        if args.f:
+            print '# Title: \n\n%s\n\n# Text:\n\n%s' % (a['title'], '\n\n'.join(a['paragraphs']))
+        else:
+            print '# Title: \n\n%s\n\n# 1st Paragraph:\n\n%s' % (a['title'], a['paragraphs'][0])
+
+    else:
+        parser.print_help()
