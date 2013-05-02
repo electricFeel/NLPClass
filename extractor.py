@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-from util import clean_html
+from util import clean_html, is_url_allowed
 import urllib
 import urllib2
 import cookielib
@@ -11,16 +11,20 @@ from bs4 import BeautifulSoup
 
 def build_extractor(url):
     parsed = urlparse.urlparse(url)
-    extractor_cls = ALLOWED_HOSTNAMES.get(parsed.hostname, ArticleExtractor(url))
-    return extractor_cls(url)
+    if parsed.hostname in ALLOWED_HOSTNAMES:
+        extractor_cls = ALLOWED_HOSTNAMES.get(parsed.hostname)
+        return extractor_cls(url)
+    else:
+        raise DomainNotAllowed()
 
 
 class ArticleExtractor():
     """ Base Class for Article Text Extraction """
 
     def __init__(self, url):
+        self.html_parser = 'html5lib'
         self.cj = cookielib.CookieJar()
-        self.url = url
+        self.url = url.strip()
 
         # opener
         self.opener = urllib2.build_opener(urllib2.HTTPRedirectHandler(),
@@ -48,7 +52,21 @@ class ArticleExtractor():
 
     def article(self):
         """ Returns a dictionary with the title and paragraphs of the article """
-        raise NotImplementedError()
+        self.soup = BeautifulSoup(self.raw_text, self.html_parser)
+
+        self._article()
+
+        if len(self._title) == 0 or len(self._paragraphs) == 0:
+            raise ArticleNotParsable()
+
+        article = dict()
+
+        article['title'] = clean_html(self._title[0])
+
+        # clean html and remove blank paragaphs
+        article['paragraphs'] = filter(bool, map(clean_html, self._paragraphs))
+
+        return article
 
 
 class NYTArticleExtractor(ArticleExtractor):
@@ -64,273 +82,124 @@ class NYTArticleExtractor(ArticleExtractor):
 
         ArticleExtractor.__init__(self, url)
 
-    def article(self):
-        soup = BeautifulSoup(self.raw_text)
-
-        title = soup.find_all(itemprop="headline")
-        paragraphs = soup.find_all(itemprop="articleBody")
-
-        if len(title) == 0 or len(paragraphs) == 0:
-            raise ArticleNotParsable()
-
-        article = dict()
-
-        article['title'] = clean_html(title[0])
-        article['paragraphs'] = map(clean_html, paragraphs)
-
-        return article
+    def _article(self):
+        self._title = self.soup.find_all(itemprop="headline")
+        self._paragraphs = self.soup.find_all(itemprop="articleBody")
 
 
 class WashingtonPostArticleExtractor(ArticleExtractor):
     """ washingtonpost.com Article Extractor """
-    def article(self):
-        soup = BeautifulSoup(self.raw_text)
+    def _article(self):
+        self._title = self.soup.select("h1[property=dc.title]")
+        self._paragraphs = self.soup.select(".article_body p")
 
-        title = soup.select("h1[property=dc.title]")
-        paragraphs = soup.select(".article_body p")
-
-        if len(title) == 0 or len(paragraphs) == 0:
-            raise ArticleNotParsable()
-
-        article = dict()
-
-        article['title'] = clean_html(title[0])
-        article['paragraphs'] = map(clean_html, paragraphs)
-
-        return article
+        # other case (blogs)
+        if len(self._title) == 0 or len(self._paragraphs) == 0:
+            self._title = self.soup.select("h1.entry-title")
+            self._paragraphs = self.soup.select(".entry-content > p")
 
 
 class CNNArticleExtractor(ArticleExtractor):
     """ cnn.com Article Extractor """
-    def article(self):
-        soup = BeautifulSoup(self.raw_text)
-
-        title = soup.select("h1")
-        paragraphs = soup.select(".cnn_storypgraphtxt")
-
-        if len(title) == 0 or len(paragraphs) == 0:
-            raise ArticleNotParsable()
-
-        article = dict()
-
-        article['title'] = clean_html(title[0])
-        article['paragraphs'] = map(clean_html, paragraphs)
-
-        return article
+    def _article(self):
+        self._title = self.soup.select("h1")
+        self._paragraphs = self.soup.select(".cnn_storypgraphtxt")
 
 
 class LATimesArticleExtractor(ArticleExtractor):
     """ LATimes.com article extractor"""
-    def article(self):
-        soup = BeautifulSoup(self.raw_text)
+    def _article(self):
+        self._title = self.soup.select(".story h1")
+        self._paragraphs = self.soup.select("#story-body-text p")
 
-        title = soup.select("title")
-        paragraphs = soup.find("div", {"id": "story-body-text"}).select('p')
-
-        if len(title) == 0 or len(paragraphs) == 0:
-            raise ArticleNotParsable()
-
-        article = dict()
-
-        article['title'] = clean_html(title[0])
-        article['paragraphs'] = map(clean_html, paragraphs)
-
-        return article
+        # other case (articles.latimes)
+        if len(self._title) == 0 or len(self._paragraphs) == 0:
+            self._title = self.soup.select("h1")
+            self._paragraphs = self.soup.select("#area-article-first-block p") + self.soup.select("#mod-a-body-after-first-para p")
 
 
 class MiamiHeraldExtractor(ArticleExtractor):
     """ MiamiHerald.com extractor"""
-    def article(self):
-        soup = BeautifulSoup(self.raw_text)
-
-        title = soup.select("title")
-        paragraphs = soup.select(".entry-content p")
-
-        if len(title) == 0 or len(paragraphs) == 0:
-            raise ArticleNotParsable()
-
-        article = dict()
-
-        article['title'] = clean_html(title[0])
-        article['paragraphs'] = map(clean_html, paragraphs)
-
-        return article
+    def _article(self):
+        self._title = self.soup.select("title")
+        self._paragraphs = self.soup.select(".entry-content p")
 
 
 class FoxNewsExtractor(ArticleExtractor):
     """FoxNews.com Extractor"""
-    def article(self):
-        soup = BeautifulSoup(self.raw_text)
-
-        title = soup.select("title")
-        paragraphs = soup.select(".article-text p")
-
-        if len(title) == 0 or len(paragraphs) == 0:
-            raise ArticleNotParsable()
-
-        article = dict()
-
-        article['title'] = clean_html(title[0])
-        article['paragraphs'] = map(clean_html, paragraphs)
-
-        return article
+    def _article(self):
+        self._title = self.soup.select("title")
+        self._paragraphs = self.soup.select(".article-text p")
 
 
 class YahooNewsExtractor(ArticleExtractor):
     """news.yahoo.com extractor"""
-    def article(self):
-        soup = BeautifulSoup(self.raw_text)
-
-        title = soup.select("title")
-        paragraphs = soup.find("div", {"id": "mediaarticlebody"}).select('p')
-
-        if len(title) == 0 or len(paragraphs) == 0:
-            raise ArticleNotParsable()
-
-        article = dict()
-
-        article['title'] = clean_html(title[0])
-        article['paragraphs'] = map(clean_html, paragraphs)
-
-        return article
+    def _article(self):
+        self._title = self.soup.select("title")
+        self._paragraphs = self.soup.find("div", {"id": "mediaarticlebody"}).select('p')
 
 
 class MSNNewsExtractor(ArticleExtractor):
     """msnnews.com extractor"""
-    def article(self):
-        soup = BeautifulSoup(self.raw_text)
-
-        title = soup.select(".articlecontent h1")
-        paragraphs = soup.select(".articlecontent p")
-
-        if len(title) == 0 or len(paragraphs) == 0:
-            raise ArticleNotParsable()
-
-        article = dict()
-
-        article['title'] = clean_html(title[0])
-        article['paragraphs'] = map(clean_html, paragraphs)
-
-        return article
+    def _article(self):
+        self._title = self.soup.select(".articlecontent h1")
+        self._paragraphs = self.soup.select(".articlecontent p")
 
 
 class CBSNewsExtractor(ArticleExtractor):
     """nbcnews.com extractor"""
-    def article(self):
-        soup = BeautifulSoup(self.raw_text)
+    def _article(self):
+        self._title = self.soup.select("#contentBody h1")
+        self._paragraphs = self.soup.select(".storyText p")
 
-        title = soup.find("div", {"id": "contentMain"}).select('h1')
-        paragraphs = soup.select(".storyText p")
-
-        if len(title) == 0 or len(paragraphs) == 0:
-            raise ArticleNotParsable()
-
-        article = dict()
-
-        article['title'] = clean_html(title[0])
-        article['paragraphs'] = map(clean_html, paragraphs)
-
-        return article
+        # other case (blogs)
+        if len(self._paragraphs) == 0:
+            self._paragraphs = self.soup.select("#contentBody .postBody > p")
 
 
 class APExtractor(ArticleExtractor):
     """AP news extractor"""
-    def article(self):
-        soup = BeautifulSoup(self.raw_text)
-
-        title = soup.select(".entry-title")  # title is the first item
-        paragraphs = soup.select(".entry-content p")
-
-        if len(title) == 0 or len(paragraphs) == 0:
-            raise ArticleNotParsable()
-
-        article = dict()
-
-        article['title'] = clean_html(title[0])
-        article['paragraphs'] = map(clean_html, paragraphs)
-
-        return article
+    def _article(self):
+        self._title = self.soup.select(".entry-title")  # title is the first item
+        self._paragraphs = self.soup.select(".entry-content p")
 
 
 class USATodayExtractor(ArticleExtractor):
     """USAToday.com extractor"""
-    def article(self):
-        soup = BeautifulSoup(self.raw_text)
-
-        title = soup.find_all(itemprop="headline")
-        paragraphs = soup.select("[itemprop=articleBody] > p")
-
-        if len(title) == 0 or len(paragraphs) == 0:
-            raise ArticleNotParsable()
-
-        article = dict()
-
-        article['title'] = clean_html(title[0])
-        article['paragraphs'] = map(clean_html, paragraphs)
-
-        return article
+    def _article(self):
+        self._title = self.soup.find_all(itemprop="headline")
+        self._paragraphs = self.soup.select("[itemprop=articleBody] > p")
 
 
 class ABCNewsExtractor(ArticleExtractor):
     """abcnews.go.com extractor"""
-    def article(self):
-        soup = BeautifulSoup(self.raw_text)
-
-        title = soup.select("h1.pagetitle")
-        paragraphs = soup.select("#innerbody .font-toggle > p")
+    def _article(self):
+        self._title = self.soup.select("h1.pagetitle")
+        self._paragraphs = self.soup.select("#innerbody .font-toggle > p")
 
         # other case
-        if len(title) == 0 or len(paragraphs) == 0:
-            title = soup.select("h1.headline")
-            paragraphs = soup.select("#storyText > p")
-
-            if len(title) == 0 or len(paragraphs) == 0:
-                raise ArticleNotParsable()
-
-        article = dict()
-
-        article['title'] = clean_html(title[0])
-        article['paragraphs'] = map(clean_html, paragraphs)
-
-        return article
+        if len(self._title) == 0 or len(self._paragraphs) == 0:
+            self._title = self.soup.select("h1.headline")
+            self._paragraphs = self.soup.select("#storyText > p")
 
 
 class ReutersExtractor(ArticleExtractor):
     """www.reuters.com extractor"""
-    def article(self):
-        soup = BeautifulSoup(self.raw_text)
+    def __init__(self, url):
+        """ Reuteurs HTML requires a different parser not to break """
+        ArticleExtractor.__init__(self, url)
+        self.html_parser = 'html.parser'
 
-        title = soup.select("#articleContent h1")
-        paragraphs = soup.select("#articleText > p")
-
-        if len(title) == 0 or len(paragraphs) == 0:
-            raise ArticleNotParsable()
-
-        article = dict()
-
-        article['title'] = clean_html(title[0])
-        article['paragraphs'] = map(clean_html, paragraphs)
-
-        return article
+    def _article(self):
+        self._title = self.soup.select("h1")
+        self._paragraphs = self.soup.select("#articleText > p")
 
 
 class NBCNewsExtractor(ArticleExtractor):
     """www.nbcnews.com extractor"""
-    def article(self):
-        soup = BeautifulSoup(self.raw_text)
-
-        title = soup.select("h1#headline")
-        paragraphs = soup.select(".entry-content div > p")
-
-        if len(title) == 0 or len(paragraphs) == 0:
-            raise ArticleNotParsable()
-
-        article = dict()
-
-        article['title'] = clean_html(title[0])
-        article['paragraphs'] = map(clean_html, paragraphs)
-
-        return article
+    def _article(self):
+        self._title = self.soup.select("h1#headline")
+        self._paragraphs = self.soup.select(".entry-content div > p")
 
 
 class ArticleNotParsable(Exception):
@@ -338,10 +207,16 @@ class ArticleNotParsable(Exception):
     pass
 
 
+class DomainNotAllowed(Exception):
+    """ Exception for when the Domain of the artcile is not parsable """
+    pass
+
+
 ALLOWED_HOSTNAMES = {'www.nytimes.com': NYTArticleExtractor,
                      'www.cnn.com': CNNArticleExtractor,
                      'www.washingtonpost.com': WashingtonPostArticleExtractor,
                      'www.latimes.com': LATimesArticleExtractor,
+                     'articles.latimes.com': LATimesArticleExtractor,
                      'www.miamiherald.com': MiamiHeraldExtractor,
                      'www.foxnews.com': FoxNewsExtractor,
                      'news.yahoo.com': YahooNewsExtractor,
