@@ -22,7 +22,8 @@ boston_miranda = ['http://www.foxnews.com/us/2013/04/25/officials-says-boston-bo
                   ]
 
 # bangladesh building collapse
-bangladesh = ['http://www.cnn.com/2013/04/28/world/asia/bangladesh-building-collapse/index.html?hpt=hp_inthenews',
+bangladesh = [
+#'http://www.cnn.com/2013/04/28/world/asia/bangladesh-building-collapse/index.html?hpt=hp_inthenews',
               'http://abcnews.go.com/Business/wireStory/factories-inside-collapsed-building-bangladesh-19047503',
               'http://www.nytimes.com/2013/04/29/world/asia/after-building-collapse-tears-and-rage-as-hope-fades-in-bangladesh.html?hp&_r=1&gwh=EF06AB4121AC70EDCA1B39657056B15A&&pagewanted=all',
               'http://www.foxnews.com/world/2013/04/28/bangladesh-building-collapse-death-toll-exceeds-350/?test=latestnews',

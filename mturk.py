@@ -6,12 +6,13 @@ from boto.mturk.question import *
 import settings
 import boto.mturk
 import os
+import datetime
 
 from nltk import tokenize
 
 ACCESS_ID = ''
 SECRET_KEY = ''
-HOST = 'mechanicalturk.sandbox.amazonaws.com'
+HOST = 'mechanicalturk.amazonaws.com'
 
 RANKS = [('Most Important', 5),
          ('Very Important', 4),
@@ -27,12 +28,12 @@ class MTurkSurveyFactory:
     def __init__(self):
         pass
 
-    def submitHITs(self, mtc=None, questionForms=[], max_assignments=1,
-               title='Rank the most important sentences',
-               description='Rank the following sentences by importantce',
-               keywords='summary, survey',
-               duration=60*5,
-               reward=0.05):
+    def submitHITs(self, mtc=None, questionForms=[], max_assignments=5,
+                   title='Rank the most important sentences',
+                   description='Rank the following sentences by importance',
+                   keywords='summary, survey',
+                   duration=60*5,
+                   reward=0.05):
         """ Creates and submits a list of HITTS with the exact same
             title, descriptions, durations and prices from a list of questions.
         """
@@ -42,12 +43,14 @@ class MTurkSurveyFactory:
                                   host=HOST)
 
         for questionForm in questionForms:
-            mtc.create_hit(questions=questionForm,
+            mtc.create_hit(questions=questionForm[1],
                            max_assignments=max_assignments,
                            title=title,
                            description=description,
                            keywords=keywords,
-                           duration=duration,
+                           duration=60*60*12,
+                           approval_delay=1,
+                           annotation=questionForm[0],
                            reward=0.05)
         pass
 
@@ -82,12 +85,13 @@ class MTurkSurveyFactory:
             item_id = item[0]
             article_title = item[1]
             raw_text = item[2]
-            sentences = tokenize.sent_tokenize(text)
+            sentences = tokenize.sent_tokenize(raw_text)
             questionForm = QuestionForm()
 
             overview = Overview()
             overview.append_field('Title', 'Please ranks the sentences in the text by how important they are')
             overview.append_field('Text', raw_text)
+            overview.append_field
             questionForm.append(overview)
             #we need to create a seperate ranking question for each
             #sentence
@@ -104,7 +108,7 @@ class MTurkSurveyFactory:
                               answer_spec=AnswerSpecification(sla),
                               is_required=True)
                 questionForm.append(q1)
-            questionForms.append(questionForm)
+            questionForms.append([item_id, questionForm])
         
         return questionForms
 
@@ -118,8 +122,7 @@ def https_connection_factory(host, port=None, strict=0, **ssl):
     return httpslib.HTTPSConnection(host, port=port, strict=strict,
                                     ssl_context=ctx)
 
-
-if __name__ == "__main__":
+def test():
     text = ("Two young men with backpacks walked with purpose down "
             "Boylston Street Monday afternoon, weaving through the "
             "crowd on the sidelines of the Boston Marathon. It seemed "
@@ -138,4 +141,6 @@ if __name__ == "__main__":
                          https_connection_factory=(https_connection_factory, ()))
     fact.submitHITs(mtc=mtc, questionForms=questionForms)
     print mtc.get_account_balance()
-    
+
+if __name__ == "__main__":
+  test()
