@@ -148,6 +148,31 @@ poison = ['http://www.usatoday.com/story/money/business/2013/04/30/tainted-orang
           'http://abcnews.go.com/blogs/headlines/2013/04/poisoned-oj-slipped-into-starbucks-cold-case/',
           'http://www.latimes.com/local/lanow/la-me-ln-woman-tainted-juice-starbucks-20130430,0,362185.story']
 
+total = dict()
+total['mississippi'] = mississippi
+total['boston_miranda'] = boston_miranda
+total['bangladesh'] = bangladesh
+total['sunil_tripathi'] = sunil_tripathi
+total['syria'] = syria
+total['spain'] = spain
+total['virgin_galactic'] = virgin_galactic
+total['michigan'] = michigan
+total['jason_collins'] = jason_collins
+total['american_held_nk'] = american_held_nk
+total['sherpa_fight'] = sherpa_fight
+total['faa_furloughs'] = faa_furloughs
+total['bagram'] = bagram
+total['jackson'] = jackson
+total['pills'] = pills
+total['poison'] = poison
+
+total_cat = dict()
+for cat_name, cat in total.iteritems():
+    for item in cat:
+        total_cat[item] = cat_name
+
+print total_cat
+
 if __name__ == "__main__":
     #spit back the length.
     total = []
