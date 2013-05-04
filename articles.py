@@ -171,8 +171,6 @@ for cat_name, cat in total.iteritems():
     for item in cat:
         total_cat[item] = cat_name
 
-print total_cat
-
 if __name__ == "__main__":
     #spit back the length.
     total = []
