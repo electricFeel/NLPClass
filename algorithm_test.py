@@ -11,35 +11,39 @@ import pickle
 pp = pprint.PrettyPrinter(indent=4)
 
 class Topic:
+    """ A topic is a single \"trending\" topic. Each topic
+        is made of multiple documents. """
     def __init__(self, topic):
         self.topic = topic
         self.documents = []
 
     def add_document(self, url):
+        """ Adds a document to the topic list"""
         article = build_extractor(url).article()
         doc = Document(article)
-
-        print len(doc.begining)
-        print '----b----'
-        print doc.begining
-        print '----m----'
-        print doc.middle
-        print '----e----'
-        print doc.end
-        print '------------'
-
         self.documents.append(doc)
+
+    def summarize(self):
+        pass
+
 
 
 class Document:
+    """ Represents a single document (a single extracted page split into 
+        sections. A first begining, middle, end.
+    """
+    stopwords = nltk.corpus.stopwords.words('english')
+    lemtzr = WordNetLemmatizer()
+
     def __init__(self, document):
         self.paragraphs = document['paragraphs']
         self.title = document['title']
         self.split_sections()
 
     def split_sections(self):
-        self.begining = get_first_paragraph(self.paragraphs,
-                                            self.paragraphs[0])
+        self.begining = get_first_paragraph(self.paragraphs[1:len(self.paragraphs)-1],
+                                           [tokenize.sent_tokenize(self.paragraphs[0])])
+
         self.end = self.paragraphs[-1]
 
         start_index = 1
@@ -59,23 +63,53 @@ class Document:
             self.middle += ' '
             self.middle += self.paragraphs[x]
 
+        self.middle = nltk.tokenize.sent_tokenize(self.middle)
+        self.end = nltk.tokenize.sent_tokenize(self.end)
 
-class Tester:
-    def __init__(self):
-        self.results = Results()
-        self.stopwords = nltk.corpus.stopwords.words('english')
-        self.lemtzr = WordNetLemmatizer()
-
-
-    def tokenize_and_clean(self, text):
+    def tokenize_and_clean(text):
         """Tokenizes and removes stopwords"""
         tokenized = nltk.word_tokenize(text)
         cleaned_sentence = [w for w in tokenized if w.lower() not in stopwords]
         return cleaned_sentence
 
-    def lemmatizer(self, tokenized):
+    def lemmatizer(tokenized):
+        """ Uses the built in wordnet lemmatizer to generate a summary"""
         lematized = [lmtzr.lemmatize(w) for w in tokenized]
         return lematized
+
+    def pos_tagging(tokenized_text):
+        """ Apparently there are multiple ways to do POS tagging in
+            NLTK. Unfortunetly, the standard wordnet tagger has some
+            internal problems, so instead we'll use the (already trained)
+            treebank tagger
+        """
+        tagged = nltk.pos_tag(tokenized_text)
+        #convert all of the tags to wordnet standard
+        tagged [get_wordnet_pos(tag) for tag in tagged]
+        pass
+
+    def get_wordnet_pos(treebank_tag):
+        """
+            Converts the treebank tag to the standard wordnet tag.
+            Shamelessly taken from:
+            http://stackoverflow.com/questions/15586721/wordnet-lemmatization-and-pos-tagging-in-python
+        """
+        if treebank_tag.startswith('J'):
+            return wordnet.ADJ
+        elif treebank_tag.startswith('V'):
+            return wordnet.VERB
+        elif treebank_tag.startswith('N'):
+            return wordnet.NOUN
+        elif treebank_tag.startswith('R'):
+            return wordnet.ADV
+        else:
+            return ''
+
+
+
+class Tester:
+    def __init__(self):
+        self.results = Results()
 
     def load_data(self):
         self.results.build_article_dataset()
@@ -89,7 +123,7 @@ class Tester:
         self.dev_set = dict((k,v) for k, v in self.total_data.iteritems() if k in dev_keys)
         self.eval_set = dict((k,v) for k, v in self.total_data.iteritems() if k in eval_keys)
 
-
+#util functions
 def get_first_paragraph(listOfParagraphs, first):
     """We want at least 3 sentences to compare"""
     #print listOfParagraphs
@@ -131,7 +165,6 @@ if __name__=="__main__":
             print url
             print tester.dev_set[key][url]
             topic.add_document(url)
-            break
         break
         topics.append(topic)
 
