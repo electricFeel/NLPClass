@@ -36,6 +36,8 @@ class Results:
                 answers = []
                 for x in range(8, len(row)-1):
                     answers.append(row[x])
+                if len(answers) <= 2:
+                    print f
                 #get the topic that his article belongs to
                 cat = total_cat[row[2]] 
                 #check to see if we have this category already

@@ -30,29 +30,10 @@ def build_survey_list(listOfLinks=[]):
     return tuple_list
 
 def get_paragraph(listOfParagraphs, first):
-    """We want at least 5 sentences to compare"""
-    #print listOfParagraphs
+    """We want at least 3 sentences to compare"""
+    return get_first_paragraph(listOfParagraphs, first)
 
-    if len(first) >= 3:
-        return_value = first
-        return return_value
 
-    if len(listOfParagraphs) is 0:
-        #nothing left...
-        return first
-    #alright, append the next paragraph
-    if len(tokenize.sent_tokenize(listOfParagraphs[0])) >= 3:
-        #append string to first
-        tokenized = tokenize.sent_tokenize(listOfParagraphs[0])
-        first.append(tokenized)
-        return first
-    else:
-        #well append the whole next paragraph and continue
-        tokenized = tokenize.sent_tokenize(listOfParagraphs[0])
-        first.append(tokenized)
-        para = get_paragraph(listOfParagraphs[1:len(listOfParagraphs)-1],
-                             first)
-        return para
 def submit_forms():
     fact = MTurkSurveyFactory()
     mtc = MTurkConnection(aws_access_key_id=ACCESS_ID,
@@ -94,6 +75,30 @@ def submit_forms():
     print len(missing_forms), ' forms could not be submitted'
     print missing_forms
 
+def get_first_paragraph(listOfParagraphs, first):
+    """We want at least 3 sentences to compare"""
+    #print listOfParagraphs
+
+    if len(first) >= 3:
+        return_value = first
+        return return_value
+
+    if len(listOfParagraphs) is 0:
+        #nothing left...
+        return first
+    #alright, append the next paragraph
+    if len(tokenize.sent_tokenize(listOfParagraphs[0])) >= 3:
+        #append string to first
+        tokenized = tokenize.sent_tokenize(listOfParagraphs[0])
+        first.append(tokenized)
+        return first
+    else:
+        #well append the whole next paragraph and continue
+        tokenized = tokenize.sent_tokenize(listOfParagraphs[0])
+        first.append(tokenized)
+        para = get_first_paragraph(listOfParagraphs[1:len(listOfParagraphs)-1],
+                                   first)
+        return para
 
 if __name__=='__main__':
     submit_forms()
