@@ -10,6 +10,7 @@ Required External Libraries
     - [html5lib](https://pypi.python.org/pypi/html5lib)
     - [lxml](https://pypi.python.org/pypi/lxml)
 - [M2Crypto](http://chandlerproject.org/Projects/MeTooCrypto)
+- [Divisi2](http://csc.media.mit.edu/docs/divisi2/install.html)
 
 Settings
 --------

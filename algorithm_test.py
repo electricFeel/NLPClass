@@ -7,6 +7,7 @@ from nltk.stem.wordnet import WordNetLemmatizer
 from extractor import *
 import pprint
 import pickle
+from gensim import similarities
 
 pp = pprint.PrettyPrinter(indent=4)
 
@@ -24,6 +25,8 @@ class Topic:
         self.documents.append(doc)
 
     def summarize(self):
+        for doc in self.documents:
+            doc.get_most_important_sentences()
         pass
 
 
@@ -66,6 +69,15 @@ class Document:
         self.middle = nltk.tokenize.sent_tokenize(self.middle)
         self.end = nltk.tokenize.sent_tokenize(self.end)
 
+    def get_most_important_sentences(self):
+        #find the single most important sentence in the first
+        #paragraph
+
+    def do_lsi(text):
+        tokenized = tokenize_and_clean(text)
+        tokenized = lemmatizer(tokenized)
+
+
     def tokenize_and_clean(text):
         """Tokenizes and removes stopwords"""
         tokenized = nltk.word_tokenize(text)
@@ -83,9 +95,10 @@ class Document:
             internal problems, so instead we'll use the (already trained)
             treebank tagger
         """
+        #note we're not using this just yet
         tagged = nltk.pos_tag(tokenized_text)
         #convert all of the tags to wordnet standard
-        tagged [get_wordnet_pos(tag) for tag in tagged]
+        tagged = [get_wordnet_pos(tag) for tag in tagged]
         pass
 
     def get_wordnet_pos(treebank_tag):
@@ -150,23 +163,27 @@ def get_first_paragraph(listOfParagraphs, first):
         return para
 
 if __name__=="__main__":
-    tester = Tester()
-    tester.load_data()
+    #tester = Tester()
+    #tester.load_data()
 
-    print len(tester.total_data)
-    print (tester.dev_set.keys())
-    print (tester.eval_set.keys())
+    #print len(tester.total_data)
+    #print (tester.dev_set.keys())
+    #print (tester.eval_set.keys())
 
     #load the dev topics
-    topics = []
-    for key in tester.dev_set.keys():
-        topic = Topic(key)
-        for url in tester.dev_set[key].keys():
-            print url
-            print tester.dev_set[key][url]
-            topic.add_document(url)
-        break
-        topics.append(topic)
+    #topics = []
+    #for key in tester.dev_set.keys():
+    #    topic = Topic(key)
+    #    for url in tester.dev_set[key].keys():
+    #        print url
+    #        print tester.dev_set[key][url]
+    #        try:
+    #            topic.add_document(url)
+    #        except:
+    #            print 'url couln\'t be found ', url
+    #    topics.append(topic)
 
     #pickle.dump(topics, open("dev_set.p", "wb"))
+    topics = pickle.load(open( "dev_set.p", "rb" ))
+    print len(topics)
 

@@ -20,7 +20,6 @@ class Results:
         for f in os.listdir('.'):
             if f.endswith('.csv'):
                 self.process_csv(f)
-        print len(self.result_set)
 
     def get_data(self):
         return self.result_set
