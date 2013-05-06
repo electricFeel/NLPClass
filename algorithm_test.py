@@ -72,10 +72,7 @@ class Document:
     def get_most_important_sentences(self):
         #find the single most important sentence in the first
         #paragraph
-
-    def do_lsi(text):
-        tokenized = tokenize_and_clean(text)
-        tokenized = lemmatizer(tokenized)
+        pass
 
 
     def tokenize_and_clean(text):
@@ -163,27 +160,27 @@ def get_first_paragraph(listOfParagraphs, first):
         return para
 
 if __name__=="__main__":
-    #tester = Tester()
-    #tester.load_data()
+    tester = Tester()
+    tester.load_data()
 
     #print len(tester.total_data)
     #print (tester.dev_set.keys())
     #print (tester.eval_set.keys())
 
-    #load the dev topics
+    #load the eval topics
     #topics = []
-    #for key in tester.dev_set.keys():
+    #for key in tester.eval_set.keys():
     #    topic = Topic(key)
-    #    for url in tester.dev_set[key].keys():
+    #    for url in tester.eval_set[key].keys():
     #        print url
-    #        print tester.dev_set[key][url]
+    #        print tester.eval_set[key][url]
     #        try:
     #            topic.add_document(url)
     #        except:
     #            print 'url couln\'t be found ', url
     #    topics.append(topic)
 
-    #pickle.dump(topics, open("dev_set.p", "wb"))
-    topics = pickle.load(open( "dev_set.p", "rb" ))
-    print len(topics)
+    pickle.dump(topics, open("eval_set.p", "wb"))
+    #topics = pickle.load(open( "dev_set.p", "rb" ))
+    #print len(topics)
 
