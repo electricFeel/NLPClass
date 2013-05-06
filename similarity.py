@@ -3,12 +3,6 @@ import numpy as np
 from nltk.tokenize.punkt import PunktSentenceTokenizer
 from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
 
-# SETTINGS
-sent_tokenize_func = punktokenizer
-normalize_func = tfidf
-similarity_func = dotproduct
-
-
 #http://joshbohde.com/blog/document-summarization
 
 def textrank(document):
@@ -48,3 +42,9 @@ def tfidf(matrix):
 
 def dotproduct(matrix):
     return matrix * matrix.T
+
+
+# SETTINGS
+sent_tokenize_func = punktokenizer
+normalize_func = tfidf
+similarity_func = dotproduct
