@@ -18,16 +18,27 @@ class Topic:
     def add_document(self, url, answers):
         """ Adds a document to the topic list"""
         article = build_extractor(url).article()
-        doc = Document(article, answers)
+        doc = Document(article, answers, url)
         self.documents.append(doc)
 
-    def build_doc_summaries(self):
-        pass
-
     def summarize(self):
+        firsts = []
+        middles = []
+        ends = []
         for doc in self.documents:
-            doc.get_most_important_sentences()
-        pass
+            cur = doc.get_most_important_sentences()
+            #get the first, middle and end best sentences
+            firsts.append(cur[1][0])
+            middles.append(cur[2][0])
+            ends.append(cur[3][0])
+
+        print firsts
+        #find the best of each section in total
+        best_first = textrank(' '.join(firsts))[0]
+        best_middle = textrank(' '.join(middles))[0]
+        best_end = textrank(' '.join(ends))[0]
+
+        return best_first, best_middle, best_end
 
 
 
@@ -38,12 +49,13 @@ class Document:
     stopwords = nltk.corpus.stopwords.words('english')
     lemtzr = WordNetLemmatizer()
 
-    def __init__(self, document, answers):
+    def __init__(self, document, answers, url):
         self.paragraphs = document['paragraphs']
         self.title = document['title']
         self.text = ' '.join(self.paragraphs)
         self.split_sections()
         self.answers = answers
+        self.url = url
 
     def split_sections(self):
         self.begining = get_first_paragraph(self.paragraphs[1:len(self.paragraphs)-1],
@@ -101,10 +113,6 @@ class Document:
         mean_mat = np.mean(mat, axis=0)
         occurences = np.where(mean_mat == mean_mat.max())
         return occurences[0]
-
-
-
-
 
     def tokenize_and_clean(text):
         """Tokenizes and removes stopwords"""
@@ -199,33 +207,35 @@ if __name__=="__main__":
     #print (tester.eval_set.keys())
 
     #load the eval topics
-    # topics = []
-    # for key in tester.dev_set.keys():
-    #     topic = Topic(key)
-    #     for url in tester.dev_set[key].keys():
-    #         print url
-    #        print tester.dev_set[key][url]
-    #        try:
-    #            answers = tester.dev_set[key][url]
-    #            topic.add_document(url, answers)
-    #        except:
-    #            print 'url couln\'t be found ', url
-    #    topics.append(topic)
+    topics = []
+    for key in tester.eval_set.keys():
+        topic = Topic(key)
+        for url in tester.eval_set[key].keys():
+            print url
+            print tester.eval_set[key][url]
+            try:
+                answers = tester.eval_set[key][url]
+                topic.add_document(url, answers)
+            except:
+                print 'url couln\'t be found ', url
+        topics.append(topic)
 
-    #pickle.dump(topics, open("dev_set.p", "wb"))
-    topics = pickle.load(open( "dev_set.p", "rb" ))
-    doc = topics[0].documents[0]
-    print doc.get_most_important_sentences()[1], doc.get_most_important_sentences()[2], doc.get_most_important_sentences()[3]
-    print np.array(doc.eval_best_sentence())[0][0]
-    total_correct = 0
-    total_incorrect = 0
-    for topic in topics:
-        for doc in topic.documents:
-            if doc.get_most_important_sentences()[1][1] == (np.array(doc.eval_best_sentence())[0][0] + 1):
-                total_correct += 1
-            else:
-                total_incorrect += 1
-    print 'Total Correct: ', total_correct
-    print 'Total Incorrect ', total_incorrect
+    pickle.dump(topics, open("eval_set.p", "wb"))
+    # topics = pickle.load(open( "dev_set.p", "rb" ))
+    # doc = topics[0].documents[0]
+    # print doc.get_most_important_sentences()[1], doc.get_most_important_sentences()[2], doc.get_most_important_sentences()[3]
+    # print np.array(doc.eval_best_sentence())[0][0]
+    # total_correct = 0
+    # total_incorrect = 0
+    # for topic in topics:
+    #     for doc in topic.documents:
+    #         if doc.get_most_important_sentences()[1][1] == (np.array(doc.eval_best_sentence())[0][0] + 1):
+    #             total_correct += 1
+    #         else:
+    #             total_incorrect += 1
+    #     print topic.topic
+    #     print topic.summarize()
+    # print 'Total Correct: ', total_correct
+    # print 'Total Incorrect ', total_incorrect
     #print len(topics)
 
