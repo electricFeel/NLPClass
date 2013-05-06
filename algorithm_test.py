@@ -6,6 +6,7 @@ from nltk.stem.wordnet import WordNetLemmatizer
 from extractor import *
 import pickle
 from similarity import textrank
+import numpy as np
 
 class Topic:
     """ A topic is a single \"trending\" topic. Each topic
@@ -19,6 +20,9 @@ class Topic:
         article = build_extractor(url).article()
         doc = Document(article, answers)
         self.documents.append(doc)
+
+    def build_doc_summaries(self):
+        pass
 
     def summarize(self):
         for doc in self.documents:
@@ -71,7 +75,35 @@ class Document:
         #find the single most important sentence in the first
         #paragraph
         ranked_sentences = textrank(self.text)
-        return ranked_sentences
+        best_first = self.get_best_sentence_in_set(self.begining, ranked_sentences)
+        best_middle = self.get_best_sentence_in_set(self.middle, ranked_sentences)
+        best_last = self.get_best_sentence_in_set(self.end, ranked_sentences)
+        return ranked_sentences, best_first, best_middle, best_last
+
+    def get_best_sentence_in_set(self, sentence_set, ranked_sentences):
+        best_first = ''
+        indexof = -1
+        for sentence in ranked_sentences:
+            if sentence[1] in sentence_set:
+                best_first = sentence[1]
+                indexof = sentence_set.index(best_first)
+                break
+        return best_first, indexof
+
+    def eval_best_sentence(self):
+        print self.answers
+        __mat = []
+        for vec in self.answers:
+            __mat.append(map(int, vec))
+        print __mat
+        mat = np.matrix(__mat)
+        print mat
+        mean_mat = np.mean(mat, axis=0)
+        occurences = np.where(mean_mat == mean_mat.max())
+        return occurences[0]
+
+
+
 
 
     def tokenize_and_clean(text):
@@ -148,12 +180,12 @@ def get_first_paragraph(listOfParagraphs, first):
     if len(tokenize.sent_tokenize(listOfParagraphs[0])) >= 3:
         #append string to first
         tokenized = tokenize.sent_tokenize(listOfParagraphs[0])
-        first.append(tokenized)
+        first.extend(tokenized)
         return first
     else:
         #well append the whole next paragraph and continue
         tokenized = tokenize.sent_tokenize(listOfParagraphs[0])
-        first.append(tokenized)
+        first.extend(tokenized)
         para = get_first_paragraph(listOfParagraphs[1:len(listOfParagraphs)-1],
                                    first)
         return para
@@ -167,22 +199,33 @@ if __name__=="__main__":
     #print (tester.eval_set.keys())
 
     #load the eval topics
-    topics = []
-    for key in tester.eval_set.keys():
-        topic = Topic(key)
-        for url in tester.eval_set[key].keys():
-            print url
-            print tester.eval_set[key][url]
-            try:
-                answers = tester.eval_set[key][url]
-                topic.add_document(url, answers)
-            except:
-                print 'url couln\'t be found ', url
-        topics.append(topic)
+    # topics = []
+    # for key in tester.dev_set.keys():
+    #     topic = Topic(key)
+    #     for url in tester.dev_set[key].keys():
+    #         print url
+    #        print tester.dev_set[key][url]
+    #        try:
+    #            answers = tester.dev_set[key][url]
+    #            topic.add_document(url, answers)
+    #        except:
+    #            print 'url couln\'t be found ', url
+    #    topics.append(topic)
 
-    pickle.dump(topics, open("dev_set.p", "wb"))
-    #topics = pickle.load(open( "dev_set.p", "rb" ))
-    #doc = topics[0].documents[0]
-    #print doc.text
+    #pickle.dump(topics, open("dev_set.p", "wb"))
+    topics = pickle.load(open( "dev_set.p", "rb" ))
+    doc = topics[0].documents[0]
+    print doc.get_most_important_sentences()[1], doc.get_most_important_sentences()[2], doc.get_most_important_sentences()[3]
+    print np.array(doc.eval_best_sentence())[0][0]
+    total_correct = 0
+    total_incorrect = 0
+    for topic in topics:
+        for doc in topic.documents:
+            if doc.get_most_important_sentences()[1][1] == (np.array(doc.eval_best_sentence())[0][0] + 1):
+                total_correct += 1
+            else:
+                total_incorrect += 1
+    print 'Total Correct: ', total_correct
+    print 'Total Incorrect ', total_incorrect
     #print len(topics)
 
