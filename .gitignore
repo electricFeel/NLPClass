@@ -37,3 +37,7 @@ nosetests.xml
 *.pem
 
 .DS_Store
+
+nlp/.Python
+
+nlp/include/python2.7
