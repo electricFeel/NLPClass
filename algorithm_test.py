@@ -1,15 +1,11 @@
 from process_results import Results
-from sklearn.cluster import DBSCAN
 from nltk.corpus import stopwords
 import nltk
 from nltk import tokenize
 from nltk.stem.wordnet import WordNetLemmatizer
 from extractor import *
-import pprint
 import pickle
-from gensim import similarities
-
-pp = pprint.PrettyPrinter(indent=4)
+from similarity import textrank
 
 class Topic:
     """ A topic is a single \"trending\" topic. Each topic
@@ -18,10 +14,10 @@ class Topic:
         self.topic = topic
         self.documents = []
 
-    def add_document(self, url):
+    def add_document(self, url, answers):
         """ Adds a document to the topic list"""
         article = build_extractor(url).article()
-        doc = Document(article)
+        doc = Document(article, answers)
         self.documents.append(doc)
 
     def summarize(self):
@@ -38,10 +34,12 @@ class Document:
     stopwords = nltk.corpus.stopwords.words('english')
     lemtzr = WordNetLemmatizer()
 
-    def __init__(self, document):
+    def __init__(self, document, answers):
         self.paragraphs = document['paragraphs']
         self.title = document['title']
+        self.text = ' '.join(self.paragraphs)
         self.split_sections()
+        self.answers = answers
 
     def split_sections(self):
         self.begining = get_first_paragraph(self.paragraphs[1:len(self.paragraphs)-1],
@@ -72,7 +70,8 @@ class Document:
     def get_most_important_sentences(self):
         #find the single most important sentence in the first
         #paragraph
-        pass
+        ranked_sentences = textrank(self.text)
+        return ranked_sentences
 
 
     def tokenize_and_clean(text):
@@ -168,19 +167,22 @@ if __name__=="__main__":
     #print (tester.eval_set.keys())
 
     #load the eval topics
-    #topics = []
-    #for key in tester.eval_set.keys():
-    #    topic = Topic(key)
-    #    for url in tester.eval_set[key].keys():
-    #        print url
-    #        print tester.eval_set[key][url]
-    #        try:
-    #            topic.add_document(url)
-    #        except:
-    #            print 'url couln\'t be found ', url
-    #    topics.append(topic)
+    topics = []
+    for key in tester.eval_set.keys():
+        topic = Topic(key)
+        for url in tester.eval_set[key].keys():
+            print url
+            print tester.eval_set[key][url]
+            try:
+                answers = tester.eval_set[key][url]
+                topic.add_document(url, answers)
+            except:
+                print 'url couln\'t be found ', url
+        topics.append(topic)
 
-    pickle.dump(topics, open("eval_set.p", "wb"))
+    pickle.dump(topics, open("dev_set.p", "wb"))
     #topics = pickle.load(open( "dev_set.p", "rb" ))
+    #doc = topics[0].documents[0]
+    #print doc.text
     #print len(topics)
 
