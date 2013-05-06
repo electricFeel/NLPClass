@@ -1,0 +1,55 @@
+header {
+    height: 300px;
+    background: url(../img/bg.gif);
+    border-top: solid 1px #555;
+    border-bottom: solid 1px #555;
+
+}
+
+.topbox {
+    background: rgba(100, 100, 100, .7);
+    border-radius: 10px;
+    box-shadow:  5px 5px 3px rgba(0,0,0,.25);
+    /*width: 400px; */
+    /*margin: 25px auto; */
+    margin-top: 25px;
+    height: 200px;
+    padding: 20px;
+}
+
+.topbox h1 {
+    color: #fff;
+}
+
+.searchbox h1 {
+    margin-bottom: 40px;
+}
+
+.trending {
+    overflow: auto;
+}
+
+.trending a {
+    background: #08c;
+    line-height: 20px;
+    display: inline-block;
+    margin: 2px;
+    padding: 2px 7px;
+    font-size: 0.9em;
+    color: #fff;
+    border-radius: 4px;
+}
+
+.trending a:hover {
+    background: #fff;
+    color: #08c;
+    text-decoration: none;
+}
+
+.ref_sent:hover {
+    background-color: #eee;
+}
+
+.ref_selected {
+    background-color: #eee;   
+}
