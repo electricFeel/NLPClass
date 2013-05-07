@@ -38,6 +38,7 @@ header {
     font-size: 0.9em;
     color: #fff;
     border-radius: 4px;
+    transition: background 0.5s ease-out, color 0.5s ease;
 }
 
 .trending a:hover {
@@ -46,10 +47,16 @@ header {
     text-decoration: none;
 }
 
+.ref_sent {
+    transition: background 0.8s ease;
+}
 .ref_sent:hover {
-    background-color: #eee;
+    background-color: #ddd;
 }
 
+.citation {
+        transition: background 0.8s ease;
+}
 .ref_selected {
-    background-color: #eee;   
+    background-color: #ddd;   
 }

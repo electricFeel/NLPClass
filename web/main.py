@@ -6,6 +6,8 @@ from os import path
 sys.path.append(path.join(path.dirname(__file__), "../"))
 
 import twitter
+import articles
+from algorithm_test import Topic
 
 # getting current twitter trends and caching
 trend_topics = twitter.get_trends()
@@ -46,12 +48,27 @@ result = {
 @view('topic')
 def topic(name=None):
     if not name:
-        if 'q' in request.forms:
-            name = request.forms['q']
+        if 'q' in request.query:
+            name = request.query['q']
         else:
-            name = "Boston"  # example query
+            name = "starbucks"  # example query
 
+    print name
+    #print articles.total
     # TODO: query our system and receive result
+    if name in articles.total:
+        topic = Topic(name)
+        for url in articles.total[name]:
+            topic.add_document(url=url)
+        topic.summarize()
+        result = {
+            'topic': topic.topic,
+            'sentences': topic.summary,
+            'articles': topic.urls
+        }
+    else:
+        result = {}
+        pass  # not found
 
     ret = dict()
     ret.update(result)
