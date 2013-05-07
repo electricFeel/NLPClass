@@ -16,10 +16,10 @@ class Results:
         self.result_set = dict()
 
     def build_article_dataset(self):
-        os.chdir('results')
-        for f in os.listdir('.'):
-            if f.endswith('.csv'):
-                self.process_csv(f)
+        for dirname, dirnames, filenames in os.walk('results'):
+            for f in filenames:
+                if f.endswith('.csv'):
+                    self.process_csv(os.path.join(dirname, f))
 
     def get_data(self):
         return self.result_set
