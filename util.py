@@ -66,4 +66,3 @@ def clean_html(text):
     """ Sanitizes text to remove any html content / entities """
     html_parser = HTMLParser.HTMLParser()
     return html_parser.unescape(nltk.util.clean_html(str(text)))
-
