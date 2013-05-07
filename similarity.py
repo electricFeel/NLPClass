@@ -5,8 +5,12 @@ from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
 
 #http://joshbohde.com/blog/document-summarization
 
+
 def textrank(document):
-    sentences = sent_tokenize_func(document)
+    if isinstance(document, basestring):      # if the document is not tokenized
+        sentences = sent_tokenize_func(document)
+    else:                                     # if the sentences are already tokenized
+        sentences = document
 
     matrix = CountVectorizer().fit_transform(sentences)
 

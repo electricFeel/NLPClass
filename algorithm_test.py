@@ -8,6 +8,7 @@ import pickle
 from similarity import textrank
 import numpy as np
 
+
 class Topic:
     """ A topic is a single \"trending\" topic. Each topic
         is made of multiple documents. """
@@ -15,10 +16,10 @@ class Topic:
         self.topic = topic
         self.documents = []
 
-    def add_document(self, url, answers):
+    def add_document(self, url, answers=[]):
         """ Adds a document to the topic list"""
         article = build_extractor(url).article()
-        doc = Document(article, answers, url)
+        doc = Document(article, url, answers)
         self.documents.append(doc)
 
     def summarize(self):
@@ -32,24 +33,22 @@ class Topic:
             middles.append(cur[2][0])
             ends.append(cur[3][0])
 
-        print firsts
         #find the best of each section in total
-        best_first = textrank(' '.join(firsts))[0]
-        best_middle = textrank(' '.join(middles))[0]
-        best_end = textrank(' '.join(ends))[0]
+        best_first = textrank(firsts)[0]
+        best_middle = textrank(middles)[0]
+        best_end = textrank(ends)[0]
 
         return best_first, best_middle, best_end
 
 
-
 class Document:
-    """ Represents a single document (a single extracted page split into 
+    """ Represents a single document (a single extracted page split into
         sections. A first begining, middle, end.
     """
     stopwords = nltk.corpus.stopwords.words('english')
     lemtzr = WordNetLemmatizer()
 
-    def __init__(self, document, answers, url):
+    def __init__(self, document, url, answers=[]):
         self.paragraphs = document['paragraphs']
         self.title = document['title']
         self.text = ' '.join(self.paragraphs)
@@ -59,7 +58,7 @@ class Document:
 
     def split_sections(self):
         self.begining = get_first_paragraph(self.paragraphs[1:len(self.paragraphs)-1],
-                                           [tokenize.sent_tokenize(self.paragraphs[0])])
+                                            [tokenize.sent_tokenize(self.paragraphs[0])])
 
         self.end = self.paragraphs[-1]
 
@@ -103,13 +102,12 @@ class Document:
         return best_first, indexof
 
     def eval_best_sentence(self):
-        print self.answers
         __mat = []
         for vec in self.answers:
             __mat.append(map(int, vec))
-        print __mat
+
         mat = np.matrix(__mat)
-        print mat
+
         mean_mat = np.mean(mat, axis=0)
         occurences = np.where(mean_mat == mean_mat.max())
         return occurences[0]
@@ -155,7 +153,6 @@ class Document:
             return ''
 
 
-
 class Tester:
     def __init__(self):
         self.results = Results()
@@ -171,6 +168,7 @@ class Tester:
 
         self.dev_set = dict((k,v) for k, v in self.total_data.iteritems() if k in dev_keys)
         self.eval_set = dict((k,v) for k, v in self.total_data.iteritems() if k in eval_keys)
+
 
 #util functions
 def get_first_paragraph(listOfParagraphs, first):
@@ -198,44 +196,73 @@ def get_first_paragraph(listOfParagraphs, first):
                                    first)
         return para
 
-if __name__=="__main__":
+if __name__ == "__main__":
     tester = Tester()
     tester.load_data()
 
-    #print len(tester.total_data)
-    #print (tester.dev_set.keys())
-    #print (tester.eval_set.keys())
+    # evalute arguments
 
-    #load the eval topics
-    topics = []
-    for key in tester.eval_set.keys():
-        topic = Topic(key)
-        for url in tester.eval_set[key].keys():
-            print url
-            print tester.eval_set[key][url]
-            try:
-                answers = tester.eval_set[key][url]
-                topic.add_document(url, answers)
-            except:
-                print 'url couln\'t be found ', url
-        topics.append(topic)
+    import argparse
 
-    pickle.dump(topics, open("eval_set.p", "wb"))
-    # topics = pickle.load(open( "dev_set.p", "rb" ))
-    # doc = topics[0].documents[0]
-    # print doc.get_most_important_sentences()[1], doc.get_most_important_sentences()[2], doc.get_most_important_sentences()[3]
-    # print np.array(doc.eval_best_sentence())[0][0]
-    # total_correct = 0
-    # total_incorrect = 0
-    # for topic in topics:
-    #     for doc in topic.documents:
-    #         if doc.get_most_important_sentences()[1][1] == (np.array(doc.eval_best_sentence())[0][0] + 1):
-    #             total_correct += 1
-    #         else:
-    #             total_incorrect += 1
-    #     print topic.topic
-    #     print topic.summarize()
-    # print 'Total Correct: ', total_correct
-    # print 'Total Incorrect ', total_incorrect
-    #print len(topics)
+    parser = argparse.ArgumentParser(description='Test algorithm.')
 
+    parser.add_argument('--build', action='store_true',
+                        help='build eval and dev sets')
+
+    parser.add_argument('--count', action='store_true',
+                        help='count number of articles')
+
+    parser.add_argument('--test', action='store_true',
+                        help='called to test')
+
+    args = parser.parse_args()
+
+    # count argument
+    if args.count:
+        print 'Total count: %d' % len(tester.total_data)
+        print 'Dev set count: %d' % len(tester.dev_set.keys())
+        print 'Eval set count: %d' % len(tester.eval_set.keys())
+
+    # build argument
+    elif args.build:
+        def build_topics(name, topicset):
+            # load the eval topics
+            topics = []
+            for key in topicset.keys():
+                topic = Topic(key)
+                for url in topicset[key].keys():
+                    print url
+                    print topicset[key][url]
+                    try:
+                        answers = topicset[key][url]
+                        topic.add_document(url, answers)
+                    except:
+                        print 'url couln\'t be found ', url
+                topics.append(topic)
+
+            pickle.dump(topics, open(name + ".p", "wb"))
+
+        build_topics("eval_set", tester.eval_set)
+        build_topics("dev_set", tester.dev_set)
+
+    # test argument
+    elif args.test:
+        topics = pickle.load(open("dev_set.p", "rb"))
+        doc = topics[0].documents[0]
+        # print doc.get_most_important_sentences()[1], doc.get_most_important_sentences()[2], doc.get_most_important_sentences()[3]
+        # print np.array(doc.eval_best_sentence())[0][0]
+        total_correct = 0
+        total_incorrect = 0
+        for topic in topics:
+            for doc in topic.documents:
+                if doc.get_most_important_sentences()[1][1] == (np.array(doc.eval_best_sentence())[0][0] + 1):
+                    total_correct += 1
+                else:
+                    total_incorrect += 1
+            print topic.topic
+            print topic.summarize()
+        print 'Total Correct: ', total_correct
+        print 'Total Incorrect ', total_incorrect
+
+    else:
+        parser.print_help()
