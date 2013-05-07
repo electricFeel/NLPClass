@@ -15,12 +15,15 @@ class Topic:
     def __init__(self, topic):
         self.topic = topic
         self.documents = []
+        self.urls = []
+        self.summary = dict()
 
     def add_document(self, url, answers=[]):
         """ Adds a document to the topic list"""
         article = build_extractor(url).article()
         doc = Document(article, url, answers)
         self.documents.append(doc)
+        self.urls.append(url)
 
     def summarize(self):
         firsts = []
@@ -37,6 +40,24 @@ class Topic:
         best_first = textrank(firsts)[0]
         best_middle = textrank(middles)[0]
         best_end = textrank(ends)[0]
+
+        self.summary = [
+            # first section
+            {
+                'sentence': best_first.sentence,
+                'from_article': self.urls[best_first.document]
+            },
+            # middle section
+            {
+                'sentence': best_middle.sentence,
+                'from_article': self.urls[best_middle.document]
+            },
+            # end section
+            {
+                'sentence': best_end.sentence,
+                'from_article': self.urls[best_end.document]
+            }
+        ]
 
         return best_first, best_middle, best_end
 
@@ -92,14 +113,14 @@ class Document:
         return ranked_sentences, best_first, best_middle, best_last
 
     def get_best_sentence_in_set(self, sentence_set, ranked_sentences):
-        best_first = ''
+        best = ''
         indexof = -1
         for sentence in ranked_sentences:
-            if sentence[1] in sentence_set:
-                best_first = sentence[1]
-                indexof = sentence_set.index(best_first)
+            if sentence.sentence in sentence_set:
+                best = sentence.sentence
+                indexof = sentence_set.index(best)
                 break
-        return best_first, indexof
+        return best, indexof
 
     def eval_best_sentence(self):
         __mat = []
@@ -109,8 +130,9 @@ class Document:
         mat = np.matrix(__mat)
 
         mean_mat = np.mean(mat, axis=0)
+
         occurences = np.where(mean_mat == mean_mat.max())
-        return occurences[0]
+        return occurences
 
     def tokenize_and_clean(text):
         """Tokenizes and removes stopwords"""
@@ -249,20 +271,23 @@ if __name__ == "__main__":
     elif args.test:
         topics = pickle.load(open("dev_set.p", "rb"))
         doc = topics[0].documents[0]
+        # print '#################'
         # print doc.get_most_important_sentences()[1], doc.get_most_important_sentences()[2], doc.get_most_important_sentences()[3]
-        # print np.array(doc.eval_best_sentence())[0][0]
+        # print np.array(doc.eval_best_sentence())[0][0][0]
+        # print '#################'
         total_correct = 0
-        total_incorrect = 0
+        total = 0
         for topic in topics:
             for doc in topic.documents:
-                if doc.get_most_important_sentences()[1][1] == (np.array(doc.eval_best_sentence())[0][0] + 1):
-                    total_correct += 1
-                else:
-                    total_incorrect += 1
+                total += 1
+                for best_sent in np.array(doc.eval_best_sentence())[0][0]:
+                    if doc.get_most_important_sentences()[1][1] == best_sent + 1:
+                        total_correct += 1
+                        break
             print topic.topic
             print topic.summarize()
-        print 'Total Correct: ', total_correct
-        print 'Total Incorrect ', total_incorrect
+        print 'Total Correct: %d or %.2f%%' % (total_correct, float(total_correct)/total * 100)
+        print 'Total Incorrect %d or %.2f%%' % ((total-total_correct), float(total-total_correct)/total * 100)
 
     else:
         parser.print_help()

@@ -2,8 +2,11 @@ import networkx as nx
 import numpy as np
 from nltk.tokenize.punkt import PunktSentenceTokenizer
 from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
+from collections import namedtuple
 
 #http://joshbohde.com/blog/document-summarization
+
+TextRank = namedtuple('TextRank', ['score', 'sentence', 'document'])
 
 
 def textrank(document):
@@ -26,7 +29,8 @@ def textrank(document):
     scores = nx.pagerank(nx_graph)
 
     # return vertices ordered by score
-    return sorted(((scores[i], s) for i, s in enumerate(sentences)),
+    return sorted((TextRank(score=scores[i], sentence=sentence, document=i)
+                  for i, sentence in enumerate(sentences)),
                   reverse=True)
 
 
