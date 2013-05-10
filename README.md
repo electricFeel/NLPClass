@@ -5,6 +5,7 @@ Required External Libraries
 --------
 
 - [nltk](http://nltk.org/)
+- [networkx](http://networkx.github.io/)
 - [tweepy](https://github.com/tweepy/tweepy)
 - [BeatifulSoup](http://www.crummy.com/software/BeautifulSoup/)
     - [html5lib](https://pypi.python.org/pypi/html5lib)
