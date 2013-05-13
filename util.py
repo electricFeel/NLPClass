@@ -1,5 +1,3 @@
-import extractor
-
 import urllib2
 import cookielib
 import urlparse
