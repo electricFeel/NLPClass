@@ -1,15 +1,18 @@
 from mturk import MTurkSurveyFactory, ACCESS_ID, SECRET_KEY, HOST, https_connection_factory
 from boto.mturk.connection import MTurkConnection
+import sys
 from articles import *
 from extractor import *
 from nltk import tokenize
 import itertools
+import pickle
+from algorithm_test import Topic, Document
 
 missing = []
 
 ACCESS_ID = ''
 SECRET_KEY = ''
-HOST = 'mechanicalturk.sandbox.amazonaws.com'
+HOST = 'mechanicalturk.amazonaws.com'
 
 def build_survey_list(listOfLinks=[]):
     tuple_list = []
@@ -90,17 +93,63 @@ def get_first_paragraph(listOfParagraphs, first):
     if len(tokenize.sent_tokenize(listOfParagraphs[0])) >= 3:
         #append string to first
         tokenized = tokenize.sent_tokenize(listOfParagraphs[0])
-        first.append(tokenized)
+        first.extend(tokenized)
         return first
     else:
         #well append the whole next paragraph and continue
         tokenized = tokenize.sent_tokenize(listOfParagraphs[0])
-        first.append(tokenized)
+        first.extend(tokenized)
         para = get_first_paragraph(listOfParagraphs[1:len(listOfParagraphs)-1],
                                    first)
         return para
 
+def load_from_file():
+    """Loads the topics from file"""
+    dev_topics = pickle.load(open("dev_set.p", "rb"))
+    eval_topics = pickle.load(open("eval_set.p", "rb"))
+    total_topics = []
+    total_topics.extend(dev_topics)
+    total_topics.extend(eval_topics)
+    return total_topics
+
 if __name__=='__main__':
-    submit_forms()
+    topics = load_from_file()
+    print len(topics)
+    tuple_list = []
+    #loop over all the documents
+    for topic in topics:
+        for document in topic.documents:
+            document.split_sections()
+            text = document.begining
+            title = document.title
+            url = document.url
+            print url, title, text
+            tuple_list.append([url, title, ' '.join(text)])
+        
+    print len(tuple_list)
+    print 'Retrieved', len(tuple_list)
+    print 'Missing: ', len(missing)
+    print missing
+    print 'Sending it to mechanicalturk'
+    mtc = MTurkConnection(aws_access_key_id=ACCESS_ID,
+                         aws_secret_access_key=SECRET_KEY,
+                         host=HOST, is_secure=True,
+                         https_connection_factory=(https_connection_factory, ()))
+    
+    print mtc.get_all_hits()
+
+    fact = MTurkSurveyFactory()
+    questionForms = fact.buildSurvey(tuple_list)
+    print len(questionForms)
+    missing_forms = []
+    for questionForm in questionForms:
+        try:
+            fact.submitHITs(mtc=mtc, questionForms=[questionForm])
+        except:
+            missing_forms.extend(questionForm)
+            print "Unexpected error:", sys.exc_info()[0]
+
+    print len(missing_forms), ' forms could not be submitted'
+    print missing_forms
 
 

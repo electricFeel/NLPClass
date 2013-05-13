@@ -16,7 +16,7 @@ class Results:
         self.result_set = dict()
 
     def build_article_dataset(self):
-        for dirname, dirnames, filenames in os.walk('results'):
+        for dirname, dirnames, filenames in os.walk('results2'):
             for f in filenames:
                 if f.endswith('.csv'):
                     self.process_csv(os.path.join(dirname, f))
@@ -48,11 +48,6 @@ class Results:
                     self.result_set[cat][row[2]] = []
                 #sentence is in order
                 self.result_set[cat][row[2]].append(answers)
-
-
-
-
-                
 
 
 

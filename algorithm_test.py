@@ -79,7 +79,7 @@ class Document:
 
     def split_sections(self):
         self.begining = get_first_paragraph(self.paragraphs[1:len(self.paragraphs)-1],
-                                            [tokenize.sent_tokenize(self.paragraphs[0])])
+                                            tokenize.sent_tokenize(self.paragraphs[0]))
 
         self.end = self.paragraphs[-1]
 
@@ -196,7 +196,6 @@ class Tester:
 def get_first_paragraph(listOfParagraphs, first):
     """We want at least 3 sentences to compare"""
     #print listOfParagraphs
-
     if len(first) >= 3:
         return_value = first
         return return_value

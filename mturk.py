@@ -3,16 +3,18 @@
 from boto.mturk.connection import MTurkConnection
 from M2Crypto import httpslib, SSL
 from boto.mturk.question import *
+from boto.mturk.qualification import Qualifications, PercentAssignmentsApprovedRequirement
 import settings
 import boto.mturk
 import os
 import datetime
+import pickle
 
 from nltk import tokenize
 
 ACCESS_ID = ''
 SECRET_KEY = ''
-HOST = 'mechanicalturk.amazonaws.com'
+HOST = 'mechanicalturk.sandbox.amazonaws.com'
 
 RANKS = [('Most Important', 5),
          ('Very Important', 4),
@@ -32,8 +34,8 @@ class MTurkSurveyFactory:
                    title='Rank the most important sentences',
                    description='Rank the following sentences by importance',
                    keywords='summary, survey',
-                   duration=60*5,
-                   reward=0.05):
+                   duration=60*3,
+                   reward=0.3):
         """ Creates and submits a list of HITTS with the exact same
             title, descriptions, durations and prices from a list of questions.
         """
@@ -49,9 +51,9 @@ class MTurkSurveyFactory:
                            description=description,
                            keywords=keywords,
                            duration=60*60*12,
-                           approval_delay=1,
+                           approval_delay=60*60*12,
                            annotation=questionForm[0],
-                           reward=0.05)
+                           reward=0.03)
         pass
 
     def buildSurvey(self, paragraphs=[]):
@@ -90,7 +92,10 @@ class MTurkSurveyFactory:
 
             overview = Overview()
             overview.append_field('Title', 'Please ranks the sentences in the text by how important they are')
+            overview.append_field('Title', 'NOTE: Work will be rejected if its obvious you didn\'t read the text')
+            overview.append_field('Text', "##############START TEXT##############")
             overview.append_field('Text', raw_text)
+            overview.append_field('Text', "##############END TEXT##############")
             overview.append_field
             questionForm.append(overview)
             #we need to create a seperate ranking question for each
@@ -143,4 +148,6 @@ def test():
     print mtc.get_account_balance()
 
 if __name__ == "__main__":
-  test()
+  dev_set = pickle.load(open("dev_set.p", "rb"))
+  eval_set = pickle.load(open("dev_set.p", "rb"))
+  #test()
