@@ -17,3215 +17,3865 @@ p7
 S'begining'
 p9
 (lp10
-(lp11
 S'But numerous questions remain about the origins of the chemical and what effect its apparent use could have on the ongoing Syrian civil war and international involvement in it.'
+p11
+aS'When asked whether the intelligence community\'s conclusion pushed the situation across President Barack Obama\'s "red line" that could trigger more U.S. involvement in the war, Hagel said it\'s too soon to say.'
 p12
-aaS'When asked whether the intelligence community\'s conclusion pushed the situation across President Barack Obama\'s "red line" that could trigger more U.S. involvement in the war, Hagel said it\'s too soon to say.'
-p13
 aS'"We need all the facts.'
-p14
+p13
 aS'We need all the information," he said.'
-p15
+p14
 aS'"What I\'ve just given you is what our intelligence community has said they know.'
-p16
+p15
 aS"As I also said, they are still assessing, and they are still looking at what happened, who was responsible and the other specifics that we'll need."
-p17
+p16
 aS'"'
-p18
+p17
 asS'end'
-p19
-(lp20
+p18
+(lp19
 S'Sarin gas is an odorless nerve agent that can cause convulsions, paralysis and respiratory failure.'
-p21
+p20
 aS'Nerve agents are the most toxic and rapidly acting of the known chemical warfare agents, according to the Centers for Disease Control and Prevention.'
-p22
+p21
 aS'Sarin quickly evaporates from liquid to vapor form to disperse into the environment.'
-p23
+p22
 aS'It also mixes easily with water and can poison a water supply.'
-p24
+p23
 asS'title'
-p25
+p24
 S'U.S.: Intelligence points to small-scale use of sarin in Syria'
-p26
+p25
 sS'url'
-p27
+p26
 S'http://www.cnn.com/2013/04/25/world/meast/syria-civil-war/index.html'
-p28
+p27
 sS'text'
-p29
+p28
 S'But numerous questions remain about the origins of the chemical and what effect its apparent use could have on the ongoing Syrian civil war and international involvement in it. When asked whether the intelligence community\'s conclusion pushed the situation across President Barack Obama\'s "red line" that could trigger more U.S. involvement in the war, Hagel said it\'s too soon to say. "We need all the facts. We need all the information," he said. "What I\'ve just given you is what our intelligence community has said they know. As I also said, they are still assessing, and they are still looking at what happened, who was responsible and the other specifics that we\'ll need." In a letter sent to lawmakers before Hagel\'s announcement, the White House said that intelligence analysts have concluded "with varying degrees of confidence that the Syrian regime has used chemical weapons on a small scale in Syria, specifically the chemical agent sarin." The White House cautioned that the "chain of custody" of the chemicals was not clear and that intelligence analysts could not confirm the circumstances under which the sarin was used, including the role of Syrian President Bashar al-Assad\'s regime. Read the letter to Sen. Carl Levin (PDF) But, the letter said, "we do believe that any use of chemical weapons in Syria would very likely have originated with the Assad regime." The Syrian government has been battling a rebellion for more than two years, bringing international condemnation of the regime and pleas for greater international assistance. The United Nations estimated in February that more than 70,000 people had died since the conflict began. Caution urged The Obama administration said it is working to gather more information on the reports and is calling for a full-scale United Nations investigation into what may have happened. "Given the stakes involved, and what we have learned from our own recent experience, intelligence assessments alone are not sufficient -- only credible and corroborated facts that provide us with some degree of certainty will guide our decision-making," the letter said. What\'s next in Syria State Department spokesman Patrick Ventrell said the U.S. is working with its allies to get to the bottom of what may have happened. He said the intelligence assessments were "not the final corroborative facts we\'re looking for." "We want the highest possible level of confidence because of the seriousness of the matter," he said. Lawmakers call for action After the announcement, lawmakers on both sides of the aisle said the United States needs to take action, but offered different proposals for what the next steps should be. "It is clear that \'red lines\' have been crossed and action must be taken to prevent larger-scale use," Sen. Dianne Feinstein, D-California, said in a statement. "Syria has the ability to kill tens of thousands with its chemical weapons. The world must come together to prevent this by unified action which results in the secure containment of Syria\'s significant stockpile of chemical weapons." Rep. Eliot Engel, D-New York, said the U.S. government -- which currently supplies "nonlethal aid" to Syrian rebels -- must start "to immediately arm vetted elements of the Syrian opposition." Sen. John McCain, R-Arizona, urged the administration to work for the establishment of a safe zone for Syrian rebels. "Everything that the non-interventionists said would happen in Syria if we intervened has happened," he said. "The jihadists are on the ascendency, there is chemical weapons being used, the massacres continue. "The president of the United States said that if Bashar Assad used chemical weapons that it would be a game changer, that it would cross a red line," the Arizona senator said. "I think it is pretty obvious that red line has been crossed." Later, McCain said the reported use of chemical weapons was only a matter of time and that the United States "should have intervened a long time ago whether Bashar al-Assad was using them or not." "No one should be surprised that he would do such a thing. We all know he will do whatever\'s necessary to hang on to power," McCain told CNN\'s Jake Tapper on Thursday. "And why should, frankly, chemical weapons be a red line when he\'s slaughtering and massacring, raping and torturing, his own people?" Searching for e vidence The White House letter, signed by legislative affairs director Miguel Rodriguez, indicates that the assessment is based "in part on physiological samples." On Wednesday, Syrian Free Army leader Gen. Salim Idriss told CNN\'s Christiane Amanpour that the Syrian government has used chemical weapons in several places, including Homs, Aleppo and Otaiba, near Damascus. Idriss said rebel forces had some of the people reportedly exposed to chemical weapons examined by doctors, and they took soil and blood samples. "And the samples were tested, it was very clear that the regime used chemical weapons," he said. The British Foreign Office said Thursday that it had "limited but persuasive" evidence of chemical weapons use in Syria, and it urged al-Assad to allow unfettered access for international investigators. Ventrell told reporters on Thursday that allowing a team of U.N. experts to investigate would be the "most direct way" to find out what happened. "We have the U.N. ready to deploy inspectors on a couple of days notice. We\'re already pre-deploying out in the field near Syria and ready to go in," he said. "And you have the regime resisting a full and thorough and credible investigation within Syria. So we urge the regime to allow these inspectors in. That currently is the most direct route to getting to the bottom of what may have occurred." Read the letter to McCain (PDF) NATO leaders discus s the issue The administration disclosure comes two days after Secretary of State John Kerry urged NATO members to prepare for the possible use of chemical weapons by the Syrian regime, while Russia\'s foreign minister accused the West of politicizing the search for such weapons, comparing it to the hunt for weapons of mass destruction in Iraq. Russian Foreign Minister Sergei Lavrov warned Tuesday that reports of chemical weapons in Syria must be carefully investigated to avoid a repetition of the "Iraqi scenario" in which unconfirmed allegations that the regime of Saddam Hussein possessed weapons of mass destruction were the basis for the U.S.-led invasion. He accused Western nations of trying to "politicize the issue" and broadening the investigation. Experts were supposed to be sent to Syria to study the possible use of chemical weapons in Aleppo. Instead, Lavrov said, investigators demanded access to all facilities in Syria and the right to interview all Syrian citizens. "I believe that is too much," he said. NATO remains conflicted about Syria\'s two-year civil war. While members are concerned about the mounting causalities, millions of refugees and the potential for a wider regional spillover, they are loath to become embroiled in another Middle Eastern conflict. Israeli evidence Earlier this week an Israeli intelligence official said Damascus was using weapons banned under international law against its own people in the country\'s civil war. On Wednesday, Israeli President Shimon Peres said that he expected the United States to fall in line with its estimate on chemical weapons use in Syria. "I think the United States and us and others will do whatever we can to meet this very dangerous weapon," he said. "The sooner the better." Syria has said it is rebels who have used chemical weapons. Explainer: Chemical weapons frightful, relatively inexpensive Sarin gas is an odorless nerve agent that can cause convulsions, paralysis and respiratory failure. Nerve agents are the most toxic and rapidly acting of the known chemical warfare agents, according to the Centers for Disease Control and Prevention. Sarin quickly evaporates from liquid to vapor form to disperse into the environment. It also mixes easily with water and can poison a water supply.'
-p30
+p29
 sS'answers'
-p31
+p30
+(lp31
 (lp32
-(lp33
-S'3'
-p34
-ag34
-ag34
-ag34
-ag34
-ag34
-aS'1'
-p35
-aa(lp36
 S'5'
-p37
+p33
 aS'4'
-p38
-aS'2'
-p39
-ag38
-ag39
-ag39
+p34
+aS'3'
+p35
 ag35
-aa(lp40
-g37
-ag38
-ag38
+ag34
+ag35
+aS'1'
+p36
+aa(lp37
+g34
+ag33
+ag35
 ag34
 ag34
-ag38
+ag34
+ag36
+aa(lp38
+g34
+ag34
+ag34
+ag34
+ag34
+ag34
+ag34
+aa(lp39
+S'2'
+p40
+ag34
+ag34
 ag35
+ag34
+ag34
+ag36
 aa(lp41
-g38
-ag37
-ag39
-ag38
-ag34
-ag38
-ag35
-aa(lp42
-g38
-ag34
-ag38
-ag39
-ag38
-ag34
-ag35
+g35
+ag33
+ag36
+ag36
+ag36
+ag36
+ag36
 aasS'middle'
-p43
-(lp44
+p42
+(lp43
 S' In a letter sent to lawmakers before Hagel\'s announcement, the White House said that intelligence analysts have concluded "with varying degrees of confidence that the Syrian regime has used chemical weapons on a small scale in Syria, specifically the chemical agent sarin.'
-p45
+p44
 aS'" The White House cautioned that the "chain of custody" of the chemicals was not clear and that intelligence analysts could not confirm the circumstances under which the sarin was used, including the role of Syrian President Bashar al-Assad\'s regime.'
-p46
+p45
 aS'Read the letter to Sen. Carl Levin (PDF) But, the letter said, "we do believe that any use of chemical weapons in Syria would very likely have originated with the Assad regime.'
-p47
+p46
 aS'" The Syrian government has been battling a rebellion for more than two years, bringing international condemnation of the regime and pleas for greater international assistance.'
+p47
+aS'The United Nations estimated in February that more than 70,000 people had died since the conflict began.'
 p48
-aS'The United Nations estimated in February that more than 70,000 people had died since the conflict began.'
-p49
 aS'Caution urged The Obama administration said it is working to gather more information on the reports and is calling for a full-scale United Nations investigation into what may have happened.'
+p49
+aS'"Given the stakes involved, and what we have learned from our own recent experience, intelligence assessments alone are not sufficient -- only credible and corroborated facts that provide us with some degree of certainty will guide our decision-making," the letter said.'
 p50
-aS'"Given the stakes involved, and what we have learned from our own recent experience, intelligence assessments alone are not sufficient -- only credible and corroborated facts that provide us with some degree of certainty will guide our decision-making," the letter said.'
-p51
 aS"What's next in Syria State Department spokesman Patrick Ventrell said the U.S. is working with its allies to get to the bottom of what may have happened."
-p52
+p51
 aS'He said the intelligence assessments were "not the final corroborative facts we\'re looking for.'
-p53
+p52
 aS'" "We want the highest possible level of confidence because of the seriousness of the matter," he said.'
-p54
+p53
 aS'Lawmakers call for action After the announcement, lawmakers on both sides of the aisle said the United States needs to take action, but offered different proposals for what the next steps should be.'
-p55
+p54
 aS'"It is clear that \'red lines\' have been crossed and action must be taken to prevent larger-scale use," Sen. Dianne Feinstein, D-California, said in a statement.'
-p56
+p55
 aS'"Syria has the ability to kill tens of thousands with its chemical weapons.'
-p57
+p56
 aS"The world must come together to prevent this by unified action which results in the secure containment of Syria's significant stockpile of chemical weapons."
-p58
+p57
 aS'" Rep. Eliot Engel, D-New York, said the U.S. government -- which currently supplies "nonlethal aid" to Syrian rebels -- must start "to immediately arm vetted elements of the Syrian opposition.'
-p59
+p58
 aS'" Sen. John McCain, R-Arizona, urged the administration to work for the establishment of a safe zone for Syrian rebels.'
-p60
+p59
 aS'"Everything that the non-interventionists said would happen in Syria if we intervened has happened," he said.'
-p61
+p60
 aS'"The jihadists are on the ascendency, there is chemical weapons being used, the massacres continue.'
-p62
+p61
 aS'"The president of the United States said that if Bashar Assad used chemical weapons that it would be a game changer, that it would cross a red line," the Arizona senator said.'
-p63
+p62
 aS'"I think it is pretty obvious that red line has been crossed.'
-p64
+p63
 aS'" Later, McCain said the reported use of chemical weapons was only a matter of time and that the United States "should have intervened a long time ago whether Bashar al-Assad was using them or not.'
-p65
+p64
 aS'" "No one should be surprised that he would do such a thing.'
-p66
+p65
 aS'We all know he will do whatever\'s necessary to hang on to power," McCain told CNN\'s Jake Tapper on Thursday.'
-p67
+p66
 aS'"And why should, frankly, chemical weapons be a red line when he\'s slaughtering and massacring, raping and torturing, his own people?'
-p68
+p67
 aS'" Searching for e vidence The White House letter, signed by legislative affairs director Miguel Rodriguez, indicates that the assessment is based "in part on physiological samples.'
-p69
+p68
 aS'" On Wednesday, Syrian Free Army leader Gen. Salim Idriss told CNN\'s Christiane Amanpour that the Syrian government has used chemical weapons in several places, including Homs, Aleppo and Otaiba, near Damascus.'
+p69
+aS'Idriss said rebel forces had some of the people reportedly exposed to chemical weapons examined by doctors, and they took soil and blood samples.'
 p70
-aS'Idriss said rebel forces had some of the people reportedly exposed to chemical weapons examined by doctors, and they took soil and blood samples.'
+aS'"And the samples were tested, it was very clear that the regime used chemical weapons," he said.'
 p71
-aS'"And the samples were tested, it was very clear that the regime used chemical weapons," he said.'
+aS'The British Foreign Office said Thursday that it had "limited but persuasive" evidence of chemical weapons use in Syria, and it urged al-Assad to allow unfettered access for international investigators.'
 p72
-aS'The British Foreign Office said Thursday that it had "limited but persuasive" evidence of chemical weapons use in Syria, and it urged al-Assad to allow unfettered access for international investigators.'
+aS'Ventrell told reporters on Thursday that allowing a team of U.N. experts to investigate would be the "most direct way" to find out what happened.'
 p73
-aS'Ventrell told reporters on Thursday that allowing a team of U.N. experts to investigate would be the "most direct way" to find out what happened.'
-p74
 aS'"We have the U.N. ready to deploy inspectors on a couple of days notice.'
-p75
+p74
 aS'We\'re already pre-deploying out in the field near Syria and ready to go in," he said.'
-p76
+p75
 aS'"And you have the regime resisting a full and thorough and credible investigation within Syria.'
-p77
+p76
 aS'So we urge the regime to allow these inspectors in.'
-p78
+p77
 aS'That currently is the most direct route to getting to the bottom of what may have occurred.'
-p79
+p78
 aS'" Read the letter to McCain (PDF) NATO leaders discus s the issue The administration disclosure comes two days after Secretary of State John Kerry urged NATO members to prepare for the possible use of chemical weapons by the Syrian regime, while Russia\'s foreign minister accused the West of politicizing the search for such weapons, comparing it to the hunt for weapons of mass destruction in Iraq.'
+p79
+aS'Russian Foreign Minister Sergei Lavrov warned Tuesday that reports of chemical weapons in Syria must be carefully investigated to avoid a repetition of the "Iraqi scenario" in which unconfirmed allegations that the regime of Saddam Hussein possessed weapons of mass destruction were the basis for the U.S.-led invasion.'
 p80
-aS'Russian Foreign Minister Sergei Lavrov warned Tuesday that reports of chemical weapons in Syria must be carefully investigated to avoid a repetition of the "Iraqi scenario" in which unconfirmed allegations that the regime of Saddam Hussein possessed weapons of mass destruction were the basis for the U.S.-led invasion.'
-p81
 aS'He accused Western nations of trying to "politicize the issue" and broadening the investigation.'
-p82
+p81
 aS'Experts were supposed to be sent to Syria to study the possible use of chemical weapons in Aleppo.'
-p83
+p82
 aS'Instead, Lavrov said, investigators demanded access to all facilities in Syria and the right to interview all Syrian citizens.'
+p83
+aS'"I believe that is too much," he said.'
 p84
-aS'"I believe that is too much," he said.'
-p85
 aS"NATO remains conflicted about Syria's two-year civil war."
-p86
+p85
 aS'While members are concerned about the mounting causalities, millions of refugees and the potential for a wider regional spillover, they are loath to become embroiled in another Middle Eastern conflict.'
-p87
+p86
 aS"Israeli evidence Earlier this week an Israeli intelligence official said Damascus was using weapons banned under international law against its own people in the country's civil war."
+p87
+aS'On Wednesday, Israeli President Shimon Peres said that he expected the United States to fall in line with its estimate on chemical weapons use in Syria.'
 p88
-aS'On Wednesday, Israeli President Shimon Peres said that he expected the United States to fall in line with its estimate on chemical weapons use in Syria.'
-p89
 aS'"I think the United States and us and others will do whatever we can to meet this very dangerous weapon," he said.'
-p90
+p89
 aS'"The sooner the better.'
-p91
+p90
 aS'" Syria has said it is rebels who have used chemical weapons.'
+p91
+aS'Explainer: Chemical weapons frightful, relatively inexpensive'
 p92
-aS'Explainer: Chemical weapons frightful, relatively inexpensive'
-p93
 asS'paragraphs'
-p94
-(lp95
-g12
-ag13
+p93
+(lp94
+g11
+ag12
 aS'"We need all the facts. We need all the information," he said. "What I\'ve just given you is what our intelligence community has said they know. As I also said, they are still assessing, and they are still looking at what happened, who was responsible and the other specifics that we\'ll need."'
-p96
+p95
 aS'In a letter sent to lawmakers before Hagel\'s announcement, the White House said that intelligence analysts have concluded "with varying degrees of confidence that the Syrian regime has used chemical weapons on a small scale in Syria, specifically the chemical agent sarin."'
-p97
+p96
 aS'The White House cautioned that the "chain of custody" of the chemicals was not clear and that intelligence analysts could not confirm the circumstances under which the sarin was used, including the role of Syrian President Bashar al-Assad\'s regime.'
-p98
+p97
 aS'Read the letter to Sen. Carl Levin (PDF)'
-p99
+p98
 aS'But, the letter said, "we do believe that any use of chemical weapons in Syria would very likely have originated with the Assad regime."'
-p100
+p99
 aS'The Syrian government has been battling a rebellion for more than two years, bringing international condemnation of the regime and pleas for greater international assistance.'
-p101
+p100
 aS'The United Nations estimated in February that more than 70,000 people had died since the conflict began.'
-p102
+p101
 aS'Caution urged'
-p103
+p102
 aS'The Obama administration said it is working to gather more information on the reports and is calling for a full-scale United Nations investigation into what may have happened.'
-p104
+p103
 aS'"Given the stakes involved, and what we have learned from our own recent experience, intelligence assessments alone are not sufficient -- only credible and corroborated facts that provide us with some degree of certainty will guide our decision-making," the letter said.'
-p105
+p104
 aS"What's next in Syria"
-p106
+p105
 aS'State Department spokesman Patrick Ventrell said the U.S. is working with its allies to get to the bottom of what may have happened. He said the intelligence assessments were "not the final corroborative facts we\'re looking for."'
-p107
+p106
 aS'"We want the highest possible level of confidence because of the seriousness of the matter," he said.'
-p108
+p107
 aS'Lawmakers call for action'
-p109
+p108
 aS'After the announcement, lawmakers on both sides of the aisle said the United States needs to take action, but offered different proposals for what the next steps should be.'
-p110
+p109
 aS'"It is clear that \'red lines\' have been crossed and action must be taken to prevent larger-scale use," Sen. Dianne Feinstein, D-California, said in a statement. "Syria has the ability to kill tens of thousands with its chemical weapons. The world must come together to prevent this by unified action which results in the secure containment of Syria\'s significant stockpile of chemical weapons."'
-p111
+p110
 aS'Rep. Eliot Engel, D-New York, said the U.S. government -- which currently supplies "nonlethal aid" to Syrian rebels -- must start "to immediately arm vetted elements of the Syrian opposition."'
-p112
+p111
 aS'Sen. John McCain, R-Arizona, urged the administration to work for the establishment of a safe zone for Syrian rebels.'
-p113
+p112
 aS'"Everything that the non-interventionists said would happen in Syria if we intervened has happened," he said. "The jihadists are on the ascendency, there is chemical weapons being used, the massacres continue.'
-p114
+p113
 aS'"The president of the United States said that if Bashar Assad used chemical weapons that it would be a game changer, that it would cross a red line," the Arizona senator said. "I think it is pretty obvious that red line has been crossed."'
-p115
+p114
 aS'Later, McCain said the reported use of chemical weapons was only a matter of time and that the United States "should have intervened a long time ago whether Bashar al-Assad was using them or not."'
-p116
+p115
 aS'"No one should be surprised that he would do such a thing. We all know he will do whatever\'s necessary to hang on to power," McCain told CNN\'s Jake Tapper on Thursday. "And why should, frankly, chemical weapons be a red line when he\'s slaughtering and massacring, raping and torturing, his own people?"'
-p117
+p116
 aS'Searching for e vidence'
-p118
+p117
 aS'The White House letter, signed by legislative affairs director Miguel Rodriguez, indicates that the assessment is based "in part on physiological samples."'
-p119
+p118
 aS"On Wednesday, Syrian Free Army leader Gen. Salim Idriss told CNN's Christiane Amanpour that the Syrian government has used chemical weapons in several places, including Homs, Aleppo and Otaiba, near Damascus."
-p120
+p119
 aS'Idriss said rebel forces had some of the people reportedly exposed to chemical weapons examined by doctors, and they took soil and blood samples.'
-p121
+p120
 aS'"And the samples were tested, it was very clear that the regime used chemical weapons," he said.'
-p122
+p121
 aS'The British Foreign Office said Thursday that it had "limited but persuasive" evidence of chemical weapons use in Syria, and it urged al-Assad to allow unfettered access for international investigators.'
-p123
+p122
 aS'Ventrell told reporters on Thursday that allowing a team of U.N. experts to investigate would be the "most direct way" to find out what happened.'
-p124
+p123
 aS'"We have the U.N. ready to deploy inspectors on a couple of days notice. We\'re already pre-deploying out in the field near Syria and ready to go in," he said. "And you have the regime resisting a full and thorough and credible investigation within Syria. So we urge the regime to allow these inspectors in. That currently is the most direct route to getting to the bottom of what may have occurred."'
-p125
+p124
 aS'Read the letter to McCain (PDF)'
-p126
+p125
 aS'NATO leaders discus s the issue'
-p127
+p126
 aS"The administration disclosure comes two days after Secretary of State John Kerry urged NATO members to prepare for the possible use of chemical weapons by the Syrian regime, while Russia's foreign minister accused the West of politicizing the search for such weapons, comparing it to the hunt for weapons of mass destruction in Iraq."
-p128
+p127
 aS'Russian Foreign Minister Sergei Lavrov warned Tuesday that reports of chemical weapons in Syria must be carefully investigated to avoid a repetition of the "Iraqi scenario" in which unconfirmed allegations that the regime of Saddam Hussein possessed weapons of mass destruction were the basis for the U.S.-led invasion.'
-p129
+p128
 aS'He accused Western nations of trying to "politicize the issue" and broadening the investigation. Experts were supposed to be sent to Syria to study the possible use of chemical weapons in Aleppo. Instead, Lavrov said, investigators demanded access to all facilities in Syria and the right to interview all Syrian citizens.'
-p130
+p129
 aS'"I believe that is too much," he said.'
-p131
+p130
 aS"NATO remains conflicted about Syria's two-year civil war. While members are concerned about the mounting causalities, millions of refugees and the potential for a wider regional spillover, they are loath to become embroiled in another Middle Eastern conflict."
-p132
+p131
 aS'Israeli evidence'
-p133
+p132
 aS"Earlier this week an Israeli intelligence official said Damascus was using weapons banned under international law against its own people in the country's civil war."
-p134
+p133
 aS'On Wednesday, Israeli President Shimon Peres said that he expected the United States to fall in line with its estimate on chemical weapons use in Syria.'
-p135
+p134
 aS'"I think the United States and us and others will do whatever we can to meet this very dangerous weapon," he said. "The sooner the better."'
-p136
+p135
 aS'Syria has said it is rebels who have used chemical weapons.'
-p137
+p136
 aS'Explainer: Chemical weapons frightful, relatively inexpensive'
-p138
+p137
 aS'Sarin gas is an odorless nerve agent that can cause convulsions, paralysis and respiratory failure. Nerve agents are the most toxic and rapidly acting of the known chemical warfare agents, according to the Centers for Disease Control and Prevention.'
-p139
+p138
 aS'Sarin quickly evaporates from liquid to vapor form to disperse into the environment. It also mixes easily with water and can poison a water supply.'
-p140
+p139
 asba(i__main__
 Document
-p141
-(dp142
+p140
+(dp141
 g9
-(lp143
-(lp144
-S"WASHINGTON (AP) \xe2\x80\x94 Syria 's stockpile of chemical weapons could be a greater threat after that nation's president leaves power and could end up targeting Americans at home, lawmakers warned Sunday as they considered a U.S. response that stops short of sending military forces there."
+(lp142
+S"WASHINGTON (AP) \xc3\xa2\xe2\x82\xac\xe2\x80\x9d Syria 's stockpile of chemical weapons could be a greater threat after that nation's president leaves power and could end up targeting Americans at home, lawmakers warned Sunday as they considered a U.S. response that stops short of sending military forces there."
+p143
+aS'U.S. officials last week declared that the Syrian government probably had used chemical weapons twice in March, newly provocative acts in the 2-year civil war that has killed more than 70,000 people and displaced hundreds of thousands more.'
+p144
+aS'The U.S. assessment followed similar conclusions from Britain, France, Israel and Qatar \xc3\xa2\xe2\x82\xac\xe2\x80\x9d key allies eager for a more aggressive response to the Syrian conflict.'
 p145
-aaS'U.S. officials last week declared that the Syrian government probably had used chemical weapons twice in March, newly provocative acts in the 2-year civil war that has killed more than 70,000 people and displaced hundreds of thousands more.'
-p146
-aS'The U.S. assessment followed similar conclusions from Britain, France, Israel and Qatar \xe2\x80\x94 key allies eager for a more aggressive response to the Syrian conflict.'
-p147
-asg19
-(lp148
+asg18
+(lp146
 S'___ Follow Philip Elliott on Twitter: https://twitter.com/Philip_Elliott'
-p149
-asg25
+p147
+asg24
 S'Lawmakers: Syria chemical weapons could menace US - Yahoo! News'
-p150
-sg27
+p148
+sg26
 S'http://news.yahoo.com/lawmakers-syria-chemical-weapons-could-menace-us-154735931.html'
-p151
-sg29
-S'WASHINGTON (AP) \xe2\x80\x94 Syria \'s stockpile of chemical weapons could be a greater threat after that nation\'s president leaves power and could end up targeting Americans at home, lawmakers warned Sunday as they considered a U.S. response that stops short of sending military forces there. U.S. officials last week declared that the Syrian government probably had used chemical weapons twice in March, newly provocative acts in the 2-year civil war that has killed more than 70,000 people and displaced hundreds of thousands more. The U.S. assessment followed similar conclusions from Britain, France, Israel and Qatar \xe2\x80\x94 key allies eager for a more aggressive response to the Syrian conflict. President Barack Obama has said Syria\'s likely action \xe2\x80\x94 or the transfer of President Bashar Assad \'s stockpiles to terrorists \xe2\x80\x94 would cross a "red line" that would compel the United States to act. Lawmakers sought to remind viewers on Sunday news programs of Obama\'s declaration while discouraging a U.S. foothold on the ground there. "The president has laid down the line, and it can\'t be a dotted line. It can\'t be anything other than a red line," said House Intelligence Committee Chairman Rep. Mike Rogers, R-Mich. "And more than just Syria, Iran is paying attention to this. North Korea is paying attention to this." Added Sen. Saxby Chambliss , R-Ga.: "For America to sit on the sidelines and do nothing is a huge mistake." Obama has insisted that any use of chemical weapons would change his thinking about the United States \' role in Syria but said he didn\'t have enough information to order aggressive action. "For the Syrian government to utilize chemical weapons on its people crosses a line that will change my calculus and how the United States approaches these issues," Obama said Friday. But Rep. Jan Schakowsky, an Illinois Democrat, said Sunday the United States needs to consider those weapons. She said that when Assad leaves power, his opponents could have access to those weapons or they could fall into the hands of U.S. enemies. "The day after Assad is the day that these chemical weapons could be at risk ... (and) we could be in bigger, even bigger trouble," she said. Both sides of the civil war already accuse each other of using the chemical weapons. The deadliest such alleged attack was in the Khan al-Assal village in the Aleppo province in March. The Syrian government called for the United Nations to investigate alleged chemical weapons use by rebels in the attack that killed 31 people. Syria, however, has not allowed a team of experts into the country because it wants the investigation limited to the single Khan al-Assal incident, while U.N. Secretary-General Ban Ki-moon has urged "immediate and unfettered access" for an expanded investigation. One of Obama\'s chief antagonists on Syria, Sen. John McCain, R- Ariz., said the United States should go to Syria as part of an international force to safeguard the chemical weapons. But McCain added that he is not advocating sending ground troops to the nation. "The worst thing the United States could do right now is put boots on the ground on Syria. That would turn the people against us," McCain said. His friend, Sen. Lindsey Graham , R-S.C., also said the United States could safeguard the weapons without a ground force. But he cautioned the weapons must be protected for fear that Americans could be targeted. Raising the specter of the lethal bomb at the finish line of the Boston Marathon, Graham said the next attack on U.S. soil could employ weapons that were once part of Assad\'s arsenal. "Chemical weapons \xe2\x80\x94 enough to kill millions of people \xe2\x80\x94 are going to be compromised and fall into the wrong hands, and the next bomb that goes off in America may not have nails and glass in it," he said. Rogers and Schakowsky spoke to ABC\'s "This Week." Chambliss and Graham were interviewed on CBS\'s "Face the Nation." McCain appeared on NBC\'s "Meet the Press." ___ Follow Philip Elliott on Twitter: https://twitter.com/Philip_Elliott'
-p152
-sg31
-(lp153
-(lp154
-g37
-ag37
-ag38
-ag37
+p149
+sg28
+S'WASHINGTON (AP) \xc3\xa2\xe2\x82\xac\xe2\x80\x9d Syria \'s stockpile of chemical weapons could be a greater threat after that nation\'s president leaves power and could end up targeting Americans at home, lawmakers warned Sunday as they considered a U.S. response that stops short of sending military forces there. U.S. officials last week declared that the Syrian government probably had used chemical weapons twice in March, newly provocative acts in the 2-year civil war that has killed more than 70,000 people and displaced hundreds of thousands more. The U.S. assessment followed similar conclusions from Britain, France, Israel and Qatar \xc3\xa2\xe2\x82\xac\xe2\x80\x9d key allies eager for a more aggressive response to the Syrian conflict. President Barack Obama has said Syria\'s likely action \xc3\xa2\xe2\x82\xac\xe2\x80\x9d or the transfer of President Bashar Assad \'s stockpiles to terrorists \xc3\xa2\xe2\x82\xac\xe2\x80\x9d would cross a "red line" that would compel the United States to act. Lawmakers sought to remind viewers on Sunday news programs of Obama\'s declaration while discouraging a U.S. foothold on the ground there. "The president has laid down the line, and it can\'t be a dotted line. It can\'t be anything other than a red line," said House Intelligence Committee Chairman Rep. Mike Rogers, R-Mich. "And more than just Syria, Iran is paying attention to this. North Korea is paying attention to this." Added Sen. Saxby Chambliss , R-Ga.: "For America to sit on the sidelines and do nothing is a huge mistake." Obama has insisted that any use of chemical weapons would change his thinking about the United States \' role in Syria but said he didn\'t have enough information to order aggressive action. "For the Syrian government to utilize chemical weapons on its people crosses a line that will change my calculus and how the United States approaches these issues," Obama said Friday. But Rep. Jan Schakowsky, an Illinois Democrat, said Sunday the United States needs to consider those weapons. She said that when Assad leaves power, his opponents could have access to those weapons or they could fall into the hands of U.S. enemies. "The day after Assad is the day that these chemical weapons could be at risk ... (and) we could be in bigger, even bigger trouble," she said. Both sides of the civil war already accuse each other of using the chemical weapons. The deadliest such alleged attack was in the Khan al-Assal village in the Aleppo province in March. The Syrian government called for the United Nations to investigate alleged chemical weapons use by rebels in the attack that killed 31 people. Syria, however, has not allowed a team of experts into the country because it wants the investigation limited to the single Khan al-Assal incident, while U.N. Secretary-General Ban Ki-moon has urged "immediate and unfettered access" for an expanded investigation. One of Obama\'s chief antagonists on Syria, Sen. John McCain, R- Ariz., said the United States should go to Syria as part of an international force to safeguard the chemical weapons. But McCain added that he is not advocating sending ground troops to the nation. "The worst thing the United States could do right now is put boots on the ground on Syria. That would turn the people against us," McCain said. His friend, Sen. Lindsey Graham , R-S.C., also said the United States could safeguard the weapons without a ground force. But he cautioned the weapons must be protected for fear that Americans could be targeted. Raising the specter of the lethal bomb at the finish line of the Boston Marathon, Graham said the next attack on U.S. soil could employ weapons that were once part of Assad\'s arsenal. "Chemical weapons \xc3\xa2\xe2\x82\xac\xe2\x80\x9d enough to kill millions of people \xc3\xa2\xe2\x82\xac\xe2\x80\x9d are going to be compromised and fall into the wrong hands, and the next bomb that goes off in America may not have nails and glass in it," he said. Rogers and Schakowsky spoke to ABC\'s "This Week." Chambliss and Graham were interviewed on CBS\'s "Face the Nation." McCain appeared on NBC\'s "Meet the Press." ___ Follow Philip Elliott on Twitter: https://twitter.com/Philip_Elliott'
+p150
+sg30
+(lp151
+(lp152
+g34
+ag35
+ag34
+aa(lp153
+g33
+ag34
+ag34
+aa(lp154
+g34
+ag35
+ag35
 aa(lp155
 g34
 ag34
-ag34
-ag34
+ag33
 aa(lp156
-g37
-ag37
+g33
 ag34
-ag37
-aa(lp157
-g38
-ag38
 ag34
-ag38
-aa(lp158
-g37
-ag34
-ag38
-ag34
-aasg43
-(lp159
+aasg42
+(lp157
 S" Lawmakers sought to remind viewers on Sunday news programs of Obama's declaration while discouraging a U.S. foothold on the ground there."
-p160
+p158
 aS'"The president has laid down the line, and it can\'t be a dotted line.'
-p161
+p159
 aS'It can\'t be anything other than a red line," said House Intelligence Committee Chairman Rep. Mike Rogers, R-Mich. "And more than just Syria, Iran is paying attention to this.'
-p162
+p160
 aS'North Korea is paying attention to this.'
-p163
+p161
 aS'" Added Sen. Saxby Chambliss , R-Ga.: "For America to sit on the sidelines and do nothing is a huge mistake.'
-p164
+p162
 aS'" Obama has insisted that any use of chemical weapons would change his thinking about the United States \' role in Syria but said he didn\'t have enough information to order aggressive action.'
-p165
+p163
 aS'"For the Syrian government to utilize chemical weapons on its people crosses a line that will change my calculus and how the United States approaches these issues," Obama said Friday.'
-p166
+p164
 aS'But Rep. Jan Schakowsky, an Illinois Democrat, said Sunday the United States needs to consider those weapons.'
-p167
+p165
 aS'She said that when Assad leaves power, his opponents could have access to those weapons or they could fall into the hands of U.S. enemies.'
+p166
+aS'"The day after Assad is the day that these chemical weapons could be at risk ... (and) we could be in bigger, even bigger trouble," she said.'
+p167
+aS'Both sides of the civil war already accuse each other of using the chemical weapons.'
 p168
-aS'"The day after Assad is the day that these chemical weapons could be at risk ... (and) we could be in bigger, even bigger trouble," she said.'
-p169
-aS'Both sides of the civil war already accuse each other of using the chemical weapons.'
-p170
 aS'The deadliest such alleged attack was in the Khan al-Assal village in the Aleppo province in March.'
-p171
+p169
 aS'The Syrian government called for the United Nations to investigate alleged chemical weapons use by rebels in the attack that killed 31 people.'
-p172
+p170
 aS'Syria, however, has not allowed a team of experts into the country because it wants the investigation limited to the single Khan al-Assal incident, while U.N. Secretary-General Ban Ki-moon has urged "immediate and unfettered access" for an expanded investigation.'
-p173
+p171
 aS"One of Obama's chief antagonists on Syria, Sen. John McCain, R- Ariz., said the United States should go to Syria as part of an international force to safeguard the chemical weapons."
-p174
+p172
 aS'But McCain added that he is not advocating sending ground troops to the nation.'
-p175
+p173
 aS'"The worst thing the United States could do right now is put boots on the ground on Syria.'
-p176
+p174
 aS'That would turn the people against us," McCain said.'
-p177
+p175
 aS'His friend, Sen. Lindsey Graham , R-S.C., also said the United States could safeguard the weapons without a ground force.'
-p178
+p176
 aS'But he cautioned the weapons must be protected for fear that Americans could be targeted.'
-p179
+p177
 aS"Raising the specter of the lethal bomb at the finish line of the Boston Marathon, Graham said the next attack on U.S. soil could employ weapons that were once part of Assad's arsenal."
-p180
-aS'"Chemical weapons \xe2\x80\x94 enough to kill millions of people \xe2\x80\x94 are going to be compromised and fall into the wrong hands, and the next bomb that goes off in America may not have nails and glass in it," he said.'
-p181
+p178
+aS'"Chemical weapons \xc3\xa2\xe2\x82\xac\xe2\x80\x9d enough to kill millions of people \xc3\xa2\xe2\x82\xac\xe2\x80\x9d are going to be compromised and fall into the wrong hands, and the next bomb that goes off in America may not have nails and glass in it," he said.'
+p179
 aS'Rogers and Schakowsky spoke to ABC\'s "This Week.'
-p182
+p180
 aS'" Chambliss and Graham were interviewed on CBS\'s "Face the Nation.'
-p183
+p181
 aS'" McCain appeared on NBC\'s "Meet the Press.'
+p182
+ag17
+asg93
+(lp183
+g143
+aS'U.S. officials last week declared that the Syrian government probably had used chemical weapons twice in March, newly provocative acts in the 2-year civil war that has killed more than 70,000 people and displaced hundreds of thousands more. The U.S. assessment followed similar conclusions from Britain, France, Israel and Qatar \xc3\xa2\xe2\x82\xac\xe2\x80\x9d key allies eager for a more aggressive response to the Syrian conflict.'
 p184
-ag18
-asg94
-(lp185
-g145
-aS'U.S. officials last week declared that the Syrian government probably had used chemical weapons twice in March, newly provocative acts in the 2-year civil war that has killed more than 70,000 people and displaced hundreds of thousands more. The U.S. assessment followed similar conclusions from Britain, France, Israel and Qatar \xe2\x80\x94 key allies eager for a more aggressive response to the Syrian conflict.'
-p186
-aS'President Barack Obama has said Syria\'s likely action \xe2\x80\x94 or the transfer of President Bashar Assad \'s stockpiles to terrorists \xe2\x80\x94 would cross a "red line" that would compel the United States to act.'
-p187
+aS'President Barack Obama has said Syria\'s likely action \xc3\xa2\xe2\x82\xac\xe2\x80\x9d or the transfer of President Bashar Assad \'s stockpiles to terrorists \xc3\xa2\xe2\x82\xac\xe2\x80\x9d would cross a "red line" that would compel the United States to act.'
+p185
 aS"Lawmakers sought to remind viewers on Sunday news programs of Obama's declaration while discouraging a U.S. foothold on the ground there."
-p188
+p186
 aS'"The president has laid down the line, and it can\'t be a dotted line. It can\'t be anything other than a red line," said House Intelligence Committee Chairman Rep. Mike Rogers, R-Mich. "And more than just Syria, Iran is paying attention to this. North Korea is paying attention to this."'
-p189
+p187
 aS'Added Sen. Saxby Chambliss , R-Ga.: "For America to sit on the sidelines and do nothing is a huge mistake."'
-p190
+p188
 aS"Obama has insisted that any use of chemical weapons would change his thinking about the United States ' role in Syria but said he didn't have enough information to order aggressive action."
-p191
+p189
 aS'"For the Syrian government to utilize chemical weapons on its people crosses a line that will change my calculus and how the United States approaches these issues," Obama said Friday.'
-p192
+p190
 aS'But Rep. Jan Schakowsky, an Illinois Democrat, said Sunday the United States needs to consider those weapons. She said that when Assad leaves power, his opponents could have access to those weapons or they could fall into the hands of U.S. enemies.'
-p193
+p191
 aS'"The day after Assad is the day that these chemical weapons could be at risk ... (and) we could be in bigger, even bigger trouble," she said.'
-p194
+p192
 aS'Both sides of the civil war already accuse each other of using the chemical weapons.'
-p195
+p193
 aS'The deadliest such alleged attack was in the Khan al-Assal village in the Aleppo province in March. The Syrian government called for the United Nations to investigate alleged chemical weapons use by rebels in the attack that killed 31 people.'
-p196
+p194
 aS'Syria, however, has not allowed a team of experts into the country because it wants the investigation limited to the single Khan al-Assal incident, while U.N. Secretary-General Ban Ki-moon has urged "immediate and unfettered access" for an expanded investigation.'
-p197
+p195
 aS"One of Obama's chief antagonists on Syria, Sen. John McCain, R- Ariz., said the United States should go to Syria as part of an international force to safeguard the chemical weapons. But McCain added that he is not advocating sending ground troops to the nation."
-p198
+p196
 aS'"The worst thing the United States could do right now is put boots on the ground on Syria. That would turn the people against us," McCain said.'
-p199
+p197
 aS"His friend, Sen. Lindsey Graham , R-S.C., also said the United States could safeguard the weapons without a ground force. But he cautioned the weapons must be protected for fear that Americans could be targeted. Raising the specter of the lethal bomb at the finish line of the Boston Marathon, Graham said the next attack on U.S. soil could employ weapons that were once part of Assad's arsenal."
-p200
-aS'"Chemical weapons \xe2\x80\x94 enough to kill millions of people \xe2\x80\x94 are going to be compromised and fall into the wrong hands, and the next bomb that goes off in America may not have nails and glass in it," he said.'
-p201
+p198
+aS'"Chemical weapons \xc3\xa2\xe2\x82\xac\xe2\x80\x9d enough to kill millions of people \xc3\xa2\xe2\x82\xac\xe2\x80\x9d are going to be compromised and fall into the wrong hands, and the next bomb that goes off in America may not have nails and glass in it," he said.'
+p199
 aS'Rogers and Schakowsky spoke to ABC\'s "This Week." Chambliss and Graham were interviewed on CBS\'s "Face the Nation." McCain appeared on NBC\'s "Meet the Press."'
-p202
+p200
 aS'___'
-p203
+p201
 aS'Follow Philip Elliott on Twitter: https://twitter.com/Philip_Elliott'
-p204
+p202
 asba(i__main__
 Document
-p205
-(dp206
+p203
+(dp204
 g9
-(lp207
-(lp208
+(lp205
 S'WASHINGTON \xe2\x80\x94 The White House said Thursday that it believes the Syrian government has used chemical weapons in its civil war, an assessment that could test President Obama\xe2\x80\x99s repeated warnings that such an attack could precipitate American intervention in Syria .'
-p209
-aaS'The White House, in a letter to Congressional leaders, said the nation\xe2\x80\x99s intelligence agencies assessed \xe2\x80\x9cwith varying degrees of confidence\xe2\x80\x9d that the government of President Bashar al-Assad had used the chemical agent sarin on a small scale.'
-p210
+p206
+aS'The White House, in a letter to Congressional leaders, said the nation\xe2\x80\x99s intelligence agencies assessed \xe2\x80\x9cwith varying degrees of confidence\xe2\x80\x9d that the government of President Bashar al-Assad had used the chemical agent sarin on a small scale.'
+p207
 aS'But it said more conclusive evidence was needed before Mr. Obama would take action, referring obliquely to both the Bush administration\xe2\x80\x99s use of faulty intelligence in the march to war in Iraq and the ramifications of any decision to enter another conflict in the Middle East.'
-p211
-asg19
-(lp212
+p208
+asg18
+(lp209
 S'Lawmakers generally welcomed the White House\xe2\x80\x99s disclosure, though some suggested that the administration was still inclined to play down the implications of the assessment.'
-p213
+p210
 aS'\xe2\x80\x9cIt is important that we read the intelligence as it is laid out, not as we would like it to be,\xe2\x80\x9d said Representative Mike Rogers, Republican of Michigan and the chairman of the House Intelligence Committee.'
-p214
-asg25
+p211
+asg24
 S'White House Says It Believes Syria Has Used Chemical Arms'
-p215
-sg27
+p212
+sg26
 S'http://www.nytimes.com/2013/04/26/world/middleeast/us-says-it-suspects-assad-used-chemical-weapons.html?pagewanted=all'
-p216
-sg29
+p213
+sg28
 S'WASHINGTON \xe2\x80\x94 The White House said Thursday that it believes the Syrian government has used chemical weapons in its civil war, an assessment that could test President Obama\xe2\x80\x99s repeated warnings that such an attack could precipitate American intervention in Syria . The White House, in a letter to Congressional leaders, said the nation\xe2\x80\x99s intelligence agencies assessed \xe2\x80\x9cwith varying degrees of confidence\xe2\x80\x9d that the government of President Bashar al-Assad had used the chemical agent sarin on a small scale. But it said more conclusive evidence was needed before Mr. Obama would take action, referring obliquely to both the Bush administration\xe2\x80\x99s use of faulty intelligence in the march to war in Iraq and the ramifications of any decision to enter another conflict in the Middle East. Senator Dianne Feinstein, Democrat of California, who is chairwoman of the Senate Intelligence Committee, said the agencies actually expressed more certainty about the use of these weapons than the White House indicated in its letter. She said Thursday that they voiced medium to high confidence in their assessment, which officials said was based on the testing of soil samples and blood drawn from people who had been wounded. American officials said the attacks, which occurred last month in a village near Aleppo and in the outskirts of Damascus , had not been definitively connected to Mr. Assad. The White House said the \xe2\x80\x9cchain of custody\xe2\x80\x9d of the weapons was not clear, raising questions about whether the attacks were deliberate or accidental. \xe2\x80\x9cGiven the stakes involved, and what we have learned from our own recent experience, intelligence assessments alone are not sufficient,\xe2\x80\x9d the White House said in the letter, which was signed by its legislative director, Miguel E. Rodriguez. \xe2\x80\x9cOnly credible and corroborated facts that provide us with some degree of certainty will guide our decision-making.\xe2\x80\x9d That meticulously legal language did not disguise a thorny political and foreign policy problem for Mr. Obama: he has long resisted the calls to arm the Syrian rebels and has expressed deep doubts about the wisdom of intervening in an Arab nation so riven with sectarian strife, although he has also issued pointed warnings to Syria. In a statement last summer, Mr. Obama did not offer a technical definition of his \xe2\x80\x9cred line\xe2\x80\x9d for taking action, but said it was when \xe2\x80\x9cwe start seeing a whole bunch of weapons moving around or being utilized.\xe2\x80\x9d In Jerusalem last month, he said proof that Syria had used such weapons would be a \xe2\x80\x9cgame changer\xe2\x80\x9d for American involvement . The Pentagon, administration officials said, has prepared the president a menu of options that include commando raids that would secure chemical weapons stockpiles and strikes on Syrian planes from American ships in the Mediterranean. Last year, the United States secretly sent a 150-member task force to Jordan to help deal with the possibility that Syria would lose control of its stockpiles. Mr. Obama could also provide more robust aid to the rebels, including weapons. White House officials gave no indication of what Mr. Obama might do, except to say that any American action would be taken in concert with its allies. While lawmakers from both parties swiftly declared that the president\xe2\x80\x99s red line had been breached, they differed on what he should do about it. \xe2\x80\x9cThe political reality is that he put himself in that position that if the \xe2\x80\x98red line\xe2\x80\x99 is crossed \xe2\x80\x94 he made it very clear \xe2\x80\x94 it would change his behavior,\xe2\x80\x9d Senator John McCain, Republican of Arizona, said. The intelligence \xe2\x80\x9cis a compelling argument for the president to take the measures that a lot of us have been arguing for all along,\xe2\x80\x9d he said. The timing of the White House disclosure also suggested the pressures it is facing. It came the same day that the British government said that it had \xe2\x80\x9climited but persuasive\xe2\x80\x9d evidence of the use of chemical weapons, and two days after an Israeli military intelligence official asserted that Syria had repeatedly used chemical weapons. In a letter to the United Nations secretary general, Ban Ki-moon, several weeks ago calling for a United Nations investigation, Britain laid out evidence of the attacks in Aleppo and near Damascus as well as an earlier one in Homs. The letter, a copy of which was obtained by The New York Times, reported that dozens of victims were treated at hospitals for shortness of breath, convulsions and dilation of the pupils, common symptoms of exposure to chemical warfare agents. Doctors reported eye irritation and fatigue after close exposure to the patients. Citing its links to contacts in the Syrian opposition, Britain said there were reports of 15 deaths in the suburban Damascus attack and up to 10 in Aleppo, where the government and rebels have each accused the other of using chemical weapons. \xe2\x80\x9cFortunately the deaths have not been high,\xe2\x80\x9d Senator Feinstein said, \xe2\x80\x9cbut there have been deaths.\xe2\x80\x9d The United States has also pushed for a United Nations investigation, but it made clear on Thursday that it has collected enough evidence on its own and with Britain and other countries to make its assessment. An official said the United States was also suspicious about the attack in Homs. While several officials said the intelligence agencies expressed medium to high confidence about its overall assessment, two intelligence officials noted that there were components of the assessment about which the agencies were less certain. They did not offer details. Administration officials had begun the week casting doubt on the claims made by the Israeli official, Brig. Gen. Itai Brun, about chemical weapons. \xe2\x80\x9cSuspicions are one thing; evidence is another,\xe2\x80\x9d Defense Secretary Chuck Hagel said Wednesday on a visit to Egypt. But by then, a senior administration official said, the intelligence agencies had already become more confident of their assessment, after several weeks of examining the evidence. With Secretary of State John Kerry scheduled to brief senators on Syria on Thursday, the White House decided on Wednesday evening to get ahead of that meeting. The administration\xe2\x80\x99s disclosure came in a response to Mr. McCain, a senior member of the Senate Armed Services Committee, and the committee\xe2\x80\x99s chairman, Senator Carl Levin of Michigan, who wrote to the White House asking whether Mr. Assad or his supporters had used chemical weapons during the two-year-long war. \xe2\x80\x9cGiven the fact that we have been developing additional information within our intelligence community,\xe2\x80\x9d a White House official said to reporters, \xe2\x80\x9cwe felt it was the right and prudent thing to do to respond in an unclassified form to this letter.\xe2\x80\x9d Lawmakers generally welcomed the White House\xe2\x80\x99s disclosure, though some suggested that the administration was still inclined to play down the implications of the assessment. \xe2\x80\x9cIt is important that we read the intelligence as it is laid out, not as we would like it to be,\xe2\x80\x9d said Representative Mike Rogers, Republican of Michigan and the chairman of the House Intelligence Committee.'
-p217
-sg31
-(lp218
-(lp219
-g37
-ag37
-ag37
+p214
+sg30
+(lp215
+(lp216
+g33
+ag34
+ag33
+aa(lp217
+g33
+ag34
+ag34
+aa(lp218
+g35
+ag34
+ag35
+aa(lp219
+g34
+ag33
+ag35
 aa(lp220
-g37
-ag38
-ag37
-aa(lp221
-g34
+g35
+ag33
 ag34
-ag34
-aa(lp222
-g37
-ag37
-ag38
-aa(lp223
-g37
-ag38
-ag38
-aasg43
-(lp224
+aasg42
+(lp221
 S' Senator Dianne Feinstein, Democrat of California, who is chairwoman of the Senate Intelligence Committee, said the agencies actually expressed more certainty about the use of these weapons than the White House indicated in its letter.'
-p225
+p222
 aS'She said Thursday that they voiced medium to high confidence in their assessment, which officials said was based on the testing of soil samples and blood drawn from people who had been wounded.'
-p226
+p223
 aS'American officials said the attacks, which occurred last month in a village near Aleppo and in the outskirts of Damascus , had not been definitively connected to Mr. Assad.'
-p227
+p224
 aS'The White House said the \xe2\x80\x9cchain of custody\xe2\x80\x9d of the weapons was not clear, raising questions about whether the attacks were deliberate or accidental.'
-p228
+p225
 aS'\xe2\x80\x9cGiven the stakes involved, and what we have learned from our own recent experience, intelligence assessments alone are not sufficient,\xe2\x80\x9d the White House said in the letter, which was signed by its legislative director, Miguel E. Rodriguez.'
-p229
+p226
 aS'\xe2\x80\x9cOnly credible and corroborated facts that provide us with some degree of certainty will guide our decision-making.\xe2\x80\x9d That meticulously legal language did not disguise a thorny political and foreign policy problem for Mr. Obama: he has long resisted the calls to arm the Syrian rebels and has expressed deep doubts about the wisdom of intervening in an Arab nation so riven with sectarian strife, although he has also issued pointed warnings to Syria.'
-p230
+p227
 aS'In a statement last summer, Mr. Obama did not offer a technical definition of his \xe2\x80\x9cred line\xe2\x80\x9d for taking action, but said it was when \xe2\x80\x9cwe start seeing a whole bunch of weapons moving around or being utilized.\xe2\x80\x9d In Jerusalem last month, he said proof that Syria had used such weapons would be a \xe2\x80\x9cgame changer\xe2\x80\x9d for American involvement .'
-p231
+p228
 aS'The Pentagon, administration officials said, has prepared the president a menu of options that include commando raids that would secure chemical weapons stockpiles and strikes on Syrian planes from American ships in the Mediterranean.'
-p232
+p229
 aS'Last year, the United States secretly sent a 150-member task force to Jordan to help deal with the possibility that Syria would lose control of its stockpiles.'
-p233
+p230
 aS'Mr. Obama could also provide more robust aid to the rebels, including weapons.'
-p234
+p231
 aS'White House officials gave no indication of what Mr. Obama might do, except to say that any American action would be taken in concert with its allies.'
-p235
+p232
 aS'While lawmakers from both parties swiftly declared that the president\xe2\x80\x99s red line had been breached, they differed on what he should do about it.'
-p236
+p233
 aS'\xe2\x80\x9cThe political reality is that he put himself in that position that if the \xe2\x80\x98red line\xe2\x80\x99 is crossed \xe2\x80\x94 he made it very clear \xe2\x80\x94 it would change his behavior,\xe2\x80\x9d Senator John McCain, Republican of Arizona, said.'
-p237
+p234
 aS'The intelligence \xe2\x80\x9cis a compelling argument for the president to take the measures that a lot of us have been arguing for all along,\xe2\x80\x9d he said.'
-p238
+p235
 aS'The timing of the White House disclosure also suggested the pressures it is facing.'
-p239
+p236
 aS'It came the same day that the British government said that it had \xe2\x80\x9climited but persuasive\xe2\x80\x9d evidence of the use of chemical weapons, and two days after an Israeli military intelligence official asserted that Syria had repeatedly used chemical weapons.'
-p240
+p237
 aS'In a letter to the United Nations secretary general, Ban Ki-moon, several weeks ago calling for a United Nations investigation, Britain laid out evidence of the attacks in Aleppo and near Damascus as well as an earlier one in Homs.'
-p241
+p238
 aS'The letter, a copy of which was obtained by The New York Times, reported that dozens of victims were treated at hospitals for shortness of breath, convulsions and dilation of the pupils, common symptoms of exposure to chemical warfare agents.'
-p242
+p239
 aS'Doctors reported eye irritation and fatigue after close exposure to the patients.'
-p243
+p240
 aS'Citing its links to contacts in the Syrian opposition, Britain said there were reports of 15 deaths in the suburban Damascus attack and up to 10 in Aleppo, where the government and rebels have each accused the other of using chemical weapons.'
-p244
+p241
 aS'\xe2\x80\x9cFortunately the deaths have not been high,\xe2\x80\x9d Senator Feinstein said, \xe2\x80\x9cbut there have been deaths.\xe2\x80\x9d The United States has also pushed for a United Nations investigation, but it made clear on Thursday that it has collected enough evidence on its own and with Britain and other countries to make its assessment.'
-p245
+p242
 aS'An official said the United States was also suspicious about the attack in Homs.'
-p246
+p243
 aS'While several officials said the intelligence agencies expressed medium to high confidence about its overall assessment, two intelligence officials noted that there were components of the assessment about which the agencies were less certain.'
-p247
+p244
 aS'They did not offer details.'
-p248
+p245
 aS'Administration officials had begun the week casting doubt on the claims made by the Israeli official, Brig.'
-p249
+p246
 aS'Gen. Itai Brun, about chemical weapons.'
-p250
+p247
 aS'\xe2\x80\x9cSuspicions are one thing; evidence is another,\xe2\x80\x9d Defense Secretary Chuck Hagel said Wednesday on a visit to Egypt.'
-p251
+p248
 aS'But by then, a senior administration official said, the intelligence agencies had already become more confident of their assessment, after several weeks of examining the evidence.'
-p252
+p249
 aS'With Secretary of State John Kerry scheduled to brief senators on Syria on Thursday, the White House decided on Wednesday evening to get ahead of that meeting.'
-p253
+p250
 aS'The administration\xe2\x80\x99s disclosure came in a response to Mr. McCain, a senior member of the Senate Armed Services Committee, and the committee\xe2\x80\x99s chairman, Senator Carl Levin of Michigan, who wrote to the White House asking whether Mr. Assad or his supporters had used chemical weapons during the two-year-long war.'
-p254
+p251
 aS'\xe2\x80\x9cGiven the fact that we have been developing additional information within our intelligence community,\xe2\x80\x9d a White House official said to reporters, \xe2\x80\x9cwe felt it was the right and prudent thing to do to respond in an unclassified form to this letter.\xe2\x80\x9d'
-p255
-asg94
-(lp256
-g209
-ag210
-ag211
+p252
+asg93
+(lp253
+g206
+ag207
+ag208
 aS'Senator Dianne Feinstein, Democrat of California, who is chairwoman of the Senate Intelligence Committee, said the agencies actually expressed more certainty about the use of these weapons than the White House indicated in its letter. She said Thursday that they voiced medium to high confidence in their assessment, which officials said was based on the testing of soil samples and blood drawn from people who had been wounded.'
-p257
+p254
 aS'American officials said the attacks, which occurred last month in a village near Aleppo and in the outskirts of Damascus , had not been definitively connected to Mr. Assad. The White House said the \xe2\x80\x9cchain of custody\xe2\x80\x9d of the weapons was not clear, raising questions about whether the attacks were deliberate or accidental.'
-p258
+p255
 aS'\xe2\x80\x9cGiven the stakes involved, and what we have learned from our own recent experience, intelligence assessments alone are not sufficient,\xe2\x80\x9d the White House said in the letter, which was signed by its legislative director, Miguel E. Rodriguez. \xe2\x80\x9cOnly credible and corroborated facts that provide us with some degree of certainty will guide our decision-making.\xe2\x80\x9d'
-p259
+p256
 aS'That meticulously legal language did not disguise a thorny political and foreign policy problem for Mr. Obama: he has long resisted the calls to arm the Syrian rebels and has expressed deep doubts about the wisdom of intervening in an Arab nation so riven with sectarian strife, although he has also issued pointed warnings to Syria.'
-p260
+p257
 aS'In a statement last summer, Mr. Obama did not offer a technical definition of his \xe2\x80\x9cred line\xe2\x80\x9d for taking action, but said it was when \xe2\x80\x9cwe start seeing a whole bunch of weapons moving around or being utilized.\xe2\x80\x9d In Jerusalem last month, he said proof that Syria had used such weapons would be a \xe2\x80\x9cgame changer\xe2\x80\x9d for American involvement .'
-p261
+p258
 aS'The Pentagon, administration officials said, has prepared the president a menu of options that include commando raids that would secure chemical weapons stockpiles and strikes on Syrian planes from American ships in the Mediterranean. Last year, the United States secretly sent a 150-member task force to Jordan to help deal with the possibility that Syria would lose control of its stockpiles. Mr. Obama could also provide more robust aid to the rebels, including weapons.'
-p262
+p259
 aS'White House officials gave no indication of what Mr. Obama might do, except to say that any American action would be taken in concert with its allies.'
-p263
+p260
 aS'While lawmakers from both parties swiftly declared that the president\xe2\x80\x99s red line had been breached, they differed on what he should do about it.'
-p264
+p261
 aS'\xe2\x80\x9cThe political reality is that he put himself in that position that if the \xe2\x80\x98red line\xe2\x80\x99 is crossed \xe2\x80\x94 he made it very clear \xe2\x80\x94 it would change his behavior,\xe2\x80\x9d Senator John McCain, Republican of Arizona, said. The intelligence \xe2\x80\x9cis a compelling argument for the president to take the measures that a lot of us have been arguing for all along,\xe2\x80\x9d he said.'
-p265
+p262
 aS'The timing of the White House disclosure also suggested the pressures it is facing. It came the same day that the British government said that it had \xe2\x80\x9climited but persuasive\xe2\x80\x9d evidence of the use of chemical weapons, and two days after an Israeli military intelligence official asserted that Syria had repeatedly used chemical weapons.'
-p266
+p263
 aS'In a letter to the United Nations secretary general, Ban Ki-moon, several weeks ago calling for a United Nations investigation, Britain laid out evidence of the attacks in Aleppo and near Damascus as well as an earlier one in Homs.'
-p267
+p264
 aS'The letter, a copy of which was obtained by The New York Times, reported that dozens of victims were treated at hospitals for shortness of breath, convulsions and dilation of the pupils, common symptoms of exposure to chemical warfare agents. Doctors reported eye irritation and fatigue after close exposure to the patients.'
-p268
+p265
 aS'Citing its links to contacts in the Syrian opposition, Britain said there were reports of 15 deaths in the suburban Damascus attack and up to 10 in Aleppo, where the government and rebels have each accused the other of using chemical weapons.'
-p269
+p266
 aS'\xe2\x80\x9cFortunately the deaths have not been high,\xe2\x80\x9d Senator Feinstein said, \xe2\x80\x9cbut there have been deaths.\xe2\x80\x9d'
-p270
+p267
 aS'The United States has also pushed for a United Nations investigation, but it made clear on Thursday that it has collected enough evidence on its own and with Britain and other countries to make its assessment. An official said the United States was also suspicious about the attack in Homs.'
-p271
+p268
 aS'While several officials said the intelligence agencies expressed medium to high confidence about its overall assessment, two intelligence officials noted that there were components of the assessment about which the agencies were less certain. They did not offer details.'
-p272
+p269
 aS'Administration officials had begun the week casting doubt on the claims made by the Israeli official, Brig. Gen. Itai Brun, about chemical weapons. \xe2\x80\x9cSuspicions are one thing; evidence is another,\xe2\x80\x9d Defense Secretary Chuck Hagel said Wednesday on a visit to Egypt.'
-p273
+p270
 aS'But by then, a senior administration official said, the intelligence agencies had already become more confident of their assessment, after several weeks of examining the evidence. With Secretary of State John Kerry scheduled to brief senators on Syria on Thursday, the White House decided on Wednesday evening to get ahead of that meeting.'
-p274
+p271
 aS'The administration\xe2\x80\x99s disclosure came in a response to Mr. McCain, a senior member of the Senate Armed Services Committee, and the committee\xe2\x80\x99s chairman, Senator Carl Levin of Michigan, who wrote to the White House asking whether Mr. Assad or his supporters had used chemical weapons during the two-year-long war.'
-p275
+p272
 aS'\xe2\x80\x9cGiven the fact that we have been developing additional information within our intelligence community,\xe2\x80\x9d a White House official said to reporters, \xe2\x80\x9cwe felt it was the right and prudent thing to do to respond in an unclassified form to this letter.\xe2\x80\x9d'
-p276
+p273
 aS'Lawmakers generally welcomed the White House\xe2\x80\x99s disclosure, though some suggested that the administration was still inclined to play down the implications of the assessment.'
-p277
+p274
 aS'\xe2\x80\x9cIt is important that we read the intelligence as it is laid out, not as we would like it to be,\xe2\x80\x9d said Representative Mike Rogers, Republican of Michigan and the chairman of the House Intelligence Committee.'
-p278
+p275
 asba(i__main__
 Document
+p276
+(dp277
+g9
+(lp278
+S"ANTAKYA, Turkey \xc3\xa2\xe2\x82\xac\xe2\x80\x9d Syrian activists have lashed out at signs the U.S. remains reluctant to intervene in the country's civil war despite growing evidence President Bashar al-Assad's forces have used chemical weapons against his people."
 p279
-(dp280
-g9
-(lp281
-(lp282
-S'BEIRUT \xe2\x80\x94 The instances in which chemical weapons are alleged to have been used in Syria were purportedly small in scale: nothing along the lines of Saddam Hussein\xe2\x80\x99s 1988 attack in Kurdish Iraq that killed thousands.'
-p283
-aaS'That raises the question of who would stand to gain as President Bashar Assad\xe2\x80\x99s regime and the opposition trade blame for the alleged attacks, and proof remains elusive.'
-p284
-aS'Analysts say the answer could lie in the past \xe2\x80\x94 the regime has a pattern of gradually introducing a weapon to the conflict to test the international community\xe2\x80\x99s response.'
-p285
-asg19
-(lp286
-S'The slow introduction of a weapon to gauge the West\xe2\x80\x99s response fits a pattern of behavior the Assad regime has demonstrated since the uprising began in March 2011, according to Joseph Holliday, a Syria analyst at the Washington-based Institute for the Study of War.'
-p287
-aS'When largely peaceful protesters initially took to the streets, the regime responded with small arms fire and a wave of arrests.'
-p288
-aS'As the government ramped up its violent crackdown, the opposition began to take up arms in late 2011, prompting yet another escalation in force by the regime.'
-p289
-asg25
-S'Alleged chemical arms use in Syria appears to fit pattern of gradual introduction of weapons'
-p290
-sg27
-S'http://www.washingtonpost.com/world/middle_east/alleged-chemical-arms-use-in-syria-appears-to-fit-pattern-of-gradual-introduction-of-weapons/2013/04/28/306e5dc8-b038-11e2-9fb1-62de9581c946_story.html'
-p291
-sg29
-S'BEIRUT \xe2\x80\x94 The instances in which chemical weapons are alleged to have been used in Syria were purportedly small in scale: nothing along the lines of Saddam Hussein\xe2\x80\x99s 1988 attack in Kurdish Iraq that killed thousands. That raises the question of who would stand to gain as President Bashar Assad\xe2\x80\x99s regime and the opposition trade blame for the alleged attacks, and proof remains elusive. Analysts say the answer could lie in the past \xe2\x80\x94 the regime has a pattern of gradually introducing a weapon to the conflict to test the international community\xe2\x80\x99s response. The U.S. said last week that intelligence indicates the Syrian military has likely used sarin, a deadly nerve agent, on at least two occasions in the civil war, echoing similar assessments from Israel, France and Britain. Syria\xe2\x80\x99s rebels accuse the regime of firing chemical weapons on at least four occasions, while the government denies the charges and says opposition fighters have used chemical agents in a bid to frame it. But using chemical weapons to try to force foreign intervention would be a huge gamble for the opposition, and one that could easily backfire. It would undoubtedly taint the rebellion in the eyes of the international community and seriously strain its credibility. Mustafa Alani, an analyst at the Gulf Research Center in Geneva, said it would also be difficult for the rebels to successfully employ chemical agents. \xe2\x80\x9cIt\xe2\x80\x99s very difficult to weaponize chemical weapons,\xe2\x80\x9d he said. \xe2\x80\x9cIt needs a special warhead, for the artillery a special fuse.\xe2\x80\x9d In the chaos of Syria\xe2\x80\x99s civil war, pinning down definitive proof on the alleged use of weapons of mass destruction is a tricky task with high stakes. President Barack Obama has said any use of chemical arms \xe2\x80\x94 or the transfer of stockpiles to terrorists \xe2\x80\x94 would cross a \xe2\x80\x9cred line\xe2\x80\x9d and carry \xe2\x80\x9cenormous consequences.\xe2\x80\x9d Already, the White House\xe2\x80\x99s announcement that the Syrian regime appears to have used chemical arms has ratcheted up the pressure on Obama to move forcefully. He has sought to temper expectations of a quick U.S. response, saying too little is known about the alleged attacks to take action now. Analysts suggest that a limited introduction of the weapons, with little ostensible military gain, could be an attempt by the Syrian government to test the West\xe2\x80\x99s resolve while retaining the veil of plausible deniability. This approach would also allow foreign powers eager to avoid a costly intervention in Syria to remain on the sidelines, while at the same time opening the door for the regime to use the weapons down the road. \xe2\x80\x9cIf it\xe2\x80\x99s testing the water, and we\xe2\x80\x99re going to turn a blind eye, it could be used widely, repeatedly,\xe2\x80\x9d Alani said. \xe2\x80\x9cIf you are silent once, you will be silent twice.\xe2\x80\x9d The slow introduction of a weapon to gauge the West\xe2\x80\x99s response fits a pattern of behavior the Assad regime has demonstrated since the uprising began in March 2011, according to Joseph Holliday, a Syria analyst at the Washington-based Institute for the Study of War. When largely peaceful protesters initially took to the streets, the regime responded with small arms fire and a wave of arrests. As the government ramped up its violent crackdown, the opposition began to take up arms in late 2011, prompting yet another escalation in force by the regime.'
-p292
-sg31
-(lp293
-(lp294
-g37
-ag38
-ag38
-aa(lp295
-g37
-ag38
-ag34
-aa(lp296
-g37
-ag38
-ag37
-aa(lp297
-g38
-ag38
-ag34
-aa(lp298
-g34
-ag34
-ag34
-aasg43
-(lp299
-S' The U.S. said last week that intelligence indicates the Syrian military has likely used sarin, a deadly nerve agent, on at least two occasions in the civil war, echoing similar assessments from Israel, France and Britain.'
-p300
-aS'Syria\xe2\x80\x99s rebels accuse the regime of firing chemical weapons on at least four occasions, while the government denies the charges and says opposition fighters have used chemical agents in a bid to frame it.'
-p301
-aS'But using chemical weapons to try to force foreign intervention would be a huge gamble for the opposition, and one that could easily backfire.'
-p302
-aS'It would undoubtedly taint the rebellion in the eyes of the international community and seriously strain its credibility.'
-p303
-aS'Mustafa Alani, an analyst at the Gulf Research Center in Geneva, said it would also be difficult for the rebels to successfully employ chemical agents.'
-p304
-aS'\xe2\x80\x9cIt\xe2\x80\x99s very difficult to weaponize chemical weapons,\xe2\x80\x9d he said.'
-p305
-aS'\xe2\x80\x9cIt needs a special warhead, for the artillery a special fuse.\xe2\x80\x9d In the chaos of Syria\xe2\x80\x99s civil war, pinning down definitive proof on the alleged use of weapons of mass destruction is a tricky task with high stakes.'
-p306
-aS'President Barack Obama has said any use of chemical arms \xe2\x80\x94 or the transfer of stockpiles to terrorists \xe2\x80\x94 would cross a \xe2\x80\x9cred line\xe2\x80\x9d and carry \xe2\x80\x9cenormous consequences.\xe2\x80\x9d Already, the White House\xe2\x80\x99s announcement that the Syrian regime appears to have used chemical arms has ratcheted up the pressure on Obama to move forcefully.'
-p307
-aS'He has sought to temper expectations of a quick U.S. response, saying too little is known about the alleged attacks to take action now.'
-p308
-aS'Analysts suggest that a limited introduction of the weapons, with little ostensible military gain, could be an attempt by the Syrian government to test the West\xe2\x80\x99s resolve while retaining the veil of plausible deniability.'
-p309
-aS'This approach would also allow foreign powers eager to avoid a costly intervention in Syria to remain on the sidelines, while at the same time opening the door for the regime to use the weapons down the road.'
-p310
-aS'\xe2\x80\x9cIf it\xe2\x80\x99s testing the water, and we\xe2\x80\x99re going to turn a blind eye, it could be used widely, repeatedly,\xe2\x80\x9d Alani said.'
-p311
-aS'\xe2\x80\x9cIf you are silent once, you will be silent twice.\xe2\x80\x9d'
-p312
-asg94
-(lp313
-g283
-ag284
-ag285
-aS'The U.S. said last week that intelligence indicates the Syrian military has likely used sarin, a deadly nerve agent, on at least two occasions in the civil war, echoing similar assessments from Israel, France and Britain. Syria\xe2\x80\x99s rebels accuse the regime of firing chemical weapons on at least four occasions, while the government denies the charges and says opposition fighters have used chemical agents in a bid to frame it.'
-p314
-aS'But using chemical weapons to try to force foreign intervention would be a huge gamble for the opposition, and one that could easily backfire. It would undoubtedly taint the rebellion in the eyes of the international community and seriously strain its credibility.'
-p315
-aS'Mustafa Alani, an analyst at the Gulf Research Center in Geneva, said it would also be difficult for the rebels to successfully employ chemical agents.'
-p316
-aS'\xe2\x80\x9cIt\xe2\x80\x99s very difficult to weaponize chemical weapons,\xe2\x80\x9d he said. \xe2\x80\x9cIt needs a special warhead, for the artillery a special fuse.\xe2\x80\x9d'
-p317
-aS'In the chaos of Syria\xe2\x80\x99s civil war, pinning down definitive proof on the alleged use of weapons of mass destruction is a tricky task with high stakes. President Barack Obama has said any use of chemical arms \xe2\x80\x94 or the transfer of stockpiles to terrorists \xe2\x80\x94 would cross a \xe2\x80\x9cred line\xe2\x80\x9d and carry \xe2\x80\x9cenormous consequences.\xe2\x80\x9d'
-p318
-aS'Already, the White House\xe2\x80\x99s announcement that the Syrian regime appears to have used chemical arms has ratcheted up the pressure on Obama to move forcefully. He has sought to temper expectations of a quick U.S. response, saying too little is known about the alleged attacks to take action now.'
-p319
-aS'Analysts suggest that a limited introduction of the weapons, with little ostensible military gain, could be an attempt by the Syrian government to test the West\xe2\x80\x99s resolve while retaining the veil of plausible deniability. This approach would also allow foreign powers eager to avoid a costly intervention in Syria to remain on the sidelines, while at the same time opening the door for the regime to use the weapons down the road.'
-p320
-aS'\xe2\x80\x9cIf it\xe2\x80\x99s testing the water, and we\xe2\x80\x99re going to turn a blind eye, it could be used widely, repeatedly,\xe2\x80\x9d Alani said. \xe2\x80\x9cIf you are silent once, you will be silent twice.\xe2\x80\x9d'
-p321
-aS'The slow introduction of a weapon to gauge the West\xe2\x80\x99s response fits a pattern of behavior the Assad regime has demonstrated since the uprising began in March 2011, according to Joseph Holliday, a Syria analyst at the Washington-based Institute for the Study of War.'
-p322
-aS'When largely peaceful protesters initially took to the streets, the regime responded with small arms fire and a wave of arrests. As the government ramped up its violent crackdown, the opposition began to take up arms in late 2011, prompting yet another escalation in force by the regime.'
-p323
-asba(i__main__
-Document
-p324
-(dp325
-g9
-(lp326
-(lp327
-S"ANTAKYA, Turkey \xe2\x80\x94 Syrian activists have lashed out at signs the U.S. remains reluctant to intervene in the country's civil war despite growing evidence President Bashar al-Assad's forces have used chemical weapons against his people."
-p328
-aaS'"I hope there will be a reaction from America, but I don\'t think there will be," said Bassam al Ahmed, 31, a Kurdish human rights activist from Qamishli in Syria.'
-p329
+aS'"I hope there will be a reaction from America, but I don\'t think there will be," said Bassam al Ahmed, 31, a Kurdish human rights activist from Qamishli in Syria.'
+p280
 aS'"(But) if the U.N. and the U.S. don\'t take any action of any kind, the Syrian regime will only have more time, and it would be a green light for the regime to use chemical weapons in the future.'
-p330
-ag18
-asg19
-(lp331
+p281
+ag17
+asg18
+(lp282
 S'"I don\'t think that anyone will react in the international community, if they wanted to, they would have done something earlier," he said.'
-p332
+p283
 aS'Contributing: Charles McPhedran and Jennifer Collins.'
-p333
-asg25
+p284
+asg24
 S'Activists urge action on chemical weapons evidence'
-p334
-sg27
+p285
+sg26
 S'http://www.usatoday.com/story/news/world/2013/04/26/syria-chemical-weapons/2115189/'
-p335
-sg29
-S'ANTAKYA, Turkey \xe2\x80\x94 Syrian activists have lashed out at signs the U.S. remains reluctant to intervene in the country\'s civil war despite growing evidence President Bashar al-Assad\'s forces have used chemical weapons against his people. "I hope there will be a reaction from America, but I don\'t think there will be," said Bassam al Ahmed, 31, a Kurdish human rights activist from Qamishli in Syria. "(But) if the U.N. and the U.S. don\'t take any action of any kind, the Syrian regime will only have more time, and it would be a green light for the regime to use chemical weapons in the future." The Obama administration said Thursday it could say with "varying degrees of confidence" that chemical weapons, including sarin gas, had been used at least twice by Syrian government forces on separate occasions in suburban Damascus and Aleppo. In the Syrian capital however, a government official said Assad\'s military "did not and will not use chemical weapons even if it had them." He instead accused opposition forces of using them in a March attack on the village of Khan al-Assad outside of the northern city of Aleppo. The official spoke to the Associated Press on condition of anonymity because he was not authorized to give official statements. Syrian rebel groups including the Syrian Network for Human Rights \xe2\x80\x94 which told USA TODAY on Thursday they had amassed evidence including videos, photos and eyewitness testimony that showed the weapons had been used in 10 separate locations in the war-torn country \xe2\x80\x94 called for a Western military-enforced no-fly zone and heavier artillery, such as rocket launchers. But even though President Obama had said the regime\'s use of chemical weapons would be the "red line" for the U.S., White House officials said the revelation would not lead to immediate intervention. Instead they called for further U.N. investigation to "credibly evaluate the evidence and establish what took place". "Clearly there appears to be circumstantial evidence that that has taken place," said David Hartwell, a Middle East analyst at IHS Jane, defense and security analysts in London. "The alleged low-level usage sarin leaves open the possibility that it may not have occurred in terms of Syrian government complicity \xe2\x80\x94 it could be a rogue unit." "From that point of view, I think the administration has plenty of latitude to say, hold on a second, we didn\'t mean that would immediately trigger intervention," he added. Meanwhile, British Prime Minister David Cameron said in an interview with the BBC that he supported Obama on the principle of the use of chemical weapons as a "red line" and added they were looking for ways to "put pressure on the regime so we can bring it to an end." "We need to go on gathering this evidence and also to send a very clear warning to the Syrian regime about these appalling actions," he said. Activists reacted with anger. "If you take the examples of Iraq and Syria, you can conclude only one thing: unless there is a strong financial incentive, the international community doesn\'t intervene anywhere," said U.K.-based Syrian activist Abdulwahab Omar. "In Iraq they acted because of a suspicion there were weapons of mass destruction, but there was a financial incentive. In Syria, there is a piling amount of evidence of crimes against humanity, but no financial incentive," he said. While western governments attempt to gather more evidence, activists said they hoped the U.S. would act soon. "The USA never thought the Syrian government would use chemical weapons, and the red line was to buy them time not to react; it was just an excuse," said Nour Hameedo, 25, from the Idlib province in Syria, talking from Antakya. "I don\'t think that anyone will react in the international community, if they wanted to, they would have done something earlier," he said. Contributing: Charles McPhedran and Jennifer Collins.'
-p336
-sg31
-(lp337
-(lp338
-g37
-ag39
-ag38
-ag35
-aa(lp339
+p286
+sg28
+S'ANTAKYA, Turkey \xc3\xa2\xe2\x82\xac\xe2\x80\x9d Syrian activists have lashed out at signs the U.S. remains reluctant to intervene in the country\'s civil war despite growing evidence President Bashar al-Assad\'s forces have used chemical weapons against his people. "I hope there will be a reaction from America, but I don\'t think there will be," said Bassam al Ahmed, 31, a Kurdish human rights activist from Qamishli in Syria. "(But) if the U.N. and the U.S. don\'t take any action of any kind, the Syrian regime will only have more time, and it would be a green light for the regime to use chemical weapons in the future." The Obama administration said Thursday it could say with "varying degrees of confidence" that chemical weapons, including sarin gas, had been used at least twice by Syrian government forces on separate occasions in suburban Damascus and Aleppo. In the Syrian capital however, a government official said Assad\'s military "did not and will not use chemical weapons even if it had them." He instead accused opposition forces of using them in a March attack on the village of Khan al-Assad outside of the northern city of Aleppo. The official spoke to the Associated Press on condition of anonymity because he was not authorized to give official statements. Syrian rebel groups including the Syrian Network for Human Rights \xc3\xa2\xe2\x82\xac\xe2\x80\x9d which told USA TODAY on Thursday they had amassed evidence including videos, photos and eyewitness testimony that showed the weapons had been used in 10 separate locations in the war-torn country \xc3\xa2\xe2\x82\xac\xe2\x80\x9d called for a Western military-enforced no-fly zone and heavier artillery, such as rocket launchers. But even though President Obama had said the regime\'s use of chemical weapons would be the "red line" for the U.S., White House officials said the revelation would not lead to immediate intervention. Instead they called for further U.N. investigation to "credibly evaluate the evidence and establish what took place". "Clearly there appears to be circumstantial evidence that that has taken place," said David Hartwell, a Middle East analyst at IHS Jane, defense and security analysts in London. "The alleged low-level usage sarin leaves open the possibility that it may not have occurred in terms of Syrian government complicity \xc3\xa2\xe2\x82\xac\xe2\x80\x9d it could be a rogue unit." "From that point of view, I think the administration has plenty of latitude to say, hold on a second, we didn\'t mean that would immediately trigger intervention," he added. Meanwhile, British Prime Minister David Cameron said in an interview with the BBC that he supported Obama on the principle of the use of chemical weapons as a "red line" and added they were looking for ways to "put pressure on the regime so we can bring it to an end." "We need to go on gathering this evidence and also to send a very clear warning to the Syrian regime about these appalling actions," he said. Activists reacted with anger. "If you take the examples of Iraq and Syria, you can conclude only one thing: unless there is a strong financial incentive, the international community doesn\'t intervene anywhere," said U.K.-based Syrian activist Abdulwahab Omar. "In Iraq they acted because of a suspicion there were weapons of mass destruction, but there was a financial incentive. In Syria, there is a piling amount of evidence of crimes against humanity, but no financial incentive," he said. While western governments attempt to gather more evidence, activists said they hoped the U.S. would act soon. "The USA never thought the Syrian government would use chemical weapons, and the red line was to buy them time not to react; it was just an excuse," said Nour Hameedo, 25, from the Idlib province in Syria, talking from Antakya. "I don\'t think that anyone will react in the international community, if they wanted to, they would have done something earlier," he said. Contributing: Charles McPhedran and Jennifer Collins.'
+p287
+sg30
+(lp288
+(lp289
 g34
+ag35
+ag33
+ag36
+aa(lp290
+g33
 ag34
 ag34
+ag36
+aa(lp291
+g33
 ag35
-aa(lp340
-g38
-ag39
-ag38
-ag35
-aa(lp341
-g37
 ag34
-ag38
+ag36
+aa(lp292
+g33
+ag34
 ag35
-aa(lp342
-g37
-ag38
-ag38
-ag35
-aasg43
-(lp343
+ag36
+aa(lp293
+g33
+ag34
+ag33
+ag36
+aasg42
+(lp294
 S' In the Syrian capital however, a government official said Assad\'s military "did not and will not use chemical weapons even if it had them.'
-p344
+p295
 aS'" He instead accused opposition forces of using them in a March attack on the village of Khan al-Assad outside of the northern city of Aleppo.'
-p345
+p296
 aS'The official spoke to the Associated Press on condition of anonymity because he was not authorized to give official statements.'
-p346
-aS'Syrian rebel groups including the Syrian Network for Human Rights \xe2\x80\x94 which told USA TODAY on Thursday they had amassed evidence including videos, photos and eyewitness testimony that showed the weapons had been used in 10 separate locations in the war-torn country \xe2\x80\x94 called for a Western military-enforced no-fly zone and heavier artillery, such as rocket launchers.'
-p347
+p297
+aS'Syrian rebel groups including the Syrian Network for Human Rights \xc3\xa2\xe2\x82\xac\xe2\x80\x9d which told USA TODAY on Thursday they had amassed evidence including videos, photos and eyewitness testimony that showed the weapons had been used in 10 separate locations in the war-torn country \xc3\xa2\xe2\x82\xac\xe2\x80\x9d called for a Western military-enforced no-fly zone and heavier artillery, such as rocket launchers.'
+p298
 aS'But even though President Obama had said the regime\'s use of chemical weapons would be the "red line" for the U.S., White House officials said the revelation would not lead to immediate intervention.'
-p348
+p299
 aS'Instead they called for further U.N. investigation to "credibly evaluate the evidence and establish what took place".'
-p349
+p300
 aS'"Clearly there appears to be circumstantial evidence that that has taken place," said David Hartwell, a Middle East analyst at IHS Jane, defense and security analysts in London.'
-p350
-aS'"The alleged low-level usage sarin leaves open the possibility that it may not have occurred in terms of Syrian government complicity \xe2\x80\x94 it could be a rogue unit.'
-p351
+p301
+aS'"The alleged low-level usage sarin leaves open the possibility that it may not have occurred in terms of Syrian government complicity \xc3\xa2\xe2\x82\xac\xe2\x80\x9d it could be a rogue unit.'
+p302
 aS'" "From that point of view, I think the administration has plenty of latitude to say, hold on a second, we didn\'t mean that would immediately trigger intervention," he added.'
-p352
+p303
 aS'Meanwhile, British Prime Minister David Cameron said in an interview with the BBC that he supported Obama on the principle of the use of chemical weapons as a "red line" and added they were looking for ways to "put pressure on the regime so we can bring it to an end.'
-p353
+p304
 aS'" "We need to go on gathering this evidence and also to send a very clear warning to the Syrian regime about these appalling actions," he said.'
-p354
+p305
 aS'Activists reacted with anger.'
-p355
+p306
 aS'"If you take the examples of Iraq and Syria, you can conclude only one thing: unless there is a strong financial incentive, the international community doesn\'t intervene anywhere," said U.K.-based Syrian activist Abdulwahab Omar.'
-p356
+p307
 aS'"In Iraq they acted because of a suspicion there were weapons of mass destruction, but there was a financial incentive.'
-p357
+p308
 aS'In Syria, there is a piling amount of evidence of crimes against humanity, but no financial incentive," he said.'
-p358
+p309
 aS'While western governments attempt to gather more evidence, activists said they hoped the U.S. would act soon.'
-p359
+p310
 aS'"The USA never thought the Syrian government would use chemical weapons, and the red line was to buy them time not to react; it was just an excuse," said Nour Hameedo, 25, from the Idlib province in Syria, talking from Antakya.'
-p360
-asg94
-(lp361
-g328
+p311
+asg93
+(lp312
+g279
 aS'"I hope there will be a reaction from America, but I don\'t think there will be," said Bassam al Ahmed, 31, a Kurdish human rights activist from Qamishli in Syria. "(But) if the U.N. and the U.S. don\'t take any action of any kind, the Syrian regime will only have more time, and it would be a green light for the regime to use chemical weapons in the future."'
-p362
+p313
 aS'The Obama administration said Thursday it could say with "varying degrees of confidence" that chemical weapons, including sarin gas, had been used at least twice by Syrian government forces on separate occasions in suburban Damascus and Aleppo.'
-p363
+p314
 aS'In the Syrian capital however, a government official said Assad\'s military "did not and will not use chemical weapons even if it had them." He instead accused opposition forces of using them in a March attack on the village of Khan al-Assad outside of the northern city of Aleppo.'
-p364
+p315
 aS'The official spoke to the Associated Press on condition of anonymity because he was not authorized to give official statements.'
-p365
-aS'Syrian rebel groups including the Syrian Network for Human Rights \xe2\x80\x94 which told USA TODAY on Thursday they had amassed evidence including videos, photos and eyewitness testimony that showed the weapons had been used in 10 separate locations in the war-torn country \xe2\x80\x94 called for a Western military-enforced no-fly zone and heavier artillery, such as rocket launchers.'
-p366
+p316
+aS'Syrian rebel groups including the Syrian Network for Human Rights \xc3\xa2\xe2\x82\xac\xe2\x80\x9d which told USA TODAY on Thursday they had amassed evidence including videos, photos and eyewitness testimony that showed the weapons had been used in 10 separate locations in the war-torn country \xc3\xa2\xe2\x82\xac\xe2\x80\x9d called for a Western military-enforced no-fly zone and heavier artillery, such as rocket launchers.'
+p317
 aS'But even though President Obama had said the regime\'s use of chemical weapons would be the "red line" for the U.S., White House officials said the revelation would not lead to immediate intervention. Instead they called for further U.N. investigation to "credibly evaluate the evidence and establish what took place".'
-p367
-aS'"Clearly there appears to be circumstantial evidence that that has taken place," said David Hartwell, a Middle East analyst at IHS Jane, defense and security analysts in London. "The alleged low-level usage sarin leaves open the possibility that it may not have occurred in terms of Syrian government complicity \xe2\x80\x94 it could be a rogue unit."'
-p368
+p318
+aS'"Clearly there appears to be circumstantial evidence that that has taken place," said David Hartwell, a Middle East analyst at IHS Jane, defense and security analysts in London. "The alleged low-level usage sarin leaves open the possibility that it may not have occurred in terms of Syrian government complicity \xc3\xa2\xe2\x82\xac\xe2\x80\x9d it could be a rogue unit."'
+p319
 aS'"From that point of view, I think the administration has plenty of latitude to say, hold on a second, we didn\'t mean that would immediately trigger intervention," he added.'
-p369
+p320
 aS'Meanwhile, British Prime Minister David Cameron said in an interview with the BBC that he supported Obama on the principle of the use of chemical weapons as a "red line" and added they were looking for ways to "put pressure on the regime so we can bring it to an end."'
-p370
+p321
 aS'"We need to go on gathering this evidence and also to send a very clear warning to the Syrian regime about these appalling actions," he said.'
-p371
+p322
 aS'Activists reacted with anger.'
-p372
+p323
 aS'"If you take the examples of Iraq and Syria, you can conclude only one thing: unless there is a strong financial incentive, the international community doesn\'t intervene anywhere," said U.K.-based Syrian activist Abdulwahab Omar.'
-p373
+p324
 aS'"In Iraq they acted because of a suspicion there were weapons of mass destruction, but there was a financial incentive. In Syria, there is a piling amount of evidence of crimes against humanity, but no financial incentive," he said.'
-p374
+p325
 aS'While western governments attempt to gather more evidence, activists said they hoped the U.S. would act soon.'
-p375
+p326
 aS'"The USA never thought the Syrian government would use chemical weapons, and the red line was to buy them time not to react; it was just an excuse," said Nour Hameedo, 25, from the Idlib province in Syria, talking from Antakya.'
-p376
+p327
 aS'"I don\'t think that anyone will react in the international community, if they wanted to, they would have done something earlier," he said.'
-p377
+p328
 aS'Contributing: Charles McPhedran and Jennifer Collins.'
-p378
+p329
 asba(i__main__
 Document
-p379
-(dp380
+p330
+(dp331
 g9
-(lp381
-(lp382
+(lp332
 S'BEIRUT \xe2\x80\x94 Last week\xe2\x80\x99s allegations from top U.S. officials that Syrian forces probably deployed chemical weapons against rebels come amid an array of disputed\xc2\xa0 reports about purported chemical attacks in Syria.'
-p383
-aaS'There have been at least three incidents \xe2\x80\x94 all unconfirmed \xe2\x80\x94 in which reports surfaced publicly that chemical weapons had been deployed in Syria, either by the government or rebels.'
-p384
+p333
+aS'There have been at least three incidents \xe2\x80\x94 all unconfirmed \xe2\x80\x94 in which reports surfaced publicly that chemical weapons had been deployed in Syria, either by the government or rebels.'
+p334
 aS'All have been relatively small scale considering the fact that agents such as sarin can cause mass casualties.'
-p385
+p335
 aS"It's not clear which, if any, of the incidents are involved in the U.S. allegations against Syria."
-p386
-asg19
-(lp387
+p336
+asg18
+(lp337
 S'Palestinians start work to form new government \xc2\xa0'
-p388
-asg25
+p338
+asg24
 S'At least three allegations of chemical use in Syria'
-p389
-sg27
+p339
+sg26
 S'http://www.latimes.com/news/world/worldnow/la-fg-wn-chemical-syria-20130428,0,4685355.story'
-p390
-sg29
+p340
+sg28
 S"BEIRUT \xe2\x80\x94 Last week\xe2\x80\x99s allegations from top U.S. officials that Syrian forces probably deployed chemical weapons against rebels come amid an array of disputed\xc2\xa0 reports about purported chemical attacks in Syria. There have been at least three incidents \xe2\x80\x94 all unconfirmed \xe2\x80\x94 in which reports surfaced publicly that chemical weapons had been deployed in Syria, either by the government or rebels. All have been relatively small scale considering the fact that agents such as sarin can cause mass casualties. It's not clear which, if any, of the incidents are involved in the U.S. allegations against Syria. The most high-profile of the incidents allegedly occurred on March 19 in the town of Khan al Asal, outside the northern city of Aleppo. The government said 25 people were killed and more than 110 were wounded in a poison-gas assault. The government and the opposition exchanged blame for the attack, a pattern of cross-accusations that has recurred repeatedly following mass killings in Syria. But accounts from both sides agreed that the casualties occurred after a rocket strike and included both civilians and an unspecified number of regime troops. The Syrian government said \xe2\x80\x9cterrorists\xe2\x80\x9d based in a nearby area launched a rocket at 7:30 a.m. containing \xe2\x80\x9cchemical materials.\xe2\x80\x9d\xc2\xa0 The rocket struck about 300 yards from a Syrian army post, the state press agency said. The opposition countered that the Syrian military fired a chemical-tipped Scud missile. According to the official account, the casualties resulted from both the explosion and the gases unleashed upon impact. It was never clear how many of the victims succumbed to the alleged gas. Official video and photographs said to be from a hospital in Aleppo showed purported victims breathing through oxygen masks. The substance caused \xe2\x80\x9cimmediate fainting, convulsion and death,\xe2\x80\x9d the Syrian information minister, Omran Zoubi, told reporters. The government suggested that rebels may have armed a missile with a chlorine derivative looted from an Aleppo factory. Chlorine, widely used as a water purifier and in other industrial applications, was deployed on a large scale as a chemical weapon almost a century ago in the trenches of World War I. Some accounts of the March 19 attack\xc2\xa0 indicated that the odor of chlorine was noticeable at the site. Experts interviewed after the attack generally said that the casualty numbers would have been much higher if the missile had been armed with a nerve agent like sarin, which is believed to be in the Syrian government\xe2\x80\x99s arsenal. After the attack, Syrian officials alleged that the opposition used a laboratory in adjoining Turkey to fabricate the toxic material. The aim, according to Syrian officials, was to create a false-flag scenario in which the Syrian military was accused of deploying chemical weapons \xe2\x80\x94 thus triggering international intervention . The Syrian government reportedly took soil samples from the site and blood samples from victims to be used in any\xc2\xa0 United Nations investigation. As the March incident caused an international uproar, the opposition charged that the government had also fired chemical weapons on the same day in the disputed township of Otaybah, east of Damascus, the capital. Details about that alleged attack have remained sketchy, though rebels say the strike caused both deaths and injuries. The opposition has since alleged several other incidents involving chemical gas attacks. The first flurry of allegations about chemical weapons use in Syria involved an incident late last year in the heavily contested central city of Homs. On its website, Foreign Policy magazine in January cited a secret State Department cable that concluded, after an extensive consular investigation, that Syrian authorities probably deployed chemical weapons on Dec. 23 in Homs. However, the U.S. State Department later categorically distanced itself from the report, which it said was based on \xe2\x80\x9canecdotal\xe2\x80\x9d information.\xc2\xa0 State Department spokeswoman Victoria Nuland told reporters in Washington on Jan. 16 that investigators \xe2\x80\x9cfound no credible evidence to corroborate or to confirm that chemical weapons were used\xe2\x80\x9d last December in Homs. When the U.S. charged last week that it appeared Syria had used sarin gas in unspecified attacks, the Syrian government denounced the allegations as a \xe2\x80\x9cbare-faced lie.\xe2\x80\x9d A top Russian diplomat warned in a visit to Lebanon this weekend that the charges should not be used as an \xe2\x80\x9cpretext\xe2\x80\x9d for an Iraq-style intervention in Syria, Moscow\xe2\x80\x99s long-time ally. Still, the explosive\xc2\xa0 accusations raised\xc2\xa0 the specter that Damascus may have crossed the Obama administration\xe2\x80\x99s \xe2\x80\x9cred line\xe2\x80\x9d for possible stepped-up\xc2\xa0 intervention in the conflict, which has been going on for more than two years. U.S. officials conceded that the proof of two reported instances of the nerve agent was not conclusive, and the \xe2\x80\x9cchain of custody\xe2\x80\x9d of the substances was unclear. Experts say it is almost impossible to make an accurate determination without access to the impacted site and laboratory examinations of samples of soil, blood, urine or human tissue. The evidence that has emerged publicly so far appears to involve photographs of purported victims and alleged traces of toxins found in individuals and possibly in soil. A planned United Nations\xc2\xa0 inquiry remains stalled amid differences between the U.N. and the Syrian government about how much access the investigators will have in the country. ALSO: Syrian official denies allegations of chemical weapons use Muslim clerics in Syria urge release of kidnapped bishops Palestinians start work to form new government \xc2\xa0"
-p391
-sg31
-(lp392
-(lp393
-g34
+p341
+sg30
+(lp342
+(lp343
+g33
+ag34
+ag35
+ag35
+aa(lp344
+g35
+ag33
 ag34
 ag34
+aa(lp345
+g33
+ag33
 ag34
-aa(lp394
-g38
-ag39
 ag34
+aa(lp346
+g33
 ag34
-aa(lp395
-g37
-ag37
-ag38
-ag38
-aa(lp396
-g38
-ag38
+ag35
+ag35
+aa(lp347
+g33
 ag34
-ag38
-aa(lp397
-g37
-ag38
-ag38
-ag38
-aasg43
-(lp398
+ag33
+ag34
+aasg42
+(lp348
 S' The government and the opposition exchanged blame for the attack, a pattern of cross-accusations that has recurred repeatedly following mass killings in Syria.'
-p399
+p349
 aS'But accounts from both sides agreed that the casualties occurred after a rocket strike and included both civilians and an unspecified number of regime troops.'
-p400
+p350
 aS'The Syrian government said \xe2\x80\x9cterrorists\xe2\x80\x9d based in a nearby area launched a rocket at 7:30 a.m. containing \xe2\x80\x9cchemical materials.\xe2\x80\x9d\xc2\xa0 The rocket struck about 300 yards from a Syrian army post, the state press agency said.'
-p401
+p351
 aS'The opposition countered that the Syrian military fired a chemical-tipped Scud missile.'
-p402
+p352
 aS'According to the official account, the casualties resulted from both the explosion and the gases unleashed upon impact.'
-p403
+p353
 aS'It was never clear how many of the victims succumbed to the alleged gas.'
-p404
+p354
 aS'Official video and photographs said to be from a hospital in Aleppo showed purported victims breathing through oxygen masks.'
-p405
+p355
 aS'The substance caused \xe2\x80\x9cimmediate fainting, convulsion and death,\xe2\x80\x9d the Syrian information minister, Omran Zoubi, told reporters.'
-p406
+p356
 aS'The government suggested that rebels may have armed a missile with a chlorine derivative looted from an Aleppo factory.'
-p407
+p357
 aS'Chlorine, widely used as a water purifier and in other industrial applications, was deployed on a large scale as a chemical weapon almost a century ago in the trenches of World War I.'
-p408
+p358
 aS'Some accounts of the March 19 attack\xc2\xa0 indicated that the odor of chlorine was noticeable at the site.'
-p409
+p359
 aS'Experts interviewed after the attack generally said that the casualty numbers would have been much higher if the missile had been armed with a nerve agent like sarin, which is believed to be in the Syrian government\xe2\x80\x99s arsenal.'
-p410
+p360
 aS'After the attack, Syrian officials alleged that the opposition used a laboratory in adjoining Turkey to fabricate the toxic material.'
-p411
+p361
 aS'The aim, according to Syrian officials, was to create a false-flag scenario in which the Syrian military was accused of deploying chemical weapons \xe2\x80\x94 thus triggering international intervention .'
-p412
+p362
 aS'The Syrian government reportedly took soil samples from the site and blood samples from victims to be used in any\xc2\xa0 United Nations investigation.'
-p413
+p363
 aS'As the March incident caused an international uproar, the opposition charged that the government had also fired chemical weapons on the same day in the disputed township of Otaybah, east of Damascus, the capital.'
-p414
+p364
 aS'Details about that alleged attack have remained sketchy, though rebels say the strike caused both deaths and injuries.'
-p415
+p365
 aS'The opposition has since alleged several other incidents involving chemical gas attacks.'
-p416
+p366
 aS'The first flurry of allegations about chemical weapons use in Syria involved an incident late last year in the heavily contested central city of Homs.'
-p417
+p367
 aS'On its website, Foreign Policy magazine in January cited a secret State Department cable that concluded, after an extensive consular investigation, that Syrian authorities probably deployed chemical weapons on Dec. 23 in Homs.'
-p418
+p368
 aS'However, the U.S. State Department later categorically distanced itself from the report, which it said was based on \xe2\x80\x9canecdotal\xe2\x80\x9d information.\xc2\xa0 State Department spokeswoman Victoria Nuland told reporters in Washington on Jan. 16 that investigators \xe2\x80\x9cfound no credible evidence to corroborate or to confirm that chemical weapons were used\xe2\x80\x9d last December in Homs.'
-p419
+p369
 aS'When the U.S. charged last week that it appeared Syria had used sarin gas in unspecified attacks, the Syrian government denounced the allegations as a \xe2\x80\x9cbare-faced lie.\xe2\x80\x9d A top Russian diplomat warned in a visit to Lebanon this weekend that the charges should not be used as an \xe2\x80\x9cpretext\xe2\x80\x9d for an Iraq-style intervention in Syria, Moscow\xe2\x80\x99s long-time ally.'
-p420
+p370
 aS'Still, the explosive\xc2\xa0 accusations raised\xc2\xa0 the specter that Damascus may have crossed the Obama administration\xe2\x80\x99s \xe2\x80\x9cred line\xe2\x80\x9d for possible stepped-up\xc2\xa0 intervention in the conflict, which has been going on for more than two years.'
-p421
+p371
 aS'U.S. officials conceded that the proof of two reported instances of the nerve agent was not conclusive, and the \xe2\x80\x9cchain of custody\xe2\x80\x9d of the substances was unclear.'
-p422
+p372
 aS'Experts say it is almost impossible to make an accurate determination without access to the impacted site and laboratory examinations of samples of soil, blood, urine or human tissue.'
-p423
+p373
 aS'The evidence that has emerged publicly so far appears to involve photographs of purported victims and alleged traces of toxins found in individuals and possibly in soil.'
-p424
+p374
 aS'A planned United Nations\xc2\xa0 inquiry remains stalled amid differences between the U.N. and the Syrian government about how much access the investigators will have in the country.'
-p425
+p375
 aS'ALSO: Syrian official denies allegations of chemical weapons use Muslim clerics in Syria urge release of kidnapped bishops'
-p426
-asg94
-(lp427
-g383
+p376
+asg93
+(lp377
+g333
 aS"There have been at least three incidents \xe2\x80\x94 all unconfirmed \xe2\x80\x94 in which reports surfaced publicly that chemical weapons had been deployed in Syria, either by the government or rebels. All have been relatively small scale considering the fact that agents such as sarin can cause mass casualties. It's not clear which, if any, of the incidents are involved in the U.S. allegations against Syria."
-p428
+p378
 aS'The most high-profile of the incidents allegedly occurred on March 19 in the town of Khan al Asal, outside the northern city of Aleppo. The government said 25 people were killed and more than 110 were wounded in a poison-gas assault.'
-p429
+p379
 aS'The government and the opposition exchanged blame for the attack, a pattern of cross-accusations that has recurred repeatedly following mass killings in Syria. But accounts from both sides agreed that the casualties occurred after a rocket strike and included both civilians and an unspecified number of regime troops.'
-p430
+p380
 aS'The Syrian government said \xe2\x80\x9cterrorists\xe2\x80\x9d based in a nearby area launched a rocket at 7:30 a.m. containing \xe2\x80\x9cchemical materials.\xe2\x80\x9d\xc2\xa0 The rocket struck about 300 yards from a Syrian army post, the state press agency said.'
-p431
+p381
 aS'The opposition countered that the Syrian military fired a chemical-tipped Scud missile.'
-p432
+p382
 aS'According to the official account, the casualties resulted from both the explosion and the gases unleashed upon impact. It was never clear how many of the victims succumbed to the alleged gas.'
-p433
+p383
 aS'Official video and photographs said to be from a hospital in Aleppo showed purported victims breathing through oxygen masks. The substance caused \xe2\x80\x9cimmediate fainting, convulsion and death,\xe2\x80\x9d the Syrian information minister, Omran Zoubi, told reporters.'
-p434
+p384
 aS'The government suggested that rebels may have armed a missile with a chlorine derivative looted from an Aleppo factory. Chlorine, widely used as a water purifier and in other industrial applications, was deployed on a large scale as a chemical weapon almost a century ago in the trenches of World War I. Some accounts of the March 19 attack\xc2\xa0 indicated that the odor of chlorine was noticeable at the site.'
-p435
+p385
 aS'Experts interviewed after the attack generally said that the casualty numbers would have been much higher if the missile had been armed with a nerve agent like sarin, which is believed to be in the Syrian government\xe2\x80\x99s arsenal.'
-p436
+p386
 aS'After the attack, Syrian officials alleged that the opposition used a laboratory in adjoining Turkey to fabricate the toxic material. The aim, according to Syrian officials, was to create a false-flag scenario in which the Syrian military was accused of deploying chemical weapons \xe2\x80\x94 thus triggering international intervention .'
-p437
+p387
 aS'The Syrian government reportedly took soil samples from the site and blood samples from victims to be used in any\xc2\xa0 United Nations investigation.'
-p438
+p388
 aS'As the March incident caused an international uproar, the opposition charged that the government had also fired chemical weapons on the same day in the disputed township of Otaybah, east of Damascus, the capital. Details about that alleged attack have remained sketchy, though rebels say the strike caused both deaths and injuries. The opposition has since alleged several other incidents involving chemical gas attacks.'
-p439
+p389
 aS'The first flurry of allegations about chemical weapons use in Syria involved an incident late last year in the heavily contested central city of Homs. On its website, Foreign Policy magazine in January cited a secret State Department cable that concluded, after an extensive consular investigation, that Syrian authorities probably deployed chemical weapons on Dec. 23 in Homs.'
-p440
+p390
 aS'However, the U.S. State Department later categorically distanced itself from the report, which it said was based on \xe2\x80\x9canecdotal\xe2\x80\x9d information.\xc2\xa0 State Department spokeswoman Victoria Nuland told reporters in Washington on Jan. 16 that investigators \xe2\x80\x9cfound no credible evidence to corroborate or to confirm that chemical weapons were used\xe2\x80\x9d last December in Homs.'
-p441
+p391
 aS'When the U.S. charged last week that it appeared Syria had used sarin gas in unspecified attacks, the Syrian government denounced the allegations as a \xe2\x80\x9cbare-faced lie.\xe2\x80\x9d A top Russian diplomat warned in a visit to Lebanon this weekend that the charges should not be used as an \xe2\x80\x9cpretext\xe2\x80\x9d for an Iraq-style intervention in Syria, Moscow\xe2\x80\x99s long-time ally.'
-p442
+p392
 aS'Still, the explosive\xc2\xa0 accusations raised\xc2\xa0 the specter that Damascus may have crossed the Obama administration\xe2\x80\x99s \xe2\x80\x9cred line\xe2\x80\x9d for possible stepped-up\xc2\xa0 intervention in the conflict, which has been going on for more than two years. U.S. officials conceded that the proof of two reported instances of the nerve agent was not conclusive, and the \xe2\x80\x9cchain of custody\xe2\x80\x9d of the substances was unclear.'
-p443
+p393
 aS'Experts say it is almost impossible to make an accurate determination without access to the impacted site and laboratory examinations of samples of soil, blood, urine or human tissue. The evidence that has emerged publicly so far appears to involve photographs of purported victims and alleged traces of toxins found in individuals and possibly in soil.'
-p444
+p394
 aS'A planned United Nations\xc2\xa0 inquiry remains stalled amid differences between the U.N. and the Syrian government about how much access the investigators will have in the country.'
-p445
+p395
 aS'ALSO:'
-p446
+p396
 aS'Syrian official denies allegations of chemical weapons use'
-p447
+p397
 aS'Muslim clerics in Syria urge release of kidnapped bishops'
-p448
+p398
 aS'Palestinians start work to form new government'
-p449
+p399
 aS'\xc2\xa0'
-p450
+p400
 asbasS'urls'
-p451
-(lp452
-g28
-ag151
-ag216
-ag291
-ag335
-ag390
+p401
+(lp402
+g27
+ag149
+ag213
+ag286
+ag340
 asS'summary'
-p453
-(dp454
+p403
+(dp404
 sba(i__main__
 Topic
-p455
-(dp456
+p405
+(dp406
 g3
-S'pills'
-p457
+S'sherpa_fight'
+p407
 sg5
-(lp458
+(lp408
 (i__main__
 Document
-p459
-(dp460
+p409
+(dp410
 g9
-(lp461
-(lp462
-S'WASHINGTON \xe2\x80\x93 \xc2\xa0 The government is moving the morning-after pill over the counter but only those 15 and older can buy it -- an attempt to find middle ground just days before a court-imposed deadline to lift all age restrictions on the emergency contraceptive.'
-p463
-aaS"Today, Plan B One-Step is sold behind pharmacy counters, and buyers must prove they're 17 or older to buy it without a prescription."
-p464
-aS"Tuesday's decision by the Food and Drug Administration lowers the age limit and will allow the pill to sit on drugstore shelves next to spermicides or other women's health products and condoms -- but anyone who wants to buy it must prove their age at the cash register."
-p465
-asg19
-(lp466
-S"President Barack Obama supported Sebelius' move and a spokesman said earlier this month that the president's position hadn't changed."
-p467
-aS"The FDA said Tuesday's decision was independent of the court case."
-p468
-aS"Instead, after the Obama administration's 2011 action, Plan B maker Teva Women's Health had filed a new application with the age-15 compromise."
-p469
-asg25
-S'FDA: Morning-after pill to move over-the-counter | Fox News'
-p470
-sg27
-S'http://www.foxnews.com/politics/2013/04/30/fda-morning-after-pill-to-move-over-counter/'
-p471
-sg29
-S'WASHINGTON \xe2\x80\x93 \xc2\xa0 The government is moving the morning-after pill over the counter but only those 15 and older can buy it -- an attempt to find middle ground just days before a court-imposed deadline to lift all age restrictions on the emergency contraceptive. Today, Plan B One-Step is sold behind pharmacy counters, and buyers must prove they\'re 17 or older to buy it without a prescription. Tuesday\'s decision by the Food and Drug Administration lowers the age limit and will allow the pill to sit on drugstore shelves next to spermicides or other women\'s health products and condoms -- but anyone who wants to buy it must prove their age at the cash register. Some contraceptive advocates called the move promising. "This decision is a step in the right direction for increased access to a product that is a safe and effective method of preventing unintended pregnancies," said Sen. Patty Murray, D-Wash. "It\'s also a decision that moves us closer to these critical availability decisions being based on science, not politics." But earlier this month, U.S. District Judge Edward Korman of New York blasted the Obama administration for imposing the age-17 limit, saying it had let election-year politics trump science and was making it hard for women of any age to obtain the emergency contraception in time. He ordered an end to the age restrictions by Monday. The women\'s group that sued over the age limits said Tuesday\'s action is not enough, and it will continue the court fight. Lowering the age limit "may reduce delays for some young women but it does nothing to address the significant barriers that far too many women of all ages will still find if they arrive at the drugstore without identification," said Nancy Northup, president of the Center for Reproductive Rights. The FDA said the Plan B One-Step will be packaged with a product code that prompts the cashier to verify a customer\'s age. Anyone who can\'t provide such proof as a driver\'s license, birth certificate or passport wouldn\'t be allowed to complete the purchase. "These are daunting and sometimes insurmountable hoops women are forced to jump through in time-sensitive circumstances, and we will continue our battle in court to remove these arbitrary restrictions on emergency contraception for all women," Northup said. Half the nation\'s pregnancies every year are unintended, and doctors\' groups say more access to morning-after pills could cut those numbers. The pills contain higher doses of regular contraceptives, and if taken within 72 hours of unprotected sex, can cut the chances of pregnancy by up to 89 percent. The FDA had been poised to lift all age limits and let Plan B sell over-the-counter in late 2011, when Health and Human Services Secretary Kathleen Sebelius, in an unprecedented move, overruled her own scientists. Sebelius said some girls as young as 11 are physically capable of bearing children, but shouldn\'t be able to buy the pregnancy-preventing pill on their own. President Barack Obama supported Sebelius\' move and a spokesman said earlier this month that the president\'s position hadn\'t changed. The FDA said Tuesday\'s decision was independent of the court case. Instead, after the Obama administration\'s 2011 action, Plan B maker Teva Women\'s Health had filed a new application with the age-15 compromise.'
-p472
-sg31
-(lp473
-(lp474
-g37
-ag38
-ag37
-ag34
-aa(lp475
+(lp411
+S'By Gopal Sharma'
+p412
+aS"KATHMANDU (Reuters) - Nepal officials vowed on Monday to ensure the safety of climbers seeking to scale Mount Everest after three European climbers were involved in a fight with sherpa guides on their way to the peak of the world's highest mountain."
+p413
+aS'Three experienced climbers from Britain, Italy and Switzerland were on route to camp three at 7,000 meters (22,965 feet) on the 8,850 meters (29,035 feet) Everest summit when a brawl broke out on Saturday with sherpas fixing their ropes.'
+p414
+asg18
+(lp415
+S'Also on Yahoo!'
+p416
+aS'News: (Reporting by Gopal Sharma, Editing by Belinda Goldsmith)'
+p417
+asg24
+S'Nepal officials vow to ensure security on Everest after fight - Yahoo! News'
+p418
+sg26
+S'http://news.yahoo.com/nepal-officials-vow-ensure-security-everest-fight-113033979.html'
+p419
+sg28
+S'By Gopal Sharma KATHMANDU (Reuters) - Nepal officials vowed on Monday to ensure the safety of climbers seeking to scale Mount Everest after three European climbers were involved in a fight with sherpa guides on their way to the peak of the world\'s highest mountain. Three experienced climbers from Britain, Italy and Switzerland were on route to camp three at 7,000 meters (22,965 feet) on the 8,850 meters (29,035 feet) Everest summit when a brawl broke out on Saturday with sherpas fixing their ropes. Witnesses said the sherpas pelted the Europeans\' tents with stones and punches were thrown. Swiss climber Ueli Steck descended to the base camp after the attack and said he would abandon the climb and return to Kathmandu if proper security was not ensured. Nepali officials were quick to respond after the unusual brawl on Mount Everest, which is a key source of income for impoverished Nepal as foreign climbers pay royalties to scale the world\'s highest peak. Tourism Ministry official Dipendra Paudel said the government would ensure the safety and security of the climbers. "There was a slight misunderstanding and communication gap between them," Paudel said in Kathmandu after contacting the base camp. "This has been sorted out and the climbers are at the base camp." He said the European climbers would resume their bid to climb Everest. Officials said hundreds of climbers from 32 expeditions and their sherpas were on Mount Everest in the current climbing season which continues through May. Sherpas are locals from the Everest region and are noted for their climbing skills. They are responsible for fixing ropes and accompany most of the foreign climbers to the summit. Beni Hyoju, an official of the Cho-Oyu Trekking agency that organized the expedition, said the three European climbers had failed to comply with a request from their sherpa guides to stay at a location while the guides fixed the route. Hyoju said this made the sherpas unhappy and they attacked the climbers. No one was critically wounded. "(Steck) has now agreed to continue the climb after local administration assured proper security," Hyoju said. "Sherpas who were responsible for the fight will offer (an) apology." Historian Elizabeth Hawley, who has been tracking foreign expeditions to Mount Everest for more than five decades, said this type of fighting on the mountain was rare. "I have not heard of any such incident before," said Hawley. About 4,000 climbers have reached the top of Everest since it was first scaled by New Zealander Sir Edmund Hillary and Sherpa Tenzing Norgay in 1953. Also on Yahoo! News: (Reporting by Gopal Sharma, Editing by Belinda Goldsmith)'
+p420
+sg30
+(lp421
+(lp422
 g34
-ag39
+ag33
+aa(lp423
+g33
+ag33
+aa(lp424
+g34
+ag33
+aa(lp425
+g34
+ag33
+aa(lp426
+g34
+ag35
+aasg42
+(lp427
+S" Witnesses said the sherpas pelted the Europeans' tents with stones and punches were thrown."
+p428
+aS'Swiss climber Ueli Steck descended to the base camp after the attack and said he would abandon the climb and return to Kathmandu if proper security was not ensured.'
+p429
+aS"Nepali officials were quick to respond after the unusual brawl on Mount Everest, which is a key source of income for impoverished Nepal as foreign climbers pay royalties to scale the world's highest peak."
+p430
+aS'Tourism Ministry official Dipendra Paudel said the government would ensure the safety and security of the climbers.'
+p431
+aS'"There was a slight misunderstanding and communication gap between them," Paudel said in Kathmandu after contacting the base camp.'
+p432
+aS'"This has been sorted out and the climbers are at the base camp.'
+p433
+aS'" He said the European climbers would resume their bid to climb Everest.'
+p434
+aS'Officials said hundreds of climbers from 32 expeditions and their sherpas were on Mount Everest in the current climbing season which continues through May.'
+p435
+aS'Sherpas are locals from the Everest region and are noted for their climbing skills.'
+p436
+aS'They are responsible for fixing ropes and accompany most of the foreign climbers to the summit.'
+p437
+aS'Beni Hyoju, an official of the Cho-Oyu Trekking agency that organized the expedition, said the three European climbers had failed to comply with a request from their sherpa guides to stay at a location while the guides fixed the route.'
+p438
+aS'Hyoju said this made the sherpas unhappy and they attacked the climbers.'
+p439
+aS'No one was critically wounded.'
+p440
+aS'"(Steck) has now agreed to continue the climb after local administration assured proper security," Hyoju said.'
+p441
+aS'"Sherpas who were responsible for the fight will offer (an) apology.'
+p442
+aS'" Historian Elizabeth Hawley, who has been tracking foreign expeditions to Mount Everest for more than five decades, said this type of fighting on the mountain was rare.'
+p443
+aS'"I have not heard of any such incident before," said Hawley.'
+p444
+aS'About 4,000 climbers have reached the top of Everest since it was first scaled by New Zealander Sir Edmund Hillary and Sherpa Tenzing Norgay in 1953.'
+p445
+asg93
+(lp446
+g412
+ag413
+ag414
+aS"Witnesses said the sherpas pelted the Europeans' tents with stones and punches were thrown."
+p447
+aS'Swiss climber Ueli Steck descended to the base camp after the attack and said he would abandon the climb and return to Kathmandu if proper security was not ensured.'
+p448
+aS"Nepali officials were quick to respond after the unusual brawl on Mount Everest, which is a key source of income for impoverished Nepal as foreign climbers pay royalties to scale the world's highest peak."
+p449
+aS'Tourism Ministry official Dipendra Paudel said the government would ensure the safety and security of the climbers.'
+p450
+aS'"There was a slight misunderstanding and communication gap between them," Paudel said in Kathmandu after contacting the base camp. "This has been sorted out and the climbers are at the base camp."'
+p451
+aS'He said the European climbers would resume their bid to climb Everest.'
+p452
+aS'Officials said hundreds of climbers from 32 expeditions and their sherpas were on Mount Everest in the current climbing season which continues through May.'
+p453
+aS'Sherpas are locals from the Everest region and are noted for their climbing skills. They are responsible for fixing ropes and accompany most of the foreign climbers to the summit.'
+p454
+aS'Beni Hyoju, an official of the Cho-Oyu Trekking agency that organized the expedition, said the three European climbers had failed to comply with a request from their sherpa guides to stay at a location while the guides fixed the route.'
+p455
+aS'Hyoju said this made the sherpas unhappy and they attacked the climbers. No one was critically wounded.'
+p456
+aS'"(Steck) has now agreed to continue the climb after local administration assured proper security," Hyoju said. "Sherpas who were responsible for the fight will offer (an) apology."'
+p457
+aS'Historian Elizabeth Hawley, who has been tracking foreign expeditions to Mount Everest for more than five decades, said this type of fighting on the mountain was rare.'
+p458
+aS'"I have not heard of any such incident before," said Hawley.'
+p459
+aS'About 4,000 climbers have reached the top of Everest since it was first scaled by New Zealander Sir Edmund Hillary and Sherpa Tenzing Norgay in 1953.'
+p460
+aS'Also on Yahoo! News:'
+p461
+aS'(Reporting by Gopal Sharma, Editing by Belinda Goldsmith)'
+p462
+asba(i__main__
+Document
+p463
+(dp464
+g9
+(lp465
+S'KATMANDU, Nepal \xe2\x80\x93 \xc2\xa0 Nepalese mountaineering officials say they are investigating reports of a fight between three foreign climbers and local Sherpa guides on Mount Everest.'
+p466
+aS'Dipendra Poudel of the Mountaineering Department said the three climbers -- from Italy, Switzerland and Britain -- were involved in arguments with some Sherpa guides on Sunday.'
+p467
+aS'Poudel says both sides accuse each other of starting the fight, adding mountaineering officials based at the Everest base camp were investigating the incident.'
+p468
+asg18
+(lp469
+S"Sherpa guides hired by the hundreds of Western climbers attempting to climb the world's highest mountain are the first ones to fix the ropes on the routes so their clients can climb to the peak."
+p470
+aS'The Sherpas are accusing the foreign climbers of starting the fight.'
+p471
+asg24
+S'Nepal investigating fight between foreign climbers and Sherpas on Mount Everest | Fox News'
+p472
+sg26
+S'http://www.foxnews.com/world/2013/04/29/nepal-investigating-reports-fight-between-foreign-climbers-and-sherpas-on-mount/'
+p473
+sg28
+S"KATMANDU, Nepal \xe2\x80\x93 \xc2\xa0 Nepalese mountaineering officials say they are investigating reports of a fight between three foreign climbers and local Sherpa guides on Mount Everest. Dipendra Poudel of the Mountaineering Department said the three climbers -- from Italy, Switzerland and Britain -- were involved in arguments with some Sherpa guides on Sunday. Poudel says both sides accuse each other of starting the fight, adding mountaineering officials based at the Everest base camp were investigating the incident. Sherpa guides hired by the hundreds of Western climbers attempting to climb the world's highest mountain are the first ones to fix the ropes on the routes so their clients can climb to the peak. The Sherpas are accusing the foreign climbers of starting the fight."
+p474
+sg30
+(lp475
+(lp476
+g33
 ag34
-ag39
-aa(lp476
-g37
-ag34
-ag38
 ag34
 aa(lp477
-g34
-ag39
-ag38
+g33
+ag34
 ag34
 aa(lp478
 g34
+ag35
+ag33
+aa(lp479
+g34
 ag34
 ag34
-ag34
-aasg43
-(lp479
-S' "This decision is a step in the right direction for increased access to a product that is a safe and effective method of preventing unintended pregnancies," said Sen. Patty Murray, D-Wash. "It\'s also a decision that moves us closer to these critical availability decisions being based on science, not politics.'
-p480
-aS'" But earlier this month, U.S. District Judge Edward Korman of New York blasted the Obama administration for imposing the age-17 limit, saying it had let election-year politics trump science and was making it hard for women of any age to obtain the emergency contraception in time.'
-p481
-aS'He ordered an end to the age restrictions by Monday.'
+aa(lp480
+g34
+ag35
+ag40
+aasg42
+(lp481
+S''
 p482
-aS"The women's group that sued over the age limits said Tuesday's action is not enough, and it will continue the court fight."
-p483
-aS'Lowering the age limit "may reduce delays for some young women but it does nothing to address the significant barriers that far too many women of all ages will still find if they arrive at the drugstore without identification," said Nancy Northup, president of the Center for Reproductive Rights.'
+asg93
+(lp483
+g466
+ag467
+ag468
+aS"Sherpa guides hired by the hundreds of Western climbers attempting to climb the world's highest mountain are the first ones to fix the ropes on the routes so their clients can climb to the peak."
 p484
-aS"The FDA said the Plan B One-Step will be packaged with a product code that prompts the cashier to verify a customer's age."
+aS'The Sherpas are accusing the foreign climbers of starting the fight.'
 p485
-aS"Anyone who can't provide such proof as a driver's license, birth certificate or passport wouldn't be allowed to complete the purchase."
+asba(i__main__
+Document
 p486
-aS'"These are daunting and sometimes insurmountable hoops women are forced to jump through in time-sensitive circumstances, and we will continue our battle in court to remove these arbitrary restrictions on emergency contraception for all women," Northup said.'
-p487
-aS"Half the nation's pregnancies every year are unintended, and doctors' groups say more access to morning-after pills could cut those numbers."
-p488
-aS'The pills contain higher doses of regular contraceptives, and if taken within 72 hours of unprotected sex, can cut the chances of pregnancy by up to 89 percent.'
+(dp487
+g9
+(lp488
+S"At almost 23,000 feet up the world's tallest mountain, Sherpa guides attacked three climbers who didn't follow their directions."
 p489
-aS'The FDA had been poised to lift all age limits and let Plan B sell over-the-counter in late 2011, when Health and Human Services Secretary Kathleen Sebelius, in an unprecedented move, overruled her own scientists.'
+aS"KATHMANDU\xc2\xa0\xe2\x80\x94 \xc2\xa0Nepal officials vowed Monday to ensure the safety of climbers seeking to scale Mount Everest after three European climbers were involved in a fight with Sherpa guides on their way to the peak of the world's highest mountain."
 p490
-aS"Sebelius said some girls as young as 11 are physically capable of bearing children, but shouldn't be able to buy the pregnancy-preventing pill on their own."
+aS'Three experienced climbers from Britain, Italy and Switzerland were on route to Camp 3 at 22,965 feet on the 29,035 feet Everest summit when a brawl broke out Saturday with Sherpas fixing their ropes.'
 p491
-asg94
+asg18
 (lp492
-g463
-aS"Today, Plan B One-Step is sold behind pharmacy counters, and buyers must prove they're 17 or older to buy it without a prescription. Tuesday's decision by the Food and Drug Administration lowers the age limit and will allow the pill to sit on drugstore shelves next to spermicides or other women's health products and condoms -- but anyone who wants to buy it must prove their age at the cash register."
+S'Like us on Facebook: www.facebook.com/news.msn Follow us on Twitter: www.twitter.com/msnnews'
 p493
-aS'Some contraceptive advocates called the move promising.'
+asg24
+S'Sherpas attack Everest climbers at 23,000 feet up'
 p494
-aS'"This decision is a step in the right direction for increased access to a product that is a safe and effective method of preventing unintended pregnancies," said Sen. Patty Murray, D-Wash. "It\'s also a decision that moves us closer to these critical availability decisions being based on science, not politics."'
+sg26
+S'http://news.msn.com/world/sherpas-attack-everest-climbers-at-23000-feet-up'
 p495
-aS'But earlier this month, U.S. District Judge Edward Korman of New York blasted the Obama administration for imposing the age-17 limit, saying it had let election-year politics trump science and was making it hard for women of any age to obtain the emergency contraception in time. He ordered an end to the age restrictions by Monday.'
+sg28
+S'At almost 23,000 feet up the world\'s tallest mountain, Sherpa guides attacked three climbers who didn\'t follow their directions. KATHMANDU\xc2\xa0\xe2\x80\x94 \xc2\xa0Nepal officials vowed Monday to ensure the safety of climbers seeking to scale Mount Everest after three European climbers were involved in a fight with Sherpa guides on their way to the peak of the world\'s highest mountain. Three experienced climbers from Britain, Italy and Switzerland were on route to Camp 3 at 22,965 feet on the 29,035 feet Everest summit when a brawl broke out Saturday with Sherpas fixing their ropes. Witnesses said the Sherpas pelted the Europeans\' tents with stones and punches were thrown. Swiss climber Ueli Steck descended to the base camp after the attack and said he would abandon the climb and return to Kathmandu if proper security was not ensured. Nepali officials were quick to respond after the unusual brawl on Mount Everest, which is a key source of income for impoverished Nepal as foreign climbers pay royalties to scale the world\'s highest peak. Tourism Ministry official Dipendra Paudel said the government would ensure the safety and security of the climbers. "There was a slight misunderstanding and communication gap between them," Paudel said in Kathmandu after contacting the base camp. "This has been sorted out and the climbers are at the base camp." He said the European climbers would resume their bid to climb Everest. Officials said hundreds of climbers from 32 expeditions and their Sherpas were on Mount Everest in the current climbing season which continues through May. Sherpas are locals from the Everest region and are noted for their climbing skills. They are responsible for fixing ropes and accompany most of the foreign climbers to the summit. Beni Hyoju, an official of the Cho-Oyu Trekking agency that organized the expedition, said the three European climbers had failed to comply with a request from their sherpa guides to stay at a location while the guides fixed the route. Hyoju said this made the Sherpas unhappy and they attacked the climbers. No one was critically wounded. "(Steck) has now agreed to continue the climb after local administration assured proper security," Hyoju said. "Sherpas who were responsible for the fight will offer (an) apology." Historian Elizabeth Hawley, who has been tracking foreign expeditions to Mount Everest for more than five decades, said this type of fighting on the mountain was rare. "I have not heard of any such incident before," said Hawley. About 4,000 climbers have reached the top of Everest since it was first scaled by New Zealander Sir Edmund Hillary and Sherpa Tenzing Norgay in 1953. Reporting by Gopal Sharma \xe2\x80\x94\xe2\x80\x94 MSN News on Facebook and Twitter Stay up to date on breaking news and current events. Like us on Facebook: www.facebook.com/news.msn Follow us on Twitter: www.twitter.com/msnnews'
 p496
-aS"The women's group that sued over the age limits said Tuesday's action is not enough, and it will continue the court fight."
-p497
-aS'Lowering the age limit "may reduce delays for some young women but it does nothing to address the significant barriers that far too many women of all ages will still find if they arrive at the drugstore without identification," said Nancy Northup, president of the Center for Reproductive Rights.'
-p498
-aS"The FDA said the Plan B One-Step will be packaged with a product code that prompts the cashier to verify a customer's age. Anyone who can't provide such proof as a driver's license, birth certificate or passport wouldn't be allowed to complete the purchase."
-p499
-aS'"These are daunting and sometimes insurmountable hoops women are forced to jump through in time-sensitive circumstances, and we will continue our battle in court to remove these arbitrary restrictions on emergency contraception for all women," Northup said.'
-p500
-aS"Half the nation's pregnancies every year are unintended, and doctors' groups say more access to morning-after pills could cut those numbers. The pills contain higher doses of regular contraceptives, and if taken within 72 hours of unprotected sex, can cut the chances of pregnancy by up to 89 percent."
-p501
-aS"The FDA had been poised to lift all age limits and let Plan B sell over-the-counter in late 2011, when Health and Human Services Secretary Kathleen Sebelius, in an unprecedented move, overruled her own scientists. Sebelius said some girls as young as 11 are physically capable of bearing children, but shouldn't be able to buy the pregnancy-preventing pill on their own."
-p502
-aS"President Barack Obama supported Sebelius' move and a spokesman said earlier this month that the president's position hadn't changed."
-p503
-aS"The FDA said Tuesday's decision was independent of the court case. Instead, after the Obama administration's 2011 action, Plan B maker Teva Women's Health had filed a new application with the age-15 compromise."
+sg30
+(lp497
+(lp498
+g33
+ag33
+ag33
+aa(lp499
+g34
+ag33
+ag33
+aa(lp500
+g34
+ag34
+ag34
+aa(lp501
+g40
+ag35
+ag35
+aa(lp502
+g34
+ag33
+ag33
+aasg42
+(lp503
+S" Witnesses said the Sherpas pelted the Europeans' tents with stones and punches were thrown."
 p504
-asba(i__main__
-Document
+aS'Swiss climber Ueli Steck descended to the base camp after the attack and said he would abandon the climb and return to Kathmandu if proper security was not ensured.'
 p505
-(dp506
-g9
-(lp507
-(lp508
-S'This move comes just weeks after a federal judge in Brooklyn, New York, ordered the FDA to make the morning-after birth control pill available to women of any age, without a prescription.'
+aS"Nepali officials were quick to respond after the unusual brawl on Mount Everest, which is a key source of income for impoverished Nepal as foreign climbers pay royalties to scale the world's highest peak."
+p506
+aS'Tourism Ministry official Dipendra Paudel said the government would ensure the safety and security of the climbers.'
+p507
+aS'"There was a slight misunderstanding and communication gap between them," Paudel said in Kathmandu after contacting the base camp.'
+p508
+aS'"This has been sorted out and the climbers are at the base camp.'
 p509
-aS"Tuesday's FDA announcement, which pertains to an application from Teva Women's Health, Inc., is not related to that, the FDA said."
+aS'" He said the European climbers would resume their bid to climb Everest.'
 p510
-aaS'"The FDA\'s approval of Teva\'s current application for Plan B One-Step is independent of that litigation and this decision is not intended to address the judge\'s ruling," the FDA said in a statement.'
+aS'Officials said hundreds of climbers from 32 expeditions and their Sherpas were on Mount Everest in the current climbing season which continues through May.'
 p511
-aS"In early April, the U.S. Justice Department indicated an appeal of the Brooklyn judge's order was under consideration."
+aS'Sherpas are locals from the Everest region and are noted for their climbing skills.'
 p512
-aS'"The Department of Justice is reviewing the appellate options and expects to act promptly," department spokeswoman Allison Price said.'
+aS'They are responsible for fixing ropes and accompany most of the foreign climbers to the summit.'
 p513
-asg19
-(lp514
-S'A 2012 study in the journal Pediatrics found that there is misinformation about emergency contraception, including about what age women can obtain it without a prescription, and who can take it in general.'
+aS'Beni Hyoju, an official of the Cho-Oyu Trekking agency that organized the expedition, said the three European climbers had failed to comply with a request from their sherpa guides to stay at a location while the guides fixed the route.'
+p514
+aS'Hyoju said this made the Sherpas unhappy and they attacked the climbers.'
 p515
-aS'The morning-after pill goes for about $50, said Susannah Baruch, interim president and CEO of Reproductive Health Technologies Project.'
+aS'No one was critically wounded.'
 p516
-asg25
-S'FDA approves morning-after pill without prescription for girls 15 and older'
+aS'"(Steck) has now agreed to continue the climb after local administration assured proper security," Hyoju said.'
 p517
-sg27
-S'http://www.cnn.com/2013/04/30/health/morning-after-pill/'
+aS'"Sherpas who were responsible for the fight will offer (an) apology.'
 p518
-sg29
-S'This move comes just weeks after a federal judge in Brooklyn, New York, ordered the FDA to make the morning-after birth control pill available to women of any age, without a prescription. Tuesday\'s FDA announcement, which pertains to an application from Teva Women\'s Health, Inc., is not related to that, the FDA said. "The FDA\'s approval of Teva\'s current application for Plan B One-Step is independent of that litigation and this decision is not intended to address the judge\'s ruling," the FDA said in a statement. In early April, the U.S. Justice Department indicated an appeal of the Brooklyn judge\'s order was under consideration. "The Department of Justice is reviewing the appellate options and expects to act promptly," department spokeswoman Allison Price said. According to the new FDA decision, Plan B One-Step will now be labeled to reflect that proof of age is required to purchase it, and it cannot be sold where age cannot be verified. The packaging will include a product code that prompts the cashier to ask and verify the age of the customer. The product will be available in retail outlets with pharmacies, but the pill can be sold during non-pharmacy hours, too. "While we fully support this expansion of access to birth control, we continue to believe that the administration should lift all unnecessary restrictions to emergency contraception, consistent with the prevailing science and medicine," Planned Parenthood Federation of America President Cecile Richards said Tuesday in a statement. The FDA decision does not pertain to the two other emergency contraceptive drugs marketed in the United States. Plan B is available from generic manufacturers over-the-counter for women 17 and older and Ella is available by prescription only, for all ages, and prevents pregnancy within five days of unprotected sex or contraceptive failure. "Research has shown that access to emergency contraceptive products has the potential to further decrease the rate of unintended pregnancies in the United States," said FDA Commissioner Dr. Margaret A. Hamburg in a statement. "The data reviewed by the agency demonstrated that women 15 years of age and older were able to understand how Plan B One-Step works, how to use it properly, and that it does not prevent the transmission of a sexually transmitted disease." None of these products protect against sexually transmitted diseases. Controversy surrounding emergency contraception in the United States has lasted more than just one morning. The American College of Obstetricians and Gynecologists recommended last year that oral contraceptives be sold over the counter in an effort to reduce the number of unintended pregnancies in the United States. Opponents of prescription requirements say prescriptions can delay access to the drug. In 2011, Teva Women\'s Health Inc., maker of Plan B One-Step, had asked the FDA to make the drug available without prescription to all sexually active girls and women. Health and Human Services Secretary Kathleen Sebelius overruled the FDA\'s recommendation in 2011, saying, "I do not believe enough data were presented to support the application." She mandated requiring a prescription for girls under 17. In early April, U.S. District Court Judge Edward Korman said in his order , "The decisions of the Secretary with respect to Plan B One-Step and that of the FDA with respect to the Citizen Petition, which it had no choice but to deny, were arbitrary, capricious, and unreasonable." Korman\'s order sparked praise among supporters of the morning-after pill for all ages, such as the Center for Reproductive Rights, which had launched a relevant lawsuit. Nancy Northup, the center\'s president and CEO, said in a statement about that order: "This landmark court decision has struck a huge blow to the deep-seated discrimination that has for too long denied women access to a full range of safe and effective birth control methods." But other groups, including the Family Research Council, expressed concerns about Korman\'s order. "There is a real danger that Plan B may be given to young girls, under coercion or without their consent. The involvement of parents and medical professionals act as a safeguard for these young girls. However, today\'s ruling removes these common-sense protections," Anna Higgins, director of the organization\'s Center for Human Dignity, said in a statement. The FDA approved Plan B in 1999. The key ingredient in Plan B is a synthetic hormone called levonorgestrel. This drug stops an egg from being released from the ovary, or preventing fertilization of the egg by sperm. If there has been fertilization, Plan B may prevent a fertilized egg from embedding in the uterus. But if the egg has already been implanted in the uterus, the morning-after pill will not work. Emergency contraceptives are intended for use within 72 hours after sex but are most effective if taken within 24 hours. Many developed countries require a prescription for oral contraceptives, including Canada and most of Europe, but other countries sell the pill without a prescription even formally or informally. A 2012 study in the journal Pediatrics found that there is misinformation about emergency contraception, including about what age women can obtain it without a prescription, and who can take it in general. The morning-after pill goes for about $50, said Susannah Baruch, interim president and CEO of Reproductive Health Technologies Project.'
+aS'" Historian Elizabeth Hawley, who has been tracking foreign expeditions to Mount Everest for more than five decades, said this type of fighting on the mountain was rare.'
 p519
-sg31
-(lp520
-(lp521
-g37
-ag39
-ag39
-ag38
-ag38
-aa(lp522
-g34
-ag34
-ag34
-ag34
-ag34
-aa(lp523
-g37
-ag38
-ag38
-ag34
-ag34
-aa(lp524
-g38
-ag34
-ag37
-ag34
-ag38
-aa(lp525
-g34
-ag39
-ag38
-ag39
-ag39
-aasg43
-(lp526
-S' According to the new FDA decision, Plan B One-Step will now be labeled to reflect that proof of age is required to purchase it, and it cannot be sold where age cannot be verified.'
+aS'"I have not heard of any such incident before," said Hawley.'
+p520
+aS'About 4,000 climbers have reached the top of Everest since it was first scaled by New Zealander Sir Edmund Hillary and Sherpa Tenzing Norgay in 1953.'
+p521
+aS'Reporting by Gopal Sharma \xe2\x80\x94\xe2\x80\x94 MSN News on Facebook and Twitter Stay up to date on breaking news and current events.'
+p522
+asg93
+(lp523
+g489
+ag490
+ag491
+aS"Witnesses said the Sherpas pelted the Europeans' tents with stones and punches were thrown."
+p524
+aS'Swiss climber Ueli Steck descended to the base camp after the attack and said he would abandon the climb and return to Kathmandu if proper security was not ensured.'
+p525
+aS"Nepali officials were quick to respond after the unusual brawl on Mount Everest, which is a key source of income for impoverished Nepal as foreign climbers pay royalties to scale the world's highest peak."
+p526
+aS'Tourism Ministry official Dipendra Paudel said the government would ensure the safety and security of the climbers.'
 p527
-aS'The packaging will include a product code that prompts the cashier to ask and verify the age of the customer.'
+aS'"There was a slight misunderstanding and communication gap between them," Paudel said in Kathmandu after contacting the base camp. "This has been sorted out and the climbers are at the base camp."'
 p528
-aS'The product will be available in retail outlets with pharmacies, but the pill can be sold during non-pharmacy hours, too.'
+aS'He said the European climbers would resume their bid to climb Everest.'
 p529
-aS'"While we fully support this expansion of access to birth control, we continue to believe that the administration should lift all unnecessary restrictions to emergency contraception, consistent with the prevailing science and medicine," Planned Parenthood Federation of America President Cecile Richards said Tuesday in a statement.'
+aS'Officials said hundreds of climbers from 32 expeditions and their Sherpas were on Mount Everest in the current climbing season which continues through May.'
 p530
-aS'The FDA decision does not pertain to the two other emergency contraceptive drugs marketed in the United States.'
+aS'Sherpas are locals from the Everest region and are noted for their climbing skills. They are responsible for fixing ropes and accompany most of the foreign climbers to the summit.'
 p531
-aS'Plan B is available from generic manufacturers over-the-counter for women 17 and older and Ella is available by prescription only, for all ages, and prevents pregnancy within five days of unprotected sex or contraceptive failure.'
+aS'Beni Hyoju, an official of the Cho-Oyu Trekking agency that organized the expedition, said the three European climbers had failed to comply with a request from their sherpa guides to stay at a location while the guides fixed the route.'
 p532
-aS'"Research has shown that access to emergency contraceptive products has the potential to further decrease the rate of unintended pregnancies in the United States," said FDA Commissioner Dr. Margaret A. Hamburg in a statement.'
+aS'Hyoju said this made the Sherpas unhappy and they attacked the climbers. No one was critically wounded.'
 p533
-aS'"The data reviewed by the agency demonstrated that women 15 years of age and older were able to understand how Plan B One-Step works, how to use it properly, and that it does not prevent the transmission of a sexually transmitted disease.'
+aS'"(Steck) has now agreed to continue the climb after local administration assured proper security," Hyoju said. "Sherpas who were responsible for the fight will offer (an) apology."'
 p534
-aS'" None of these products protect against sexually transmitted diseases.'
+aS'Historian Elizabeth Hawley, who has been tracking foreign expeditions to Mount Everest for more than five decades, said this type of fighting on the mountain was rare.'
 p535
-aS'Controversy surrounding emergency contraception in the United States has lasted more than just one morning.'
+aS'"I have not heard of any such incident before," said Hawley.'
 p536
-aS'The American College of Obstetricians and Gynecologists recommended last year that oral contraceptives be sold over the counter in an effort to reduce the number of unintended pregnancies in the United States.'
+aS'About 4,000 climbers have reached the top of Everest since it was first scaled by New Zealander Sir Edmund Hillary and Sherpa Tenzing Norgay in 1953.'
 p537
-aS'Opponents of prescription requirements say prescriptions can delay access to the drug.'
+aS'Reporting by Gopal Sharma'
 p538
-aS"In 2011, Teva Women's Health Inc., maker of Plan B One-Step, had asked the FDA to make the drug available without prescription to all sexually active girls and women."
+aS'\xe2\x80\x94\xe2\x80\x94'
 p539
-aS'Health and Human Services Secretary Kathleen Sebelius overruled the FDA\'s recommendation in 2011, saying, "I do not believe enough data were presented to support the application.'
+aS'MSN News on Facebook and Twitter'
 p540
-aS'" She mandated requiring a prescription for girls under 17.'
+aS'Stay up to date on breaking news and current events.'
 p541
-aS'In early April, U.S. District Court Judge Edward Korman said in his order , "The decisions of the Secretary with respect to Plan B One-Step and that of the FDA with respect to the Citizen Petition, which it had no choice but to deny, were arbitrary, capricious, and unreasonable.'
+aS'Like us on Facebook: www.facebook.com/news.msn'
 p542
-aS'" Korman\'s order sparked praise among supporters of the morning-after pill for all ages, such as the Center for Reproductive Rights, which had launched a relevant lawsuit.'
+aS'Follow us on Twitter: www.twitter.com/msnnews'
 p543
-aS'Nancy Northup, the center\'s president and CEO, said in a statement about that order: "This landmark court decision has struck a huge blow to the deep-seated discrimination that has for too long denied women access to a full range of safe and effective birth control methods.'
+asba(i__main__
+Document
 p544
-aS'" But other groups, including the Family Research Council, expressed concerns about Korman\'s order.'
-p545
-aS'"There is a real danger that Plan B may be given to young girls, under coercion or without their consent.'
-p546
-aS'The involvement of parents and medical professionals act as a safeguard for these young girls.'
+(dp545
+g9
+(lp546
+S'But a group of three climbers say they faced unexpected adversaries over the weekend while scaling the storied peak: Sherpa guides.'
 p547
-aS'However, today\'s ruling removes these common-sense protections," Anna Higgins, director of the organization\'s Center for Human Dignity, said in a statement.'
+aS"Nepalese authorities say they're investigating reports that a fight broke out on Saturday between the guides and the climbers, nearly 23,000 feet (7,000 meters) up the world's tallest mountain."
 p548
-aS'The FDA approved Plan B in 1999.'
+aS'"If the Sherpas hit the foreign climbers, action will definitely be taken against them," said Dipendra Poudel, a mountaineering official in Kathmandu.'
 p549
-aS'The key ingredient in Plan B is a synthetic hormone called levonorgestrel.'
-p550
-aS'This drug stops an egg from being released from the ovary, or preventing fertilization of the egg by sperm.'
+asg18
+(lp550
+S'"The constant pressure to break records, attempt new routes, and be the strongest, whether for personal pride, sponsors, future job offers, or media, can cloud the purity of our climbing here.'
 p551
-aS'If there has been fertilization, Plan B may prevent a fertilized egg from embedding in the uterus.'
+aS'And these pressures can lead to disagreements, arguments, and hurt feelings.'
 p552
-aS'But if the egg has already been implanted in the uterus, the morning-after pill will not work.'
+aS'But none of these pressures should be allowed to lead to violence, or to breaking the essential bonds that tie climbers to each other," Ballinger added.'
 p553
-aS'Emergency contraceptives are intended for use within 72 hours after sex but are most effective if taken within 24 hours.'
+aS'Childhood dream leads climber up Everest, twice'
 p554
-aS'Many developed countries require a prescription for oral contraceptives, including Canada and most of Europe, but other countries sell the pill without a prescription even formally or informally.'
+asg24
+S'A fight at 23,000 feet? Climbers accuse Sherpas of Mount Everest attack'
 p555
-asg94
-(lp556
-S"This move comes just weeks after a federal judge in Brooklyn, New York, ordered the FDA to make the morning-after birth control pill available to women of any age, without a prescription. Tuesday's FDA announcement, which pertains to an application from Teva Women's Health, Inc., is not related to that, the FDA said."
+sg26
+S'http://www.cnn.com/2013/04/29/world/asia/nepal-mount-everest-fight/index.html'
+p556
+sg28
+S'But a group of three climbers say they faced unexpected adversaries over the weekend while scaling the storied peak: Sherpa guides. Nepalese authorities say they\'re investigating reports that a fight broke out on Saturday between the guides and the climbers, nearly 23,000 feet (7,000 meters) up the world\'s tallest mountain. "If the Sherpas hit the foreign climbers, action will definitely be taken against them," said Dipendra Poudel, a mountaineering official in Kathmandu. The fight started after three professional climbers from Italy, the United Kingdom and Switzerland told the Sherpas they wanted to climb on their own, according to Nima Nuru Sherpa of Cho-Oyu Trekking, the agency that is managing their climb. "Our clients said the Sherpas manhandled them," he said. A statement posted Sunday on the website of Italian climber Simone Moro gave a harrowing account, claiming that 100 Sherpas attacked him, Swiss climber Ueli Steck and British climber Jonathan Griffith. This account said the fight broke out after Sherpas said the climbers knocked ice onto a Sherpa located below them. "They became instantly aggressive," the statement said, "and not only punched and kicked the climbers, but threw many rocks as well." After nearly an hour, the situation calmed down, the statement said. "The climbers, who had been pushed away and told to hide, had regrouped and were told that if they weren\'t gone in one hour that they would all be killed," the statement said. "The climbers packed the bare essentials and made a circuitous route back down to the base of Mount Everest in heavily crevassed terrain with no rope on, feeling that given the current situation this was the safest place to be." Nepalese authorities said their investigation into the report was ongoing. "The Sherpas got angry when hit by the ice and there was a fight," said Dambar Parajuli of the Expedition Operators\' Association, a group representing expedition organizers. In addition, he said, the climbers had been instructed not to go up while Sherpas were laying ropes, but they went ahead despite the warning. On Monday, he said, both sides had a meeting, reconciled and agreed to go ahead with the climb. In their statement on Sunday, the climbers said no Sherpa had come forward with any evidence of injury. "The climbers believe that the lead Sherpa was tired and cold and felt that his pride had been damaged as the three climbers were moving unroped and much faster to the side of him," the statement said. "Whatever the reason may be, there is no reason to instigate vigilante rule and to try and kill three visiting climbers." About 4,000 people have scaled Everest since Sir Edmund Hillary and Sherpa Tenzing Norgay first climbed the mountain in 1953. According to mountaineering officials, 340 foreign climbers from about 30 expeditions have been given permission to climb Everest this year with about the same number of high-altitude Sherpas set to assist them. The majority of climbers are on commercial expeditions and are aided by Sherpas to reach the summit. Sherpas from different expeditions put down ropes to the summit and later, other climbers hold on to them to scale the mountain. Turning Everest waste into art Among climbing enthusiasts on social media, word spread quickly of the fight in one of the world\'s most hard-to-reach, but well known, locales. In a Facebook post, Climb Magazine described what it called a "shocking scene" on the mountain , sparking debate among readers over whether the Sherpas or the climbers were responsible. One post on Adventure Journal\'s website described the incident as "an inauspicious start to the spring climbing season on Mt. Everest." In another post, a guide said mistakes were likely made on both sides , but that those responsible for the violence should be prosecuted. "Everest is a mountain where people pour an incredible amount of passion and money into their efforts. This is true for professional and recreational climbers, and for Sherpa who earn most or all of their family\'s annual income in these two months on the mountain," guide Adrian Ballinger wrote. "The constant pressure to break records, attempt new routes, and be the strongest, whether for personal pride, sponsors, future job offers, or media, can cloud the purity of our climbing here. And these pressures can lead to disagreements, arguments, and hurt feelings. But none of these pressures should be allowed to lead to violence, or to breaking the essential bonds that tie climbers to each other," Ballinger added. Childhood dream leads climber up Everest, twice'
 p557
-ag511
-aS'In early April, the U.S. Justice Department indicated an appeal of the Brooklyn judge\'s order was under consideration. "The Department of Justice is reviewing the appellate options and expects to act promptly," department spokeswoman Allison Price said.'
-p558
-aS'According to the new FDA decision, Plan B One-Step will now be labeled to reflect that proof of age is required to purchase it, and it cannot be sold where age cannot be verified. The packaging will include a product code that prompts the cashier to ask and verify the age of the customer.'
-p559
-aS'The product will be available in retail outlets with pharmacies, but the pill can be sold during non-pharmacy hours, too.'
-p560
-aS'"While we fully support this expansion of access to birth control, we continue to believe that the administration should lift all unnecessary restrictions to emergency contraception, consistent with the prevailing science and medicine," Planned Parenthood Federation of America President Cecile Richards said Tuesday in a statement.'
-p561
-aS'The FDA decision does not pertain to the two other emergency contraceptive drugs marketed in the United States. Plan B is available from generic manufacturers over-the-counter for women 17 and older and Ella is available by prescription only, for all ages, and prevents pregnancy within five days of unprotected sex or contraceptive failure.'
-p562
-aS'"Research has shown that access to emergency contraceptive products has the potential to further decrease the rate of unintended pregnancies in the United States," said FDA Commissioner Dr. Margaret A. Hamburg in a statement. "The data reviewed by the agency demonstrated that women 15 years of age and older were able to understand how Plan B One-Step works, how to use it properly, and that it does not prevent the transmission of a sexually transmitted disease."'
-p563
-aS'None of these products protect against sexually transmitted diseases.'
-p564
-aS'Controversy surrounding emergency contraception in the United States has lasted more than just one morning.'
+sg30
+(lp558
+(lp559
+g34
+ag33
+ag34
+aa(lp560
+g35
+ag35
+ag35
+aa(lp561
+g34
+ag33
+ag34
+aa(lp562
+g34
+ag40
+ag35
+aa(lp563
+g35
+ag33
+ag34
+aasg42
+(lp564
+S' The fight started after three professional climbers from Italy, the United Kingdom and Switzerland told the Sherpas they wanted to climb on their own, according to Nima Nuru Sherpa of Cho-Oyu Trekking, the agency that is managing their climb.'
 p565
-aS'The American College of Obstetricians and Gynecologists recommended last year that oral contraceptives be sold over the counter in an effort to reduce the number of unintended pregnancies in the United States. Opponents of prescription requirements say prescriptions can delay access to the drug.'
+aS'"Our clients said the Sherpas manhandled them," he said.'
 p566
-aS"In 2011, Teva Women's Health Inc., maker of Plan B One-Step, had asked the FDA to make the drug available without prescription to all sexually active girls and women."
+aS'A statement posted Sunday on the website of Italian climber Simone Moro gave a harrowing account, claiming that 100 Sherpas attacked him, Swiss climber Ueli Steck and British climber Jonathan Griffith.'
 p567
-aS'Health and Human Services Secretary Kathleen Sebelius overruled the FDA\'s recommendation in 2011, saying, "I do not believe enough data were presented to support the application." She mandated requiring a prescription for girls under 17.'
+aS'This account said the fight broke out after Sherpas said the climbers knocked ice onto a Sherpa located below them.'
 p568
-aS'In early April, U.S. District Court Judge Edward Korman said in his order , "The decisions of the Secretary with respect to Plan B One-Step and that of the FDA with respect to the Citizen Petition, which it had no choice but to deny, were arbitrary, capricious, and unreasonable."'
+aS'"They became instantly aggressive," the statement said, "and not only punched and kicked the climbers, but threw many rocks as well.'
 p569
-aS"Korman's order sparked praise among supporters of the morning-after pill for all ages, such as the Center for Reproductive Rights, which had launched a relevant lawsuit."
+aS'" After nearly an hour, the situation calmed down, the statement said.'
 p570
-aS'Nancy Northup, the center\'s president and CEO, said in a statement about that order: "This landmark court decision has struck a huge blow to the deep-seated discrimination that has for too long denied women access to a full range of safe and effective birth control methods."'
+aS'"The climbers, who had been pushed away and told to hide, had regrouped and were told that if they weren\'t gone in one hour that they would all be killed," the statement said.'
 p571
-aS"But other groups, including the Family Research Council, expressed concerns about Korman's order."
+aS'"The climbers packed the bare essentials and made a circuitous route back down to the base of Mount Everest in heavily crevassed terrain with no rope on, feeling that given the current situation this was the safest place to be.'
 p572
-aS'"There is a real danger that Plan B may be given to young girls, under coercion or without their consent. The involvement of parents and medical professionals act as a safeguard for these young girls. However, today\'s ruling removes these common-sense protections," Anna Higgins, director of the organization\'s Center for Human Dignity, said in a statement.'
+aS'" Nepalese authorities said their investigation into the report was ongoing.'
 p573
-aS'The FDA approved Plan B in 1999. The key ingredient in Plan B is a synthetic hormone called levonorgestrel.'
+aS'"The Sherpas got angry when hit by the ice and there was a fight," said Dambar Parajuli of the Expedition Operators\' Association, a group representing expedition organizers.'
 p574
-aS'This drug stops an egg from being released from the ovary, or preventing fertilization of the egg by sperm.'
+aS'In addition, he said, the climbers had been instructed not to go up while Sherpas were laying ropes, but they went ahead despite the warning.'
 p575
-aS'If there has been fertilization, Plan B may prevent a fertilized egg from embedding in the uterus. But if the egg has already been implanted in the uterus, the morning-after pill will not work.'
+aS'On Monday, he said, both sides had a meeting, reconciled and agreed to go ahead with the climb.'
 p576
-aS'Emergency contraceptives are intended for use within 72 hours after sex but are most effective if taken within 24 hours.'
+aS'In their statement on Sunday, the climbers said no Sherpa had come forward with any evidence of injury.'
 p577
-aS'Many developed countries require a prescription for oral contraceptives, including Canada and most of Europe, but other countries sell the pill without a prescription even formally or informally.'
+aS'"The climbers believe that the lead Sherpa was tired and cold and felt that his pride had been damaged as the three climbers were moving unroped and much faster to the side of him," the statement said.'
 p578
-aS'A 2012 study in the journal Pediatrics found that there is misinformation about emergency contraception, including about what age women can obtain it without a prescription, and who can take it in general.'
+aS'"Whatever the reason may be, there is no reason to instigate vigilante rule and to try and kill three visiting climbers.'
 p579
-aS'The morning-after pill goes for about $50, said Susannah Baruch, interim president and CEO of Reproductive Health Technologies Project.'
+aS'" About 4,000 people have scaled Everest since Sir Edmund Hillary and Sherpa Tenzing Norgay first climbed the mountain in 1953.'
 p580
-asba(i__main__
-Document
+aS'According to mountaineering officials, 340 foreign climbers from about 30 expeditions have been given permission to climb Everest this year with about the same number of high-altitude Sherpas set to assist them.'
 p581
-(dp582
-g9
-(lp583
-(lp584
-S'The Food and Drug Administration said Tuesday that it would make the most widely known morning-after pill available without a prescription to girls and women ages 15 and older, and also make the pill available on drugstore shelves, instead of keeping it locked up behind pharmacy counters.'
+aS'The majority of climbers are on commercial expeditions and are aided by Sherpas to reach the summit.'
+p582
+aS'Sherpas from different expeditions put down ropes to the summit and later, other climbers hold on to them to scale the mountain.'
+p583
+aS"Turning Everest waste into art Among climbing enthusiasts on social media, word spread quickly of the fight in one of the world's most hard-to-reach, but well known, locales."
+p584
+aS'In a Facebook post, Climb Magazine described what it called a "shocking scene" on the mountain , sparking debate among readers over whether the Sherpas or the climbers were responsible.'
 p585
-aaS'Until this decision the pill, Plan B One-Step, which is used after sexual intercourse to help prevent pregnancy , was available without a prescription only for ages 17 and older.'
+aS'One post on Adventure Journal\'s website described the incident as "an inauspicious start to the spring climbing season on Mt.'
 p586
-aS'The decision did not address a federal judge\xe2\x80\x99s ruling in early April that gave the drug agency 30 days to make the pill available for all ages without a prescription.'
+aS'Everest.'
 p587
-aS'In a scathing opinion handed down three weeks ago, Judge Edward R. Korman in the Eastern District of New York said the Obama administration had put politics before science in restricting access to the drug.'
+aS'" In another post, a guide said mistakes were likely made on both sides , but that those responsible for the violence should be prosecuted.'
 p588
-asg19
-(lp589
-S'But Nancy Northup, president of the Center for Reproductive Rights, which filed the lawsuit that Judge Korman ruled on, said the decision on Tuesday was unsatisfactory.'
+aS'"Everest is a mountain where people pour an incredible amount of passion and money into their efforts.'
+p589
+aS'This is true for professional and recreational climbers, and for Sherpa who earn most or all of their family\'s annual income in these two months on the mountain," guide Adrian Ballinger wrote.'
 p590
-aS'\xe2\x80\x9cWe will continue our battle in court to remove these arbitrary restrictions on emergency contraception for all women,\xe2\x80\x9d she said.'
-p591
-asg25
-S'Drug Agency Lowers Age for Next-Day Birth Control'
+asg93
+(lp591
+g547
+ag548
+ag549
+aS'The fight started after three professional climbers from Italy, the United Kingdom and Switzerland told the Sherpas they wanted to climb on their own, according to Nima Nuru Sherpa of Cho-Oyu Trekking, the agency that is managing their climb.'
 p592
-sg27
-S'http://www.nytimes.com/2013/05/01/health/fda-lowers-age-for-morning-after-pill.html'
+aS'"Our clients said the Sherpas manhandled them," he said.'
 p593
-sg29
-S'The Food and Drug Administration said Tuesday that it would make the most widely known morning-after pill available without a prescription to girls and women ages 15 and older, and also make the pill available on drugstore shelves, instead of keeping it locked up behind pharmacy counters. Until this decision the pill, Plan B One-Step, which is used after sexual intercourse to help prevent pregnancy , was available without a prescription only for ages 17 and older. The decision did not address a federal judge\xe2\x80\x99s ruling in early April that gave the drug agency 30 days to make the pill available for all ages without a prescription. In a scathing opinion handed down three weeks ago, Judge Edward R. Korman in the Eastern District of New York said the Obama administration had put politics before science in restricting access to the drug. The F.D.A. and the White House said Tuesday that the Department of Justice was still deciding whether to appeal the ruling, something it can do independently of the drug agency\xe2\x80\x99s decision on Tuesday. That decision, which takes effect immediately, represents a compromise on the politically charged issue of access to emergency contraception , which has pitted conservative and anti- abortion groups against advocates for women\xe2\x80\x99s health and reproductive rights. The Justice Department is most likely weighing not only the substance of the judge\xe2\x80\x99s ruling, but also the precedent the ruling would set in countermanding an order by a White House cabinet member, Kathleen Sebelius , the secretary of health and human services. In 2011, she decided the pill would be available without prescription only to those 17 and older, despite the F.D.A.\xe2\x80\x99s finding that it was safe and effective and should be available without any age restrictions. She said the pill had not been studied for safety in girls as young as 11. It was the first time the F.D.A. had been publicly overruled by a cabinet secretary. After her order, the pill\xe2\x80\x99s manufacturer submitted an amended application seeking access for 15-year-olds. On Tuesday, a Health and Human Services Department official said that Ms. Sebelius was comfortable with the F.D.A.\xe2\x80\x99s decision to approve that application. Besides lowering the age restriction, the new rule addresses concerns of women who were unable to get the pill if their drugstore\xe2\x80\x99s pharmacy counter happened to be closed. Now, Plan B One-Step will be available in drugstore aisles where family planning or women\xe2\x80\x99s health products are displayed. The packaging will include a product code that, when scanned by a cashier, will indicate that the customer\xe2\x80\x99s proof of age is required. To try to prevent theft, the manufacturer, Teva Pharmaceuticals, has arranged for each box to have a security tag, the drug agency said. Margaret A. Hamburg, the F.D.A. commissioner, said in a statement that data proved that 15-year-olds \xe2\x80\x9cwere able to understand how Plan B One-Step works, how to use it properly, and that it does not prevent the transmission of a sexually transmitted disease .\xe2\x80\x9d The agency\xe2\x80\x99s decision applies only to Plan B One-Step, which is a one-pill dose, not to the two-pill generic versions, because there is not enough data to show the two-dose versions can be used responsibly by younger teenagers without the intervention of a health provider, said an F.D.A. spokeswoman, Erica Jefferson. Marty Berndt, a vice president and general manager for Teva, called the agency\xe2\x80\x99s decision \xe2\x80\x9ca significant milestone for women.\xe2\x80\x9d But it did not completely satisfy either side of the emergency contraception debate. Anna Higgins , the director of the Center for Human Dignity at the Family Research Council, accused the administration of trying to \xe2\x80\x9cplacate both sides,\xe2\x80\x9d adding that \xe2\x80\x9callowing this to young teens will be something that we will remain very concerned about.\xe2\x80\x9d Cecile Richards, president of Planned Parenthood, called the decision \xe2\x80\x9can important step forward\xe2\x80\x9d because it \xe2\x80\x9cwill eliminate some of the biggest barriers and hurdles that women face in getting emergency contraception.\xe2\x80\x9d But Nancy Northup, president of the Center for Reproductive Rights, which filed the lawsuit that Judge Korman ruled on, said the decision on Tuesday was unsatisfactory. \xe2\x80\x9cWe will continue our battle in court to remove these arbitrary restrictions on emergency contraception for all women,\xe2\x80\x9d she said.'
+aS'A statement posted Sunday on the website of Italian climber Simone Moro gave a harrowing account, claiming that 100 Sherpas attacked him, Swiss climber Ueli Steck and British climber Jonathan Griffith.'
 p594
-sg31
-(lp595
-(lp596
-g34
-ag34
-ag34
-ag34
-aa(lp597
-g37
-ag38
-ag34
-ag39
-aa(lp598
-g37
-ag38
-ag34
-ag34
-aa(lp599
-g37
-ag38
-ag34
-ag34
-aa(lp600
-g37
-ag38
-ag38
-ag37
-aasg43
-(lp601
-S' The F.D.A.'
+aS'This account said the fight broke out after Sherpas said the climbers knocked ice onto a Sherpa located below them.'
+p595
+aS'"They became instantly aggressive," the statement said, "and not only punched and kicked the climbers, but threw many rocks as well."'
+p596
+aS'After nearly an hour, the situation calmed down, the statement said.'
+p597
+aS'"The climbers, who had been pushed away and told to hide, had regrouped and were told that if they weren\'t gone in one hour that they would all be killed," the statement said.'
+p598
+aS'"The climbers packed the bare essentials and made a circuitous route back down to the base of Mount Everest in heavily crevassed terrain with no rope on, feeling that given the current situation this was the safest place to be."'
+p599
+aS'Nepalese authorities said their investigation into the report was ongoing.'
+p600
+aS'"The Sherpas got angry when hit by the ice and there was a fight," said Dambar Parajuli of the Expedition Operators\' Association, a group representing expedition organizers.'
+p601
+aS'In addition, he said, the climbers had been instructed not to go up while Sherpas were laying ropes, but they went ahead despite the warning.'
 p602
-aS'and the White House said Tuesday that the Department of Justice was still deciding whether to appeal the ruling, something it can do independently of the drug agency\xe2\x80\x99s decision on Tuesday.'
+aS'On Monday, he said, both sides had a meeting, reconciled and agreed to go ahead with the climb.'
 p603
-aS'That decision, which takes effect immediately, represents a compromise on the politically charged issue of access to emergency contraception , which has pitted conservative and anti- abortion groups against advocates for women\xe2\x80\x99s health and reproductive rights.'
+aS'In their statement on Sunday, the climbers said no Sherpa had come forward with any evidence of injury.'
 p604
-aS'The Justice Department is most likely weighing not only the substance of the judge\xe2\x80\x99s ruling, but also the precedent the ruling would set in countermanding an order by a White House cabinet member, Kathleen Sebelius , the secretary of health and human services.'
+aS'"The climbers believe that the lead Sherpa was tired and cold and felt that his pride had been damaged as the three climbers were moving unroped and much faster to the side of him," the statement said. "Whatever the reason may be, there is no reason to instigate vigilante rule and to try and kill three visiting climbers."'
 p605
-aS'In 2011, she decided the pill would be available without prescription only to those 17 and older, despite the F.D.A.\xe2\x80\x99s finding that it was safe and effective and should be available without any age restrictions.'
+aS'About 4,000 people have scaled Everest since Sir Edmund Hillary and Sherpa Tenzing Norgay first climbed the mountain in 1953.'
 p606
-aS'She said the pill had not been studied for safety in girls as young as 11.'
+aS'According to mountaineering officials, 340 foreign climbers from about 30 expeditions have been given permission to climb Everest this year with about the same number of high-altitude Sherpas set to assist them.'
 p607
-aS'It was the first time the F.D.A.'
+aS'The majority of climbers are on commercial expeditions and are aided by Sherpas to reach the summit.'
 p608
-aS'had been publicly overruled by a cabinet secretary.'
+aS'Sherpas from different expeditions put down ropes to the summit and later, other climbers hold on to them to scale the mountain.'
 p609
-aS'After her order, the pill\xe2\x80\x99s manufacturer submitted an amended application seeking access for 15-year-olds.'
+aS'Turning Everest waste into art'
 p610
-aS'On Tuesday, a Health and Human Services Department official said that Ms. Sebelius was comfortable with the F.D.A.\xe2\x80\x99s decision to approve that application.'
+aS"Among climbing enthusiasts on social media, word spread quickly of the fight in one of the world's most hard-to-reach, but well known, locales."
 p611
-aS'Besides lowering the age restriction, the new rule addresses concerns of women who were unable to get the pill if their drugstore\xe2\x80\x99s pharmacy counter happened to be closed.'
+aS'In a Facebook post, Climb Magazine described what it called a "shocking scene" on the mountain , sparking debate among readers over whether the Sherpas or the climbers were responsible.'
 p612
-aS'Now, Plan B One-Step will be available in drugstore aisles where family planning or women\xe2\x80\x99s health products are displayed.'
+aS'One post on Adventure Journal\'s website described the incident as "an inauspicious start to the spring climbing season on Mt. Everest."'
 p613
-aS'The packaging will include a product code that, when scanned by a cashier, will indicate that the customer\xe2\x80\x99s proof of age is required.'
+aS'In another post, a guide said mistakes were likely made on both sides , but that those responsible for the violence should be prosecuted.'
 p614
-aS'To try to prevent theft, the manufacturer, Teva Pharmaceuticals, has arranged for each box to have a security tag, the drug agency said.'
+aS'"Everest is a mountain where people pour an incredible amount of passion and money into their efforts. This is true for professional and recreational climbers, and for Sherpa who earn most or all of their family\'s annual income in these two months on the mountain," guide Adrian Ballinger wrote.'
 p615
-aS'Margaret A. Hamburg, the F.D.A.'
+aS'"The constant pressure to break records, attempt new routes, and be the strongest, whether for personal pride, sponsors, future job offers, or media, can cloud the purity of our climbing here. And these pressures can lead to disagreements, arguments, and hurt feelings. But none of these pressures should be allowed to lead to violence, or to breaking the essential bonds that tie climbers to each other," Ballinger added.'
 p616
-aS'commissioner, said in a statement that data proved that 15-year-olds \xe2\x80\x9cwere able to understand how Plan B One-Step works, how to use it properly, and that it does not prevent the transmission of a sexually transmitted disease .\xe2\x80\x9d The agency\xe2\x80\x99s decision applies only to Plan B One-Step, which is a one-pill dose, not to the two-pill generic versions, because there is not enough data to show the two-dose versions can be used responsibly by younger teenagers without the intervention of a health provider, said an F.D.A.'
+aS'Childhood dream leads climber up Everest, twice'
 p617
-aS'spokeswoman, Erica Jefferson.'
+asba(i__main__
+Document
 p618
-aS'Marty Berndt, a vice president and general manager for Teva, called the agency\xe2\x80\x99s decision \xe2\x80\x9ca significant milestone for women.\xe2\x80\x9d But it did not completely satisfy either side of the emergency contraception debate.'
-p619
-aS'Anna Higgins , the director of the Center for Human Dignity at the Family Research Council, accused the administration of trying to \xe2\x80\x9cplacate both sides,\xe2\x80\x9d adding that \xe2\x80\x9callowing this to young teens will be something that we will remain very concerned about.\xe2\x80\x9d Cecile Richards, president of Planned Parenthood, called the decision \xe2\x80\x9can important step forward\xe2\x80\x9d because it \xe2\x80\x9cwill eliminate some of the biggest barriers and hurdles that women face in getting emergency contraception.\xe2\x80\x9d'
-p620
-asg94
-(lp621
-g585
-ag586
-aS'The decision did not address a federal judge\xe2\x80\x99s ruling in early April that gave the drug agency 30 days to make the pill available for all ages without a prescription. In a scathing opinion handed down three weeks ago, Judge Edward R. Korman in the Eastern District of New York said the Obama administration had put politics before science in restricting access to the drug.'
+(dp619
+g9
+(lp620
+S'Three climbers involved in a high-altitude brawl on Mount Everest have abandoned their expedition after fending off a group of angry Sherpa guides.'
+p621
+aS'Ueli Steck of Switzerland, Simone Moro of Italy and Jonathan Griffith of Great Britain met with the Sherpas and Nepalese authorities today to clear the air, according to an update on Moro\xe2\x80\x99s Facebook page.'
 p622
-aS'The F.D.A. and the White House said Tuesday that the Department of Justice was still deciding whether to appeal the ruling, something it can do independently of the drug agency\xe2\x80\x99s decision on Tuesday.'
+aS'\xe2\x80\x9cI wanted that the meeting with everyone at base camp ended with my words that underlined the esteem I have for the Sherpa and Nepal, but I also stated that this violence killed our climbing dream and that we are leaving,\xe2\x80\x9d Moro said in an interview with Planet Mountain .'
 p623
-aS'That decision, which takes effect immediately, represents a compromise on the politically charged issue of access to emergency contraception , which has pitted conservative and anti- abortion groups against advocates for women\xe2\x80\x99s health and reproductive rights.'
-p624
-aS'The Justice Department is most likely weighing not only the substance of the judge\xe2\x80\x99s ruling, but also the precedent the ruling would set in countermanding an order by a White House cabinet member, Kathleen Sebelius , the secretary of health and human services. In 2011, she decided the pill would be available without prescription only to those 17 and older, despite the F.D.A.\xe2\x80\x99s finding that it was safe and effective and should be available without any age restrictions. She said the pill had not been studied for safety in girls as young as 11. It was the first time the F.D.A. had been publicly overruled by a cabinet secretary.'
+asg18
+(lp624
+S'He suggested the lead Sherpa may have been dealing with bruised pride after the three climbers \xc2\xa0passed him, prompting him to start the fight.'
 p625
-aS'After her order, the pill\xe2\x80\x99s manufacturer submitted an amended application seeking access for 15-year-olds. On Tuesday, a Health and Human Services Department official said that Ms. Sebelius was comfortable with the F.D.A.\xe2\x80\x99s decision to approve that application.'
+aS'\xe2\x80\x9cWhatever the reason may be, there is no reason to instigate vigilante rule and to try and kill three visiting climbers,\xe2\x80\x9d he said.'
 p626
-aS'Besides lowering the age restriction, the new rule addresses concerns of women who were unable to get the pill if their drugstore\xe2\x80\x99s pharmacy counter happened to be closed. Now, Plan B One-Step will be available in drugstore aisles where family planning or women\xe2\x80\x99s health products are displayed.'
+asg24
+S'Climbers Abandon Mount Everest Expedition After Brawling With Sherpas'
 p627
-aS'The packaging will include a product code that, when scanned by a cashier, will indicate that the customer\xe2\x80\x99s proof of age is required. To try to prevent theft, the manufacturer, Teva Pharmaceuticals, has arranged for each box to have a security tag, the drug agency said.'
+sg26
+S'http://abcnews.go.com/blogs/headlines/2013/04/climbers-abandon-mount-everest-expedition-after-brawling-with-sherpas/'
 p628
-aS'Margaret A. Hamburg, the F.D.A. commissioner, said in a statement that data proved that 15-year-olds \xe2\x80\x9cwere able to understand how Plan B One-Step works, how to use it properly, and that it does not prevent the transmission of a sexually transmitted disease .\xe2\x80\x9d'
+sg28
+S'Three climbers involved in a high-altitude brawl on Mount Everest have abandoned their expedition after fending off a group of angry Sherpa guides. Ueli Steck of Switzerland, Simone Moro of Italy and Jonathan Griffith of Great Britain met with the Sherpas and Nepalese authorities today to clear the air, according to an update on Moro\xe2\x80\x99s Facebook page. \xe2\x80\x9cI wanted that the meeting with everyone at base camp ended with my words that underlined the esteem I have for the Sherpa and Nepal, but I also stated that this violence killed our climbing dream and that we are leaving,\xe2\x80\x9d Moro said in an interview with Planet Mountain . The drama unfolded Saturday at 24,500 feet, according to a statement posted on Moro\xe2\x80\x99s website,\xc2\xa0after a Sherpa accused the three of knocking ice onto a fellow guide below and injuring him. The lead Sherpa began \xe2\x80\x9cshouting and banging the ice with his ax \xc2\xa0erratically,\xe2\x80\x9d Moro said. The \xc2\xa0trio and the Sherpas, who are known for providing support to foreign trekkers and mountain climbers, descended to Camp 2, at which point Moro said they were \xc2\xa0outnumbered by 100 Sherpas who punched and kicked them and threw rocks. \xe2\x80\x9cThey were throwing stones,\xe2\x80\x9d Steck told the BBC. \xe2\x80\x9cOne tried to use a pocket knife to hit Simone Moro. Luckily, he just hit his belt off his backpack.\xe2\x80\x9d The situation calmed down after 50 minutes, at which point \xc2\xa0Moro said the men were told \xe2\x80\x9cif they weren\xe2\x80\x99t gone in one hour that they would all be killed.\xe2\x80\x9d The the three \xc2\xa0retreated to the base of the mountain, Moro said, \xe2\x80\x9cfeeling that given the current situation this was the safest place to be.\xe2\x80\x9d He suggested the lead Sherpa may have been dealing with bruised pride after the three climbers \xc2\xa0passed him, prompting him to start the fight. \xe2\x80\x9cWhatever the reason may be, there is no reason to instigate vigilante rule and to try and kill three visiting climbers,\xe2\x80\x9d he said.'
 p629
-aS'The agency\xe2\x80\x99s decision applies only to Plan B One-Step, which is a one-pill dose, not to the two-pill generic versions, because there is not enough data to show the two-dose versions can be used responsibly by younger teenagers without the intervention of a health provider, said an F.D.A. spokeswoman, Erica Jefferson.'
-p630
-aS'Marty Berndt, a vice president and general manager for Teva, called the agency\xe2\x80\x99s decision \xe2\x80\x9ca significant milestone for women.\xe2\x80\x9d'
-p631
-aS'But it did not completely satisfy either side of the emergency contraception debate. Anna Higgins , the director of the Center for Human Dignity at the Family Research Council, accused the administration of trying to \xe2\x80\x9cplacate both sides,\xe2\x80\x9d adding that \xe2\x80\x9callowing this to young teens will be something that we will remain very concerned about.\xe2\x80\x9d'
-p632
-aS'Cecile Richards, president of Planned Parenthood, called the decision \xe2\x80\x9can important step forward\xe2\x80\x9d because it \xe2\x80\x9cwill eliminate some of the biggest barriers and hurdles that women face in getting emergency contraception.\xe2\x80\x9d'
-p633
-aS'But Nancy Northup, president of the Center for Reproductive Rights, which filed the lawsuit that Judge Korman ruled on, said the decision on Tuesday was unsatisfactory.'
-p634
-aS'\xe2\x80\x9cWe will continue our battle in court to remove these arbitrary restrictions on emergency contraception for all women,\xe2\x80\x9d she said.'
-p635
-asba(i__main__
-Document
-p636
-(dp637
-g9
-(lp638
-(lp639
-S'The Food and Drug Administration approved the use of Plan B One-Step for women aged 15 and older without a prescription.'
+sg30
+(lp630
+(lp631
+g33
+ag34
+ag33
+aa(lp632
+g34
+ag33
+ag33
+aa(lp633
+g34
+ag35
+ag35
+aa(lp634
+g35
+ag35
+ag40
+aa(lp635
+g34
+ag34
+ag34
+aasg42
+(lp636
+S' The drama unfolded Saturday at 24,500 feet, according to a statement posted on Moro\xe2\x80\x99s website,\xc2\xa0after a Sherpa accused the three of knocking ice onto a fellow guide below and injuring him.'
+p637
+aS'The lead Sherpa began \xe2\x80\x9cshouting and banging the ice with his ax \xc2\xa0erratically,\xe2\x80\x9d Moro said.'
+p638
+aS'The \xc2\xa0trio and the Sherpas, who are known for providing support to foreign trekkers and mountain climbers, descended to Camp 2, at which point Moro said they were \xc2\xa0outnumbered by 100 Sherpas who punched and kicked them and threw rocks.'
+p639
+aS'\xe2\x80\x9cThey were throwing stones,\xe2\x80\x9d Steck told the BBC.'
 p640
-aaS"The decision, which was announced on Tuesday , was in regards to an amended application submitted by Teva Women's Health, Inc."
+aS'\xe2\x80\x9cOne tried to use a pocket knife to hit Simone Moro.'
 p641
-aS'The company first sought approval to market Plan B One-Step to all females of reproductive age, but changed their initial appeal for approval for those 15 and older.'
+aS'Luckily, he just hit his belt off his backpack.\xe2\x80\x9d The situation calmed down after 50 minutes, at which point \xc2\xa0Moro said the men were told \xe2\x80\x9cif they weren\xe2\x80\x99t gone in one hour that they would all be killed.\xe2\x80\x9d The the three \xc2\xa0retreated to the base of the mountain, Moro said, \xe2\x80\x9cfeeling that given the current situation this was the safest place to be.\xe2\x80\x9d'
 p642
-asg19
+asg93
 (lp643
-S'"This decision is a step in the right direction for increased access to a product that is a safe and effective method of preventing unintended pregnancies," Senator Patty Murray, D-Wash., said in a statement to CBS News.'
+g621
+ag622
+ag623
+aS'The drama unfolded Saturday at 24,500 feet, according to a statement posted on Moro\xe2\x80\x99s website,\xc2\xa0after a Sherpa accused the three of knocking ice onto a fellow guide below and injuring him.'
 p644
-aS'"It\'s also a decision that moves us closer to these critical availability decisions being based on science, not politics.'
+aS'The lead Sherpa began \xe2\x80\x9cshouting and banging the ice with his ax \xc2\xa0erratically,\xe2\x80\x9d Moro said.'
 p645
-aS"Plan B is an essential part of a woman's basic health care and I will continue to push for more information from FDA and HHS on the practical application of this policy while also working to ensure that access is based on science, safety, and efficacy."
+aS'The \xc2\xa0trio and the Sherpas, who are known for providing support to foreign trekkers and mountain climbers, descended to Camp 2, at which point Moro said they were \xc2\xa0outnumbered by 100 Sherpas who punched and kicked them and threw rocks.'
 p646
-ag18
-asg25
-S'Plan B One-Step approved for use without a prescription for women 15 and older'
+aS'\xe2\x80\x9cThey were throwing stones,\xe2\x80\x9d Steck told the BBC. \xe2\x80\x9cOne tried to use a pocket knife to hit Simone Moro. Luckily, he just hit his belt off his backpack.\xe2\x80\x9d'
 p647
-sg27
-S'http://www.cbsnews.com/8301-204_162-57582218/plan-b-one-step-approved-for-use-without-a-prescription-for-women-15-and-older/'
+aS'The situation calmed down after 50 minutes, at which point \xc2\xa0Moro said the men were told \xe2\x80\x9cif they weren\xe2\x80\x99t gone in one hour that they would all be killed.\xe2\x80\x9d'
 p648
-sg29
-S'The Food and Drug Administration approved the use of Plan B One-Step for women aged 15 and older without a prescription. The decision, which was announced on Tuesday , was in regards to an amended application submitted by Teva Women\'s Health, Inc. The company first sought approval to market Plan B One-Step to all females of reproductive age, but changed their initial appeal for approval for those 15 and older. Play Video Plan B One-Step, also known as the "morning after pill," is a form of emergency contraception that can reduce the chance of pregnancy after a person has engaged in unprotected sex, meaning they did not use another form of birth control or their chosen method did not work. There are currently three types of emergency contraception available for sale in the U.S.: Plan B One-Step, Plan B, and ella. Plan B is a two-pill system that requires a prescription for those who are under 17. Ella also requires a prescription, regardless of age. Plan B One-Step does not stop pregnancy if a woman is already pregnant, nor has any scientific evidence shown that it will harm a fetus that already exists. The single-dose pill works best if taken within three days after sexual intercourse. "Research has shown that access to emergency contraceptive products has the potential to further decrease the rate of unintended pregnancies in the United States," Dr. FDA Commissioner Margaret A. Hamburg, said in a press release. "The data reviewed by the agency demonstrated that women 15 years of age and older were able to understand how Plan B One-Step works, how to use it properly, and that it does not prevent the transmission of a sexually transmitted disease." Plan B One-Step will now bear a label that reads "not for sale to those under 15 years of age *proof of age required* not for sale where age cannot be verified." The product code will prompt cashiers to ask for proof of age when a person attempts to purchase the product, and it will not be sold to anyone who cannot provide proof of their age. Security tags will also be placed on the products to deter thieves. Plan B One-Step will be sold in retail outlets with an onsite pharmacy as part of the agreement, but it can be sold regardless if the pharmacy is open or not. The FDA considered actual use studies and label comprehension data submitted by Teva Women\'s Health, Inc. when making their decision. The agency determined that women 15 and older knew the product could not be used regularly and would not protect them from sexually transmitted diseases. Earlier in April 2013, U.S. District Judge Edward Korman ordered that the FDA had to make contraceptives available to females of all ages, calling the requirement for a prescription "arbitrary, capricious and unreasonable." However, the pending request from Teva Women\'s Health, Inc. at that time only asked for the prescription ban to be lifted for women aged 15 or older. "This decision is a step in the right direction for increased access to a product that is a safe and effective method of preventing unintended pregnancies," Senator Patty Murray, D-Wash., said in a statement to CBS News. "It\'s also a decision that moves us closer to these critical availability decisions being based on science, not politics. Plan B is an essential part of a woman\'s basic health care and I will continue to push for more information from FDA and HHS on the practical application of this policy while also working to ensure that access is based on science, safety, and efficacy."'
+aS'The the three \xc2\xa0retreated to the base of the mountain, Moro said, \xe2\x80\x9cfeeling that given the current situation this was the safest place to be.\xe2\x80\x9d'
 p649
-sg31
-(lp650
-(lp651
-g37
-ag38
-ag37
-ag35
-aa(lp652
-g34
-ag34
-ag34
-ag34
-aa(lp653
-g38
-ag37
-ag34
-ag39
-aa(lp654
-g37
-ag34
-ag38
-ag35
-aa(lp655
-g37
-ag34
-ag38
-ag39
-aasg43
-(lp656
-S' Plan B One-Step, also known as the "morning after pill," is a form of emergency contraception that can reduce the chance of pregnancy after a person has engaged in unprotected sex, meaning they did not use another form of birth control or their chosen method did not work.'
-p657
-aS'There are currently three types of emergency contraception available for sale in the U.S.: Plan B One-Step, Plan B, and ella.'
-p658
-aS'Plan B is a two-pill system that requires a prescription for those who are under 17.'
-p659
-aS'Ella also requires a prescription, regardless of age.'
-p660
-aS'Plan B One-Step does not stop pregnancy if a woman is already pregnant, nor has any scientific evidence shown that it will harm a fetus that already exists.'
-p661
-aS'The single-dose pill works best if taken within three days after sexual intercourse.'
-p662
-aS'"Research has shown that access to emergency contraceptive products has the potential to further decrease the rate of unintended pregnancies in the United States," Dr. FDA Commissioner Margaret A. Hamburg, said in a press release.'
-p663
-aS'"The data reviewed by the agency demonstrated that women 15 years of age and older were able to understand how Plan B One-Step works, how to use it properly, and that it does not prevent the transmission of a sexually transmitted disease.'
-p664
-aS'" Plan B One-Step will now bear a label that reads "not for sale to those under 15 years of age *proof of age required* not for sale where age cannot be verified.'
-p665
-aS'" The product code will prompt cashiers to ask for proof of age when a person attempts to purchase the product, and it will not be sold to anyone who cannot provide proof of their age.'
-p666
-aS'Security tags will also be placed on the products to deter thieves.'
-p667
-aS'Plan B One-Step will be sold in retail outlets with an onsite pharmacy as part of the agreement, but it can be sold regardless if the pharmacy is open or not.'
-p668
-aS"The FDA considered actual use studies and label comprehension data submitted by Teva Women's Health, Inc. when making their decision."
-p669
-aS'The agency determined that women 15 and older knew the product could not be used regularly and would not protect them from sexually transmitted diseases.'
-p670
-aS'Earlier in April 2013, U.S. District Judge Edward Korman ordered that the FDA had to make contraceptives available to females of all ages, calling the requirement for a prescription "arbitrary, capricious and unreasonable.'
-p671
-aS'" However, the pending request from Teva Women\'s Health, Inc. at that time only asked for the prescription ban to be lifted for women aged 15 or older.'
-p672
-asg94
-(lp673
-g640
-aS"The decision, which was announced on Tuesday , was in regards to an amended application submitted by Teva Women's Health, Inc. The company first sought approval to market Plan B One-Step to all females of reproductive age, but changed their initial appeal for approval for those 15 and older."
-p674
-aS'Play Video'
-p675
-aS'Plan B One-Step, also known as the "morning after pill," is a form of emergency contraception that can reduce the chance of pregnancy after a person has engaged in unprotected sex, meaning they did not use another form of birth control or their chosen method did not work.'
-p676
-aS'There are currently three types of emergency contraception available for sale in the U.S.: Plan B One-Step, Plan B, and ella. Plan B is a two-pill system that requires a prescription for those who are under 17. Ella also requires a prescription, regardless of age.'
-p677
-aS'Plan B One-Step does not stop pregnancy if a woman is already pregnant, nor has any scientific evidence shown that it will harm a fetus that already exists. The single-dose pill works best if taken within three days after sexual intercourse.'
-p678
-aS'"Research has shown that access to emergency contraceptive products has the potential to further decrease the rate of unintended pregnancies in the United States," Dr. FDA Commissioner Margaret A. Hamburg, said in a press release. "The data reviewed by the agency demonstrated that women 15 years of age and older were able to understand how Plan B One-Step works, how to use it properly, and that it does not prevent the transmission of a sexually transmitted disease."'
-p679
-aS'Plan B One-Step will now bear a label that reads "not for sale to those under 15 years of age *proof of age required* not for sale where age cannot be verified." The product code will prompt cashiers to ask for proof of age when a person attempts to purchase the product, and it will not be sold to anyone who cannot provide proof of their age.'
-p680
-aS'Security tags will also be placed on the products to deter thieves. Plan B One-Step will be sold in retail outlets with an onsite pharmacy as part of the agreement, but it can be sold regardless if the pharmacy is open or not.'
-p681
-aS"The FDA considered actual use studies and label comprehension data submitted by Teva Women's Health, Inc. when making their decision. The agency determined that women 15 and older knew the product could not be used regularly and would not protect them from sexually transmitted diseases."
-p682
-aS'Earlier in April 2013, U.S. District Judge Edward Korman ordered that the FDA had to make contraceptives available to females of all ages, calling the requirement for a prescription "arbitrary, capricious and unreasonable." However, the pending request from Teva Women\'s Health, Inc. at that time only asked for the prescription ban to be lifted for women aged 15 or older.'
-p683
-aS'"This decision is a step in the right direction for increased access to a product that is a safe and effective method of preventing unintended pregnancies," Senator Patty Murray, D-Wash., said in a statement to CBS News. "It\'s also a decision that moves us closer to these critical availability decisions being based on science, not politics. Plan B is an essential part of a woman\'s basic health care and I will continue to push for more information from FDA and HHS on the practical application of this policy while also working to ensure that access is based on science, safety, and efficacy."'
-p684
-asba(i__main__
-Document
-p685
-(dp686
-g9
-(lp687
-(lp688
-S'Women and girls age 15 and over will soon be able to buy emergency contraception without a prescription.'
-p689
-aaS'The Food and Drug Administration announced on Tuesday that it was approving Plan B One-Step, also known as the morning-after pill, to be sold in the retail aisle next to other over-the-counter medications.'
-p690
-aS'Customers will not have to ask a pharmacist for it.'
-p691
-asg19
-(lp692
-S'Other forms of emergency contraception have been approved.'
-p693
-aS'A two-dose version of Plan B is available generically and available to women 17 and up without a prescription.'
-p694
-aS'It requires a prescription for girls under age 17.'
-p695
-aS'Another version, sold as Ella, is sold only with a prescription and is approved to prevent pregnancy within five days of unprotected sex or contraceptive failure.'
-p696
-asg25
-S'FDA approves over-the-counter sales for Plan B'
-p697
-sg27
-S'http://www.usatoday.com/story/news/nation/2013/04/30/fda-plan-b-over-the-counter-emergency-contraception/2125131/'
-p698
-sg29
-S'Women and girls age 15 and over will soon be able to buy emergency contraception without a prescription. The Food and Drug Administration announced on Tuesday that it was approving Plan B One-Step, also known as the morning-after pill, to be sold in the retail aisle next to other over-the-counter medications. Customers will not have to ask a pharmacist for it. FDA officials say the announcement is unrelated to a federal judge\'s order earlier this month, which gave the agency 30 days to make the pill available to all girls and women without a prescription, regardless of age. Until now, women have had to ask a pharmacist for emergency contraception. Those under 17 could get the pill only with a prescription. In his April 5th ruling,U.S. District Court Judge Edward Korman noted that emergency contraception has been shown to be extremely safe, and that the FDA\'s age limits were arbitrary. "FDA has engaged in intolerable delays," Korman said, amounting to an "administration agency filibuster." Korman\'s ruling was in response to a lawsuit by the Center for Reproductive Rights, which sued to expand access to emergency contraception, which can prevent pregnancy if taken within three days of unprotected sex or contraceptive failure. Plan B One-Step, a single pill containing a hormone found in birth control pills, sold by Teva Women\'s Health, does not terminate an existing pregnancy and does not harm a developing fetus, the FDA said. About half of pregnancies are unintended, studies show. FDA spokeswoman Erica Jefferson said the Tuesday approval "is independent of the judge\'s ruling and is not intended to address it." In an interview with USA TODAY\'s Editorial Board last week, FDA Commissioner Margaret Hamburg said the agency had not yet decided how to respond to the judge\'s order. Jefferson said the Department of Justice handles litigation, and said all questions about the judge\'s order should be referred to that agency. Now, customers will be able to buy Plan B One-Step just as they would purchase condoms. But girls will have to show an ID to prove their age, the FDA said. "The FDA is under a federal court order that makes it crystal clear that emergency contraception must be made available over the counter, without restriction to women of all ages by next Monday," said Nancy Northup, president and CEO of the Center for Reproductive Rights, in a statement. "Lowering the age restriction to 15 for over-the-counter access to Plan B One-Step may reduce delays for some young women \xc3\xa2\xc2\x80\xc2\x94 but it does nothing to address the significant barriers that far too many women of all ages will still find if they arrive at the drugstore without identification or after the pharmacy gates have been closed for the night or weekend. These are daunting and sometimes insurmountable hoops women are forced to jump through in time-sensitive circumstances, and we will continue our battle in court to remove these arbitrary restrictions on emergency contraception for all women." Emergency contraception has had a long history with the FDA. The drug was first approved in 1993. In 2011, the FDA was about to approve an application from its manufacturer, Teva Women\'s Health, to sell it over the counter. President Obama expressed concerns, however, and Secretary of Health and Human Secretary Kathleen Sebelius overruled the FDA. When its application to sell Plan B One-Step over-the-counter without age restrictions was rejected, Teva submitted a new application, requesting approval for those 15 and up, the FDA said. That application, asking for approval for those 15 and up, was filed before the judge\'s ruling, Jefferson said. At the time of the judge\'s ruling, the Family Research Council\'s Anna Higgins said, "Making Plan B available for girls under the age of 17 without a prescription flies in the face of medical information and sound judgment." Higgins also expressed concern that the over-the-counter availability of Plan B for girls of any age would put many at further risk of sexually transmitted infections. In a statement, Planned Parenthood Federation of America officials praised the FDA\'s decision, although the group also encouraged the FDA to lift all restrictions on emergency contraception, as mandated by the court. "While there are still practical questions to resolve, this is an important step forward to expand access to emergency contraception and for preventing unintended pregnancy," Planned Parenthood President Cecile Richards said. " This decision will eliminate some of the biggest barriers and hurdles that women face in getting emergency contraception when they need it, which means many more women will be able to prevent unintended pregnancy." Other forms of emergency contraception have been approved. A two-dose version of Plan B is available generically and available to women 17 and up without a prescription. It requires a prescription for girls under age 17. Another version, sold as Ella, is sold only with a prescription and is approved to prevent pregnancy within five days of unprotected sex or contraceptive failure.'
-p699
-sg31
-(lp700
-(lp701
-g37
-ag38
-ag39
-ag37
-aa(lp702
-g37
-ag37
-ag38
-ag39
-aa(lp703
-g34
-ag34
-ag34
-ag34
-aa(lp704
-g38
-ag38
-ag34
-ag37
-aa(lp705
-g37
-ag34
-ag39
-ag38
-aasg43
-(lp706
-S' Until now, women have had to ask a pharmacist for emergency contraception.'
-p707
-aS'Those under 17 could get the pill only with a prescription.'
-p708
-aS'In his April 5th ruling,U.S.'
-p709
-aS"District Court Judge Edward Korman noted that emergency contraception has been shown to be extremely safe, and that the FDA's age limits were arbitrary."
-p710
-aS'"FDA has engaged in intolerable delays," Korman said, amounting to an "administration agency filibuster.'
-p711
-aS'" Korman\'s ruling was in response to a lawsuit by the Center for Reproductive Rights, which sued to expand access to emergency contraception, which can prevent pregnancy if taken within three days of unprotected sex or contraceptive failure.'
-p712
-aS"Plan B One-Step, a single pill containing a hormone found in birth control pills, sold by Teva Women's Health, does not terminate an existing pregnancy and does not harm a developing fetus, the FDA said."
-p713
-aS'About half of pregnancies are unintended, studies show.'
-p714
-aS'FDA spokeswoman Erica Jefferson said the Tuesday approval "is independent of the judge\'s ruling and is not intended to address it.'
-p715
-aS'" In an interview with USA TODAY\'s Editorial Board last week, FDA Commissioner Margaret Hamburg said the agency had not yet decided how to respond to the judge\'s order.'
-p716
-aS"Jefferson said the Department of Justice handles litigation, and said all questions about the judge's order should be referred to that agency."
-p717
-aS'Now, customers will be able to buy Plan B One-Step just as they would purchase condoms.'
-p718
-aS'But girls will have to show an ID to prove their age, the FDA said.'
-p719
-aS'"The FDA is under a federal court order that makes it crystal clear that emergency contraception must be made available over the counter, without restriction to women of all ages by next Monday," said Nancy Northup, president and CEO of the Center for Reproductive Rights, in a statement.'
-p720
-aS'"Lowering the age restriction to 15 for over-the-counter access to Plan B One-Step may reduce delays for some young women \xc3\xa2\xc2\x80\xc2\x94 but it does nothing to address the significant barriers that far too many women of all ages will still find if they arrive at the drugstore without identification or after the pharmacy gates have been closed for the night or weekend.'
-p721
-aS'These are daunting and sometimes insurmountable hoops women are forced to jump through in time-sensitive circumstances, and we will continue our battle in court to remove these arbitrary restrictions on emergency contraception for all women.'
-p722
-aS'" Emergency contraception has had a long history with the FDA.'
-p723
-aS'The drug was first approved in 1993.'
-p724
-aS"In 2011, the FDA was about to approve an application from its manufacturer, Teva Women's Health, to sell it over the counter."
-p725
-aS'President Obama expressed concerns, however, and Secretary of Health and Human Secretary Kathleen Sebelius overruled the FDA.'
-p726
-aS'When its application to sell Plan B One-Step over-the-counter without age restrictions was rejected, Teva submitted a new application, requesting approval for those 15 and up, the FDA said.'
-p727
-aS"That application, asking for approval for those 15 and up, was filed before the judge's ruling, Jefferson said."
-p728
-aS'At the time of the judge\'s ruling, the Family Research Council\'s Anna Higgins said, "Making Plan B available for girls under the age of 17 without a prescription flies in the face of medical information and sound judgment.'
-p729
-aS'" Higgins also expressed concern that the over-the-counter availability of Plan B for girls of any age would put many at further risk of sexually transmitted infections.'
-p730
-aS"In a statement, Planned Parenthood Federation of America officials praised the FDA's decision, although the group also encouraged the FDA to lift all restrictions on emergency contraception, as mandated by the court."
-p731
-aS'"While there are still practical questions to resolve, this is an important step forward to expand access to emergency contraception and for preventing unintended pregnancy," Planned Parenthood President Cecile Richards said.'
-p732
-aS'" This decision will eliminate some of the biggest barriers and hurdles that women face in getting emergency contraception when they need it, which means many more women will be able to prevent unintended pregnancy.'
-p733
-ag18
-asg94
-(lp734
-g689
-aS'The Food and Drug Administration announced on Tuesday that it was approving Plan B One-Step, also known as the morning-after pill, to be sold in the retail aisle next to other over-the-counter medications. Customers will not have to ask a pharmacist for it.'
-p735
-aS"FDA officials say the announcement is unrelated to a federal judge's order earlier this month, which gave the agency 30 days to make the pill available to all girls and women without a prescription, regardless of age."
-p736
-aS'Until now, women have had to ask a pharmacist for emergency contraception. Those under 17 could get the pill only with a prescription.'
-p737
-aS"In his April 5th ruling,U.S. District Court Judge Edward Korman noted that emergency contraception has been shown to be extremely safe, and that the FDA's age limits were arbitrary."
-p738
-aS'"FDA has engaged in intolerable delays," Korman said, amounting to an "administration agency filibuster."'
-p739
-aS"Korman's ruling was in response to a lawsuit by the Center for Reproductive Rights, which sued to expand access to emergency contraception, which can prevent pregnancy if taken within three days of unprotected sex or contraceptive failure."
-p740
-aS"Plan B One-Step, a single pill containing a hormone found in birth control pills, sold by Teva Women's Health, does not terminate an existing pregnancy and does not harm a developing fetus, the FDA said."
-p741
-aS'About half of pregnancies are unintended, studies show.'
-p742
-aS'FDA spokeswoman Erica Jefferson said the Tuesday approval "is independent of the judge\'s ruling and is not intended to address it."'
-p743
-aS"In an interview with USA TODAY's Editorial Board last week, FDA Commissioner Margaret Hamburg said the agency had not yet decided how to respond to the judge's order. Jefferson said the Department of Justice handles litigation, and said all questions about the judge's order should be referred to that agency."
-p744
-aS'Now, customers will be able to buy Plan B One-Step just as they would purchase condoms. But girls will have to show an ID to prove their age, the FDA said.'
-p745
-aS'"The FDA is under a federal court order that makes it crystal clear that emergency contraception must be made available over the counter, without restriction to women of all ages by next Monday," said Nancy Northup, president and CEO of the Center for Reproductive Rights, in a statement.'
-p746
-aS'"Lowering the age restriction to 15 for over-the-counter access to Plan B One-Step may reduce delays for some young women \xc3\xa2\xc2\x80\xc2\x94 but it does nothing to address the significant barriers that far too many women of all ages will still find if they arrive at the drugstore without identification or after the pharmacy gates have been closed for the night or weekend. These are daunting and sometimes insurmountable hoops women are forced to jump through in time-sensitive circumstances, and we will continue our battle in court to remove these arbitrary restrictions on emergency contraception for all women."'
-p747
-aS'Emergency contraception has had a long history with the FDA. The drug was first approved in 1993.'
-p748
-aS"In 2011, the FDA was about to approve an application from its manufacturer, Teva Women's Health, to sell it over the counter. President Obama expressed concerns, however, and Secretary of Health and Human Secretary Kathleen Sebelius overruled the FDA."
-p749
-aS'When its application to sell Plan B One-Step over-the-counter without age restrictions was rejected, Teva submitted a new application, requesting approval for those 15 and up, the FDA said.'
-p750
-aS"That application, asking for approval for those 15 and up, was filed before the judge's ruling, Jefferson said."
-p751
-aS'At the time of the judge\'s ruling, the Family Research Council\'s Anna Higgins said, "Making Plan B available for girls under the age of 17 without a prescription flies in the face of medical information and sound judgment."'
-p752
-aS'Higgins also expressed concern that the over-the-counter availability of Plan B for girls of any age would put many at further risk of sexually transmitted infections.'
-p753
-aS"In a statement, Planned Parenthood Federation of America officials praised the FDA's decision, although the group also encouraged the FDA to lift all restrictions on emergency contraception, as mandated by the court."
-p754
-aS'"While there are still practical questions to resolve, this is an important step forward to expand access to emergency contraception and for preventing unintended pregnancy," Planned Parenthood President Cecile Richards said. " This decision will eliminate some of the biggest barriers and hurdles that women face in getting emergency contraception when they need it, which means many more women will be able to prevent unintended pregnancy."'
-p755
-aS'Other forms of emergency contraception have been approved. A two-dose version of Plan B is available generically and available to women 17 and up without a prescription. It requires a prescription for girls under age 17. Another version, sold as Ella, is sold only with a prescription and is approved to prevent pregnancy within five days of unprotected sex or contraceptive failure.'
-p756
-asbasg451
-(lp757
-g471
-ag518
-ag593
-ag648
-ag698
-asg453
-(dp758
+aS'He suggested the lead Sherpa may have been dealing with bruised pride after the three climbers \xc2\xa0passed him, prompting him to start the fight.'
+p650
+aS'\xe2\x80\x9cWhatever the reason may be, there is no reason to instigate vigilante rule and to try and kill three visiting climbers,\xe2\x80\x9d he said.'
+p651
+asbasg401
+(lp652
+g419
+ag473
+ag495
+ag556
+ag628
+asg403
+(dp653
 sba(i__main__
 Topic
-p759
-(dp760
+p654
+(dp655
 g3
 S'spain'
-p761
+p656
 sg5
-(lp762
+(lp657
 (i__main__
 Document
-p763
-(dp764
+p658
+(dp659
 g9
-(lp765
-(lp766
+(lp660
 S"The suspect, a 35-year-old Dutch citizen, traveled around Spain in a van he used as a mobile office, Spain's National Police said in a statement Sunday."
-p767
-aaS'Police arrested him Thursday north of Barcelona, Spain, on a European arrest warrant at the request of judicial authorities in the Netherlands, the statement said.'
-p768
+p661
+aS'Police arrested him Thursday north of Barcelona, Spain, on a European arrest warrant at the request of judicial authorities in the Netherlands, the statement said.'
+p662
 aS'Authorities have not released his name, and a photo police issued showing his detention blurred his face.'
-p769
-asg19
-(lp770
+p663
+asg18
+(lp664
 S"In a statement Friday, Spamhaus thanked Dutch authorities for last week's arrest."
-p771
+p665
 aS'"Spamhaus will resolutely continue its mission to provide reliable protection against cyberthreats such as spam, malware and botnets and work with Internet service providers and organizations worldwide to create a safer Internet," the organization said in a statement.'
-p772
-asg25
+p666
+asg24
 S'Spain arrests suspect in massive cyberattack'
-p773
-sg27
+p667
+sg26
 S'http://www.cnn.com/2013/04/28/tech/spain-internet-attack-arrest/index.html?hpt=hp_t5'
-p774
-sg29
+p668
+sg28
 S'The suspect, a 35-year-old Dutch citizen, traveled around Spain in a van he used as a mobile office, Spain\'s National Police said in a statement Sunday. Police arrested him Thursday north of Barcelona, Spain, on a European arrest warrant at the request of judicial authorities in the Netherlands, the statement said. Authorities have not released his name, and a photo police issued showing his detention blurred his face. The arrest comes a month after Internet users around the globe faced slowed-down service during the prolonged denial-of-service assault on The Spamhaus Project , a European spam-fighting group. Security experts said the attack used more sophisticated techniques than most distributed denial of service, or DDoS, attacks and targeted the Web\'s infrastructure, which led to other sites performing slowly. In a DDoS attack, computers flood a website with requests, overwhelming its servers and causing it to crash or become inaccessible for many users. Last month\'s attack appears to be part of a fierce feud between organizations that monitor spam and try to block it and companies that accuse spam blockers of unjustly blacklisting them. The Spamhaus Project is a nonprofit that patrols the Internet for spammers and publishes a list of Web servers those spammers use. Matthew Prince, CEO of Internet security firm CloudFlare, estimates the group may be responsible for up to 80% of all spam that gets blocked. And last month, the group added a new name to its blacklist, CyberBunker, and said spammers use the company as a host to spray junk mail across the Web. During his arrest, the suspect told authorities he was a diplomat and "minister of telecommunications and foreign relations of the Republic of CyberBunker," police said Sunday. Last month CyberBunker -- a Dutch company housed in a former NATO nuclear bunker -- did not take credit for the attack against Spamhaus but didn\'t shy away from talking about it. "This here is the Internet community puking out Spamhaus," Sven Olaf Kamphuis of CyberBunker told CNN in March. "We\'ve had it with the guys. ... What we see right here is the Internet puking out a cancer." Kamphuis and other critics say that Spamhaus oversteps its bounds and has essentially destroyed innocent websites in its spam-fighting efforts. "Spamhaus itself is a more urgent danger" than spam, Kamphuis told CNN. "Pointing at websites and saying they want it shut down and then they get it shut down without any court order. That is a significantly larger threat to internet and freedom of speech and net neutrality than anything else." In a statement Friday, Spamhaus thanked Dutch authorities for last week\'s arrest. "Spamhaus will resolutely continue its mission to provide reliable protection against cyberthreats such as spam, malware and botnets and work with Internet service providers and organizations worldwide to create a safer Internet," the organization said in a statement.'
-p775
-sg31
-(lp776
-(lp777
+p669
+sg30
+(lp670
+(lp671
+g34
+ag33
+ag40
+aa(lp672
 g34
 ag34
+ag40
+aa(lp673
+g35
 ag34
-aa(lp778
-g37
-ag38
-ag39
-aa(lp779
-g37
-ag38
+ag35
+aa(lp674
+g40
+ag35
 ag34
-aa(lp780
-g34
+aa(lp675
+g35
+ag33
 ag34
-ag34
-aa(lp781
-g38
-ag38
-ag38
-aasg43
-(lp782
+aasg42
+(lp676
 S' The arrest comes a month after Internet users around the globe faced slowed-down service during the prolonged denial-of-service assault on The Spamhaus Project , a European spam-fighting group.'
-p783
+p677
 aS"Security experts said the attack used more sophisticated techniques than most distributed denial of service, or DDoS, attacks and targeted the Web's infrastructure, which led to other sites performing slowly."
-p784
+p678
 aS'In a DDoS attack, computers flood a website with requests, overwhelming its servers and causing it to crash or become inaccessible for many users.'
-p785
+p679
 aS"Last month's attack appears to be part of a fierce feud between organizations that monitor spam and try to block it and companies that accuse spam blockers of unjustly blacklisting them."
-p786
+p680
 aS'The Spamhaus Project is a nonprofit that patrols the Internet for spammers and publishes a list of Web servers those spammers use.'
-p787
+p681
 aS'Matthew Prince, CEO of Internet security firm CloudFlare, estimates the group may be responsible for up to 80% of all spam that gets blocked.'
-p788
+p682
 aS'And last month, the group added a new name to its blacklist, CyberBunker, and said spammers use the company as a host to spray junk mail across the Web.'
-p789
+p683
 aS'During his arrest, the suspect told authorities he was a diplomat and "minister of telecommunications and foreign relations of the Republic of CyberBunker," police said Sunday.'
-p790
+p684
 aS"Last month CyberBunker -- a Dutch company housed in a former NATO nuclear bunker -- did not take credit for the attack against Spamhaus but didn't shy away from talking about it."
-p791
+p685
 aS'"This here is the Internet community puking out Spamhaus," Sven Olaf Kamphuis of CyberBunker told CNN in March.'
-p792
+p686
 aS'"We\'ve had it with the guys.'
-p793
+p687
 aS'... What we see right here is the Internet puking out a cancer.'
-p794
+p688
 aS'" Kamphuis and other critics say that Spamhaus oversteps its bounds and has essentially destroyed innocent websites in its spam-fighting efforts.'
-p795
+p689
 aS'"Spamhaus itself is a more urgent danger" than spam, Kamphuis told CNN.'
-p796
+p690
 aS'"Pointing at websites and saying they want it shut down and then they get it shut down without any court order.'
-p797
+p691
 aS'That is a significantly larger threat to internet and freedom of speech and net neutrality than anything else.'
-p798
-ag18
-asg94
-(lp799
-g767
-ag768
-ag769
+p692
+ag17
+asg93
+(lp693
+g661
+ag662
+ag663
 aS'The arrest comes a month after Internet users around the globe faced slowed-down service during the prolonged denial-of-service assault on The Spamhaus Project , a European spam-fighting group.'
-p800
+p694
 aS"Security experts said the attack used more sophisticated techniques than most distributed denial of service, or DDoS, attacks and targeted the Web's infrastructure, which led to other sites performing slowly."
-p801
+p695
 aS'In a DDoS attack, computers flood a website with requests, overwhelming its servers and causing it to crash or become inaccessible for many users.'
-p802
+p696
 aS"Last month's attack appears to be part of a fierce feud between organizations that monitor spam and try to block it and companies that accuse spam blockers of unjustly blacklisting them."
-p803
+p697
 aS'The Spamhaus Project is a nonprofit that patrols the Internet for spammers and publishes a list of Web servers those spammers use.'
-p804
+p698
 aS'Matthew Prince, CEO of Internet security firm CloudFlare, estimates the group may be responsible for up to 80% of all spam that gets blocked.'
-p805
+p699
 aS'And last month, the group added a new name to its blacklist, CyberBunker, and said spammers use the company as a host to spray junk mail across the Web.'
-p806
+p700
 aS'During his arrest, the suspect told authorities he was a diplomat and "minister of telecommunications and foreign relations of the Republic of CyberBunker," police said Sunday.'
-p807
+p701
 aS"Last month CyberBunker -- a Dutch company housed in a former NATO nuclear bunker -- did not take credit for the attack against Spamhaus but didn't shy away from talking about it."
-p808
+p702
 aS'"This here is the Internet community puking out Spamhaus," Sven Olaf Kamphuis of CyberBunker told CNN in March. "We\'ve had it with the guys. ... What we see right here is the Internet puking out a cancer."'
-p809
+p703
 aS'Kamphuis and other critics say that Spamhaus oversteps its bounds and has essentially destroyed innocent websites in its spam-fighting efforts.'
-p810
+p704
 aS'"Spamhaus itself is a more urgent danger" than spam, Kamphuis told CNN. "Pointing at websites and saying they want it shut down and then they get it shut down without any court order. That is a significantly larger threat to internet and freedom of speech and net neutrality than anything else."'
-p811
+p705
 aS"In a statement Friday, Spamhaus thanked Dutch authorities for last week's arrest."
-p812
+p706
 aS'"Spamhaus will resolutely continue its mission to provide reliable protection against cyberthreats such as spam, malware and botnets and work with Internet service providers and organizations worldwide to create a safer Internet," the organization said in a statement.'
-p813
+p707
 asba(i__main__
 Document
-p814
-(dp815
+p708
+(dp709
 g9
-(lp816
-(lp817
+(lp710
 S'Spanish officials have arrested a Dutch citizen in northeast Spain for his involvement in what has been called the biggest cyberattack in Internet history .'
-p818
-aS'The suspect is said to have operated a hacking bunker in a van that was equipped with \xe2\x80\x9cvarious antennas to scan frequencies\xe2\x80\x9d that he used to evade authorities.\xc2\xa0The unnamed individual, who was only identified by his initials S.K., is accused of launching several large denial-of-service attacks on Internet servers in the Netherlands, United Kingdom and the United States, and also of attacking Spamhaus, a Swiss-British watchdog group that blocks spam advertisement for counterfeit Viagra and fake weight-loss pills from reaching Internet inboxes.\xc2\xa0 The Associated Press reports that the 35-year-old male was arrested in the city of Granollers on Thursday by Spanish authorities acting on an arrest warrant issued by Dutch authorities .'
-p819
+p711
+aS'The suspect is said to have operated a hacking bunker in a van that was equipped with \xc3\xa2\xe2\x82\xac\xc5\x93various antennas to scan frequencies\xc3\xa2\xe2\x82\xac\xef\xbf\xbd that he used to evade authorities.\xc3\x82\xc2\xa0The unnamed individual, who was only identified by his initials S.K., is accused of launching several large denial-of-service attacks on Internet servers in the Netherlands, United Kingdom and the United States, and also of attacking Spamhaus, a Swiss-British watchdog group that blocks spam advertisement for counterfeit Viagra and fake weight-loss pills from reaching Internet inboxes.\xc3\x82\xc2\xa0 The Associated Press reports that the 35-year-old male was arrested in the city of Granollers on Thursday by Spanish authorities acting on an arrest warrant issued by Dutch authorities .'
+p712
 aS'The suspect is expected to be extradited from Spain to the Netherlands where he will stand trial.'
-p820
-aaS'[More from BGR: Google Fiber forces Time Warner\xe2\x80\x99s hand yet again ]'
-p821
-asg19
-(lp822
-S'[More from BGR: Google Fiber forces Time Warner\xe2\x80\x99s hand yet again ] This article was originally published on BGR.com'
-p823
-asg25
+p713
+asg18
+(lp714
+S'[More from BGR: Google Fiber forces Time Warner\xc3\xa2\xe2\x82\xac\xe2\x84\xa2s hand yet again ] This article was originally published on BGR.com'
+p715
+asg24
 S'Suspect in biggest cyberattack in Internet history arrested - Yahoo! News'
-p824
-sg27
+p716
+sg26
 S'http://news.yahoo.com/suspect-biggest-cyberattack-internet-history-arrested-185532752.html'
-p825
-sg29
-S'Spanish officials have arrested a Dutch citizen in northeast Spain for his involvement in what has been called the biggest cyberattack in Internet history . The suspect is said to have operated a hacking bunker in a van that was equipped with \xe2\x80\x9cvarious antennas to scan frequencies\xe2\x80\x9d that he used to evade authorities.\xc2\xa0The unnamed individual, who was only identified by his initials S.K., is accused of launching several large denial-of-service attacks on Internet servers in the Netherlands, United Kingdom and the United States, and also of attacking Spamhaus, a Swiss-British watchdog group that blocks spam advertisement for counterfeit Viagra and fake weight-loss pills from reaching Internet inboxes.\xc2\xa0 The Associated Press reports that the 35-year-old male was arrested in the city of Granollers on Thursday by Spanish authorities acting on an arrest warrant issued by Dutch authorities . The suspect is expected to be extradited from Spain to the Netherlands where he will stand trial. [More from BGR: Google Fiber forces Time Warner\xe2\x80\x99s hand yet again ] This article was originally published on BGR.com'
-p826
-sg31
-(lp827
-(lp828
-g39
-ag37
-ag39
-ag34
-aa(lp829
+p717
+sg28
+S'Spanish officials have arrested a Dutch citizen in northeast Spain for his involvement in what has been called the biggest cyberattack in Internet history . The suspect is said to have operated a hacking bunker in a van that was equipped with \xc3\xa2\xe2\x82\xac\xc5\x93various antennas to scan frequencies\xc3\xa2\xe2\x82\xac\xef\xbf\xbd that he used to evade authorities.\xc3\x82\xc2\xa0The unnamed individual, who was only identified by his initials S.K., is accused of launching several large denial-of-service attacks on Internet servers in the Netherlands, United Kingdom and the United States, and also of attacking Spamhaus, a Swiss-British watchdog group that blocks spam advertisement for counterfeit Viagra and fake weight-loss pills from reaching Internet inboxes.\xc3\x82\xc2\xa0 The Associated Press reports that the 35-year-old male was arrested in the city of Granollers on Thursday by Spanish authorities acting on an arrest warrant issued by Dutch authorities . The suspect is expected to be extradited from Spain to the Netherlands where he will stand trial. [More from BGR: Google Fiber forces Time Warner\xc3\xa2\xe2\x82\xac\xe2\x84\xa2s hand yet again ] This article was originally published on BGR.com'
+p718
+sg30
+(lp719
+(lp720
 g34
-ag34
-ag34
-ag34
-aa(lp830
-g38
-ag38
-ag38
-ag34
-aa(lp831
-g37
-ag37
+ag33
+ag35
+aa(lp721
+g34
+ag33
+ag40
+aa(lp722
+g33
 ag34
 ag35
-aa(lp832
-g38
-ag38
-ag38
+aa(lp723
+g34
+ag33
+ag33
+aa(lp724
+g33
+ag34
 ag35
-aasg43
-(lp833
-S''
-p834
-asg94
-(lp835
-S'Spanish officials have arrested a Dutch citizen in northeast Spain for his involvement in what has been called the biggest cyberattack in Internet history . The suspect is said to have operated a hacking bunker in a van that was equipped with \xe2\x80\x9cvarious antennas to scan frequencies\xe2\x80\x9d that he used to evade authorities.\xc2\xa0The unnamed individual, who was only identified by his initials S.K., is accused of launching several large denial-of-service attacks on Internet servers in the Netherlands, United Kingdom and the United States, and also of attacking Spamhaus, a Swiss-British watchdog group that blocks spam advertisement for counterfeit Viagra and fake weight-loss pills from reaching Internet inboxes.\xc2\xa0 The Associated Press reports that the 35-year-old male was arrested in the city of Granollers on Thursday by Spanish authorities acting on an arrest warrant issued by Dutch authorities . The suspect is expected to be extradited from Spain to the Netherlands where he will stand trial.'
-p836
-ag821
+aasg42
+(lp725
+g482
+asg93
+(lp726
+S'Spanish officials have arrested a Dutch citizen in northeast Spain for his involvement in what has been called the biggest cyberattack in Internet history . The suspect is said to have operated a hacking bunker in a van that was equipped with \xc3\xa2\xe2\x82\xac\xc5\x93various antennas to scan frequencies\xc3\xa2\xe2\x82\xac\xef\xbf\xbd that he used to evade authorities.\xc3\x82\xc2\xa0The unnamed individual, who was only identified by his initials S.K., is accused of launching several large denial-of-service attacks on Internet servers in the Netherlands, United Kingdom and the United States, and also of attacking Spamhaus, a Swiss-British watchdog group that blocks spam advertisement for counterfeit Viagra and fake weight-loss pills from reaching Internet inboxes.\xc3\x82\xc2\xa0 The Associated Press reports that the 35-year-old male was arrested in the city of Granollers on Thursday by Spanish authorities acting on an arrest warrant issued by Dutch authorities . The suspect is expected to be extradited from Spain to the Netherlands where he will stand trial.'
+p727
+aS'[More from BGR: Google Fiber forces Time Warner\xc3\xa2\xe2\x82\xac\xe2\x84\xa2s hand yet again ]'
+p728
 aS'This article was originally published on BGR.com'
-p837
+p729
 asba(i__main__
 Document
-p838
-(dp839
+p730
+(dp731
 g9
-(lp840
-(lp841
+(lp732
 S'A Dutchman thought to be associated with the "biggest cyberattack\n in history" last month reportedly has been arrested in Spain.'
-p842
-aaS'The Dutch justice ministry announced on its\n  website today (April 26) that a 35-year-old Dutchman,\n  identified only by the initials SK, had been detained on a\n  European warrant yesterday (April 25) in the Barcelona area.'
-p843
+p733
+aS'The Dutch justice ministry announced on its\n  website today (April 26) that a 35-year-old Dutchman,\n  identified only by the initials SK, had been detained on a\n  European warrant yesterday (April 25) in the Barcelona area.'
+p734
 aS'The ministry\'s press release said SK was suspected in "severe"\n \n distributed denial-of-service (DDoS) attacks against the\n anti-spam organization Spamhaus and Spamhaus partners in the\n Netherlands, the United States and Britain.'
-p844
-asg19
-(lp845
-S'Follow Paul Wagenseil\xc2\xa0 @snd_wagenseil .'
-p846
-aS'Follow\n  us\xc2\xa0 @TechNewsDaily ,\xc2\xa0 Facebook \xc2\xa0or\xc2\xa0 Google+ .'
-p847
-aS'\xc2\xa0Originally\n  published on TechNewsDaily.com .'
-p848
+p735
+asg18
+(lp736
+S'Follow Paul Wagenseil\xc3\x82\xc2\xa0 @snd_wagenseil .'
+p737
+aS'Follow\n  us\xc3\x82\xc2\xa0 @TechNewsDaily ,\xc3\x82\xc2\xa0 Facebook \xc3\x82\xc2\xa0or\xc3\x82\xc2\xa0 Google+ .'
+p738
+aS'\xc3\x82\xc2\xa0Originally\n  published on TechNewsDaily.com .'
+p739
 aS'http://www.technewsdaily.com/17883-biggest-cyberattack-arrest.html'
-p849
-asg25
+p740
+asg24
 S"Suspect Behind 'Biggest Cyberattack' Nabbed in Spain"
-p850
-sg27
+p741
+sg26
 S'http://www.nbcnews.com/id/51679327/ns/technology_and_science-tech_and_gadgets/t/suspect-behind-biggest-cyberattack-nabbed-spain/'
-p851
-sg29
-S'A Dutchman thought to be associated with the "biggest cyberattack\n in history" last month reportedly has been arrested in Spain. The Dutch justice ministry announced on its\n  website today (April 26) that a 35-year-old Dutchman,\n  identified only by the initials SK, had been detained on a\n  European warrant yesterday (April 25) in the Barcelona area. The ministry\'s press release said SK was suspected in "severe"\n \n distributed denial-of-service (DDoS) attacks against the\n anti-spam organization Spamhaus and Spamhaus partners in the\n Netherlands, the United States and Britain. During the \n week-long series of attacks on Spamhaus , Sven Olaf Kamphuis,\n a Dutchman in his mid-30s, emerged as the spokesman for Stophaus,\n the group leading the attacks, which at one point reached an\n unprecedented 300 gigabits per second. After the New York Times published an article saying the attacks\n were causing "widespread congestion and jamming crucial\n infrastructure around the world," Kamphuis disappeared from view.\n (The congestion was felt primarily in the London area, northern\n Germany and the Netherlands.) Security researcher Brian Krebs noted that Kamphuis\' Facebook\n  account said he was a native of Amsterdam living in Barcelona.\n  The last posting on the account was on Wednesday (April 24). [ How\n DDoS Attacks Threaten the Internet ] In March, Kamphuis portrayed himself to various media outlets as\n one of the founders of CyberBunker, a Dutch Web-hosting service\n that proudly proclaims it will take any customers except\n terrorists or child pornographers. CyberBunker, named for the nuclear-blast-proof NATO bunker it\n purports to house its servers in, has a lot of unsavory clients,\n including accused cybercriminals, spammers and peddlers of fake\n pharmaceuticals. Subsequent reports have said CyberBunker moved out of the bunker\n years ago. Krebs said CyberBunker\'s official "WHOIS" listing puts\n the company in Antarctica. Because of its nasty clients, Spamhaus put CyberBunker\'s range of\n Internet addresses on its email and Web blacklists, which are\n used by many Internet service providers worldwide to weed out\n spam and unsavory material. Kamphuis and Stophaus complained that Spamhaus\' efforts were\n illegal and declared that if Spamhaus would block its clients,\n its clients would blockade Spamhaus with DDoS attacks, bombarding\n Spamhaus and its own ISPs with huge amounts of useless Internet\n traffic. Follow Paul Wagenseil\xc2\xa0 @snd_wagenseil . Follow\n  us\xc2\xa0 @TechNewsDaily ,\xc2\xa0 Facebook \xc2\xa0or\xc2\xa0 Google+ . \xc2\xa0Originally\n  published on TechNewsDaily.com . http://www.technewsdaily.com/17883-biggest-cyberattack-arrest.html'
-p852
-sg31
-(lp853
-(lp854
-g37
-ag34
-ag38
-aa(lp855
-g37
-ag34
-ag34
-aa(lp856
-g37
-ag38
-ag38
-aa(lp857
-g34
-ag34
-ag34
-aa(lp858
-g37
-ag38
-ag38
-aasg43
-(lp859
-S' During the \n week-long series of attacks on Spamhaus , Sven Olaf Kamphuis,\n a Dutchman in his mid-30s, emerged as the spokesman for Stophaus,\n the group leading the attacks, which at one point reached an\n unprecedented 300 gigabits per second.'
-p860
-aS'After the New York Times published an article saying the attacks\n were causing "widespread congestion and jamming crucial\n infrastructure around the world," Kamphuis disappeared from view.'
-p861
-aS'(The congestion was felt primarily in the London area, northern\n Germany and the Netherlands.'
-p862
-aS") Security researcher Brian Krebs noted that Kamphuis' Facebook\n  account said he was a native of Amsterdam living in Barcelona."
-p863
-aS'The last posting on the account was on Wednesday (April 24).'
-p864
-aS'[ How\n DDoS Attacks Threaten the Internet ] In March, Kamphuis portrayed himself to various media outlets as\n one of the founders of CyberBunker, a Dutch Web-hosting service\n that proudly proclaims it will take any customers except\n terrorists or child pornographers.'
-p865
-aS'CyberBunker, named for the nuclear-blast-proof NATO bunker it\n purports to house its servers in, has a lot of unsavory clients,\n including accused cybercriminals, spammers and peddlers of fake\n pharmaceuticals.'
-p866
-aS'Subsequent reports have said CyberBunker moved out of the bunker\n years ago.'
-p867
-aS'Krebs said CyberBunker\'s official "WHOIS" listing puts\n the company in Antarctica.'
-p868
-aS"Because of its nasty clients, Spamhaus put CyberBunker's range of\n Internet addresses on its email and Web blacklists, which are\n used by many Internet service providers worldwide to weed out\n spam and unsavory material."
-p869
-aS"Kamphuis and Stophaus complained that Spamhaus' efforts were\n illegal and declared that if Spamhaus would block its clients,\n its clients would blockade Spamhaus with DDoS attacks, bombarding\n Spamhaus and its own ISPs with huge amounts of useless Internet\n traffic."
-p870
-asg94
-(lp871
-g842
-ag843
-ag844
-aS'During the \n week-long series of attacks on Spamhaus , Sven Olaf Kamphuis,\n a Dutchman in his mid-30s, emerged as the spokesman for Stophaus,\n the group leading the attacks, which at one point reached an\n unprecedented 300 gigabits per second.'
-p872
-aS'After the New York Times published an article saying the attacks\n were causing "widespread congestion and jamming crucial\n infrastructure around the world," Kamphuis disappeared from view.\n (The congestion was felt primarily in the London area, northern\n Germany and the Netherlands.)'
-p873
-aS"Security researcher Brian Krebs noted that Kamphuis' Facebook\n  account said he was a native of Amsterdam living in Barcelona.\n  The last posting on the account was on Wednesday (April 24)."
-p874
-aS'[ How\n DDoS Attacks Threaten the Internet ]'
-p875
-aS'In March, Kamphuis portrayed himself to various media outlets as\n one of the founders of CyberBunker, a Dutch Web-hosting service\n that proudly proclaims it will take any customers except\n terrorists or child pornographers.'
-p876
-aS'CyberBunker, named for the nuclear-blast-proof NATO bunker it\n purports to house its servers in, has a lot of unsavory clients,\n including accused cybercriminals, spammers and peddlers of fake\n pharmaceuticals.'
-p877
-aS'Subsequent reports have said CyberBunker moved out of the bunker\n years ago. Krebs said CyberBunker\'s official "WHOIS" listing puts\n the company in Antarctica.'
-p878
-aS"Because of its nasty clients, Spamhaus put CyberBunker's range of\n Internet addresses on its email and Web blacklists, which are\n used by many Internet service providers worldwide to weed out\n spam and unsavory material."
-p879
-aS"Kamphuis and Stophaus complained that Spamhaus' efforts were\n illegal and declared that if Spamhaus would block its clients,\n its clients would blockade Spamhaus with DDoS attacks, bombarding\n Spamhaus and its own ISPs with huge amounts of useless Internet\n traffic."
-p880
-aS'Follow Paul Wagenseil\xc2\xa0 @snd_wagenseil . Follow\n  us\xc2\xa0 @TechNewsDaily ,\xc2\xa0 Facebook \xc2\xa0or\xc2\xa0 Google+ . \xc2\xa0Originally\n  published on TechNewsDaily.com .'
-p881
-aS'http://www.technewsdaily.com/17883-biggest-cyberattack-arrest.html'
-p882
-asba(i__main__
-Document
-p883
-(dp884
-g9
-(lp885
-(lp886
-S'MADRID \xe2\x80\x94 A Dutch citizen arrested in northeast Spain on suspicion of launching what is described as the biggest cyberattack in Internet history operated from a bunker and had a van capable of hacking into networks anywhere in the country, officials said Sunday.'
-p887
-aaS'The suspect traveled in Spain using his van \xe2\x80\x9cas a mobile computing office, equipped with various antennas to scan frequencies,\xe2\x80\x9d an Interior Ministry statement said.'
-p888
-aS'Agents arrested him Thursday in the city of Granollers, 35 kilometers (22 miles) north of Barcelona, complying with a European arrest warrant issued by Dutch authorities.'
-p889
-asg19
-(lp890
-S'Copyright 2013 The Associated Press.'
-p891
-aS'All rights reserved.'
-p892
-aS'This material may not be published, broadcast, rewritten or redistributed.'
-p893
-asg25
-S'Dutch suspect arrested in Spain over major cyberattack used well-equipped \xe2\x80\x98bunker\xe2\x80\x99 and van'
-p894
-sg27
-S'http://www.washingtonpost.com/world/europe/dutch-suspect-arrested-in-spain-over-massive-cyberattack-used-well-equipped-bunker-and-van/2013/04/28/c709a3ea-aff3-11e2-9fb1-62de9581c946_story.html'
-p895
-sg29
-S'MADRID \xe2\x80\x94 A Dutch citizen arrested in northeast Spain on suspicion of launching what is described as the biggest cyberattack in Internet history operated from a bunker and had a van capable of hacking into networks anywhere in the country, officials said Sunday. The suspect traveled in Spain using his van \xe2\x80\x9cas a mobile computing office, equipped with various antennas to scan frequencies,\xe2\x80\x9d an Interior Ministry statement said. Agents arrested him Thursday in the city of Granollers, 35 kilometers (22 miles) north of Barcelona, complying with a European arrest warrant issued by Dutch authorities. He is accused of attacking the Swiss-British anti-spam watchdog group Spamhaus whose main task is to halt ads for counterfeit Viagra and bogus weight-loss pills reaching the world\xe2\x80\x99s inboxes. The statement said officers uncovered the computer hacker\xe2\x80\x99s bunker, \xe2\x80\x9cfrom where he even did interviews with different international media.\xe2\x80\x9d The 35-year-old, whose birthplace was given as the western Dutch city of Alkmaar, was identified only by his initials: S.K. The statement said the suspect called himself a diplomat belonging to the \xe2\x80\x9cTelecommunications and Foreign Affairs Ministry of the Republic of Cyberbunker.\xe2\x80\x9d Spanish police were alerted in March by Dutch authorities of large denial-of-service attacks being launched from Spain that were affecting Internet servers in the Netherlands, United Kingdom and the U.S. These attacks culminated with a major onslaught on Spamhaus. The Netherlands National Prosecution Office described them as \xe2\x80\x9cunprecedentedly serious attacks on the nonprofit organization Spamhaus.\xe2\x80\x9d The largest assault clocked in at 300 billion bits per second, according to San Francisco-based CloudFlare Inc., which Spamhaus enlisted to help it weather the onslaught. Denial-of-service attacks overwhelm a server with traffic, jamming it with incoming messages. Security experts measure the attacks in bits of data per second. Recent cyberattacks \xe2\x80\x94 such as the ones that caused persistent outages at U.S. banking sites late last year \xe2\x80\x94 have tended to peak at 100 billion bits per second, one third the size of that experienced by Spamhaus. Netherlands, German, British and U.S. police forces took part in the investigation leading to the arrest, Spain said. The suspect is expected to be extradited from Spain to face justice in the Netherlands. Copyright 2013 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.'
-p896
-sg31
-(lp897
-(lp898
-g37
-ag37
-ag38
-aa(lp899
-g34
-ag34
-ag34
-aa(lp900
-g38
-ag39
-ag38
-aa(lp901
-g37
-ag34
-ag38
-aa(lp902
-g38
-ag38
-ag34
-aasg43
-(lp903
-S' He is accused of attacking the Swiss-British anti-spam watchdog group Spamhaus whose main task is to halt ads for counterfeit Viagra and bogus weight-loss pills reaching the world\xe2\x80\x99s inboxes.'
-p904
-aS'The statement said officers uncovered the computer hacker\xe2\x80\x99s bunker, \xe2\x80\x9cfrom where he even did interviews with different international media.\xe2\x80\x9d The 35-year-old, whose birthplace was given as the western Dutch city of Alkmaar, was identified only by his initials: S.K.'
-p905
-aS'The statement said the suspect called himself a diplomat belonging to the \xe2\x80\x9cTelecommunications and Foreign Affairs Ministry of the Republic of Cyberbunker.\xe2\x80\x9d Spanish police were alerted in March by Dutch authorities of large denial-of-service attacks being launched from Spain that were affecting Internet servers in the Netherlands, United Kingdom and the U.S.'
-p906
-aS'These attacks culminated with a major onslaught on Spamhaus.'
-p907
-aS'The Netherlands National Prosecution Office described them as \xe2\x80\x9cunprecedentedly serious attacks on the nonprofit organization Spamhaus.\xe2\x80\x9d The largest assault clocked in at 300 billion bits per second, according to San Francisco-based CloudFlare Inc., which Spamhaus enlisted to help it weather the onslaught.'
-p908
-aS'Denial-of-service attacks overwhelm a server with traffic, jamming it with incoming messages.'
-p909
-aS'Security experts measure the attacks in bits of data per second.'
-p910
-aS'Recent cyberattacks \xe2\x80\x94 such as the ones that caused persistent outages at U.S. banking sites late last year \xe2\x80\x94 have tended to peak at 100 billion bits per second, one third the size of that experienced by Spamhaus.'
-p911
-aS'Netherlands, German, British and U.S. police forces took part in the investigation leading to the arrest, Spain said.'
-p912
-aS'The suspect is expected to be extradited from Spain to face justice in the Netherlands.'
-p913
-asg94
-(lp914
-g887
-ag888
-ag889
-aS'He is accused of attacking the Swiss-British anti-spam watchdog group Spamhaus whose main task is to halt ads for counterfeit Viagra and bogus weight-loss pills reaching the world\xe2\x80\x99s inboxes.'
-p915
-aS'The statement said officers uncovered the computer hacker\xe2\x80\x99s bunker, \xe2\x80\x9cfrom where he even did interviews with different international media.\xe2\x80\x9d'
-p916
-aS'The 35-year-old, whose birthplace was given as the western Dutch city of Alkmaar, was identified only by his initials: S.K.'
-p917
-aS'The statement said the suspect called himself a diplomat belonging to the \xe2\x80\x9cTelecommunications and Foreign Affairs Ministry of the Republic of Cyberbunker.\xe2\x80\x9d'
-p918
-aS'Spanish police were alerted in March by Dutch authorities of large denial-of-service attacks being launched from Spain that were affecting Internet servers in the Netherlands, United Kingdom and the U.S. These attacks culminated with a major onslaught on Spamhaus.'
-p919
-aS'The Netherlands National Prosecution Office described them as \xe2\x80\x9cunprecedentedly serious attacks on the nonprofit organization Spamhaus.\xe2\x80\x9d'
-p920
-aS'The largest assault clocked in at 300 billion bits per second, according to San Francisco-based CloudFlare Inc., which Spamhaus enlisted to help it weather the onslaught.'
-p921
-aS'Denial-of-service attacks overwhelm a server with traffic, jamming it with incoming messages. Security experts measure the attacks in bits of data per second. Recent cyberattacks \xe2\x80\x94 such as the ones that caused persistent outages at U.S. banking sites late last year \xe2\x80\x94 have tended to peak at 100 billion bits per second, one third the size of that experienced by Spamhaus.'
-p922
-aS'Netherlands, German, British and U.S. police forces took part in the investigation leading to the arrest, Spain said.'
-p923
-aS'The suspect is expected to be extradited from Spain to face justice in the Netherlands.'
-p924
-aS'Copyright 2013 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.'
-p925
-asba(i__main__
-Document
-p926
-(dp927
-g9
-(lp928
-(lp929
-S"Spanish police on Friday arrested three alleged members of the hacker and activist group Anonymous on suspicion of taking part in online attacks against Sony Corp.'s PlayStation Network, as well as banks, businesses and government websites."
-p930
-aaS'Police said the three "hacktivists," whose identities have not been released, were involved in the April hacking of the PlayStation Network, an online video gaming and entertainment service that Sony suspended for more than a month after the attack.'
-p931
-aS'Officials with Sony, which has also been dealing with attacks in recent weeks on its Sony Pictures and music websites from hackers including the group LulzSec, were unavailable to comment Friday on the arrests.'
-p932
-asg19
-(lp933
-S'nathan.olivarezgiles@latimes.com Reuters was used in compiling this report.'
-p934
-asg25
-S'Spanish police arrest three suspected hackers'
-p935
-sg27
-S'http://articles.latimes.com/2011/jun/11/business/la-fi-spanish-hackers-20110611'
-p936
-sg29
-S'Spanish police on Friday arrested three alleged members of the hacker and activist group Anonymous on suspicion of taking part in online attacks against Sony Corp.\'s PlayStation Network, as well as banks, businesses and government websites. Police said the three "hacktivists," whose identities have not been released, were involved in the April hacking of the PlayStation Network, an online video gaming and entertainment service that Sony suspended for more than a month after the attack. Officials with Sony, which has also been dealing with attacks in recent weeks on its Sony Pictures and music websites from hackers including the group LulzSec, were unavailable to comment Friday on the arrests. The three suspects \xe2\x80\x94 who lived separately in Barcelona, Valencia and Almeria \xe2\x80\x94 are also believed to have played a role in cyber-attacks on the Spanish banks Bankia and BBVA as well as the Italian energy group Enel. Anonymous, a group of online hackers that says it is made up of "online citizens" with no clear leader, generally launches Web attacks against companies or governments that it says are detrimental to society. Anonymous has played a part in hacking government sites in countries such as Egypt, Tunisia and Iran. The group has also been known for hacking the websites of banks, credit card companies and PayPal in retaliation for those companies not processing donations made to the secret-document-publishing website WikiLeaks. Sony has blamed the attack on its PlayStation Network partially on Anonymous, but the group has denied involvement, although it did say it is possible that individual members could have been involved on their own. "They are structured in independent cells and make thousands of simultaneous attacks using infected \'zombie\' computers worldwide," Spanish police said. "This is why NATO considers them a threat.... They are even capable of collapsing a country\'s administrative structure." nathan.olivarezgiles@latimes.com Reuters was used in compiling this report.'
-p937
-sg31
-(lp938
-(lp939
-g34
-ag34
-ag34
-aa(lp940
-g37
-ag37
-ag34
-aa(lp941
-g37
-ag37
-ag38
-aa(lp942
-g37
-ag37
-ag38
-aa(lp943
-g37
-ag37
-ag38
-aasg43
-(lp944
-S' The three suspects \xe2\x80\x94 who lived separately in Barcelona, Valencia and Almeria \xe2\x80\x94 are also believed to have played a role in cyber-attacks on the Spanish banks Bankia and BBVA as well as the Italian energy group Enel.'
-p945
-aS'Anonymous, a group of online hackers that says it is made up of "online citizens" with no clear leader, generally launches Web attacks against companies or governments that it says are detrimental to society.'
-p946
-aS'Anonymous has played a part in hacking government sites in countries such as Egypt, Tunisia and Iran.'
-p947
-aS'The group has also been known for hacking the websites of banks, credit card companies and PayPal in retaliation for those companies not processing donations made to the secret-document-publishing website WikiLeaks.'
-p948
-aS'Sony has blamed the attack on its PlayStation Network partially on Anonymous, but the group has denied involvement, although it did say it is possible that individual members could have been involved on their own.'
-p949
-aS'"They are structured in independent cells and make thousands of simultaneous attacks using infected \'zombie\' computers worldwide," Spanish police said.'
-p950
-aS'"This is why NATO considers them a threat....'
-p951
-aS"They are even capable of collapsing a country's administrative structure."
-p952
-ag18
-asg94
-(lp953
-g930
-ag931
-ag932
-aS'The three suspects \xe2\x80\x94 who lived separately in Barcelona, Valencia and Almeria \xe2\x80\x94 are also believed to have played a role in cyber-attacks on the Spanish banks Bankia and BBVA as well as the Italian energy group Enel.'
-p954
-aS'Anonymous, a group of online hackers that says it is made up of "online citizens" with no clear leader, generally launches Web attacks against companies or governments that it says are detrimental to society. Anonymous has played a part in hacking government sites in countries such as Egypt, Tunisia and Iran.'
-p955
-aS'The group has also been known for hacking the websites of banks, credit card companies and PayPal in retaliation for those companies not processing donations made to the secret-document-publishing website WikiLeaks.'
-p956
-aS'Sony has blamed the attack on its PlayStation Network partially on Anonymous, but the group has denied involvement, although it did say it is possible that individual members could have been involved on their own.'
-p957
-aS'"They are structured in independent cells and make thousands of simultaneous attacks using infected \'zombie\' computers worldwide," Spanish police said. "This is why NATO considers them a threat.... They are even capable of collapsing a country\'s administrative structure."'
-p958
-aS'nathan.olivarezgiles@latimes.com'
-p959
-aS'Reuters was used in compiling this report.'
-p960
-asba(i__main__
-Document
-p961
-(dp962
-g9
-(lp963
-(lp964
-S'A Dutch citizen suspected of involvement in what experts describe as the biggest cyberattack in the history of the Internet has been arrested.'
-p965
-aaS'THE HAGUE, Netherlands\xc2\xa0\xe2\x80\x94 A Dutch citizen has been arrested in Spain in connection with what experts described as the biggest cyberattack in the history of the Internet,\xc2\xa0launched against an anti-spam watchdog group last month, prosecutors announced Friday.'
-p966
-aS'The Netherlands National Prosecution Office said a 35-year-old suspect it identified only by his initials, S.K., was arrested Thursday at his home in Barcelona.'
-p967
-aS'Authorities also seized computers and mobile phones.'
-p968
-aS'Dutch prosecutors do not release full names of suspects, in line with privacy laws.'
-p969
-asg19
-(lp970
-S'Like us on Facebook: www.facebook.com/news.msn Follow us on Twitter: www.twitter.com/msnnews'
-p971
-asg25
-S'Dutch cyberattack suspect arrested in Spain'
-p972
-sg27
-S'http://news.msn.com/crime-justice/dutch-cyberattack-suspect-arrested-in-spain'
-p973
-sg29
-S'A Dutch citizen suspected of involvement in what experts describe as the biggest cyberattack in the history of the Internet has been arrested. THE HAGUE, Netherlands\xc2\xa0\xe2\x80\x94 A Dutch citizen has been arrested in Spain in connection with what experts described as the biggest cyberattack in the history of the Internet,\xc2\xa0launched against an anti-spam watchdog group last month, prosecutors announced Friday. The Netherlands National Prosecution Office said a 35-year-old suspect it identified only by his initials, S.K., was arrested Thursday at his home in Barcelona. Authorities also seized computers and mobile phones. Dutch prosecutors do not release full names of suspects, in line with privacy laws. According to a prosecution statement, the man is suspected of "unprecedentedly serious attacks on the non-profit organization Spamhaus." He was held on a European arrest warrant and is expected to be extradited to the Netherlands to face justice. The so-called denial-of-service attack on Spamhaus fired a torrent of data at the organization\'s servers and was blamed for other disruptions online. Dutch banks and an electronic payment service also have been hit by similar attacks in recent weeks, but prosecutors say they do not believe they are linked to the Spamhaus incident. Spamhaus, a site responsible for keeping ads for counterfeit Viagra and bogus weight-loss pills out of the world\'s inboxes, said it apparently was targeted by groups angry at being blacklisted by the Swiss-British group. Prosecutors said the cyberattack also hit "partners" of Spamhaus in the United States, the Netherlands and Britain. At the time, Vincent Hanna, a researcher with Spamhaus, called it a "small miracle" the organization had remained online during the cyber onslaught. Denial-of-service attacks overwhelm a server with traffic \xe2\x80\x94 like hundreds of letters being jammed through a mail slot at the same time. Security experts measure those attacks in bits of data per second. Recent cyberattacks \xe2\x80\x94 such as the ones that caused persistent outages at U.S. banking sites late last year \xe2\x80\x94 have tended to peak at 100 billion bits per second. But the assault on Spamhaus shattered the charts, clocking in at 300 billion bits per second, according to San Francisco-based CloudFlare Inc., which Spamhaus enlisted to help it weather the attack. \xc2\xa0 \xe2\x80\x94\xe2\x80\x94 MSN News on Facebook and Twitter Stay up to date on breaking news and current events. Like us on Facebook: www.facebook.com/news.msn Follow us on Twitter: www.twitter.com/msnnews'
-p974
-sg31
-(lp975
-(lp976
-g34
-ag39
-ag34
-ag34
-ag39
-aa(lp977
-g37
-ag37
-ag38
-ag34
-ag39
-aa(lp978
-g37
-ag37
-ag34
-ag39
-ag34
-aa(lp979
-g34
-ag38
+p742
+sg28
+S'A Dutchman thought to be associated with the "biggest cyberattack\n in history" last month reportedly has been arrested in Spain. The Dutch justice ministry announced on its\n  website today (April 26) that a 35-year-old Dutchman,\n  identified only by the initials SK, had been detained on a\n  European warrant yesterday (April 25) in the Barcelona area. The ministry\'s press release said SK was suspected in "severe"\n \n distributed denial-of-service (DDoS) attacks against the\n anti-spam organization Spamhaus and Spamhaus partners in the\n Netherlands, the United States and Britain. During the \n week-long series of attacks on Spamhaus , Sven Olaf Kamphuis,\n a Dutchman in his mid-30s, emerged as the spokesman for Stophaus,\n the group leading the attacks, which at one point reached an\n unprecedented 300 gigabits per second. After the New York Times published an article saying the attacks\n were causing "widespread congestion and jamming crucial\n infrastructure around the world," Kamphuis disappeared from view.\n (The congestion was felt primarily in the London area, northern\n Germany and the Netherlands.) Security researcher Brian Krebs noted that Kamphuis\' Facebook\n  account said he was a native of Amsterdam living in Barcelona.\n  The last posting on the account was on Wednesday (April 24). [ How\n DDoS Attacks Threaten the Internet ] In March, Kamphuis portrayed himself to various media outlets as\n one of the founders of CyberBunker, a Dutch Web-hosting service\n that proudly proclaims it will take any customers except\n terrorists or child pornographers. CyberBunker, named for the nuclear-blast-proof NATO bunker it\n purports to house its servers in, has a lot of unsavory clients,\n including accused cybercriminals, spammers and peddlers of fake\n pharmaceuticals. Subsequent reports have said CyberBunker moved out of the bunker\n years ago. Krebs said CyberBunker\'s official "WHOIS" listing puts\n the company in Antarctica. Because of its nasty clients, Spamhaus put CyberBunker\'s range of\n Internet addresses on its email and Web blacklists, which are\n used by many Internet service providers worldwide to weed out\n spam and unsavory material. Kamphuis and Stophaus complained that Spamhaus\' efforts were\n illegal and declared that if Spamhaus would block its clients,\n its clients would blockade Spamhaus with DDoS attacks, bombarding\n Spamhaus and its own ISPs with huge amounts of useless Internet\n traffic. Follow Paul Wagenseil\xc3\x82\xc2\xa0 @snd_wagenseil . Follow\n  us\xc3\x82\xc2\xa0 @TechNewsDaily ,\xc3\x82\xc2\xa0 Facebook \xc3\x82\xc2\xa0or\xc3\x82\xc2\xa0 Google+ . \xc3\x82\xc2\xa0Originally\n  published on TechNewsDaily.com . http://www.technewsdaily.com/17883-biggest-cyberattack-arrest.html'
+p743
+sg30
+(lp744
+(lp745
+g33
 ag34
 ag35
-ag39
-aa(lp980
-g37
-ag37
-ag37
-ag37
-ag38
-aasg43
-(lp981
+aa(lp746
+g33
+ag34
+ag33
+aa(lp747
+g34
+ag34
+ag33
+aa(lp748
+g33
+ag33
+ag33
+aa(lp749
+g35
+ag34
+ag35
+aasg42
+(lp750
+S' During the \n week-long series of attacks on Spamhaus , Sven Olaf Kamphuis,\n a Dutchman in his mid-30s, emerged as the spokesman for Stophaus,\n the group leading the attacks, which at one point reached an\n unprecedented 300 gigabits per second.'
+p751
+aS'After the New York Times published an article saying the attacks\n were causing "widespread congestion and jamming crucial\n infrastructure around the world," Kamphuis disappeared from view.'
+p752
+aS'(The congestion was felt primarily in the London area, northern\n Germany and the Netherlands.'
+p753
+aS") Security researcher Brian Krebs noted that Kamphuis' Facebook\n  account said he was a native of Amsterdam living in Barcelona."
+p754
+aS'The last posting on the account was on Wednesday (April 24).'
+p755
+aS'[ How\n DDoS Attacks Threaten the Internet ] In March, Kamphuis portrayed himself to various media outlets as\n one of the founders of CyberBunker, a Dutch Web-hosting service\n that proudly proclaims it will take any customers except\n terrorists or child pornographers.'
+p756
+aS'CyberBunker, named for the nuclear-blast-proof NATO bunker it\n purports to house its servers in, has a lot of unsavory clients,\n including accused cybercriminals, spammers and peddlers of fake\n pharmaceuticals.'
+p757
+aS'Subsequent reports have said CyberBunker moved out of the bunker\n years ago.'
+p758
+aS'Krebs said CyberBunker\'s official "WHOIS" listing puts\n the company in Antarctica.'
+p759
+aS"Because of its nasty clients, Spamhaus put CyberBunker's range of\n Internet addresses on its email and Web blacklists, which are\n used by many Internet service providers worldwide to weed out\n spam and unsavory material."
+p760
+aS"Kamphuis and Stophaus complained that Spamhaus' efforts were\n illegal and declared that if Spamhaus would block its clients,\n its clients would blockade Spamhaus with DDoS attacks, bombarding\n Spamhaus and its own ISPs with huge amounts of useless Internet\n traffic."
+p761
+asg93
+(lp762
+g733
+ag734
+ag735
+aS'During the \n week-long series of attacks on Spamhaus , Sven Olaf Kamphuis,\n a Dutchman in his mid-30s, emerged as the spokesman for Stophaus,\n the group leading the attacks, which at one point reached an\n unprecedented 300 gigabits per second.'
+p763
+aS'After the New York Times published an article saying the attacks\n were causing "widespread congestion and jamming crucial\n infrastructure around the world," Kamphuis disappeared from view.\n (The congestion was felt primarily in the London area, northern\n Germany and the Netherlands.)'
+p764
+aS"Security researcher Brian Krebs noted that Kamphuis' Facebook\n  account said he was a native of Amsterdam living in Barcelona.\n  The last posting on the account was on Wednesday (April 24)."
+p765
+aS'[ How\n DDoS Attacks Threaten the Internet ]'
+p766
+aS'In March, Kamphuis portrayed himself to various media outlets as\n one of the founders of CyberBunker, a Dutch Web-hosting service\n that proudly proclaims it will take any customers except\n terrorists or child pornographers.'
+p767
+aS'CyberBunker, named for the nuclear-blast-proof NATO bunker it\n purports to house its servers in, has a lot of unsavory clients,\n including accused cybercriminals, spammers and peddlers of fake\n pharmaceuticals.'
+p768
+aS'Subsequent reports have said CyberBunker moved out of the bunker\n years ago. Krebs said CyberBunker\'s official "WHOIS" listing puts\n the company in Antarctica.'
+p769
+aS"Because of its nasty clients, Spamhaus put CyberBunker's range of\n Internet addresses on its email and Web blacklists, which are\n used by many Internet service providers worldwide to weed out\n spam and unsavory material."
+p770
+aS"Kamphuis and Stophaus complained that Spamhaus' efforts were\n illegal and declared that if Spamhaus would block its clients,\n its clients would blockade Spamhaus with DDoS attacks, bombarding\n Spamhaus and its own ISPs with huge amounts of useless Internet\n traffic."
+p771
+aS'Follow Paul Wagenseil\xc3\x82\xc2\xa0 @snd_wagenseil . Follow\n  us\xc3\x82\xc2\xa0 @TechNewsDaily ,\xc3\x82\xc2\xa0 Facebook \xc3\x82\xc2\xa0or\xc3\x82\xc2\xa0 Google+ . \xc3\x82\xc2\xa0Originally\n  published on TechNewsDaily.com .'
+p772
+aS'http://www.technewsdaily.com/17883-biggest-cyberattack-arrest.html'
+p773
+asba(i__main__
+Document
+p774
+(dp775
+g9
+(lp776
+S"Spanish police on Friday arrested three alleged members of the hacker and activist group Anonymous on suspicion of taking part in online attacks against Sony Corp.'s PlayStation Network, as well as banks, businesses and government websites."
+p777
+aS'Police said the three "hacktivists," whose identities have not been released, were involved in the April hacking of the PlayStation Network, an online video gaming and entertainment service that Sony suspended for more than a month after the attack.'
+p778
+aS'Officials with Sony, which has also been dealing with attacks in recent weeks on its Sony Pictures and music websites from hackers including the group LulzSec, were unavailable to comment Friday on the arrests.'
+p779
+asg18
+(lp780
+S'nathan.olivarezgiles@latimes.com Reuters was used in compiling this report.'
+p781
+asg24
+S'Spanish police arrest three suspected hackers'
+p782
+sg26
+S'http://articles.latimes.com/2011/jun/11/business/la-fi-spanish-hackers-20110611'
+p783
+sg28
+S'Spanish police on Friday arrested three alleged members of the hacker and activist group Anonymous on suspicion of taking part in online attacks against Sony Corp.\'s PlayStation Network, as well as banks, businesses and government websites. Police said the three "hacktivists," whose identities have not been released, were involved in the April hacking of the PlayStation Network, an online video gaming and entertainment service that Sony suspended for more than a month after the attack. Officials with Sony, which has also been dealing with attacks in recent weeks on its Sony Pictures and music websites from hackers including the group LulzSec, were unavailable to comment Friday on the arrests. The three suspects \xe2\x80\x94 who lived separately in Barcelona, Valencia and Almeria \xe2\x80\x94 are also believed to have played a role in cyber-attacks on the Spanish banks Bankia and BBVA as well as the Italian energy group Enel. Anonymous, a group of online hackers that says it is made up of "online citizens" with no clear leader, generally launches Web attacks against companies or governments that it says are detrimental to society. Anonymous has played a part in hacking government sites in countries such as Egypt, Tunisia and Iran. The group has also been known for hacking the websites of banks, credit card companies and PayPal in retaliation for those companies not processing donations made to the secret-document-publishing website WikiLeaks. Sony has blamed the attack on its PlayStation Network partially on Anonymous, but the group has denied involvement, although it did say it is possible that individual members could have been involved on their own. "They are structured in independent cells and make thousands of simultaneous attacks using infected \'zombie\' computers worldwide," Spanish police said. "This is why NATO considers them a threat.... They are even capable of collapsing a country\'s administrative structure." nathan.olivarezgiles@latimes.com Reuters was used in compiling this report.'
+p784
+sg30
+(lp785
+(lp786
+g35
+ag35
+ag35
+aa(lp787
+g33
+ag33
+ag35
+aa(lp788
+g33
+ag34
+ag34
+aa(lp789
+g33
+ag33
+ag33
+aa(lp790
+g35
+ag35
+ag34
+aasg42
+(lp791
+S' The three suspects \xe2\x80\x94 who lived separately in Barcelona, Valencia and Almeria \xe2\x80\x94 are also believed to have played a role in cyber-attacks on the Spanish banks Bankia and BBVA as well as the Italian energy group Enel.'
+p792
+aS'Anonymous, a group of online hackers that says it is made up of "online citizens" with no clear leader, generally launches Web attacks against companies or governments that it says are detrimental to society.'
+p793
+aS'Anonymous has played a part in hacking government sites in countries such as Egypt, Tunisia and Iran.'
+p794
+aS'The group has also been known for hacking the websites of banks, credit card companies and PayPal in retaliation for those companies not processing donations made to the secret-document-publishing website WikiLeaks.'
+p795
+aS'Sony has blamed the attack on its PlayStation Network partially on Anonymous, but the group has denied involvement, although it did say it is possible that individual members could have been involved on their own.'
+p796
+aS'"They are structured in independent cells and make thousands of simultaneous attacks using infected \'zombie\' computers worldwide," Spanish police said.'
+p797
+aS'"This is why NATO considers them a threat....'
+p798
+aS"They are even capable of collapsing a country's administrative structure."
+p799
+ag17
+asg93
+(lp800
+g777
+ag778
+ag779
+aS'The three suspects \xe2\x80\x94 who lived separately in Barcelona, Valencia and Almeria \xe2\x80\x94 are also believed to have played a role in cyber-attacks on the Spanish banks Bankia and BBVA as well as the Italian energy group Enel.'
+p801
+aS'Anonymous, a group of online hackers that says it is made up of "online citizens" with no clear leader, generally launches Web attacks against companies or governments that it says are detrimental to society. Anonymous has played a part in hacking government sites in countries such as Egypt, Tunisia and Iran.'
+p802
+aS'The group has also been known for hacking the websites of banks, credit card companies and PayPal in retaliation for those companies not processing donations made to the secret-document-publishing website WikiLeaks.'
+p803
+aS'Sony has blamed the attack on its PlayStation Network partially on Anonymous, but the group has denied involvement, although it did say it is possible that individual members could have been involved on their own.'
+p804
+aS'"They are structured in independent cells and make thousands of simultaneous attacks using infected \'zombie\' computers worldwide," Spanish police said. "This is why NATO considers them a threat.... They are even capable of collapsing a country\'s administrative structure."'
+p805
+aS'nathan.olivarezgiles@latimes.com'
+p806
+aS'Reuters was used in compiling this report.'
+p807
+asba(i__main__
+Document
+p808
+(dp809
+g9
+(lp810
+S'A Dutch citizen suspected of involvement in what experts describe as the biggest cyberattack in the history of the Internet has been arrested.'
+p811
+aS'THE HAGUE, Netherlands\xc2\xa0\xe2\x80\x94 A Dutch citizen has been arrested in Spain in connection with what experts described as the biggest cyberattack in the history of the Internet,\xc2\xa0launched against an anti-spam watchdog group last month, prosecutors announced Friday.'
+p812
+aS'The Netherlands National Prosecution Office said a 35-year-old suspect it identified only by his initials, S.K., was arrested Thursday at his home in Barcelona.'
+p813
+aS'Authorities also seized computers and mobile phones.'
+p814
+aS'Dutch prosecutors do not release full names of suspects, in line with privacy laws.'
+p815
+asg18
+(lp816
+S'Like us on Facebook: www.facebook.com/news.msn Follow us on Twitter: www.twitter.com/msnnews'
+p817
+asg24
+S'Dutch cyberattack suspect arrested in Spain'
+p818
+sg26
+S'http://news.msn.com/crime-justice/dutch-cyberattack-suspect-arrested-in-spain'
+p819
+sg28
+S'A Dutch citizen suspected of involvement in what experts describe as the biggest cyberattack in the history of the Internet has been arrested. THE HAGUE, Netherlands\xc2\xa0\xe2\x80\x94 A Dutch citizen has been arrested in Spain in connection with what experts described as the biggest cyberattack in the history of the Internet,\xc2\xa0launched against an anti-spam watchdog group last month, prosecutors announced Friday. The Netherlands National Prosecution Office said a 35-year-old suspect it identified only by his initials, S.K., was arrested Thursday at his home in Barcelona. Authorities also seized computers and mobile phones. Dutch prosecutors do not release full names of suspects, in line with privacy laws. According to a prosecution statement, the man is suspected of "unprecedentedly serious attacks on the non-profit organization Spamhaus." He was held on a European arrest warrant and is expected to be extradited to the Netherlands to face justice. The so-called denial-of-service attack on Spamhaus fired a torrent of data at the organization\'s servers and was blamed for other disruptions online. Dutch banks and an electronic payment service also have been hit by similar attacks in recent weeks, but prosecutors say they do not believe they are linked to the Spamhaus incident. Spamhaus, a site responsible for keeping ads for counterfeit Viagra and bogus weight-loss pills out of the world\'s inboxes, said it apparently was targeted by groups angry at being blacklisted by the Swiss-British group. Prosecutors said the cyberattack also hit "partners" of Spamhaus in the United States, the Netherlands and Britain. At the time, Vincent Hanna, a researcher with Spamhaus, called it a "small miracle" the organization had remained online during the cyber onslaught. Denial-of-service attacks overwhelm a server with traffic \xe2\x80\x94 like hundreds of letters being jammed through a mail slot at the same time. Security experts measure those attacks in bits of data per second. Recent cyberattacks \xe2\x80\x94 such as the ones that caused persistent outages at U.S. banking sites late last year \xe2\x80\x94 have tended to peak at 100 billion bits per second. But the assault on Spamhaus shattered the charts, clocking in at 300 billion bits per second, according to San Francisco-based CloudFlare Inc., which Spamhaus enlisted to help it weather the attack. \xc2\xa0 \xe2\x80\x94\xe2\x80\x94 MSN News on Facebook and Twitter Stay up to date on breaking news and current events. Like us on Facebook: www.facebook.com/news.msn Follow us on Twitter: www.twitter.com/msnnews'
+p820
+sg30
+(lp821
+(lp822
+g35
+ag33
+ag35
+ag40
+ag35
+aa(lp823
+g34
+ag34
+ag33
+ag40
+ag40
+aa(lp824
+g33
+ag34
+ag34
+ag35
+ag40
+aa(lp825
+g35
+ag34
+ag34
+ag34
+ag34
+aa(lp826
+g33
+ag33
+ag33
+ag35
+ag33
+aasg42
+(lp827
 S' According to a prosecution statement, the man is suspected of "unprecedentedly serious attacks on the non-profit organization Spamhaus.'
-p982
+p828
 aS'" He was held on a European arrest warrant and is expected to be extradited to the Netherlands to face justice.'
-p983
+p829
 aS"The so-called denial-of-service attack on Spamhaus fired a torrent of data at the organization's servers and was blamed for other disruptions online."
-p984
+p830
 aS'Dutch banks and an electronic payment service also have been hit by similar attacks in recent weeks, but prosecutors say they do not believe they are linked to the Spamhaus incident.'
-p985
+p831
 aS"Spamhaus, a site responsible for keeping ads for counterfeit Viagra and bogus weight-loss pills out of the world's inboxes, said it apparently was targeted by groups angry at being blacklisted by the Swiss-British group."
-p986
+p832
 aS'Prosecutors said the cyberattack also hit "partners" of Spamhaus in the United States, the Netherlands and Britain.'
-p987
+p833
 aS'At the time, Vincent Hanna, a researcher with Spamhaus, called it a "small miracle" the organization had remained online during the cyber onslaught.'
-p988
+p834
 aS'Denial-of-service attacks overwhelm a server with traffic \xe2\x80\x94 like hundreds of letters being jammed through a mail slot at the same time.'
-p989
+p835
 aS'Security experts measure those attacks in bits of data per second.'
-p990
+p836
 aS'Recent cyberattacks \xe2\x80\x94 such as the ones that caused persistent outages at U.S. banking sites late last year \xe2\x80\x94 have tended to peak at 100 billion bits per second.'
-p991
+p837
 aS'But the assault on Spamhaus shattered the charts, clocking in at 300 billion bits per second, according to San Francisco-based CloudFlare Inc., which Spamhaus enlisted to help it weather the attack.'
-p992
+p838
 aS'\xc2\xa0 \xe2\x80\x94\xe2\x80\x94 MSN News on Facebook and Twitter Stay up to date on breaking news and current events.'
-p993
-asg94
-(lp994
-g965
-ag966
+p839
+asg93
+(lp840
+g811
+ag812
 aS'The Netherlands National Prosecution Office said a 35-year-old suspect it identified only by his initials, S.K., was arrested Thursday at his home in Barcelona. Authorities also seized computers and mobile phones. Dutch prosecutors do not release full names of suspects, in line with privacy laws.'
-p995
+p841
 aS'According to a prosecution statement, the man is suspected of "unprecedentedly serious attacks on the non-profit organization Spamhaus." He was held on a European arrest warrant and is expected to be extradited to the Netherlands to face justice.'
-p996
+p842
 aS"The so-called denial-of-service attack on Spamhaus fired a torrent of data at the organization's servers and was blamed for other disruptions online. Dutch banks and an electronic payment service also have been hit by similar attacks in recent weeks, but prosecutors say they do not believe they are linked to the Spamhaus incident."
-p997
+p843
 aS"Spamhaus, a site responsible for keeping ads for counterfeit Viagra and bogus weight-loss pills out of the world's inboxes, said it apparently was targeted by groups angry at being blacklisted by the Swiss-British group."
-p998
+p844
 aS'Prosecutors said the cyberattack also hit "partners" of Spamhaus in the United States, the Netherlands and Britain.'
-p999
+p845
 aS'At the time, Vincent Hanna, a researcher with Spamhaus, called it a "small miracle" the organization had remained online during the cyber onslaught.'
-p1000
+p846
 aS'Denial-of-service attacks overwhelm a server with traffic \xe2\x80\x94 like hundreds of letters being jammed through a mail slot at the same time. Security experts measure those attacks in bits of data per second. Recent cyberattacks \xe2\x80\x94 such as the ones that caused persistent outages at U.S. banking sites late last year \xe2\x80\x94 have tended to peak at 100 billion bits per second.'
-p1001
+p847
 aS'But the assault on Spamhaus shattered the charts, clocking in at 300 billion bits per second, according to San Francisco-based CloudFlare Inc., which Spamhaus enlisted to help it weather the attack.'
-p1002
+p848
 aS'\xc2\xa0'
-p1003
+p849
 aS'\xe2\x80\x94\xe2\x80\x94'
-p1004
+p850
 aS'MSN News on Facebook and Twitter'
-p1005
+p851
 aS'Stay up to date on breaking news and current events.'
-p1006
+p852
 aS'Like us on Facebook: www.facebook.com/news.msn'
-p1007
+p853
 aS'Follow us on Twitter: www.twitter.com/msnnews'
-p1008
-asbasg451
-(lp1009
-g774
-ag825
-ag851
-ag895
-ag936
-ag973
-asg453
-(dp1010
+p854
+asbasg401
+(lp855
+g668
+ag717
+ag742
+ag783
+ag819
+asg403
+(dp856
 sba(i__main__
 Topic
-p1011
-(dp1012
+p857
+(dp858
 g3
-S'faa_furloughs'
-p1013
+S'jason_collins'
+p859
 sg5
-(lp1014
+(lp860
 (i__main__
 Document
+p861
+(dp862
+g9
+(lp863
+S'NEW YORK \xe2\x80\x93 \xc2\xa0 With the simplest of sentences, NBA veteran Jason Collins set aside years of worry and silence to become the first active player in one of four major U.S. professional sports leagues to come out as gay.'
+p864
+aS'In a first-person article posted Monday on Sports Illustrated\'s website, Collins begins: "I\'m a 34-year-old NBA center.'
+p865
+aS"I'm black."
+p866
+aS"And I'm gay."
+p867
+ag17
+asg18
+(lp868
+S'"Some people insist they\'ve never met a gay person.'
+p869
+aS'But Three Degrees of Jason Collins dictates that no NBA player can claim that anymore.'
+p870
+aS'Pro basketball is a family.'
+p871
+aS'And pretty much every family I know has a brother, sister or cousin who\'s gay," Collins concludes.'
+p872
+aS'"In the brotherhood of the NBA, I just happen to be the one who\'s out.'
+p873
+ag17
+asg24
+S'NBA veteran center Jason Collins comes out as gay in Sports Illustrated article | Fox News'
+p874
+sg26
+S'http://www.foxnews.com/sports/2013/04/29/nba-veteran-center-jason-collins-comes-out-as-gay-in-sports-illustrated-article/'
+p875
+sg28
+S'NEW YORK \xe2\x80\x93 \xc2\xa0 With the simplest of sentences, NBA veteran Jason Collins set aside years of worry and silence to become the first active player in one of four major U.S. professional sports leagues to come out as gay. In a first-person article posted Monday on Sports Illustrated\'s website, Collins begins: "I\'m a 34-year-old NBA center. I\'m black. And I\'m gay." Collins has played for six teams in 12 seasons, most recently as a reserve with the Washington Wizards after a midseason trade from the Boston Celtics. He is now a free agent and wants to keep playing in the NBA. "I didn\'t set out to be the first openly gay athlete playing in a major American team sport. But since I am, I\'m happy to start the conversation. I wish I wasn\'t the kid in the classroom raising his hand and saying, \'I\'m different,"\' Collins writes. "If I had my way, someone else would have already done this. Nobody has, which is why I\'m raising my hand." Saying he had "endured years of misery and gone to enormous lengths to live a lie," Collins immediately drew support for his announcement from the White House -- President Barack Obama called him -- along with former President Bill Clinton, the NBA, current and former teammates, a sponsor, and athletes in other sports. Los Angeles Lakers star Kobe Bryant tweeted that he was proud of Collins, writing: "Don\'t suffocate who u r because of the ignorance of others," followed by the words "courage" and "support." "We\'ve got to get rid of the shame. That\'s the main thing. And Jason\'s going to help that. He\'s going to help give people courage to come out," said Billie Jean King, a member of the International Tennis Hall of Fame who confirmed she was gay after being outed in the early 1980s. "I guarantee you he\'s going to feel much lighter, much freer. The truth does set you free, there\'s no question. It doesn\'t mean it\'s easy. But it sets you free," King said in a telephone interview with The Associated Press. The Wizards, whose season ended April 17, issued a statement from President Ernie Grunfeld: "We are extremely proud of Jason and support his decision to live his life proudly and openly. He has been a leader on and off the court and an outstanding teammate throughout his NBA career. Those qualities will continue to serve him both as a player and as a positive role model for others of all sexual orientation." Collins\' coach with the Celtics, Doc Rivers, drew a comparison between Monday\'s announcement and Jackie Robinson\'s role when he joined the Brooklyn Dodgers in 1947, breaking the color barrier in Major League Baseball. "I am extremely happy and proud of Jason Collins. He\'s a pro\'s pro. He is the consummate professional and he is one of my favorite `team\' players I have ever coached," Rivers said. "If you have learned anything from Jackie Robinson, it is that teammates are always the first to accept. It will be society who has to learn tolerance." Collins says he quietly made a statement for gay rights even while keeping his sexual orientation a secret. He wore No. 98 with the Celtics and Wizards -- 1998 was year that Matthew Shepard, a gay college student in Wyoming, was killed, and the Trevor Project, a suicide prevention organization, was founded. According to the General Social Survey, the public has grown increasingly accepting of gay relationships since the late 1980s. That survey found in 1987 that 76 percent of Americans thought sexual relations between adults of the same sex was morally wrong. That fell to 43 percent by 2012. "I\'m glad I\'m coming out in 2013 rather than 2003. The climate has shifted; public opinion has shifted," Collins writes. "And yet we still have so much farther to go. Everyone is terrified of the unknown, but most of us don\'t want to return to a time when minorities were openly discriminated against." While some gay athletes have talked in the past about concerns that coming out would hurt their earning potential, 12-time Grand Slam singles champion King said she thinks Collins\' openness could have the opposite effect. "I have a feeling he\'s got a whole new career," King said. "I have a feeling he\'s going to make more in endorsements than he\'s ever made in his life." Sports equipment maker Nike released a statement Monday saying: "We admire Jason\'s courage and are proud that he is a Nike athlete. Nike believes in a level playing field where an athlete\'s sexual orientation is not a consideration." On Monday evening, hours after his story appeared on the web, Collins wrote on Twitter: "All the support I have received today is truly inspirational. I knew that I was choosing the road less traveled but I\'m not walking it alone." Momentum has been building toward this sort of announcement from a pro athlete in a top league in the United States. NFL players Brendan Ayanbadejo and Chris Kluwe were outspoken in support of state gay-marriage amendments during last year\'s elections. Obama spoke about his support for gay marriage during his re-election campaign. The topic made waves during Super Bowl week when one player, San Francisco 49ers cornerback Chris Culliver, said he wouldn\'t welcome a gay member of his team. At the time, Ayanbadejo estimated that at least half of the NFL\'s players would agree with what Culliver said, at least privately. Scott Fujita, who recently retired after an 11-year NFL career, said: "I\'m pleased to see such an overwhelmingly positive reaction to this news, because it just shows that we\'re becoming more accepting every day. But more than anything else, I\'m happy for Jason. I\'m not a gay, closeted athlete, so I can\'t pretend to know what that must have felt like for him. But I imagine this is freeing for him, and hopefully he\'s encouraged by the millions of people who are voicing their support. ... It\'s not a reaction to some rumor and it\'s not some unwanted outing. It\'s his message, and it was delivered under his control and on his terms." On Monday, NFL Commissioner Roger Goodell sent a memo to teams reiterating the league\'s anti-discrimination policy about sexuality. It includes a section on questions teams cannot ask prospective draft picks and free agents. After the NFL combine in February, three players said officials posed questions about sexual orientation. Earlier this month, the NHL and its players\' union partnered with an advocacy organization fighting homophobia in sports, and Commissioner Gary Bettman said the You Can Play Project underlines that "the official policy of the NHL is one of inclusion on the ice, in our locker rooms and in the stands." "I would say the NHL has been a force to kind of obviously embrace and encourage. ... What (Collins) did, I think it\'s definitely (good) for basketball, and the same for hockey, too. It\'s going to be encouraging for more guys to step up and just be open about themselves," Washington Capitals forward Joel Ward said. Living in the nation\'s capital last month while the U.S. Supreme Court heard arguments about same-sex marriage had an effect on Collins, who says "the strain of hiding my sexuality became almost unbearable" at that time. "Less than three miles from my apartment, nine jurists argued about my happiness and my future. Here was my chance to be heard, and I couldn\'t say a thing," he writes. "I didn\'t want to answer questions and draw attention to myself." After being a first-round draft pick in 2001, Collins has averaged 3.6 points and 3.8 rebounds for the New Jersey Nets, Memphis Grizzlies, Minnesota Timberwolves, Atlanta Hawks, Celtics and Wizards. In his SI piece, he jokes self-effacingly about his journeyman career and a parlor game known as "Three Degrees of Jason Collins." "If you\'re in the league, and I haven\'t been your teammate, I surely have been one of your teammates\' teammates. Or one of your teammates\' teammates\' teammates," he writes. Never a star, he acknowledges, "I take charges and I foul -- that\'s been my forte. ... I set picks with my 7-foot, 255-pound body to get guys like Jason Kidd, John Wall and Paul Pierce open. I sacrifice myself for other players." He continues: "I go against the gay stereotype, which is why I think a lot of players will be shocked: That guy is gay? But I\'ve always been an aggressive player, even in high school. Am I so physical to prove that being gay doesn\'t make you soft? Who knows? That\'s something for a psychologist to unravel." As for what response other NBA players will have to his revelation, Collins writes: "The simple answer is, I have no idea." "Openness may not completely disarm prejudice, but it\'s a good place to start. It all comes down to education. I\'ll sit down with any player who\'s uneasy about my coming out," he says in his account, adding: "Still, if I\'m up against an intolerant player, I\'ll set a pretty hard pick on him. And then move on." On Monday, there was an outpouring of positive sentiments. In texts to the AP, Wizards guard Garrett Temple wrote, "I was surprised. I didn\'t know and I was right next to him in the locker room. It definitely took a lot of courage for him to come out. He was a great teammate," and rookie Bradley Beal said: "I didn\'t know about it! I don\'t think anyone did! I am proud of his decision to come out and express the way he feels and I\'m supportive of that!!" Former teammate Jerry Stackhouse, now with the Brooklyn Nets, wrote in a text: "I hope Jason is received well by our NBA family. Jason is a friend and a former teammate that I\'ve enjoyed many laughs and conversations with and his sexual orientation won\'t change that with me. I\'ve already reached out to him personally to show support and will encourage more guys to do the same." NBA Commissioner David Stern said in a statement: "Jason has been a widely respected player and teammate throughout his career and we are proud he has assumed the leadership mantle on this very important issue." While Collins is the first male athlete in a major North American professional league to come out while intending to keep playing, several have previously spoken after they retired about being gay, including the NBA\'s John Amaechi, the NFL\'s Esera Tuaolo and Major League Baseball\'s Billy Bean. "I think he is immensely brave. I think it\'s a shame in this day and age he has to be immensely brave, but he is," Amaechi told the AP. "He\'s going to be a remarkable and eloquent spokesperson for what it is to be a decent, authentic human being -- never mind just for gay people." Rick Welts, president and chief operating officer of the NBA\'s Golden State Warriors, is openly gay. "He probably knows what he signed up for. There\'ll be a whole bunch more television reporters and cameras than he\'s probably had in the past. ... There had been a long of speculation about when, who, how. I think that speculation has been put to rest now," Welts said, "and we\'ll always remember that Jason Collins was the first man to do this." Collins says that if he remains in the NBA, he could face uncomfortable reactions from spectators. "I don\'t mind if they heckle me. I\'ve been booed before. There have been times when I\'ve wanted to boo myself. But a lot of ill feelings can be cured by winning," he writes. He adds: "I hope fans will respect me for raising my hand. And I hope teammates will remember that I\'ve never been an in-your-face kind of guy. All you need to know is that I\'m single. I see no need to delve into specifics." In February, former U.S. soccer national team player Robbie Rogers said he was gay -- and retired at the same time. Rogers is just 25, and others have urged him to resume his career. "I feel a movement coming," he tweeted after word of Collins\' news broke. Female athletes have found more acceptance in coming out; Brittney Griner, a top college basketball player now headed to the WNBA, caused few ripples when she said this month she is a lesbian. Tennis great Martina Navratilova, who came out decades ago, tweeted Monday that Collins is "a brave man." "1981 was the year for me -- 2013 is the year for you," her post added. Sports leagues in Britain and elsewhere in Europe have been trying to combat anti-gay bias. But the taboo remains particularly strong in soccer, where there are no openly gay players in Europe\'s top leagues. Homophobic chants are still heard at some games. Soccer "is not going to change," said Amaechi, who is English and now lives in Manchester. "If it wanted to change, it would change. It has the resources to do so. It doesn\'t want to change." Justin Fashanu is the only significant British soccer player to have come out publicly, doing so in 1990. The former Nottingham Forest and Norwich City striker was found hanged in a London garage in 1998 at age 37. According to an inquest, Fashanu left a note saying that, because he was gay, he feared he wouldn\'t get a fair trial in the United States on sexual assault charges. Maryland police were seeking him on charges that he sexually assaulted a 17-year-old boy. Among other athletes outside the U.S. to come out was Gareth Thomas, a Welsh rugby star who attracted widespread media attention in 2009 when he announced he was gay. He continued playing until retirement in 2011. Orlando Cruz of Puerto Rico came out in October as the first openly gay professional male boxer. Canadian swimmer Mark Tewksbury came out six years after winning a gold medal in the backstroke at the 1992 Barcelona Games. Four-time Olympic diving gold medalist Greg Louganis of the U.S. revealed he was gay in 1994, a year before announcing he was also HIV-positive. Former Olympic skiing gold medalist Anja Paerson of Sweden announced last year, after retiring, that she was in a long-term relationship with a woman. White House spokesman Jay Carney called Collins\' decision courageous and said the administration views it as another example of progress and evolution in the U.S. as Americans grow more accepting of gay rights and same-sex marriage. Former President Clinton said: "Jason\'s announcement today is an important moment for professional sports and in the history of the LGBT community. It is also the straightforward statement of a good man who wants no more than what so many of us seek: to be able to be who we are; to do our work; to build families and to contribute to our communities. For so many members of the LGBT community, these simple goals remain elusive." Collins attended Stanford with Clinton\'s daughter Chelsea and played in a Final Four while at the school. His twin brother, Jarron, was also a longtime NBA center who last played in the league in the 2010-11 season. Collins says he told his brother he was gay last summer. "He was downright astounded. He never suspected. So much for twin telepathy," Collins writes in SI. "But by dinner that night, he was full of brotherly love. For the first time in our lives, he wanted to step in and protect me." Advocacy organization GLAAD released a statement from Aaron McQuade, the head of its sports program. "Courage\' and `inspiration\' are words that get thrown around a lot in sports, but Jason Collins has given both ideas a brand new context," he said. "We hope that his future team will welcome him, and that fans of the NBA and sports in general will applaud him. We know that the NBA will proudly support him, and that countless young LGBT athletes now have a new hero." At Stanford, Collins was a college roommate of Rep. Joe Kennedy III, D-Mass. In his account, Collins writes that he realized he needed to go public when the congressman walked in Boston\'s gay pride parade last year -- and Collins decided he couldn\'t join him. "For as long as I\'ve known Jason Collins he has been defined by three things: his passion for the sport he loves, his unwavering integrity, and the biggest heart you will ever find. Without question or hesitation, he gives everything he\'s got to those of us lucky enough to be in his life. I\'m proud to stand with him today and proud to call him a friend," Kennedy said in a statement. In Monday\'s story, Collins writes that the Boston Marathon bombing on April 15 "reinforced the notion that I shouldn\'t wait for the circumstances of my coming out to be perfect. Things can change in an instant, so why not live truthfully?" And now, Collins says, he will be in Boston on June 8, marching alongside Kennedy at the city\'s 2013 gay rights parade. "Some people insist they\'ve never met a gay person. But Three Degrees of Jason Collins dictates that no NBA player can claim that anymore. Pro basketball is a family. And pretty much every family I know has a brother, sister or cousin who\'s gay," Collins concludes. "In the brotherhood of the NBA, I just happen to be the one who\'s out."'
+p876
+sg30
+(lp877
+(lp878
+g34
+ag35
+ag35
+ag34
+ag36
+aa(lp879
+g33
+ag34
+ag34
+ag34
+ag36
+aa(lp880
+g33
+ag34
+ag35
+ag34
+ag36
+aa(lp881
+g34
+ag34
+ag34
+ag34
+ag34
+aa(lp882
+g34
+ag35
+ag35
+ag33
+ag36
+aasg42
+(lp883
+S' "I didn\'t set out to be the first openly gay athlete playing in a major American team sport.'
+p884
+aS"But since I am, I'm happy to start the conversation."
+p885
+aS'I wish I wasn\'t the kid in the classroom raising his hand and saying, \'I\'m different,"\' Collins writes.'
+p886
+aS'"If I had my way, someone else would have already done this.'
+p887
+aS"Nobody has, which is why I'm raising my hand."
+p888
+aS'" Saying he had "endured years of misery and gone to enormous lengths to live a lie," Collins immediately drew support for his announcement from the White House -- President Barack Obama called him -- along with former President Bill Clinton, the NBA, current and former teammates, a sponsor, and athletes in other sports.'
+p889
+aS'Los Angeles Lakers star Kobe Bryant tweeted that he was proud of Collins, writing: "Don\'t suffocate who u r because of the ignorance of others," followed by the words "courage" and "support.'
+p890
+aS'" "We\'ve got to get rid of the shame.'
+p891
+aS"That's the main thing."
+p892
+aS"And Jason's going to help that."
+p893
+aS'He\'s going to help give people courage to come out," said Billie Jean King, a member of the International Tennis Hall of Fame who confirmed she was gay after being outed in the early 1980s.'
+p894
+aS'"I guarantee you he\'s going to feel much lighter, much freer.'
+p895
+aS"The truth does set you free, there's no question."
+p896
+aS"It doesn't mean it's easy."
+p897
+aS'But it sets you free," King said in a telephone interview with The Associated Press.'
+p898
+aS'The Wizards, whose season ended April 17, issued a statement from President Ernie Grunfeld: "We are extremely proud of Jason and support his decision to live his life proudly and openly.'
+p899
+aS'He has been a leader on and off the court and an outstanding teammate throughout his NBA career.'
+p900
+aS'Those qualities will continue to serve him both as a player and as a positive role model for others of all sexual orientation.'
+p901
+aS'" Collins\' coach with the Celtics, Doc Rivers, drew a comparison between Monday\'s announcement and Jackie Robinson\'s role when he joined the Brooklyn Dodgers in 1947, breaking the color barrier in Major League Baseball.'
+p902
+aS'"I am extremely happy and proud of Jason Collins.'
+p903
+aS"He's a pro's pro."
+p904
+aS'He is the consummate professional and he is one of my favorite `team\' players I have ever coached," Rivers said.'
+p905
+aS'"If you have learned anything from Jackie Robinson, it is that teammates are always the first to accept.'
+p906
+aS'It will be society who has to learn tolerance.'
+p907
+aS'" Collins says he quietly made a statement for gay rights even while keeping his sexual orientation a secret.'
+p908
+aS'He wore No.'
+p909
+aS'98 with the Celtics and Wizards -- 1998 was year that Matthew Shepard, a gay college student in Wyoming, was killed, and the Trevor Project, a suicide prevention organization, was founded.'
+p910
+aS'According to the General Social Survey, the public has grown increasingly accepting of gay relationships since the late 1980s.'
+p911
+aS'That survey found in 1987 that 76 percent of Americans thought sexual relations between adults of the same sex was morally wrong.'
+p912
+aS'That fell to 43 percent by 2012.'
+p913
+aS'"I\'m glad I\'m coming out in 2013 rather than 2003.'
+p914
+aS'The climate has shifted; public opinion has shifted," Collins writes.'
+p915
+aS'"And yet we still have so much farther to go.'
+p916
+aS"Everyone is terrified of the unknown, but most of us don't want to return to a time when minorities were openly discriminated against."
+p917
+aS'" While some gay athletes have talked in the past about concerns that coming out would hurt their earning potential, 12-time Grand Slam singles champion King said she thinks Collins\' openness could have the opposite effect.'
+p918
+aS'"I have a feeling he\'s got a whole new career," King said.'
+p919
+aS'"I have a feeling he\'s going to make more in endorsements than he\'s ever made in his life.'
+p920
+aS'" Sports equipment maker Nike released a statement Monday saying: "We admire Jason\'s courage and are proud that he is a Nike athlete.'
+p921
+aS"Nike believes in a level playing field where an athlete's sexual orientation is not a consideration."
+p922
+aS'" On Monday evening, hours after his story appeared on the web, Collins wrote on Twitter: "All the support I have received today is truly inspirational.'
+p923
+aS"I knew that I was choosing the road less traveled but I'm not walking it alone."
+p924
+aS'" Momentum has been building toward this sort of announcement from a pro athlete in a top league in the United States.'
+p925
+aS"NFL players Brendan Ayanbadejo and Chris Kluwe were outspoken in support of state gay-marriage amendments during last year's elections."
+p926
+aS'Obama spoke about his support for gay marriage during his re-election campaign.'
+p927
+aS"The topic made waves during Super Bowl week when one player, San Francisco 49ers cornerback Chris Culliver, said he wouldn't welcome a gay member of his team."
+p928
+aS"At the time, Ayanbadejo estimated that at least half of the NFL's players would agree with what Culliver said, at least privately."
+p929
+aS'Scott Fujita, who recently retired after an 11-year NFL career, said: "I\'m pleased to see such an overwhelmingly positive reaction to this news, because it just shows that we\'re becoming more accepting every day.'
+p930
+aS"But more than anything else, I'm happy for Jason."
+p931
+aS"I'm not a gay, closeted athlete, so I can't pretend to know what that must have felt like for him."
+p932
+aS"But I imagine this is freeing for him, and hopefully he's encouraged by the millions of people who are voicing their support."
+p933
+aS'...'
+p934
+aS"It's not a reaction to some rumor and it's not some unwanted outing."
+p935
+aS"It's his message, and it was delivered under his control and on his terms."
+p936
+aS'" On Monday, NFL Commissioner Roger Goodell sent a memo to teams reiterating the league\'s anti-discrimination policy about sexuality.'
+p937
+aS'It includes a section on questions teams cannot ask prospective draft picks and free agents.'
+p938
+aS'After the NFL combine in February, three players said officials posed questions about sexual orientation.'
+p939
+aS'Earlier this month, the NHL and its players\' union partnered with an advocacy organization fighting homophobia in sports, and Commissioner Gary Bettman said the You Can Play Project underlines that "the official policy of the NHL is one of inclusion on the ice, in our locker rooms and in the stands.'
+p940
+aS'" "I would say the NHL has been a force to kind of obviously embrace and encourage.'
+p941
+aS"... What (Collins) did, I think it's definitely (good) for basketball, and the same for hockey, too."
+p942
+aS'It\'s going to be encouraging for more guys to step up and just be open about themselves," Washington Capitals forward Joel Ward said.'
+p943
+aS'Living in the nation\'s capital last month while the U.S. Supreme Court heard arguments about same-sex marriage had an effect on Collins, who says "the strain of hiding my sexuality became almost unbearable" at that time.'
+p944
+aS'"Less than three miles from my apartment, nine jurists argued about my happiness and my future.'
+p945
+aS'Here was my chance to be heard, and I couldn\'t say a thing," he writes.'
+p946
+aS'"I didn\'t want to answer questions and draw attention to myself.'
+p947
+aS'" After being a first-round draft pick in 2001, Collins has averaged 3.6 points and 3.8 rebounds for the New Jersey Nets, Memphis Grizzlies, Minnesota Timberwolves, Atlanta Hawks, Celtics and Wizards.'
+p948
+aS'In his SI piece, he jokes self-effacingly about his journeyman career and a parlor game known as "Three Degrees of Jason Collins.'
+p949
+aS'" "If you\'re in the league, and I haven\'t been your teammate, I surely have been one of your teammates\' teammates.'
+p950
+aS'Or one of your teammates\' teammates\' teammates," he writes.'
+p951
+aS'Never a star, he acknowledges, "I take charges and I foul -- that\'s been my forte.'
+p952
+aS'...'
+p953
+aS'I set picks with my 7-foot, 255-pound body to get guys like Jason Kidd, John Wall and Paul Pierce open.'
+p954
+aS'I sacrifice myself for other players.'
+p955
+aS'" He continues: "I go against the gay stereotype, which is why I think a lot of players will be shocked: That guy is gay?'
+p956
+aS"But I've always been an aggressive player, even in high school."
+p957
+aS"Am I so physical to prove that being gay doesn't make you soft?"
+p958
+aS'Who knows?'
+p959
+aS"That's something for a psychologist to unravel."
+p960
+aS'" As for what response other NBA players will have to his revelation, Collins writes: "The simple answer is, I have no idea.'
+p961
+aS'" "Openness may not completely disarm prejudice, but it\'s a good place to start.'
+p962
+aS'It all comes down to education.'
+p963
+aS'I\'ll sit down with any player who\'s uneasy about my coming out," he says in his account, adding: "Still, if I\'m up against an intolerant player, I\'ll set a pretty hard pick on him.'
+p964
+aS'And then move on.'
+p965
+aS'" On Monday, there was an outpouring of positive sentiments.'
+p966
+aS'In texts to the AP, Wizards guard Garrett Temple wrote, "I was surprised.'
+p967
+aS"I didn't know and I was right next to him in the locker room."
+p968
+aS'It definitely took a lot of courage for him to come out.'
+p969
+aS'He was a great teammate," and rookie Bradley Beal said: "I didn\'t know about it!'
+p970
+aS"I don't think anyone did!"
+p971
+aS"I am proud of his decision to come out and express the way he feels and I'm supportive of that!!"
+p972
+aS'" Former teammate Jerry Stackhouse, now with the Brooklyn Nets, wrote in a text: "I hope Jason is received well by our NBA family.'
+p973
+aS"Jason is a friend and a former teammate that I've enjoyed many laughs and conversations with and his sexual orientation won't change that with me."
+p974
+aS"I've already reached out to him personally to show support and will encourage more guys to do the same."
+p975
+aS'" NBA Commissioner David Stern said in a statement: "Jason has been a widely respected player and teammate throughout his career and we are proud he has assumed the leadership mantle on this very important issue.'
+p976
+aS'" While Collins is the first male athlete in a major North American professional league to come out while intending to keep playing, several have previously spoken after they retired about being gay, including the NBA\'s John Amaechi, the NFL\'s Esera Tuaolo and Major League Baseball\'s Billy Bean.'
+p977
+aS'"I think he is immensely brave.'
+p978
+aS'I think it\'s a shame in this day and age he has to be immensely brave, but he is," Amaechi told the AP.'
+p979
+aS'"He\'s going to be a remarkable and eloquent spokesperson for what it is to be a decent, authentic human being -- never mind just for gay people.'
+p980
+aS'" Rick Welts, president and chief operating officer of the NBA\'s Golden State Warriors, is openly gay.'
+p981
+aS'"He probably knows what he signed up for.'
+p982
+aS"There'll be a whole bunch more television reporters and cameras than he's probably had in the past."
+p983
+aS'...'
+p984
+aS'There had been a long of speculation about when, who, how.'
+p985
+aS'I think that speculation has been put to rest now," Welts said, "and we\'ll always remember that Jason Collins was the first man to do this.'
+p986
+aS'" Collins says that if he remains in the NBA, he could face uncomfortable reactions from spectators.'
+p987
+aS'"I don\'t mind if they heckle me.'
+p988
+aS"I've been booed before."
+p989
+aS"There have been times when I've wanted to boo myself."
+p990
+aS'But a lot of ill feelings can be cured by winning," he writes.'
+p991
+aS'He adds: "I hope fans will respect me for raising my hand.'
+p992
+aS"And I hope teammates will remember that I've never been an in-your-face kind of guy."
+p993
+aS"All you need to know is that I'm single."
+p994
+aS'I see no need to delve into specifics.'
+p995
+aS'" In February, former U.S. soccer national team player Robbie Rogers said he was gay -- and retired at the same time.'
+p996
+aS'Rogers is just 25, and others have urged him to resume his career.'
+p997
+aS'"I feel a movement coming," he tweeted after word of Collins\' news broke.'
+p998
+aS'Female athletes have found more acceptance in coming out; Brittney Griner, a top college basketball player now headed to the WNBA, caused few ripples when she said this month she is a lesbian.'
+p999
+aS'Tennis great Martina Navratilova, who came out decades ago, tweeted Monday that Collins is "a brave man.'
+p1000
+aS'" "1981 was the year for me -- 2013 is the year for you," her post added.'
+p1001
+aS'Sports leagues in Britain and elsewhere in Europe have been trying to combat anti-gay bias.'
+p1002
+aS"But the taboo remains particularly strong in soccer, where there are no openly gay players in Europe's top leagues."
+p1003
+aS'Homophobic chants are still heard at some games.'
+p1004
+aS'Soccer "is not going to change," said Amaechi, who is English and now lives in Manchester.'
+p1005
+aS'"If it wanted to change, it would change.'
+p1006
+aS'It has the resources to do so.'
+p1007
+aS"It doesn't want to change."
+p1008
+aS'" Justin Fashanu is the only significant British soccer player to have come out publicly, doing so in 1990.'
+p1009
+aS'The former Nottingham Forest and Norwich City striker was found hanged in a London garage in 1998 at age 37.'
+p1010
+aS"According to an inquest, Fashanu left a note saying that, because he was gay, he feared he wouldn't get a fair trial in the United States on sexual assault charges."
+p1011
+aS'Maryland police were seeking him on charges that he sexually assaulted a 17-year-old boy.'
+p1012
+aS'Among other athletes outside the U.S. to come out was Gareth Thomas, a Welsh rugby star who attracted widespread media attention in 2009 when he announced he was gay.'
+p1013
+aS'He continued playing until retirement in 2011.'
+p1014
+aS'Orlando Cruz of Puerto Rico came out in October as the first openly gay professional male boxer.'
 p1015
-(dp1016
-g9
-(lp1017
-(lp1018
-S"On-time performance of airlines at the nation's biggest airports dropped 9 percentage points Monday after hundreds of air traffic controllers were furloughed by budget cuts."
+aS'Canadian swimmer Mark Tewksbury came out six years after winning a gold medal in the backstroke at the 1992 Barcelona Games.'
+p1016
+aS'Four-time Olympic diving gold medalist Greg Louganis of the U.S. revealed he was gay in 1994, a year before announcing he was also HIV-positive.'
+p1017
+aS'Former Olympic skiing gold medalist Anja Paerson of Sweden announced last year, after retiring, that she was in a long-term relationship with a woman.'
+p1018
+aS"White House spokesman Jay Carney called Collins' decision courageous and said the administration views it as another example of progress and evolution in the U.S. as Americans grow more accepting of gay rights and same-sex marriage."
 p1019
-aaS'East Coast airports felt most of the pain, the Federal Aviation Administration said.'
+aS'Former President Clinton said: "Jason\'s announcement today is an important moment for professional sports and in the history of the LGBT community.'
 p1020
-aS'Staff shortages at air traffic towers were expected to cause more delays Tuesday in Los Angeles, Dallas and Las Vegas.'
+aS'It is also the straightforward statement of a good man who wants no more than what so many of us seek: to be able to be who we are; to do our work; to build families and to contribute to our communities.'
 p1021
-asg19
-(lp1022
-S'The FAA said it delayed 1,200 flights Monday because of staff shortages \xe2\x80\x94 about three times as many as Sunday.'
+aS'For so many members of the LGBT community, these simple goals remain elusive.'
+p1022
+aS'" Collins attended Stanford with Clinton\'s daughter Chelsea and played in a Final Four while at the school.'
 p1023
-aS'The FAA attributed 1,400 other delays to severe weather and other factors, such as airport maintenance work.'
+aS'His twin brother, Jarron, was also a longtime NBA center who last played in the league in the 2010-11 season.'
 p1024
-aS'hugo.martin@latimes.com'
+aS'Collins says he told his brother he was gay last summer.'
 p1025
-asg25
-S"Airlines' on-time performance drops sharply because of furloughs"
+aS'"He was downright astounded.'
 p1026
-sg27
-S'http://articles.latimes.com/2013/apr/24/business/la-fi-furlough-delays-20130424'
+aS'He never suspected.'
 p1027
-sg29
-S'On-time performance of airlines at the nation\'s biggest airports dropped 9 percentage points Monday after hundreds of air traffic controllers were furloughed by budget cuts. East Coast airports felt most of the pain, the Federal Aviation Administration said. Staff shortages at air traffic towers were expected to cause more delays Tuesday in Los Angeles, Dallas and Las Vegas. "Travelers can expect to see a wide range of delays that will change throughout the day depending on staffing and weather-related issues," the agency said in a statement. Frustrated lawmakers in Washington criticized FAA administrators, saying budget cuts resulting from the so-called sequester could have been made without furloughing air traffic controllers. "Not all government spending is created equally, and so this morning I\'m calling on the Obama administration and the FAA to be smarter and more transparent about the sequester," Sen. Mitch McConnell (R-Ky.) said on the Senate floor. The union representing the nation\'s 15,000 air traffic controllers said the overtime the FAA is paying to deal with the staff shortages is erasing any savings from the furloughs. "It\'s simple math \xe2\x80\x94 furloughing controllers earning base while paying others base pay plus an additional 50% will not result in savings," the National Air Traffic Controllers Assn. said in a statement. But FAA officials said they were only approving overtime pay on a limited basis. The on-time rate for airlines at the nation\'s largest airports dropped to an average of about 73% on Monday, compared with 82% the previous Monday, according to Flightstats, a website that monitors airline performance rates. On-time rates dropped even more at airports in New York and Florida, with LaGuardia Airport reporting a 47% rate and Fort Lauderdale-Hollywood International Airport at 51%, according to the website. Some delays in New York, however, were attributed to strong winds. At Los Angeles International Airport, where some travelers reported delays of up to an hour, the average on-time performance was 78% on Monday, about the same rate as the previous Monday, according to Flightstats. The FAA said it delayed 1,200 flights Monday because of staff shortages \xe2\x80\x94 about three times as many as Sunday. The FAA attributed 1,400 other delays to severe weather and other factors, such as airport maintenance work. hugo.martin@latimes.com'
+aS'So much for twin telepathy," Collins writes in SI.'
 p1028
-sg31
-(lp1029
-(lp1030
-g38
-ag38
-ag34
-ag37
-aa(lp1031
-g37
-ag37
-ag38
-ag38
-aa(lp1032
-g34
-ag34
-ag39
-ag39
-aa(lp1033
-g34
-ag34
-ag34
-ag34
-aa(lp1034
-g37
-ag34
-ag38
-ag38
-aasg43
-(lp1035
-S' Frustrated lawmakers in Washington criticized FAA administrators, saying budget cuts resulting from the so-called sequester could have been made without furloughing air traffic controllers.'
+aS'"But by dinner that night, he was full of brotherly love.'
+p1029
+aS'For the first time in our lives, he wanted to step in and protect me.'
+p1030
+aS'" Advocacy organization GLAAD released a statement from Aaron McQuade, the head of its sports program.'
+p1031
+aS'"Courage\' and `inspiration\' are words that get thrown around a lot in sports, but Jason Collins has given both ideas a brand new context," he said.'
+p1032
+aS'"We hope that his future team will welcome him, and that fans of the NBA and sports in general will applaud him.'
+p1033
+aS'We know that the NBA will proudly support him, and that countless young LGBT athletes now have a new hero.'
+p1034
+aS'" At Stanford, Collins was a college roommate of Rep. Joe Kennedy III, D-Mass.'
+p1035
+aS"In his account, Collins writes that he realized he needed to go public when the congressman walked in Boston's gay pride parade last year -- and Collins decided he couldn't join him."
 p1036
-aS'"Not all government spending is created equally, and so this morning I\'m calling on the Obama administration and the FAA to be smarter and more transparent about the sequester," Sen. Mitch McConnell (R-Ky.) said on the Senate floor.'
+aS'"For as long as I\'ve known Jason Collins he has been defined by three things: his passion for the sport he loves, his unwavering integrity, and the biggest heart you will ever find.'
 p1037
-aS"The union representing the nation's 15,000 air traffic controllers said the overtime the FAA is paying to deal with the staff shortages is erasing any savings from the furloughs."
+aS"Without question or hesitation, he gives everything he's got to those of us lucky enough to be in his life."
 p1038
-aS'"It\'s simple math \xe2\x80\x94 furloughing controllers earning base while paying others base pay plus an additional 50% will not result in savings," the National Air Traffic Controllers Assn.'
+aS'I\'m proud to stand with him today and proud to call him a friend," Kennedy said in a statement.'
 p1039
-aS'said in a statement.'
+aS'In Monday\'s story, Collins writes that the Boston Marathon bombing on April 15 "reinforced the notion that I shouldn\'t wait for the circumstances of my coming out to be perfect.'
 p1040
-aS'But FAA officials said they were only approving overtime pay on a limited basis.'
+aS'Things can change in an instant, so why not live truthfully?'
 p1041
-aS"The on-time rate for airlines at the nation's largest airports dropped to an average of about 73% on Monday, compared with 82% the previous Monday, according to Flightstats, a website that monitors airline performance rates."
+aS'" And now, Collins says, he will be in Boston on June 8, marching alongside Kennedy at the city\'s 2013 gay rights parade.'
 p1042
-aS'On-time rates dropped even more at airports in New York and Florida, with LaGuardia Airport reporting a 47% rate and Fort Lauderdale-Hollywood International Airport at 51%, according to the website.'
-p1043
-aS'Some delays in New York, however, were attributed to strong winds.'
+asg93
+(lp1043
+g864
+aS'In a first-person article posted Monday on Sports Illustrated\'s website, Collins begins: "I\'m a 34-year-old NBA center. I\'m black. And I\'m gay."'
 p1044
-aS'At Los Angeles International Airport, where some travelers reported delays of up to an hour, the average on-time performance was 78% on Monday, about the same rate as the previous Monday, according to Flightstats.'
+aS'Collins has played for six teams in 12 seasons, most recently as a reserve with the Washington Wizards after a midseason trade from the Boston Celtics. He is now a free agent and wants to keep playing in the NBA.'
 p1045
-asg94
-(lp1046
-g1019
-aS'East Coast airports felt most of the pain, the Federal Aviation Administration said. Staff shortages at air traffic towers were expected to cause more delays Tuesday in Los Angeles, Dallas and Las Vegas.'
+aS'"I didn\'t set out to be the first openly gay athlete playing in a major American team sport. But since I am, I\'m happy to start the conversation. I wish I wasn\'t the kid in the classroom raising his hand and saying, \'I\'m different,"\' Collins writes. "If I had my way, someone else would have already done this. Nobody has, which is why I\'m raising my hand."'
+p1046
+aS'Saying he had "endured years of misery and gone to enormous lengths to live a lie," Collins immediately drew support for his announcement from the White House -- President Barack Obama called him -- along with former President Bill Clinton, the NBA, current and former teammates, a sponsor, and athletes in other sports.'
 p1047
-aS'"Travelers can expect to see a wide range of delays that will change throughout the day depending on staffing and weather-related issues," the agency said in a statement.'
+aS'Los Angeles Lakers star Kobe Bryant tweeted that he was proud of Collins, writing: "Don\'t suffocate who u r because of the ignorance of others," followed by the words "courage" and "support."'
 p1048
-aS'Frustrated lawmakers in Washington criticized FAA administrators, saying budget cuts resulting from the so-called sequester could have been made without furloughing air traffic controllers.'
+aS'"We\'ve got to get rid of the shame. That\'s the main thing. And Jason\'s going to help that. He\'s going to help give people courage to come out," said Billie Jean King, a member of the International Tennis Hall of Fame who confirmed she was gay after being outed in the early 1980s.'
 p1049
-aS'"Not all government spending is created equally, and so this morning I\'m calling on the Obama administration and the FAA to be smarter and more transparent about the sequester," Sen. Mitch McConnell (R-Ky.) said on the Senate floor.'
+aS'"I guarantee you he\'s going to feel much lighter, much freer. The truth does set you free, there\'s no question. It doesn\'t mean it\'s easy. But it sets you free," King said in a telephone interview with The Associated Press.'
 p1050
-aS"The union representing the nation's 15,000 air traffic controllers said the overtime the FAA is paying to deal with the staff shortages is erasing any savings from the furloughs."
+aS'The Wizards, whose season ended April 17, issued a statement from President Ernie Grunfeld: "We are extremely proud of Jason and support his decision to live his life proudly and openly. He has been a leader on and off the court and an outstanding teammate throughout his NBA career. Those qualities will continue to serve him both as a player and as a positive role model for others of all sexual orientation."'
 p1051
-aS'"It\'s simple math \xe2\x80\x94 furloughing controllers earning base while paying others base pay plus an additional 50% will not result in savings," the National Air Traffic Controllers Assn. said in a statement.'
+aS"Collins' coach with the Celtics, Doc Rivers, drew a comparison between Monday's announcement and Jackie Robinson's role when he joined the Brooklyn Dodgers in 1947, breaking the color barrier in Major League Baseball."
 p1052
-aS'But FAA officials said they were only approving overtime pay on a limited basis.'
+aS'"I am extremely happy and proud of Jason Collins. He\'s a pro\'s pro. He is the consummate professional and he is one of my favorite `team\' players I have ever coached," Rivers said. "If you have learned anything from Jackie Robinson, it is that teammates are always the first to accept. It will be society who has to learn tolerance."'
 p1053
-aS"The on-time rate for airlines at the nation's largest airports dropped to an average of about 73% on Monday, compared with 82% the previous Monday, according to Flightstats, a website that monitors airline performance rates."
+aS'Collins says he quietly made a statement for gay rights even while keeping his sexual orientation a secret. He wore No. 98 with the Celtics and Wizards -- 1998 was year that Matthew Shepard, a gay college student in Wyoming, was killed, and the Trevor Project, a suicide prevention organization, was founded.'
 p1054
-aS'On-time rates dropped even more at airports in New York and Florida, with LaGuardia Airport reporting a 47% rate and Fort Lauderdale-Hollywood International Airport at 51%, according to the website. Some delays in New York, however, were attributed to strong winds.'
+aS'According to the General Social Survey, the public has grown increasingly accepting of gay relationships since the late 1980s. That survey found in 1987 that 76 percent of Americans thought sexual relations between adults of the same sex was morally wrong. That fell to 43 percent by 2012.'
 p1055
-aS'At Los Angeles International Airport, where some travelers reported delays of up to an hour, the average on-time performance was 78% on Monday, about the same rate as the previous Monday, according to Flightstats.'
+aS'"I\'m glad I\'m coming out in 2013 rather than 2003. The climate has shifted; public opinion has shifted," Collins writes. "And yet we still have so much farther to go. Everyone is terrified of the unknown, but most of us don\'t want to return to a time when minorities were openly discriminated against."'
 p1056
-aS'The FAA said it delayed 1,200 flights Monday because of staff shortages \xe2\x80\x94 about three times as many as Sunday. The FAA attributed 1,400 other delays to severe weather and other factors, such as airport maintenance work.'
+aS"While some gay athletes have talked in the past about concerns that coming out would hurt their earning potential, 12-time Grand Slam singles champion King said she thinks Collins' openness could have the opposite effect."
 p1057
-aS'hugo.martin@latimes.com'
+aS'"I have a feeling he\'s got a whole new career," King said. "I have a feeling he\'s going to make more in endorsements than he\'s ever made in his life."'
 p1058
-asba(i__main__
-Document
+aS'Sports equipment maker Nike released a statement Monday saying: "We admire Jason\'s courage and are proud that he is a Nike athlete. Nike believes in a level playing field where an athlete\'s sexual orientation is not a consideration."'
 p1059
-(dp1060
-g9
-(lp1061
-(lp1062
-S'At least on one aspect of the required federal spending cuts known as the sequester, the blame game seems to have evened out.'
+aS'On Monday evening, hours after his story appeared on the web, Collins wrote on Twitter: "All the support I have received today is truly inspirational. I knew that I was choosing the road less traveled but I\'m not walking it alone."'
+p1060
+aS"Momentum has been building toward this sort of announcement from a pro athlete in a top league in the United States. NFL players Brendan Ayanbadejo and Chris Kluwe were outspoken in support of state gay-marriage amendments during last year's elections. Obama spoke about his support for gay marriage during his re-election campaign."
+p1061
+aS"The topic made waves during Super Bowl week when one player, San Francisco 49ers cornerback Chris Culliver, said he wouldn't welcome a gay member of his team. At the time, Ayanbadejo estimated that at least half of the NFL's players would agree with what Culliver said, at least privately."
+p1062
+aS'Scott Fujita, who recently retired after an 11-year NFL career, said: "I\'m pleased to see such an overwhelmingly positive reaction to this news, because it just shows that we\'re becoming more accepting every day. But more than anything else, I\'m happy for Jason. I\'m not a gay, closeted athlete, so I can\'t pretend to know what that must have felt like for him. But I imagine this is freeing for him, and hopefully he\'s encouraged by the millions of people who are voicing their support. ... It\'s not a reaction to some rumor and it\'s not some unwanted outing. It\'s his message, and it was delivered under his control and on his terms."'
 p1063
-aS'A new Pew Research Center survey finds that congressional Republicans and the White House take equal heat for flight delays caused by the cuts.'
+aS"On Monday, NFL Commissioner Roger Goodell sent a memo to teams reiterating the league's anti-discrimination policy about sexuality. It includes a section on questions teams cannot ask prospective draft picks and free agents. After the NFL combine in February, three players said officials posed questions about sexual orientation."
 p1064
-aaS'On Friday, Congress passed and Obama signed legislation giving the agency more flexibility to avoid air traffic controller furloughs.'
+aS'Earlier this month, the NHL and its players\' union partnered with an advocacy organization fighting homophobia in sports, and Commissioner Gary Bettman said the You Can Play Project underlines that "the official policy of the NHL is one of inclusion on the ice, in our locker rooms and in the stands."'
 p1065
-aS'The poll, taken in the midst of that legislative\xc2\xa0wrangling,\xc2\xa0found 34 percent of Americans blamed Republicans and 32 percent blamed Obama.'
+aS'"I would say the NHL has been a force to kind of obviously embrace and encourage. ... What (Collins) did, I think it\'s definitely (good) for basketball, and the same for hockey, too. It\'s going to be encouraging for more guys to step up and just be open about themselves," Washington Capitals forward Joel Ward said.'
 p1066
-aS'Another 10 percent blamed both.'
+aS'Living in the nation\'s capital last month while the U.S. Supreme Court heard arguments about same-sex marriage had an effect on Collins, who says "the strain of hiding my sexuality became almost unbearable" at that time.'
 p1067
-asg19
-(lp1068
-S'Congressional Republicans made an issue out of the flight delays, accusing Obama of letting them happen for political reasons.'
+aS'"Less than three miles from my apartment, nine jurists argued about my happiness and my future. Here was my chance to be heard, and I couldn\'t say a thing," he writes. "I didn\'t want to answer questions and draw attention to myself."'
+p1068
+aS'After being a first-round draft pick in 2001, Collins has averaged 3.6 points and 3.8 rebounds for the New Jersey Nets, Memphis Grizzlies, Minnesota Timberwolves, Atlanta Hawks, Celtics and Wizards.'
 p1069
-aS'While they have also tried to pin the sequester entirely on the White House, that effort never gained much traction.\xc2\xa0A February Washington Post-Pew Research Center poll found that 45 percent of Americans blamed congressional Republicans for the sequester and 32 percent blamed Obama.'
+aS'In his SI piece, he jokes self-effacingly about his journeyman career and a parlor game known as "Three Degrees of Jason Collins."'
 p1070
-aS'But despite the attention the furloughs have received in the media, only 15 percent of Americans say they are following the story very closely.'
+aS'"If you\'re in the league, and I haven\'t been your teammate, I surely have been one of your teammates\' teammates. Or one of your teammates\' teammates\' teammates," he writes.'
 p1071
-aS'Forty percent say they aren\xe2\x80\x99t following it at all.'
+aS'Never a star, he acknowledges, "I take charges and I foul -- that\'s been my forte. ... I set picks with my 7-foot, 255-pound body to get guys like Jason Kidd, John Wall and Paul Pierce open. I sacrifice myself for other players."'
 p1072
-asg25
-S'Sequester blame game evens out with FAA furloughs'
+aS'He continues: "I go against the gay stereotype, which is why I think a lot of players will be shocked: That guy is gay? But I\'ve always been an aggressive player, even in high school. Am I so physical to prove that being gay doesn\'t make you soft? Who knows? That\'s something for a psychologist to unravel."'
 p1073
-sg27
-S'http://www.washingtonpost.com/blogs/the-fix/wp/2013/04/29/republicans-even-out-sequester-blame-game-with-faa-furloughs/'
+aS'As for what response other NBA players will have to his revelation, Collins writes: "The simple answer is, I have no idea."'
 p1074
-sg29
-S'At least on one aspect of the required federal spending cuts known as the sequester, the blame game seems to have evened out. A new Pew Research Center survey finds that congressional Republicans and the White House take equal heat for flight delays caused by the cuts. On Friday, Congress passed and Obama signed legislation giving the agency more flexibility to avoid air traffic controller furloughs. The poll, taken in the midst of that legislative\xc2\xa0wrangling,\xc2\xa0found 34 percent of Americans blamed Republicans and 32 percent blamed Obama. Another 10 percent blamed both. Congressional Republicans made an issue out of the flight delays, accusing Obama of letting them happen for political reasons. While they have also tried to pin the sequester entirely on the White House, that effort never gained much traction.\xc2\xa0A February Washington Post-Pew Research Center poll found that 45 percent of Americans blamed congressional Republicans for the sequester and 32 percent blamed Obama. But despite the attention the furloughs have received in the media, only 15 percent of Americans say they are following the story very closely. Forty percent say they aren\xe2\x80\x99t following it at all.'
+aS'"Openness may not completely disarm prejudice, but it\'s a good place to start. It all comes down to education. I\'ll sit down with any player who\'s uneasy about my coming out," he says in his account, adding: "Still, if I\'m up against an intolerant player, I\'ll set a pretty hard pick on him. And then move on."'
 p1075
-sg31
-(lp1076
-(lp1077
-g38
-ag37
-ag37
-ag38
-ag38
-aa(lp1078
-g34
-ag38
-ag38
-ag38
-ag38
-aa(lp1079
-g34
-ag34
-ag34
-ag34
-ag34
-aa(lp1080
-g34
-ag38
-ag37
-ag38
-ag38
-aa(lp1081
-g37
-ag38
-ag38
-ag34
-ag34
-aasg43
-(lp1082
-g834
-asg94
-(lp1083
-S'At least on one aspect of the required federal spending cuts known as the sequester, the blame game seems to have evened out. A new Pew Research Center survey finds that congressional Republicans and the White House take equal heat for flight delays caused by the cuts.'
+aS'On Monday, there was an outpouring of positive sentiments.'
+p1076
+aS'In texts to the AP, Wizards guard Garrett Temple wrote, "I was surprised. I didn\'t know and I was right next to him in the locker room. It definitely took a lot of courage for him to come out. He was a great teammate," and rookie Bradley Beal said: "I didn\'t know about it! I don\'t think anyone did! I am proud of his decision to come out and express the way he feels and I\'m supportive of that!!"'
+p1077
+aS'Former teammate Jerry Stackhouse, now with the Brooklyn Nets, wrote in a text: "I hope Jason is received well by our NBA family. Jason is a friend and a former teammate that I\'ve enjoyed many laughs and conversations with and his sexual orientation won\'t change that with me. I\'ve already reached out to him personally to show support and will encourage more guys to do the same."'
+p1078
+aS'NBA Commissioner David Stern said in a statement: "Jason has been a widely respected player and teammate throughout his career and we are proud he has assumed the leadership mantle on this very important issue."'
+p1079
+aS"While Collins is the first male athlete in a major North American professional league to come out while intending to keep playing, several have previously spoken after they retired about being gay, including the NBA's John Amaechi, the NFL's Esera Tuaolo and Major League Baseball's Billy Bean."
+p1080
+aS'"I think he is immensely brave. I think it\'s a shame in this day and age he has to be immensely brave, but he is," Amaechi told the AP. "He\'s going to be a remarkable and eloquent spokesperson for what it is to be a decent, authentic human being -- never mind just for gay people."'
+p1081
+aS"Rick Welts, president and chief operating officer of the NBA's Golden State Warriors, is openly gay."
+p1082
+aS'"He probably knows what he signed up for. There\'ll be a whole bunch more television reporters and cameras than he\'s probably had in the past. ... There had been a long of speculation about when, who, how. I think that speculation has been put to rest now," Welts said, "and we\'ll always remember that Jason Collins was the first man to do this."'
+p1083
+aS'Collins says that if he remains in the NBA, he could face uncomfortable reactions from spectators.'
 p1084
-aS'On Friday, Congress passed and Obama signed legislation giving the agency more flexibility to avoid air traffic controller furloughs. The poll, taken in the midst of that legislative\xc2\xa0wrangling,\xc2\xa0found 34 percent of Americans blamed Republicans and 32 percent blamed Obama. Another 10 percent blamed both.'
+aS'"I don\'t mind if they heckle me. I\'ve been booed before. There have been times when I\'ve wanted to boo myself. But a lot of ill feelings can be cured by winning," he writes.'
 p1085
-aS'Congressional Republicans made an issue out of the flight delays, accusing Obama of letting them happen for political reasons. While they have also tried to pin the sequester entirely on the White House, that effort never gained much traction.\xc2\xa0A February Washington Post-Pew Research Center poll found that 45 percent of Americans blamed congressional Republicans for the sequester and 32 percent blamed Obama.'
+aS'He adds: "I hope fans will respect me for raising my hand. And I hope teammates will remember that I\'ve never been an in-your-face kind of guy. All you need to know is that I\'m single. I see no need to delve into specifics."'
 p1086
-aS'But despite the attention the furloughs have received in the media, only 15 percent of Americans say they are following the story very closely. Forty percent say they aren\xe2\x80\x99t following it at all.'
+aS'In February, former U.S. soccer national team player Robbie Rogers said he was gay -- and retired at the same time. Rogers is just 25, and others have urged him to resume his career.'
 p1087
-asba(i__main__
-Document
+aS'"I feel a movement coming," he tweeted after word of Collins\' news broke.'
 p1088
-(dp1089
-g9
-(lp1090
-(lp1091
-S'WASHINGTON \xe2\x80\x94 The furlough of air traffic controllers delayed more than 1,200 flights on Monday, the first weekday of the unpaid leaves, the Federal Aviation Administration said Tuesday as lawmakers criticized the agency for how it was handling the automatic budget cuts.'
+aS'Female athletes have found more acceptance in coming out; Brittney Griner, a top college basketball player now headed to the WNBA, caused few ripples when she said this month she is a lesbian. Tennis great Martina Navratilova, who came out decades ago, tweeted Monday that Collins is "a brave man."'
+p1089
+aS'"1981 was the year for me -- 2013 is the year for you," her post added.'
+p1090
+aS"Sports leagues in Britain and elsewhere in Europe have been trying to combat anti-gay bias. But the taboo remains particularly strong in soccer, where there are no openly gay players in Europe's top leagues. Homophobic chants are still heard at some games."
+p1091
+aS'Soccer "is not going to change," said Amaechi, who is English and now lives in Manchester. "If it wanted to change, it would change. It has the resources to do so. It doesn\'t want to change."'
 p1092
-aaS'Apart from the furloughs, the F.A.A.'
+aS"Justin Fashanu is the only significant British soccer player to have come out publicly, doing so in 1990. The former Nottingham Forest and Norwich City striker was found hanged in a London garage in 1998 at age 37. According to an inquest, Fashanu left a note saying that, because he was gay, he feared he wouldn't get a fair trial in the United States on sexual assault charges. Maryland police were seeking him on charges that he sexually assaulted a 17-year-old boy."
 p1093
-aS'counted more than 1,400 delays for weather and other reasons.'
+aS'Among other athletes outside the U.S. to come out was Gareth Thomas, a Welsh rugby star who attracted widespread media attention in 2009 when he announced he was gay. He continued playing until retirement in 2011.'
 p1094
-aS'On Tuesday, it said there were delays in the New York area and in Washington because of \xe2\x80\x9cstaffing challenges,\xe2\x80\x9d but it did not say what fraction of the delays were due to furloughs.'
+aS'Orlando Cruz of Puerto Rico came out in October as the first openly gay professional male boxer. Canadian swimmer Mark Tewksbury came out six years after winning a gold medal in the backstroke at the 1992 Barcelona Games. Four-time Olympic diving gold medalist Greg Louganis of the U.S. revealed he was gay in 1994, a year before announcing he was also HIV-positive. Former Olympic skiing gold medalist Anja Paerson of Sweden announced last year, after retiring, that she was in a long-term relationship with a woman.'
 p1095
-asg19
-(lp1096
-S'Senator Harry Reid of Nevada, the majority leader, proposed that all of the across-the-board cuts be canceled for the rest of the fiscal year, and \xe2\x80\x9cpaid for\xe2\x80\x9d by declining war spending \xe2\x80\x94 a position Republican budget hawks have long scoffed at.'
+aS"White House spokesman Jay Carney called Collins' decision courageous and said the administration views it as another example of progress and evolution in the U.S. as Americans grow more accepting of gay rights and same-sex marriage."
+p1096
+aS'Former President Clinton said: "Jason\'s announcement today is an important moment for professional sports and in the history of the LGBT community. It is also the straightforward statement of a good man who wants no more than what so many of us seek: to be able to be who we are; to do our work; to build families and to contribute to our communities. For so many members of the LGBT community, these simple goals remain elusive."'
 p1097
-aS'Senator Tom Coburn, Republican of Oklahoma, objected, and the move died.'
+aS"Collins attended Stanford with Clinton's daughter Chelsea and played in a Final Four while at the school. His twin brother, Jarron, was also a longtime NBA center who last played in the league in the 2010-11 season. Collins says he told his brother he was gay last summer."
 p1098
-aS'But Democrats said the move would be the first in a revived effort to address cuts that are beginning to bite.'
+aS'"He was downright astounded. He never suspected. So much for twin telepathy," Collins writes in SI. "But by dinner that night, he was full of brotherly love. For the first time in our lives, he wanted to step in and protect me."'
 p1099
-asg25
-S'F.A.A. Says Furloughs Delayed 1,200 Flights'
+aS'Advocacy organization GLAAD released a statement from Aaron McQuade, the head of its sports program.'
 p1100
-sg27
-S'http://www.nytimes.com/2013/04/24/us/politics/furloughs-caused-1200-flight-delays-on-monday-faa-says.html'
+aS'"Courage\' and `inspiration\' are words that get thrown around a lot in sports, but Jason Collins has given both ideas a brand new context," he said. "We hope that his future team will welcome him, and that fans of the NBA and sports in general will applaud him. We know that the NBA will proudly support him, and that countless young LGBT athletes now have a new hero."'
 p1101
-sg29
-S'WASHINGTON \xe2\x80\x94 The furlough of air traffic controllers delayed more than 1,200 flights on Monday, the first weekday of the unpaid leaves, the Federal Aviation Administration said Tuesday as lawmakers criticized the agency for how it was handling the automatic budget cuts. Apart from the furloughs, the F.A.A. counted more than 1,400 delays for weather and other reasons. On Tuesday, it said there were delays in the New York area and in Washington because of \xe2\x80\x9cstaffing challenges,\xe2\x80\x9d but it did not say what fraction of the delays were due to furloughs. \xe2\x80\x9cTravelers can expect to see a wide range of delays that will change throughout the day depending on staffing and weather-related issues,\xe2\x80\x9d the agency said in a statement. The staffing problems are mostly in radar rooms, not control towers, it added. There are 30,000 to 35,000 commercial flights a day in the United States. Some travelers were delayed a few minutes, but others missed connections and were delayed for hours. Some later flights were delayed or canceled because the airplanes they were to use had arrived so late. FlightStats.com , a company that monitors airline performance, counted nearly 7,000 delays on Monday, from all causes. A company spokeswoman, Sarena Regazzoni, said that the number \xe2\x80\x9cseems heightened but not excessive.\xe2\x80\x9d Senator John D. Rockefeller IV, the West Virginia Democrat who is the chairman of the Senate Commerce Committee, and Senator John Thune of South Dakota, the ranking Republican member, sent a letter to the transportation secretary, seeking more information and complaining that \xe2\x80\x9cthe administration\xe2\x80\x99s response to our inquiries has consistently been slow and disturbingly limited.\xe2\x80\x9d The two senators said that the F.A.A. administrator, Michael P. Huerta, had provided \xe2\x80\x9conly general statements\xe2\x80\x9d to the committee about how it would handle budget cuts resulting from the so-called sequester, while giving a detailed briefing to the airlines. The airlines, though, complained that their briefing was cursory. Airline officials said that the F.A.A. had passed out copies of an analysis of likely delays, but then demanded all the copies back. (In a news briefing last week, Mr. Huerta and Transportation Secretary Ray LaHood displayed a complicated slide showing the projected impact at a variety of airports, but did not give out copies or post it on the Web, as is their usual practice.) But those complaining about the cuts have not specified just where the F.A.A. should find the more than $600 million it says it must wring out of the system. The air traffic controllers\xe2\x80\x99 union, whose members are facing 11 unpaid days between now and the end of the fiscal year on Sept. 30, on Tuesday described the delays so far as \xe2\x80\x9cjust the beginning of what promises to be a huge economic disruption if the furloughs are not stopped.\xe2\x80\x9d \xe2\x80\x9cThe F.A.A. has been forced to cancel all training, halt work on critical modernization and NextGen projects, and are even using overtime at some of the busiest facilities,\xe2\x80\x9d the National Air Traffic Controllers Association said. NextGen is a satellite-based system that is supposed to raise air traffic capacity and cut delays. Using overtime \xe2\x80\x9cis actually costing the F.A.A. money, eliminating any savings that are supposedly being achieved for sequestration,\xe2\x80\x9d the union said. \xe2\x80\x9cIt\xe2\x80\x99s simple math \xe2\x80\x94 furloughing controllers earning base while paying others base pay plus an additional 50 percent will not result in savings.\xe2\x80\x9d Senator Richard Blumenthal, Democrat of Connecticut, and Senator Jerry Moran, Republican of Kansas, held a news briefing to urge the F.A.A. to delay the furloughs. This month, they introduced a bill to block the agency from shutting down control towers at dozens of small airports. Senator Harry Reid of Nevada, the majority leader, proposed that all of the across-the-board cuts be canceled for the rest of the fiscal year, and \xe2\x80\x9cpaid for\xe2\x80\x9d by declining war spending \xe2\x80\x94 a position Republican budget hawks have long scoffed at. Senator Tom Coburn, Republican of Oklahoma, objected, and the move died. But Democrats said the move would be the first in a revived effort to address cuts that are beginning to bite.'
+aS"At Stanford, Collins was a college roommate of Rep. Joe Kennedy III, D-Mass. In his account, Collins writes that he realized he needed to go public when the congressman walked in Boston's gay pride parade last year -- and Collins decided he couldn't join him."
 p1102
-sg31
-(lp1103
-(lp1104
-g34
-ag34
-ag34
-ag34
-aa(lp1105
-g38
-ag34
-ag34
-ag37
-aa(lp1106
-g37
-ag39
-ag35
-ag34
-aa(lp1107
-g38
-ag39
-ag39
-ag34
-aa(lp1108
-g38
-ag34
-ag38
-ag38
-aasg43
+aS'"For as long as I\'ve known Jason Collins he has been defined by three things: his passion for the sport he loves, his unwavering integrity, and the biggest heart you will ever find. Without question or hesitation, he gives everything he\'s got to those of us lucky enough to be in his life. I\'m proud to stand with him today and proud to call him a friend," Kennedy said in a statement.'
+p1103
+aS'In Monday\'s story, Collins writes that the Boston Marathon bombing on April 15 "reinforced the notion that I shouldn\'t wait for the circumstances of my coming out to be perfect. Things can change in an instant, so why not live truthfully?"'
+p1104
+aS"And now, Collins says, he will be in Boston on June 8, marching alongside Kennedy at the city's 2013 gay rights parade."
+p1105
+aS'"Some people insist they\'ve never met a gay person. But Three Degrees of Jason Collins dictates that no NBA player can claim that anymore. Pro basketball is a family. And pretty much every family I know has a brother, sister or cousin who\'s gay," Collins concludes. "In the brotherhood of the NBA, I just happen to be the one who\'s out."'
+p1106
+asba(i__main__
+Document
+p1107
+(dp1108
+g9
 (lp1109
-S' There are 30,000 to 35,000 commercial flights a day in the United States.'
+S'As Jason Collins , a 7-foot journeyman center for the Washington Wizards , played out the final few weeks of his 12th National Basketball Association season this spring, he was also finalizing plans for an announcement that would send shock waves across the world of sports.'
 p1110
-aS'Some travelers were delayed a few minutes, but others missed connections and were delayed for hours.'
+aS'That announcement came late Monday morning, with the Internet publication of a first-person story in Sports Illustrated :'
 p1111
-aS'Some later flights were delayed or canceled because the airplanes they were to use had arrived so late.'
+aS'\xe2\x80\x9cI\xe2\x80\x99m a 34-year-old NBA center,\xe2\x80\x9d the story began.'
 p1112
-aS'FlightStats.com , a company that monitors airline performance, counted nearly 7,000 delays on Monday, from all causes.'
+aS'\xe2\x80\x9cI\xe2\x80\x99m black.'
 p1113
-aS'A company spokeswoman, Sarena Regazzoni, said that the number \xe2\x80\x9cseems heightened but not excessive.\xe2\x80\x9d Senator John D. Rockefeller IV, the West Virginia Democrat who is the chairman of the Senate Commerce Committee, and Senator John Thune of South Dakota, the ranking Republican member, sent a letter to the transportation secretary, seeking more information and complaining that \xe2\x80\x9cthe administration\xe2\x80\x99s response to our inquiries has consistently been slow and disturbingly limited.\xe2\x80\x9d The two senators said that the F.A.A.'
+aS'And I\xe2\x80\x99m gay.\xe2\x80\x9d'
 p1114
-aS'administrator, Michael P. Huerta, had provided \xe2\x80\x9conly general statements\xe2\x80\x9d to the committee about how it would handle budget cuts resulting from the so-called sequester, while giving a detailed briefing to the airlines.'
-p1115
-aS'The airlines, though, complained that their briefing was cursory.'
+asg18
+(lp1115
+S'As recently as 2002, baseball star Mike Piazza felt compelled to call a news conference to refute rumors he was gay.'
 p1116
-aS'Airline officials said that the F.A.A.'
+aS'In 2007, former NBA all-star guard Tim Hardaway said in a radio interview: \xe2\x80\x9cI don\xe2\x80\x99t like gay people and I don\xe2\x80\x99t like to be around gay people.'
 p1117
-aS'had passed out copies of an analysis of likely delays, but then demanded all the copies back.'
+aS'I am homophobic.\xe2\x80\x9d In 2011, the Lakers\xe2\x80\x99 Bryant was fined $100,000 for using a homophobic slur in a rant against a referee.'
 p1118
-aS'(In a news briefing last week, Mr. Huerta and Transportation Secretary Ray LaHood displayed a complicated slide showing the projected impact at a variety of airports, but did not give out copies or post it on the Web, as is their usual practice.'
+asg24
+S'NBA player Jason Collins says he\xc3\xa2\xe2\x82\xac\xe2\x84\xa2s gay'
 p1119
-aS') But those complaining about the cuts have not specified just where the F.A.A.'
+sg26
+S'http://www.washingtonpost.com/sports/wizards/nba-player-jason-collins-says-hes-gay/2013/04/29/3cecad00-b0f8-11e2-9a98-4be1688d7d84_story.html'
 p1120
-aS'should find the more than $600 million it says it must wring out of the system.'
+sg28
+S'As Jason Collins , a 7-foot journeyman center for the Washington Wizards , played out the final few weeks of his 12th National Basketball Association season this spring, he was also finalizing plans for an announcement that would send shock waves across the world of sports. That announcement came late Monday morning, with the Internet publication of a first-person story in Sports Illustrated : \xe2\x80\x9cI\xe2\x80\x99m a 34-year-old NBA center,\xe2\x80\x9d the story began. \xe2\x80\x9cI\xe2\x80\x99m black. And I\xe2\x80\x99m gay.\xe2\x80\x9d With that, Collins became the first active male athlete in a major U.S. professional sports league to come out of the closet \xe2\x80\x94 a designation that is certain to elevate this relatively anonymous player, known primarily for his ability to commit fouls and set picks, into a historic figure in both the sports and gay-rights realms. \xe2\x80\x9cI didn\xe2\x80\x99t set out to be the first openly gay athlete playing in a major American team sport,\xe2\x80\x9d Collins wrote. \xe2\x80\x9cBut since I am, I\xe2\x80\x99m happy to start the conversation. I wish I wasn\xe2\x80\x99t the kid in the classroom raising his hand and saying, \xe2\x80\x98I\xe2\x80\x99m different.\xe2\x80\x99 If I had my way, someone else would have already done this. Nobody has, which is why I\xe2\x80\x99m raising my hand.\xe2\x80\x9d The first wave of public reaction to Collins\xe2\x80\x99s announcement was overwhelmingly positive. President Obama called Collins \xe2\x80\x9cto express his support and said he was impressed by his courage,\xe2\x80\x9d according to a White House official. Los Angeles Lakers star Kobe Bryant, former NFL star and current daytime TV talk host Michael Strahan and former president Bill Clinton were among others who issed public salutes to Collins. Even amid widespread speculation that one or more male athletes would soon break the sexuality barrier \xe2\x80\x94 former Ravens safety Brendon Ayanbadejo suggested in recent interviews that one or more NFL players were preparing to come out \xe2\x80\x94 Collins\xe2\x80\x99s announcement stunned people around the NBA, including his Wizards teammates. Several of them said they had no inclination Collins was gay. \xe2\x80\x9cMy first reaction was I felt for him,\xe2\x80\x9d said Wizards center Emeka Okafor, who said Collins, his backup, called to give him the news shortly before the article went live. \xe2\x80\x9cI was like, \xe2\x80\x98Wow, you\xe2\x80\x99ve had to carry this around for so long.\xe2\x80\x99 I can only imagine the emotional toll that it must take, and also the strength it must take to come out. .\xe2\x80\x89.\xe2\x80\x89. Maybe more people will [come out] now. Maybe this will be the spark where other people feel comfortable.\xe2\x80\x9d Until recent years, the notion of an openly gay male athlete was thought to be a near-impossibility in major U.S. professional sports, where the testosterone-fueled culture of the locker room often bordered on homophobia. While celebrated female athletes such as tennis player Martina Navratilova and basketball player Sheryl Swoopes were comfortably out of the closet during their careers \xe2\x80\x94 and several male athletes revealed their homosexuality after their playing careers \xe2\x80\x94 no active male athlete could afford to take a similar step. As recently as 2002, baseball star Mike Piazza felt compelled to call a news conference to refute rumors he was gay. In 2007, former NBA all-star guard Tim Hardaway said in a radio interview: \xe2\x80\x9cI don\xe2\x80\x99t like gay people and I don\xe2\x80\x99t like to be around gay people. I am homophobic.\xe2\x80\x9d In 2011, the Lakers\xe2\x80\x99 Bryant was fined $100,000 for using a homophobic slur in a rant against a referee.'
 p1121
-aS'The air traffic controllers\xe2\x80\x99 union, whose members are facing 11 unpaid days between now and the end of the fiscal year on Sept. 30, on Tuesday described the delays so far as \xe2\x80\x9cjust the beginning of what promises to be a huge economic disruption if the furloughs are not stopped.\xe2\x80\x9d \xe2\x80\x9cThe F.A.A.'
-p1122
-aS'has been forced to cancel all training, halt work on critical modernization and NextGen projects, and are even using overtime at some of the busiest facilities,\xe2\x80\x9d the National Air Traffic Controllers Association said.'
-p1123
-aS'NextGen is a satellite-based system that is supposed to raise air traffic capacity and cut delays.'
-p1124
-aS'Using overtime \xe2\x80\x9cis actually costing the F.A.A.'
-p1125
-aS'money, eliminating any savings that are supposedly being achieved for sequestration,\xe2\x80\x9d the union said.'
-p1126
-aS'\xe2\x80\x9cIt\xe2\x80\x99s simple math \xe2\x80\x94 furloughing controllers earning base while paying others base pay plus an additional 50 percent will not result in savings.\xe2\x80\x9d Senator Richard Blumenthal, Democrat of Connecticut, and Senator Jerry Moran, Republican of Kansas, held a news briefing to urge the F.A.A.'
-p1127
-aS'to delay the furloughs.'
-p1128
-aS'This month, they introduced a bill to block the agency from shutting down control towers at dozens of small airports.'
+sg30
+(lp1122
+(lp1123
+g33
+ag34
+ag35
+ag34
+aa(lp1124
+g34
+ag33
+ag34
+ag33
+aa(lp1125
+g35
+ag35
+ag40
+ag33
+aa(lp1126
+g35
+ag34
+ag33
+ag33
+aa(lp1127
+g33
+ag34
+ag35
+ag35
+aasg42
+(lp1128
+S' \xe2\x80\x9cI didn\xe2\x80\x99t set out to be the first openly gay athlete playing in a major American team sport,\xe2\x80\x9d Collins wrote.'
 p1129
-asg94
-(lp1130
-g1092
-aS'Apart from the furloughs, the F.A.A. counted more than 1,400 delays for weather and other reasons. On Tuesday, it said there were delays in the New York area and in Washington because of \xe2\x80\x9cstaffing challenges,\xe2\x80\x9d but it did not say what fraction of the delays were due to furloughs.'
+aS'\xe2\x80\x9cBut since I am, I\xe2\x80\x99m happy to start the conversation.'
+p1130
+aS'I wish I wasn\xe2\x80\x99t the kid in the classroom raising his hand and saying, \xe2\x80\x98I\xe2\x80\x99m different.\xe2\x80\x99 If I had my way, someone else would have already done this.'
 p1131
-aS'\xe2\x80\x9cTravelers can expect to see a wide range of delays that will change throughout the day depending on staffing and weather-related issues,\xe2\x80\x9d the agency said in a statement. The staffing problems are mostly in radar rooms, not control towers, it added.'
+aS'Nobody has, which is why I\xe2\x80\x99m raising my hand.\xe2\x80\x9d The first wave of public reaction to Collins\xe2\x80\x99s announcement was overwhelmingly positive.'
 p1132
-aS'There are 30,000 to 35,000 commercial flights a day in the United States. Some travelers were delayed a few minutes, but others missed connections and were delayed for hours. Some later flights were delayed or canceled because the airplanes they were to use had arrived so late.'
+aS'President Obama called Collins \xe2\x80\x9cto express his support and said he was impressed by his courage,\xe2\x80\x9d according to a White House official.'
 p1133
-aS'FlightStats.com , a company that monitors airline performance, counted nearly 7,000 delays on Monday, from all causes. A company spokeswoman, Sarena Regazzoni, said that the number \xe2\x80\x9cseems heightened but not excessive.\xe2\x80\x9d'
+aS'Los Angeles Lakers star Kobe Bryant, former NFL star and current daytime TV talk host Michael Strahan and former president Bill Clinton were among others who issed public salutes to Collins.'
 p1134
-aS'Senator John D. Rockefeller IV, the West Virginia Democrat who is the chairman of the Senate Commerce Committee, and Senator John Thune of South Dakota, the ranking Republican member, sent a letter to the transportation secretary, seeking more information and complaining that \xe2\x80\x9cthe administration\xe2\x80\x99s response to our inquiries has consistently been slow and disturbingly limited.\xe2\x80\x9d'
+aS'Even amid widespread speculation that one or more male athletes would soon break the sexuality barrier \xe2\x80\x94 former Ravens safety Brendon Ayanbadejo suggested in recent interviews that one or more NFL players were preparing to come out \xe2\x80\x94 Collins\xe2\x80\x99s announcement stunned people around the NBA, including his Wizards teammates.'
 p1135
-aS'The two senators said that the F.A.A. administrator, Michael P. Huerta, had provided \xe2\x80\x9conly general statements\xe2\x80\x9d to the committee about how it would handle budget cuts resulting from the so-called sequester, while giving a detailed briefing to the airlines.'
+aS'Several of them said they had no inclination Collins was gay.'
 p1136
-aS'The airlines, though, complained that their briefing was cursory. Airline officials said that the F.A.A. had passed out copies of an analysis of likely delays, but then demanded all the copies back. (In a news briefing last week, Mr. Huerta and Transportation Secretary Ray LaHood displayed a complicated slide showing the projected impact at a variety of airports, but did not give out copies or post it on the Web, as is their usual practice.)'
+aS'\xe2\x80\x9cMy first reaction was I felt for him,\xe2\x80\x9d said Wizards center Emeka Okafor, who said Collins, his backup, called to give him the news shortly before the article went live.'
 p1137
-aS'But those complaining about the cuts have not specified just where the F.A.A. should find the more than $600 million it says it must wring out of the system.'
+aS'\xe2\x80\x9cI was like, \xe2\x80\x98Wow, you\xe2\x80\x99ve had to carry this around for so long.\xe2\x80\x99 I can only imagine the emotional toll that it must take, and also the strength it must take to come out.'
 p1138
-aS'The air traffic controllers\xe2\x80\x99 union, whose members are facing 11 unpaid days between now and the end of the fiscal year on Sept. 30, on Tuesday described the delays so far as \xe2\x80\x9cjust the beginning of what promises to be a huge economic disruption if the furloughs are not stopped.\xe2\x80\x9d'
+aS'.\xe2\x80\x89.\xe2\x80\x89.'
 p1139
-aS'\xe2\x80\x9cThe F.A.A. has been forced to cancel all training, halt work on critical modernization and NextGen projects, and are even using overtime at some of the busiest facilities,\xe2\x80\x9d the National Air Traffic Controllers Association said. NextGen is a satellite-based system that is supposed to raise air traffic capacity and cut delays.'
+aS'Maybe more people will [come out] now.'
 p1140
-aS'Using overtime \xe2\x80\x9cis actually costing the F.A.A. money, eliminating any savings that are supposedly being achieved for sequestration,\xe2\x80\x9d the union said. \xe2\x80\x9cIt\xe2\x80\x99s simple math \xe2\x80\x94 furloughing controllers earning base while paying others base pay plus an additional 50 percent will not result in savings.\xe2\x80\x9d'
+aS'Maybe this will be the spark where other people feel comfortable.\xe2\x80\x9d Until recent years, the notion of an openly gay male athlete was thought to be a near-impossibility in major U.S. professional sports, where the testosterone-fueled culture of the locker room often bordered on homophobia.'
 p1141
-aS'Senator Richard Blumenthal, Democrat of Connecticut, and Senator Jerry Moran, Republican of Kansas, held a news briefing to urge the F.A.A. to delay the furloughs. This month, they introduced a bill to block the agency from shutting down control towers at dozens of small airports.'
+aS'While celebrated female athletes such as tennis player Martina Navratilova and basketball player Sheryl Swoopes were comfortably out of the closet during their careers \xe2\x80\x94 and several male athletes revealed their homosexuality after their playing careers \xe2\x80\x94 no active male athlete could afford to take a similar step.'
 p1142
-aS'Senator Harry Reid of Nevada, the majority leader, proposed that all of the across-the-board cuts be canceled for the rest of the fiscal year, and \xe2\x80\x9cpaid for\xe2\x80\x9d by declining war spending \xe2\x80\x94 a position Republican budget hawks have long scoffed at.'
-p1143
-aS'Senator Tom Coburn, Republican of Oklahoma, objected, and the move died. But Democrats said the move would be the first in a revived effort to address cuts that are beginning to bite.'
+asg93
+(lp1143
+S'As Jason Collins , a 7-foot journeyman center for the Washington Wizards , played out the final few weeks of his 12th National Basketball Association season this spring, he was also finalizing plans for an announcement that would send shock waves across the world of sports. That announcement came late Monday morning, with the Internet publication of a first-person story in Sports Illustrated :'
 p1144
-asba(i__main__
-Document
+aS'\xe2\x80\x9cI\xe2\x80\x99m a 34-year-old NBA center,\xe2\x80\x9d the story began. \xe2\x80\x9cI\xe2\x80\x99m black. And I\xe2\x80\x99m gay.\xe2\x80\x9d'
 p1145
-(dp1146
-g9
-(lp1147
-(lp1148
-S'Sequestration became a reality to the broad public in airports across the country this week, and on Friday both Congress and the White House caved in to pressure from tens of thousands of airline passengers angered by flight delays.'
+aS'With that, Collins became the first active male athlete in a major U.S. professional sports league to come out of the closet \xe2\x80\x94 a designation that is certain to elevate this relatively anonymous player, known primarily for his ability to commit fouls and set picks, into a historic figure in both the sports and gay-rights realms.'
+p1146
+aS'\xe2\x80\x9cI didn\xe2\x80\x99t set out to be the first openly gay athlete playing in a major American team sport,\xe2\x80\x9d Collins wrote. \xe2\x80\x9cBut since I am, I\xe2\x80\x99m happy to start the conversation. I wish I wasn\xe2\x80\x99t the kid in the classroom raising his hand and saying, \xe2\x80\x98I\xe2\x80\x99m different.\xe2\x80\x99 If I had my way, someone else would have already done this. Nobody has, which is why I\xe2\x80\x99m raising my hand.\xe2\x80\x9d'
+p1147
+aS'The first wave of public reaction to Collins\xe2\x80\x99s announcement was overwhelmingly positive. President Obama called Collins \xe2\x80\x9cto express his support and said he was impressed by his courage,\xe2\x80\x9d according to a White House official. Los Angeles Lakers star Kobe Bryant, former NFL star and current daytime TV talk host Michael Strahan and former president Bill Clinton were among others who issed public salutes to Collins.'
+p1148
+aS'Even amid widespread speculation that one or more male athletes would soon break the sexuality barrier \xe2\x80\x94 former Ravens safety Brendon Ayanbadejo suggested in recent interviews that one or more NFL players were preparing to come out \xe2\x80\x94 Collins\xe2\x80\x99s announcement stunned people around the NBA, including his Wizards teammates. Several of them said they had no inclination Collins was gay.'
 p1149
-aaS'The lawmakers and the Obama administration, creators of the across-the-board funding cuts, found a path around their own creation, approving legislation to end the daily furloughs of 1,500 air traffic controllers that caused long delays at several major airports.'
+aS'\xe2\x80\x9cMy first reaction was I felt for him,\xe2\x80\x9d said Wizards center Emeka Okafor, who said Collins, his backup, called to give him the news shortly before the article went live. \xe2\x80\x9cI was like, \xe2\x80\x98Wow, you\xe2\x80\x99ve had to carry this around for so long.\xe2\x80\x99 I can only imagine the emotional toll that it must take, and also the strength it must take to come out. .\xe2\x80\x89.\xe2\x80\x89. Maybe more people will [come out] now. Maybe this will be the spark where other people feel comfortable.\xe2\x80\x9d'
 p1150
-aS'The House voted 361 to 41 Friday in favor of a bill that had won unanimous support in the Senate, and White House press secretary Jay Carney said President Obama would sign it.'
+aS'Until recent years, the notion of an openly gay male athlete was thought to be a near-impossibility in major U.S. professional sports, where the testosterone-fueled culture of the locker room often bordered on homophobia. While celebrated female athletes such as tennis player Martina Navratilova and basketball player Sheryl Swoopes were comfortably out of the closet during their careers \xe2\x80\x94 and several male athletes revealed their homosexuality after their playing careers \xe2\x80\x94 no active male athlete could afford to take a similar step.'
 p1151
-asg19
-(lp1152
-S'The furlough of 1,500 air traffic controllers each day to achieve $200\xc2\xa0million in savings from the FAA\xe2\x80\x99s budget became a test of wills between Congress and the administration.'
+aS'As recently as 2002, baseball star Mike Piazza felt compelled to call a news conference to refute rumors he was gay. In 2007, former NBA all-star guard Tim Hardaway said in a radio interview: \xe2\x80\x9cI don\xe2\x80\x99t like gay people and I don\xe2\x80\x99t like to be around gay people. I am homophobic.\xe2\x80\x9d In 2011, the Lakers\xe2\x80\x99 Bryant was fined $100,000 for using a homophobic slur in a rant against a referee.'
+p1152
+asba(i__main__
+Document
 p1153
-aS'Republicans said the president abruptly announced the details of the furlough plan last week to create a high-profile, television-friendly display of its impact.'
-p1154
-aS'They contended that the FAA had other options for mandated cuts that totaled $637\xc2\xa0million.'
-p1155
-asg25
-S'Congress sends Obama bill to end airport delays'
+(dp1154
+g9
+(lp1155
+S'When Mark Madsen got a text message from Jason Collins early Monday morning asking him to call, Madsen thought the two were going to discuss graduate school options.'
 p1156
-sg27
-S'http://www.washingtonpost.com/local/trafficandcommuting/congress-sends-obama-bill-to-end-delays/2013/04/26/27f94706-ae81-11e2-a986-eec837b1888b_story.html'
+aS'Madsen just completed his MBA at Stanford, where both he and Collins played basketball as undergrads, and Madsen knows Collins is interested in graduate school.'
 p1157
-sg29
-S'Sequestration became a reality to the broad public in airports across the country this week, and on Friday both Congress and the White House caved in to pressure from tens of thousands of airline passengers angered by flight delays. The lawmakers and the Obama administration, creators of the across-the-board funding cuts, found a path around their own creation, approving legislation to end the daily furloughs of 1,500 air traffic controllers that caused long delays at several major airports. The House voted 361 to 41 Friday in favor of a bill that had won unanimous support in the Senate, and White House press secretary Jay Carney said President Obama would sign it. With Congress headed home for a week, the question becomes whether lawmakers will return emboldened to keep tinkering with sequestration, giving more federal agencies the flexibility to make required budget cuts in ways that do not call for furloughs or unpopular service cuts. The White House had pushed for Congress to eliminate sequestration, but its hand was forced Friday. Now, it faces the risk that if Congress continues to mandate small spending changes that reduce the high-profile and painful consequences of the cuts, the entire sequestration process will become more palatable to the public. House Transportation Committee Chairman Bill Shuster (R-Pa.) hinted at that possibility after Friday\xe2\x80\x99s vote. \xe2\x80\x9cThis legislation ensures beyond a shadow of a doubt that the agency now has more than enough capacity to end air traffic controller furloughs, stop the pain for the traveling public and protect the economy,\xe2\x80\x9d Shuster said, \xe2\x80\x9cwithout giving the FAA any additional funding.\xe2\x80\x9d The Federal Aviation Administration furloughs may have been the most visible effect of the $85 billion in spending cuts that kicked in across the government on March 1 after a gridlocked Congress failed to reach agreement on a broad plan to reduce the federal deficit. The cuts had been designed to be so painful and indiscriminate \xe2\x80\x94 mindless, even \xe2\x80\x94 that even a partisan Congress would not allow them to happen. Republicans see the changes in FAA spending ordered by the new legislation as a model for future adjustments to the cuts. They are pushing legislation to give the administration more flexibility to administer the sequester while leaving in place the overall spending reductions the law requires. But the White House, which seemed taken by surprise by the bill\xe2\x80\x99s swift passage, resumed the push to end sequestration. \xe2\x80\x9cThe problem is that this is just a Band-Aid solution,\xe2\x80\x9d Carney said. \xe2\x80\x9cCongress should do the responsible thing and stop dealing with these issues from crisis to crisis, and simply engage in a discussion about how we can eliminate the sequester entirely through balanced deficit reduction.\xe2\x80\x9d The furlough of 1,500 air traffic controllers each day to achieve $200\xc2\xa0million in savings from the FAA\xe2\x80\x99s budget became a test of wills between Congress and the administration. Republicans said the president abruptly announced the details of the furlough plan last week to create a high-profile, television-friendly display of its impact. They contended that the FAA had other options for mandated cuts that totaled $637\xc2\xa0million.'
+aS'"He said, \'I\'m actually coming out.'
 p1158
-sg31
-(lp1159
-(lp1160
-g37
-ag37
-ag34
-aa(lp1161
-g34
-ag34
-ag34
-aa(lp1162
-g38
-ag38
-ag34
-aa(lp1163
-g38
-ag37
-ag34
-aa(lp1164
-g37
-ag34
-ag38
-aasg43
-(lp1165
-S' With Congress headed home for a week, the question becomes whether lawmakers will return emboldened to keep tinkering with sequestration, giving more federal agencies the flexibility to make required budget cuts in ways that do not call for furloughs or unpopular service cuts.'
+aS'I\'m gay,\' " Madsen told USA TODAY Sports.'
+p1159
+aS'"I said, \'Jason, thanks for letting me know.'
+p1160
+aS'I got your back.'
+p1161
+aS'\' "'
+p1162
+asg18
+(lp1163
+S'"We\'re lagging behind where our society is on this issue," Welts said of men\'s pro team sports.'
+p1164
+aS'"To some degree, we caught up a little bit today.'
+p1165
+ag17
+asg24
+S"Jason Collins' big announcement raises questions"
 p1166
-aS'The White House had pushed for Congress to eliminate sequestration, but its hand was forced Friday.'
+sg26
+S'http://www.usatoday.com/story/sports/nba/2013/04/29/jason-collins-mark-madsen-charles-barkley-jarron-collins-rick-welts-gay-nba-player/2122429/'
 p1167
-aS'Now, it faces the risk that if Congress continues to mandate small spending changes that reduce the high-profile and painful consequences of the cuts, the entire sequestration process will become more palatable to the public.'
+sg28
+S'When Mark Madsen got a text message from Jason Collins early Monday morning asking him to call, Madsen thought the two were going to discuss graduate school options. Madsen just completed his MBA at Stanford, where both he and Collins played basketball as undergrads, and Madsen knows Collins is interested in graduate school. "He said, \'I\'m actually coming out. I\'m gay,\' " Madsen told USA TODAY Sports. "I said, \'Jason, thanks for letting me know. I got your back.\' " The two talked privately for a few minutes, Madsen said, before Collins began calling others in advance of a first-person Sports Illustrated story hitting the web. FREE AGENCY: Collins\' immediate NBA future POSITIVE REACTION: Kobe, Clinton offer support Collins will be a free agent this summer . Where he\'ll play next season, if he does, is one of many questions about the first openly gay male athlete in North American team sports while still an active player. Here are some others: Q: Why is Collins a good fit for this role? Cyd Zeigler, a manager of OutSports.com, a leading website on gay sports, has covered this issue for years. "We\'ve talked about who this person could be in the past. And Jason kind of fits the mold. A really good player who\'s been in the league for a long time who doesn\'t have a lot to lose in endorsement deals. He is set for the rest of his life financially. I never thought it was going to be a superstar." Q: Why is the timing right? Zeigler has written before that the best time for an athlete to make such an announcement would be early in an offseason. Collins\' timing "just two weeks after his regular season ended, and six months before the season starts, it couldn\'t be a better time to do this. The media will get the story out of its system before tip-off of the next season." BACKLASH: ESPN reporter calls Collins a sinner BRENNAN: Just call Jason Collins a team player Q: Are pro team sports ready to accept gay athletes in their locker rooms? Madsen said he thinks NBA locker rooms are ready: "Do you respect others, how do you treat others and how do you play? Those are the rules of the locker room. Religion, ethnicity, sexual orientation ... all those things are secondary to the goal of winning basketball games. It\'s a meritocracy in the NBA. People perform or don\'t perform." But Doug Plank, who played for the Chicago Bears in the \'70s and \'80s and coached in the NFL, said on Orlando radio this month: "Everybody tries to be politically correct ... especially people who operate in business and other public occupations. But you get inside an NFL locker room, I tell you what, it\'s something else. It\'s a jungle in there. ... Last time I was in an NFL locker room, changing clothes every day and getting ready to go out to practice, I just think that would be a very, very tough environment for someone to come forward and say they have different sexual orientation." Outside the locker room "we\'ve certainly seen so much more acceptance," Plank said. "It\'s almost normal now. It\'s not a big issue. But there are still those last bastions that are left and sports is one of them. You get into a locker room with these type of individuals that are very, very driven and very physical, and I think it\'s still an issue." VIDEO: WIZARDS OFFER STATEMENT OF SUPPORT NBA player Jason Collins came out as the first openly gay professional athlete. His team, the Washington Wizards, made a statement supporting Collins. Q: How did Collins make his announcement? Collins started his piece in SI , written with Franz Lidz, by writing: "I\'m a 34-year-old NBA center. I\'m black. And I\'m gay." Other excerpts: "I wish I wasn\'t the kid in the classroom raising his hand and saying, \'I\'m different.\' If I had my way, someone else would have already done this. Nobody has, which is why I\'m raising my hand. ... When I was younger I dated women. I even got engaged. I thought I had to live a certain way. I thought I needed to marry a woman and raise kids with her. I kept telling myself the sky was red, but I always knew it was blue." Later Monday, Collins tweeted: "All the support I have received today is truly inspirational. I knew that I was choosing the road less traveled but I\'m not walking it alone" "Thank you to everyone who has reached out to me thru email, texts, calls, tweets, letters, and every other form of communication #support." Q: What about his twin, Jarron, who also played in the NBA? Jarron Collins also wrote a first-person piece for SI in which he said his brother told him last summer: "I won\'t lie. I had no idea. We talked, he answered my questions, I hugged him and I digested what he had told me. At the end of the day, this is what matters: He\'s my brother, he\'s a great guy, and I want him to be happy. I\'ll love him and I\'ll support him and, if necessary, I\'ll protect him." Q: Exactly what was it that ESPN\'s NBA insider Chris Broussard said on his network\'s Outside the Lines show? "Personally I don\'t believe that you can live an openly homosexual lifestyle or ... openly (engage in) premarital sex between heterosexuals. If you\'re openly living that type of lifestyle, the Bible says you know them by their fruits, it says that\'s a sin. If you\'re openly living in unrepentant sin, whatever it may be, not just homosexuality, adultery, fornication, premarital sex between heterosexuals, whatever it may be. I think that\'s walking in open rebellion to God and to Jesus Christ." OPEN: How leagues have prepared for a gay athlete NOTEWORTHY: Five key quotes from Collins interview Q: Charles Barkley also weighed in, on NBA TV. What did he say? "We\'ve all played with gay guys. We didn\'t treat them bad. ... For us to have an honest discussion, if guys don\'t like it, they should be able to say it and not get crucified." Q: Longtime NBA executive Rick Welts, who is now the president of the Golden State Warriors, disclosed publicly that he is gay two years ago. What was his take on Monday\'s news? "This is such a personal thing to reach the point in your life where you\'re prepared to do this. I\'m very proud of him. It\'s a very, very courageous thing that he chose to do. I read the story. It came through that it was very authentic. ... He\'s somebody who didn\'t have the benefit of somebody going before him in the same situation to learn, to watch, to see how people would react. It takes a man of great courage to do what he did today. I\'m happy for him. He\'s going to be able to be the complete Jason Collins every day for the rest of his life. "I think he probably knows what he signed up for. He\'s going to face a whole bunch more television cameras and reporters than he probably has over the course of the last couple seasons. But clearly, it\'s somebody who\'s given this a lot of thought. He\'s prepared for it and it\'s what he signed up for. There\'s been a lot of speculation about when, who, how (an athlete from any of the major sports would come out). And that speculation\'s been put to rest now and we\'ll always remember that Jason Collins was the first player to do this." PHOTOS: WHO IS JASON COLLINS? Q: Will Monday\'s news help or hurt Collins as a free agent? "I don\'t think it will hurt him," Zeigler said. "There are very few front office executives who will look at somebody and say, \'He could help us, but because he\'s gay we don\'t want him.\' There will be some executives who see a marketing opportunity." Veteran NBA executive Ed Stefanski was part of the then-New Jersey Nets front-office staff that drafted Jason Collins No. 18 in the first round in 2001. "His basketball IQ was off the chart," Stefanski said, adding he would be "very disappointed" if Collins\' announcement hurt his chances. "He has done a good job getting his weight down," Stefanski said. "But can he be athletic enough? He\'s smart enough. But can he be a third center for a team? ... A young team can use a player like him in the locker room, and a real good team can use him in spots to give guys a breather and know the team isn\'t going to fall apart when he\'s on the court." Welts is not involved in player personnel decisions, but said: "If he can convince a coach and general manager that he can play and help their team, he\'ll have another job. ... It\'ll all be what he can do on the court." Q: At what point will announcements like Monday\'s no longer be news? Zeigler: "I don\'t know at what point, whether it\'s No. 7 or 12 or 18, when the media has had enough of this story. We\'re not there yet. Gay people can\'t get married. I can\'t marry my partner of 10 years. When we have equal rights, and we\'re out and proud in every aspect of life, then I think we\'ll see that. But until then, it\'s still an issue." Q: So what\'s the big picture takeaway? "We\'re lagging behind where our society is on this issue," Welts said of men\'s pro team sports. "To some degree, we caught up a little bit today."'
 p1168
-aS'House Transportation Committee Chairman Bill Shuster (R-Pa.) hinted at that possibility after Friday\xe2\x80\x99s vote.'
-p1169
-aS'\xe2\x80\x9cThis legislation ensures beyond a shadow of a doubt that the agency now has more than enough capacity to end air traffic controller furloughs, stop the pain for the traveling public and protect the economy,\xe2\x80\x9d Shuster said, \xe2\x80\x9cwithout giving the FAA any additional funding.\xe2\x80\x9d The Federal Aviation Administration furloughs may have been the most visible effect of the $85 billion in spending cuts that kicked in across the government on March 1 after a gridlocked Congress failed to reach agreement on a broad plan to reduce the federal deficit.'
-p1170
-aS'The cuts had been designed to be so painful and indiscriminate \xe2\x80\x94 mindless, even \xe2\x80\x94 that even a partisan Congress would not allow them to happen.'
-p1171
-aS'Republicans see the changes in FAA spending ordered by the new legislation as a model for future adjustments to the cuts.'
-p1172
-aS'They are pushing legislation to give the administration more flexibility to administer the sequester while leaving in place the overall spending reductions the law requires.'
-p1173
-aS'But the White House, which seemed taken by surprise by the bill\xe2\x80\x99s swift passage, resumed the push to end sequestration.'
-p1174
-aS'\xe2\x80\x9cThe problem is that this is just a Band-Aid solution,\xe2\x80\x9d Carney said.'
-p1175
-aS'\xe2\x80\x9cCongress should do the responsible thing and stop dealing with these issues from crisis to crisis, and simply engage in a discussion about how we can eliminate the sequester entirely through balanced deficit reduction.\xe2\x80\x9d'
+sg30
+(lp1169
+(lp1170
+g33
+ag34
+ag34
+ag33
+ag40
+ag40
+ag36
+aa(lp1171
+g35
+ag35
+ag35
+ag34
+ag36
+ag35
+ag40
+aa(lp1172
+g33
+ag33
+ag35
+ag35
+ag40
+ag40
+ag36
+aa(lp1173
+g34
+ag35
+ag35
+ag40
+ag40
+ag40
+ag36
+aa(lp1174
+g34
+ag35
+ag34
+ag35
+ag40
+ag35
+ag36
+aasg42
+(lp1175
+S' The two talked privately for a few minutes, Madsen said, before Collins began calling others in advance of a first-person Sports Illustrated story hitting the web.'
 p1176
-asg94
-(lp1177
-g1149
-ag1150
-ag1151
-aS'With Congress headed home for a week, the question becomes whether lawmakers will return emboldened to keep tinkering with sequestration, giving more federal agencies the flexibility to make required budget cuts in ways that do not call for furloughs or unpopular service cuts.'
+aS"FREE AGENCY: Collins' immediate NBA future POSITIVE REACTION: Kobe, Clinton offer support Collins will be a free agent this summer ."
+p1177
+aS"Where he'll play next season, if he does, is one of many questions about the first openly gay male athlete in North American team sports while still an active player."
 p1178
-aS'The White House had pushed for Congress to eliminate sequestration, but its hand was forced Friday. Now, it faces the risk that if Congress continues to mandate small spending changes that reduce the high-profile and painful consequences of the cuts, the entire sequestration process will become more palatable to the public.'
+aS'Here are some others: Q: Why is Collins a good fit for this role?'
 p1179
-aS'House Transportation Committee Chairman Bill Shuster (R-Pa.) hinted at that possibility after Friday\xe2\x80\x99s vote.'
+aS'Cyd Zeigler, a manager of OutSports.com, a leading website on gay sports, has covered this issue for years.'
 p1180
-aS'\xe2\x80\x9cThis legislation ensures beyond a shadow of a doubt that the agency now has more than enough capacity to end air traffic controller furloughs, stop the pain for the traveling public and protect the economy,\xe2\x80\x9d Shuster said, \xe2\x80\x9cwithout giving the FAA any additional funding.\xe2\x80\x9d'
+aS'"We\'ve talked about who this person could be in the past.'
 p1181
-aS'The Federal Aviation Administration furloughs may have been the most visible effect of the $85 billion in spending cuts that kicked in across the government on March 1 after a gridlocked Congress failed to reach agreement on a broad plan to reduce the federal deficit. The cuts had been designed to be so painful and indiscriminate \xe2\x80\x94 mindless, even \xe2\x80\x94 that even a partisan Congress would not allow them to happen.'
+aS'And Jason kind of fits the mold.'
 p1182
-aS'Republicans see the changes in FAA spending ordered by the new legislation as a model for future adjustments to the cuts. They are pushing legislation to give the administration more flexibility to administer the sequester while leaving in place the overall spending reductions the law requires.'
+aS"A really good player who's been in the league for a long time who doesn't have a lot to lose in endorsement deals."
 p1183
-aS'But the White House, which seemed taken by surprise by the bill\xe2\x80\x99s swift passage, resumed the push to end sequestration.'
+aS'He is set for the rest of his life financially.'
 p1184
-aS'\xe2\x80\x9cThe problem is that this is just a Band-Aid solution,\xe2\x80\x9d Carney said. \xe2\x80\x9cCongress should do the responsible thing and stop dealing with these issues from crisis to crisis, and simply engage in a discussion about how we can eliminate the sequester entirely through balanced deficit reduction.\xe2\x80\x9d'
+aS'I never thought it was going to be a superstar.'
 p1185
-aS'The furlough of 1,500 air traffic controllers each day to achieve $200\xc2\xa0million in savings from the FAA\xe2\x80\x99s budget became a test of wills between Congress and the administration.'
+aS'" Q: Why is the timing right?'
 p1186
-aS'Republicans said the president abruptly announced the details of the furlough plan last week to create a high-profile, television-friendly display of its impact. They contended that the FAA had other options for mandated cuts that totaled $637\xc2\xa0million.'
+aS'Zeigler has written before that the best time for an athlete to make such an announcement would be early in an offseason.'
 p1187
-asba(i__main__
-Document
+aS'Collins\' timing "just two weeks after his regular season ended, and six months before the season starts, it couldn\'t be a better time to do this.'
 p1188
-(dp1189
-g9
-(lp1190
-(lp1191
-S'A week after federal officials launched job furloughs at air traffic control towers, the controllers are back on a regular work schedule -- and airline delays are now caused primarily by severe weather.'
+aS'The media will get the story out of its system before tip-off of the next season.'
+p1189
+aS'" BACKLASH: ESPN reporter calls Collins a sinner BRENNAN: Just call Jason Collins a team player Q: Are pro team sports ready to accept gay athletes in their locker rooms?'
+p1190
+aS'Madsen said he thinks NBA locker rooms are ready: "Do you respect others, how do you treat others and how do you play?'
+p1191
+aS'Those are the rules of the locker room.'
 p1192
-aaS'The number of delays over the week averaged about 5,800 per day, according to a report from Flightstats.com, a website that monitors flight delays.'
+aS'Religion, ethnicity, sexual orientation ... all those things are secondary to the goal of winning basketball games.'
 p1193
-aS'The greatest number of delays came last Monday, April 22, when slightly more than 7,000 flights were delayed, according to Flightstats.'
+aS"It's a meritocracy in the NBA."
 p1194
-asg19
-(lp1195
-S"Public gets chance to comment on TSA's full-body scanners Airlines' on-time performance drops sharply because of furloughs \xc2\xa0"
+aS"People perform or don't perform."
+p1195
+aS'" But Doug Plank, who played for the Chicago Bears in the \'70s and \'80s and coached in the NFL, said on Orlando radio this month: "Everybody tries to be politically correct ... especially people who operate in business and other public occupations.'
 p1196
-asg25
-S'Furloughs over, so air controllers (and flights) back on schedule'
+aS"But you get inside an NFL locker room, I tell you what, it's something else."
 p1197
-sg27
-S'http://www.latimes.com/business/money/la-fi-mo-furloughs-faa-airports-20130429,0,4983174.story'
+aS"It's a jungle in there."
 p1198
-sg29
-S"A week after federal officials launched job furloughs at air traffic control towers, the controllers are back on a regular work schedule -- and airline delays are now caused primarily by severe weather. The number of delays over the week averaged about 5,800 per day, according to a report from Flightstats.com, a website that monitors flight delays. The greatest number of delays came last Monday, April 22, when slightly more than 7,000 flights were delayed, according to Flightstats. On Sunday, the nation's airports reported 4,800 delays, according to the website. By Monday morning, the only significant delays reported were attributed to heavy cloud cover at Philadelphia International Airport. To cut about $636 million from its budget, the Federal Aviation Administration ordered air traffic controllers to take one day off of work for every two-week period, reducing its workforce by about 10%. The furloughs caused takeoff delays of hundreds of planes when congestion in the skies grew heavy. The airports that endured the most delays were LaGuardia, Newark Liberty, Los Angeles International, John F. Kennedy and O'Hare International. A bill approved by the House on Friday and sent to the president allowed the FAA to transfer $253 million from infrastructure improvement funds to put furloughed air traffic controllers back to work. Senate officials said the bill also prevented closures at 149 control towers, many in rural areas, that rely on contract air controllers. The FAA announced Saturday that it had suspended all furloughs and returned to normal operations Sunday. ALSO: TSA delays change allowing knives on planes Public gets chance to comment on TSA's full-body scanners Airlines' on-time performance drops sharply because of furloughs \xc2\xa0"
+aS'... Last time I was in an NFL locker room, changing clothes every day and getting ready to go out to practice, I just think that would be a very, very tough environment for someone to come forward and say they have different sexual orientation.'
 p1199
-sg31
-(lp1200
-(lp1201
-g38
-ag34
-ag34
-ag34
-ag34
-aa(lp1202
-g37
-ag38
-ag34
-ag38
-ag37
-aa(lp1203
-g38
-ag39
-ag34
-ag39
-ag39
-aa(lp1204
-g34
-ag34
-ag34
-ag34
-ag34
-aa(lp1205
-g34
-ag34
-ag38
-ag38
-ag34
-aasg43
-(lp1206
-S' To cut about $636 million from its budget, the Federal Aviation Administration ordered air traffic controllers to take one day off of work for every two-week period, reducing its workforce by about 10%.'
+aS'" Outside the locker room "we\'ve certainly seen so much more acceptance," Plank said.'
+p1200
+aS'"It\'s almost normal now.'
+p1201
+aS"It's not a big issue."
+p1202
+aS'But there are still those last bastions that are left and sports is one of them.'
+p1203
+aS"You get into a locker room with these type of individuals that are very, very driven and very physical, and I think it's still an issue."
+p1204
+aS'" VIDEO: WIZARDS OFFER STATEMENT OF SUPPORT NBA player Jason Collins came out as the first openly gay professional athlete.'
+p1205
+aS'His team, the Washington Wizards, made a statement supporting Collins.'
+p1206
+aS'Q: How did Collins make his announcement?'
 p1207
-aS'The furloughs caused takeoff delays of hundreds of planes when congestion in the skies grew heavy.'
+aS'Collins started his piece in SI , written with Franz Lidz, by writing: "I\'m a 34-year-old NBA center.'
 p1208
-aS"The airports that endured the most delays were LaGuardia, Newark Liberty, Los Angeles International, John F. Kennedy and O'Hare International."
+aS"I'm black."
 p1209
-aS'A bill approved by the House on Friday and sent to the president allowed the FAA to transfer $253 million from infrastructure improvement funds to put furloughed air traffic controllers back to work.'
+aS"And I'm gay."
 p1210
-aS'Senate officials said the bill also prevented closures at 149 control towers, many in rural areas, that rely on contract air controllers.'
+aS'" Other excerpts: "I wish I wasn\'t the kid in the classroom raising his hand and saying, \'I\'m different.'
 p1211
-aS'The FAA announced Saturday that it had suspended all furloughs and returned to normal operations Sunday.'
+aS"' If I had my way, someone else would have already done this."
 p1212
-aS'ALSO: TSA delays change allowing knives on planes'
+aS"Nobody has, which is why I'm raising my hand."
 p1213
-asg94
-(lp1214
-g1192
-aS'The number of delays over the week averaged about 5,800 per day, according to a report from Flightstats.com, a website that monitors flight delays. The greatest number of delays came last Monday, April 22, when slightly more than 7,000 flights were delayed, according to Flightstats.'
+aS'...'
+p1214
+aS'When I was younger I dated women.'
 p1215
-aS"On Sunday, the nation's airports reported 4,800 delays, according to the website. By Monday morning, the only significant delays reported were attributed to heavy cloud cover at Philadelphia International Airport."
+aS'I even got engaged.'
 p1216
-aS'To cut about $636 million from its budget, the Federal Aviation Administration ordered air traffic controllers to take one day off of work for every two-week period, reducing its workforce by about 10%.'
+aS'I thought I had to live a certain way.'
 p1217
-aS"The furloughs caused takeoff delays of hundreds of planes when congestion in the skies grew heavy. The airports that endured the most delays were LaGuardia, Newark Liberty, Los Angeles International, John F. Kennedy and O'Hare International."
+aS'I thought I needed to marry a woman and raise kids with her.'
 p1218
-aS'A bill approved by the House on Friday and sent to the president allowed the FAA to transfer $253 million from infrastructure improvement funds to put furloughed air traffic controllers back to work. Senate officials said the bill also prevented closures at 149 control towers, many in rural areas, that rely on contract air controllers.'
+aS'I kept telling myself the sky was red, but I always knew it was blue.'
 p1219
-aS'The FAA announced Saturday that it had suspended all furloughs and returned to normal operations Sunday.'
+aS'" Later Monday, Collins tweeted: "All the support I have received today is truly inspirational.'
 p1220
-aS'ALSO:'
+aS'I knew that I was choosing the road less traveled but I\'m not walking it alone" "Thank you to everyone who has reached out to me thru email, texts, calls, tweets, letters, and every other form of communication #support.'
 p1221
-aS'TSA delays change allowing knives on planes'
+aS'" Q: What about his twin, Jarron, who also played in the NBA?'
 p1222
-aS"Public gets chance to comment on TSA's full-body scanners"
+aS'Jarron Collins also wrote a first-person piece for SI in which he said his brother told him last summer: "I won\'t lie.'
 p1223
-aS"Airlines' on-time performance drops sharply because of furloughs \xc2\xa0"
+aS'I had no idea.'
 p1224
-asba(i__main__
-Document
+aS'We talked, he answered my questions, I hugged him and I digested what he had told me.'
 p1225
-(dp1226
-g9
-(lp1227
-(lp1228
-S'But the fix is going into effect anyway, and the system will be back to normal by Sunday, the FAA said.'
+aS"At the end of the day, this is what matters: He's my brother, he's a great guy, and I want him to be happy."
+p1226
+aS"I'll love him and I'll support him and, if necessary, I'll protect him."
+p1227
+aS'" Q: Exactly what was it that ESPN\'s NBA insider Chris Broussard said on his network\'s Outside the Lines show?'
+p1228
+aS'"Personally I don\'t believe that you can live an openly homosexual lifestyle or ... openly (engage in) premarital sex between heterosexuals.'
 p1229
-aaS'The holdup was caused by an "s" missing from uses of the word "accounts.'
+aS"If you're openly living that type of lifestyle, the Bible says you know them by their fruits, it says that's a sin."
 p1230
-aS'" The bill gives the FAA permission to move money from other accounts to prevent having to furlough controllers.'
+aS"If you're openly living in unrepentant sin, whatever it may be, not just homosexuality, adultery, fornication, premarital sex between heterosexuals, whatever it may be."
 p1231
-aS'But the way the Senate version of the bill read would have limited the source of funds to an "account.'
+aS"I think that's walking in open rebellion to God and to Jesus Christ."
 p1232
-ag18
-asg19
-(lp1233
-S'They have been highlighted by many to illustrate a clear nationwide consequence of the $85 billion in government-wide cuts that took effect in March and may otherwise not be apparent to the public.'
+aS'" OPEN: How leagues have prepared for a gay athlete NOTEWORTHY: Five key quotes from Collins interview Q: Charles Barkley also weighed in, on NBA TV.'
+p1233
+aS'What did he say?'
 p1234
-aS'Many Democrats miffed FAA cuts were reversed without concessions'
+aS'"We\'ve all played with gay guys.'
 p1235
-asg25
-S'FAA suspends furloughs, typo or not'
+aS"We didn't treat them bad."
 p1236
-sg27
-S'http://www.cnn.com/2013/04/27/politics/faa-legislation/index.html?hpt=hp_bn10'
+aS"... For us to have an honest discussion, if guys don't like it, they should be able to say it and not get crucified."
 p1237
-sg29
-S'But the fix is going into effect anyway, and the system will be back to normal by Sunday, the FAA said. The holdup was caused by an "s" missing from uses of the word "accounts." The bill gives the FAA permission to move money from other accounts to prevent having to furlough controllers. But the way the Senate version of the bill read would have limited the source of funds to an "account." The House fixed the typo in the version it passed Friday, and the Senate plans to fix it Tuesday, a senior House GOP aide told CNN. The FAA "is not impacted," the source said. The FAA issued a statement Saturday, saying that it had suspended all employee furloughs and that "the system will resume normal operations by Sunday evening." Read more: House OKs measure designed to end controller furloughs The story was first reported by ABC News. In rare bipartisan accord, normally quarrelsome U.S. lawmakers passed the measure Friday, capping a major congressional initiative as delays snarled traffic at airports. The measure gives the Transportation Department budget planners new flexibility for dealing with forced spending cuts. It also allows authorities to protect 149 control towers at small- and medium-sized airports that are slated for closure for budgetary reasons. Five things to know about FAA furloughs Since Sunday, more than 3,000 flights had been delayed because of the furloughs, the FAA said. The furloughs were unavoidable, the agency said, because it lacked the flexibility to avert them without action by Congress. The furloughs affected some 15,000 FAA air traffic controllers. Cost-cutting measures such as the furloughs and the planned closures of towers that are privately run or overseen by federal aviation regulators have become part of the debate on government spending. They have been highlighted by many to illustrate a clear nationwide consequence of the $85 billion in government-wide cuts that took effect in March and may otherwise not be apparent to the public. Many Democrats miffed FAA cuts were reversed without concessions'
+aS'" Q: Longtime NBA executive Rick Welts, who is now the president of the Golden State Warriors, disclosed publicly that he is gay two years ago.'
 p1238
-sg31
-(lp1239
-(lp1240
-g34
-ag38
-ag38
-ag34
-ag35
-aa(lp1241
-g38
-ag37
-ag34
-ag37
-ag35
-aa(lp1242
-g34
-ag34
-ag34
-ag34
-ag35
-aa(lp1243
-g34
-ag34
-ag37
-ag38
-ag35
-aa(lp1244
-g39
-ag39
-ag34
-ag34
-ag35
-aasg43
-(lp1245
-S' The FAA issued a statement Saturday, saying that it had suspended all employee furloughs and that "the system will resume normal operations by Sunday evening.'
+aS"What was his take on Monday's news?"
+p1239
+aS'"This is such a personal thing to reach the point in your life where you\'re prepared to do this.'
+p1240
+aS"I'm very proud of him."
+p1241
+aS"It's a very, very courageous thing that he chose to do."
+p1242
+aS'I read the story.'
+p1243
+aS'It came through that it was very authentic.'
+p1244
+aS'...'
+p1245
+aS"He's somebody who didn't have the benefit of somebody going before him in the same situation to learn, to watch, to see how people would react."
 p1246
-aS'" Read more: House OKs measure designed to end controller furloughs The story was first reported by ABC News.'
+aS'It takes a man of great courage to do what he did today.'
 p1247
-aS'In rare bipartisan accord, normally quarrelsome U.S. lawmakers passed the measure Friday, capping a major congressional initiative as delays snarled traffic at airports.'
+aS"I'm happy for him."
 p1248
-aS'The measure gives the Transportation Department budget planners new flexibility for dealing with forced spending cuts.'
+aS"He's going to be able to be the complete Jason Collins every day for the rest of his life."
 p1249
-aS'It also allows authorities to protect 149 control towers at small- and medium-sized airports that are slated for closure for budgetary reasons.'
+aS'"I think he probably knows what he signed up for.'
 p1250
-aS'Five things to know about FAA furloughs Since Sunday, more than 3,000 flights had been delayed because of the furloughs, the FAA said.'
+aS"He's going to face a whole bunch more television cameras and reporters than he probably has over the course of the last couple seasons."
 p1251
-aS'The furloughs were unavoidable, the agency said, because it lacked the flexibility to avert them without action by Congress.'
+aS"But clearly, it's somebody who's given this a lot of thought."
 p1252
-aS'The furloughs affected some 15,000 FAA air traffic controllers.'
+aS"He's prepared for it and it's what he signed up for."
 p1253
-aS'Cost-cutting measures such as the furloughs and the planned closures of towers that are privately run or overseen by federal aviation regulators have become part of the debate on government spending.'
+aS"There's been a lot of speculation about when, who, how (an athlete from any of the major sports would come out)."
 p1254
-asg94
-(lp1255
-g1229
-aS'The holdup was caused by an "s" missing from uses of the word "accounts." The bill gives the FAA permission to move money from other accounts to prevent having to furlough controllers. But the way the Senate version of the bill read would have limited the source of funds to an "account."'
+aS"And that speculation's been put to rest now and we'll always remember that Jason Collins was the first player to do this."
+p1255
+aS'" PHOTOS: WHO IS JASON COLLINS?'
 p1256
-aS'The House fixed the typo in the version it passed Friday, and the Senate plans to fix it Tuesday, a senior House GOP aide told CNN. The FAA "is not impacted," the source said.'
+aS"Q: Will Monday's news help or hurt Collins as a free agent?"
 p1257
-aS'The FAA issued a statement Saturday, saying that it had suspended all employee furloughs and that "the system will resume normal operations by Sunday evening."'
+aS'"I don\'t think it will hurt him," Zeigler said.'
 p1258
-aS'Read more: House OKs measure designed to end controller furloughs'
+aS'"There are very few front office executives who will look at somebody and say, \'He could help us, but because he\'s gay we don\'t want him.'
 p1259
-aS'The story was first reported by ABC News.'
+aS"' There will be some executives who see a marketing opportunity."
 p1260
-aS'In rare bipartisan accord, normally quarrelsome U.S. lawmakers passed the measure Friday, capping a major congressional initiative as delays snarled traffic at airports.'
+aS'" Veteran NBA executive Ed Stefanski was part of the then-New Jersey Nets front-office staff that drafted Jason Collins No.'
 p1261
-aS'The measure gives the Transportation Department budget planners new flexibility for dealing with forced spending cuts.'
+aS'18 in the first round in 2001.'
 p1262
-aS'It also allows authorities to protect 149 control towers at small- and medium-sized airports that are slated for closure for budgetary reasons.'
+aS'"His basketball IQ was off the chart," Stefanski said, adding he would be "very disappointed" if Collins\' announcement hurt his chances.'
 p1263
-aS'Five things to know about FAA furloughs'
+aS'"He has done a good job getting his weight down," Stefanski said.'
 p1264
-aS'Since Sunday, more than 3,000 flights had been delayed because of the furloughs, the FAA said. The furloughs were unavoidable, the agency said, because it lacked the flexibility to avert them without action by Congress.'
+aS'"But can he be athletic enough?'
 p1265
-aS'The furloughs affected some 15,000 FAA air traffic controllers.'
+aS"He's smart enough."
 p1266
-aS'Cost-cutting measures such as the furloughs and the planned closures of towers that are privately run or overseen by federal aviation regulators have become part of the debate on government spending.'
+aS'But can he be a third center for a team?'
 p1267
-aS'They have been highlighted by many to illustrate a clear nationwide consequence of the $85 billion in government-wide cuts that took effect in March and may otherwise not be apparent to the public.'
+aS"... A young team can use a player like him in the locker room, and a real good team can use him in spots to give guys a breather and know the team isn't going to fall apart when he's on the court."
 p1268
-aS'Many Democrats miffed FAA cuts were reversed without concessions'
+aS'" Welts is not involved in player personnel decisions, but said: "If he can convince a coach and general manager that he can play and help their team, he\'ll have another job.'
 p1269
-asba(i__main__
-Document
+aS'...'
 p1270
-(dp1271
-g9
-(lp1272
-(lp1273
-S"Facing the prospect of at least another week of widespread flight delays, the House on Friday passed legislation to ease up the sequester's impact on the Federal Aviation Administration."
+aS"It'll all be what he can do on the court."
+p1271
+aS'" Q: At what point will announcements like Monday\'s no longer be news?'
+p1272
+aS'Zeigler: "I don\'t know at what point, whether it\'s No.'
+p1273
+aS'7 or 12 or 18, when the media has had enough of this story.'
 p1274
-aaS"The measure passed, and now goes to President Obama for his signature, in spite of grumblings from Democrats that Congress is alleviating the impact of sequestration on America's powerful air travelers while failing to address the strain it has had on programs like Meals on Wheels, Head Start and federal unemployment insurance."
+aS"We're not there yet."
 p1275
-aS'"We ought not to be mitigating the sequester\'s effect on just one segment when children, the sick, the military and many other groups" are ignored, House Democratic Whip Steny Hoyer, D-Md., said on the House floor.'
+aS"Gay people can't get married."
 p1276
-aS'"Let\'s deal with all the adverse consequences of sequester.'
+aS"I can't marry my partner of 10 years."
 p1277
-ag18
-asg19
-(lp1278
-S'"Consider that the Democrats opening position was they would only replace the sequester with tax increases," he wrote.'
+aS"When we have equal rights, and we're out and proud in every aspect of life, then I think we'll see that."
+p1278
+aS"But until then, it's still an issue."
 p1279
-aS'"By the first of this week Senator Reid proposed replacing the whole sequester with phony war savings.'
+aS'" Q: So what\'s the big picture takeaway?'
 p1280
-aS'And by last night, Senate Democrats were adopting our targeted "cut this, not that" approach.'
-p1281
-aS'This victory is in large part a result of our standing together under the banner of #Obamaflightdelay.'
+asg93
+(lp1281
+g1156
+ag1157
+aS'"He said, \'I\'m actually coming out. I\'m gay,\' " Madsen told USA TODAY Sports. "I said, \'Jason, thanks for letting me know. I got your back.\' "'
 p1282
-ag18
-asg25
-S'FAA furlough fix "good news" but "a band aid," W.H. says'
+aS'The two talked privately for a few minutes, Madsen said, before Collins began calling others in advance of a first-person Sports Illustrated story hitting the web.'
 p1283
-sg27
-S'http://www.cbsnews.com/8301-250_162-57581612/faa-furlough-fix-good-news-but-a-band-aid-w.h-says/'
+aS"FREE AGENCY: Collins' immediate NBA future"
 p1284
-sg29
-S'Facing the prospect of at least another week of widespread flight delays, the House on Friday passed legislation to ease up the sequester\'s impact on the Federal Aviation Administration. The measure passed, and now goes to President Obama for his signature, in spite of grumblings from Democrats that Congress is alleviating the impact of sequestration on America\'s powerful air travelers while failing to address the strain it has had on programs like Meals on Wheels, Head Start and federal unemployment insurance. "We ought not to be mitigating the sequester\'s effect on just one segment when children, the sick, the military and many other groups" are ignored, House Democratic Whip Steny Hoyer, D-Md., said on the House floor. "Let\'s deal with all the adverse consequences of sequester." The House passed the bill by a vote of 361 to 41, granting the FAA authority to use up to $253 million from various accounts to avoid reduced staffing and operations through Sept. 30. Because of the sequester -- the $85 billion in across-the-board budget cuts that went into effect in March -- the FAA on Sunday began furloughs of 47,000 employees, leading to flight significant delays. The bill passed Friday should avert those furloughs, as well as the closures of small airport towers. Congress faced pressure to act on the matter this week, before it leaves for a week-long recess. The Senate passed the legislation by unanimous consent late Thursday night after after hours of intense, closed-door negotiations. Obama administration officials participated in the talks, even though Mr. Obama has said he wants to replace the sequester with a comprehensive plan for deficit reduction that includes both new tax revenues and spending cuts. "The president believes it\'s good news to eliminate this problem," White House Spokesman Jay Carney said Friday as the House was voting on the bill. However, he added, Mr. Obama "believes this is a band-aid covering a massive wound to the economy" In response to a disappointing economic report released by the Commerce Department Friday, Alan Krueger, chairman of the White House Council of Economic Advisers, noted that the sequestration is slowing down the economic recovery. "These arbitrary and unnecessary cuts to government services will be a headwind in the months to come, and will cut key investments in the Nation\'s future competitiveness," he wrote in a White House blog post. "The Administration continues to urge Congress to replace the sequester with balanced deficit reduction, while working to put in place measures to put more Americans back to work, like rebuilding our roads and bridges and promoting American manufacturing." The GOP-led House has passed legislation to replace the sequester with other spending cuts, but they\'ve resisted the Democrats\' call for a "balanced approach" that would replace it with spending cuts and tax reforms. House Majority Leader Eric Cantor, R-Va., sent a letter to House Republicans Friday morning casting the FAA bill as a "victory" over the Democrats\' call for more tax revenues. "Consider that the Democrats opening position was they would only replace the sequester with tax increases," he wrote. "By the first of this week Senator Reid proposed replacing the whole sequester with phony war savings. And by last night, Senate Democrats were adopting our targeted "cut this, not that" approach. This victory is in large part a result of our standing together under the banner of #Obamaflightdelay."'
+aS'POSITIVE REACTION: Kobe, Clinton offer support'
 p1285
-sg31
-(lp1286
-(lp1287
-g34
-ag34
-ag34
-ag34
-ag35
-aa(lp1288
-g37
-ag38
-ag38
-ag39
-ag35
-aa(lp1289
-g38
-ag37
-ag34
-ag39
-ag35
-aa(lp1290
-g38
-ag37
-ag34
-ag39
-ag35
-aa(lp1291
-g38
-ag37
-ag34
-ag34
-ag35
-aasg43
-(lp1292
-S' The House passed the bill by a vote of 361 to 41, granting the FAA authority to use up to $253 million from various accounts to avoid reduced staffing and operations through Sept. 30.'
+aS"Collins will be a free agent this summer . Where he'll play next season, if he does, is one of many questions about the first openly gay male athlete in North American team sports while still an active player. Here are some others:"
+p1286
+aS'Q: Why is Collins a good fit for this role?'
+p1287
+aS'Cyd Zeigler, a manager of OutSports.com, a leading website on gay sports, has covered this issue for years.'
+p1288
+aS'"We\'ve talked about who this person could be in the past. And Jason kind of fits the mold. A really good player who\'s been in the league for a long time who doesn\'t have a lot to lose in endorsement deals. He is set for the rest of his life financially. I never thought it was going to be a superstar."'
+p1289
+aS'Q: Why is the timing right?'
+p1290
+aS'Zeigler has written before that the best time for an athlete to make such an announcement would be early in an offseason. Collins\' timing "just two weeks after his regular season ended, and six months before the season starts, it couldn\'t be a better time to do this. The media will get the story out of its system before tip-off of the next season."'
+p1291
+aS'BACKLASH: ESPN reporter calls Collins a sinner'
+p1292
+aS'BRENNAN: Just call Jason Collins a team player'
 p1293
-aS'Because of the sequester -- the $85 billion in across-the-board budget cuts that went into effect in March -- the FAA on Sunday began furloughs of 47,000 employees, leading to flight significant delays.'
+aS'Q: Are pro team sports ready to accept gay athletes in their locker rooms?'
 p1294
-aS'The bill passed Friday should avert those furloughs, as well as the closures of small airport towers.'
+aS'Madsen said he thinks NBA locker rooms are ready: "Do you respect others, how do you treat others and how do you play? Those are the rules of the locker room. Religion, ethnicity, sexual orientation ... all those things are secondary to the goal of winning basketball games. It\'s a meritocracy in the NBA. People perform or don\'t perform."'
 p1295
-aS'Congress faced pressure to act on the matter this week, before it leaves for a week-long recess.'
+aS'But Doug Plank, who played for the Chicago Bears in the \'70s and \'80s and coached in the NFL, said on Orlando radio this month: "Everybody tries to be politically correct ... especially people who operate in business and other public occupations. But you get inside an NFL locker room, I tell you what, it\'s something else. It\'s a jungle in there. ... Last time I was in an NFL locker room, changing clothes every day and getting ready to go out to practice, I just think that would be a very, very tough environment for someone to come forward and say they have different sexual orientation."'
 p1296
-aS'The Senate passed the legislation by unanimous consent late Thursday night after after hours of intense, closed-door negotiations.'
+aS'Outside the locker room "we\'ve certainly seen so much more acceptance," Plank said. "It\'s almost normal now. It\'s not a big issue. But there are still those last bastions that are left and sports is one of them. You get into a locker room with these type of individuals that are very, very driven and very physical, and I think it\'s still an issue."'
 p1297
-aS'Obama administration officials participated in the talks, even though Mr. Obama has said he wants to replace the sequester with a comprehensive plan for deficit reduction that includes both new tax revenues and spending cuts.'
+aS'VIDEO: WIZARDS OFFER STATEMENT OF SUPPORT'
 p1298
-aS'"The president believes it\'s good news to eliminate this problem," White House Spokesman Jay Carney said Friday as the House was voting on the bill.'
+aS'NBA player Jason Collins came out as the first openly gay professional athlete. His team, the Washington Wizards, made a statement supporting Collins.'
 p1299
-aS'However, he added, Mr. Obama "believes this is a band-aid covering a massive wound to the economy" In response to a disappointing economic report released by the Commerce Department Friday, Alan Krueger, chairman of the White House Council of Economic Advisers, noted that the sequestration is slowing down the economic recovery.'
+aS'Q: How did Collins make his announcement?'
 p1300
-aS'"These arbitrary and unnecessary cuts to government services will be a headwind in the months to come, and will cut key investments in the Nation\'s future competitiveness," he wrote in a White House blog post.'
+aS'Collins started his piece in SI , written with Franz Lidz, by writing: "I\'m a 34-year-old NBA center. I\'m black. And I\'m gay."'
 p1301
-aS'"The Administration continues to urge Congress to replace the sequester with balanced deficit reduction, while working to put in place measures to put more Americans back to work, like rebuilding our roads and bridges and promoting American manufacturing.'
+aS'Other excerpts: "I wish I wasn\'t the kid in the classroom raising his hand and saying, \'I\'m different.\' If I had my way, someone else would have already done this. Nobody has, which is why I\'m raising my hand. ... When I was younger I dated women. I even got engaged. I thought I had to live a certain way. I thought I needed to marry a woman and raise kids with her. I kept telling myself the sky was red, but I always knew it was blue."'
 p1302
-aS'" The GOP-led House has passed legislation to replace the sequester with other spending cuts, but they\'ve resisted the Democrats\' call for a "balanced approach" that would replace it with spending cuts and tax reforms.'
+aS'Later Monday, Collins tweeted: "All the support I have received today is truly inspirational. I knew that I was choosing the road less traveled but I\'m not walking it alone"'
 p1303
-aS'House Majority Leader Eric Cantor, R-Va., sent a letter to House Republicans Friday morning casting the FAA bill as a "victory" over the Democrats\' call for more tax revenues.'
+aS'"Thank you to everyone who has reached out to me thru email, texts, calls, tweets, letters, and every other form of communication #support."'
 p1304
-asg94
-(lp1305
-g1274
-ag1275
-aS'"We ought not to be mitigating the sequester\'s effect on just one segment when children, the sick, the military and many other groups" are ignored, House Democratic Whip Steny Hoyer, D-Md., said on the House floor. "Let\'s deal with all the adverse consequences of sequester."'
+aS'Q: What about his twin, Jarron, who also played in the NBA?'
+p1305
+aS'Jarron Collins also wrote a first-person piece for SI in which he said his brother told him last summer: "I won\'t lie. I had no idea. We talked, he answered my questions, I hugged him and I digested what he had told me. At the end of the day, this is what matters: He\'s my brother, he\'s a great guy, and I want him to be happy. I\'ll love him and I\'ll support him and, if necessary, I\'ll protect him."'
 p1306
-aS'The House passed the bill by a vote of 361 to 41, granting the FAA authority to use up to $253 million from various accounts to avoid reduced staffing and operations through Sept. 30. Because of the sequester -- the $85 billion in across-the-board budget cuts that went into effect in March -- the FAA on Sunday began furloughs of 47,000 employees, leading to flight significant delays. The bill passed Friday should avert those furloughs, as well as the closures of small airport towers.'
+aS"Q: Exactly what was it that ESPN's NBA insider Chris Broussard said on his network's Outside the Lines show?"
 p1307
-aS'Congress faced pressure to act on the matter this week, before it leaves for a week-long recess. The Senate passed the legislation by unanimous consent late Thursday night after after hours of intense, closed-door negotiations. Obama administration officials participated in the talks, even though Mr. Obama has said he wants to replace the sequester with a comprehensive plan for deficit reduction that includes both new tax revenues and spending cuts.'
+aS'"Personally I don\'t believe that you can live an openly homosexual lifestyle or ... openly (engage in) premarital sex between heterosexuals. If you\'re openly living that type of lifestyle, the Bible says you know them by their fruits, it says that\'s a sin. If you\'re openly living in unrepentant sin, whatever it may be, not just homosexuality, adultery, fornication, premarital sex between heterosexuals, whatever it may be. I think that\'s walking in open rebellion to God and to Jesus Christ."'
 p1308
-aS'"The president believes it\'s good news to eliminate this problem," White House Spokesman Jay Carney said Friday as the House was voting on the bill. However, he added, Mr. Obama "believes this is a band-aid covering a massive wound to the economy"'
+aS'OPEN: How leagues have prepared for a gay athlete'
 p1309
-aS'In response to a disappointing economic report released by the Commerce Department Friday, Alan Krueger, chairman of the White House Council of Economic Advisers, noted that the sequestration is slowing down the economic recovery.'
+aS'NOTEWORTHY: Five key quotes from Collins interview'
 p1310
-aS'"These arbitrary and unnecessary cuts to government services will be a headwind in the months to come, and will cut key investments in the Nation\'s future competitiveness," he wrote in a White House blog post. "The Administration continues to urge Congress to replace the sequester with balanced deficit reduction, while working to put in place measures to put more Americans back to work, like rebuilding our roads and bridges and promoting American manufacturing."'
+aS'Q: Charles Barkley also weighed in, on NBA TV. What did he say?'
 p1311
-aS'The GOP-led House has passed legislation to replace the sequester with other spending cuts, but they\'ve resisted the Democrats\' call for a "balanced approach" that would replace it with spending cuts and tax reforms. House Majority Leader Eric Cantor, R-Va., sent a letter to House Republicans Friday morning casting the FAA bill as a "victory" over the Democrats\' call for more tax revenues.'
+aS'"We\'ve all played with gay guys. We didn\'t treat them bad. ... For us to have an honest discussion, if guys don\'t like it, they should be able to say it and not get crucified."'
 p1312
-aS'"Consider that the Democrats opening position was they would only replace the sequester with tax increases," he wrote. "By the first of this week Senator Reid proposed replacing the whole sequester with phony war savings. And by last night, Senate Democrats were adopting our targeted "cut this, not that" approach. This victory is in large part a result of our standing together under the banner of #Obamaflightdelay."'
+aS"Q: Longtime NBA executive Rick Welts, who is now the president of the Golden State Warriors, disclosed publicly that he is gay two years ago. What was his take on Monday's news?"
 p1313
+aS'"This is such a personal thing to reach the point in your life where you\'re prepared to do this. I\'m very proud of him. It\'s a very, very courageous thing that he chose to do. I read the story. It came through that it was very authentic. ... He\'s somebody who didn\'t have the benefit of somebody going before him in the same situation to learn, to watch, to see how people would react. It takes a man of great courage to do what he did today. I\'m happy for him. He\'s going to be able to be the complete Jason Collins every day for the rest of his life.'
+p1314
+aS'"I think he probably knows what he signed up for. He\'s going to face a whole bunch more television cameras and reporters than he probably has over the course of the last couple seasons. But clearly, it\'s somebody who\'s given this a lot of thought. He\'s prepared for it and it\'s what he signed up for. There\'s been a lot of speculation about when, who, how (an athlete from any of the major sports would come out). And that speculation\'s been put to rest now and we\'ll always remember that Jason Collins was the first player to do this."'
+p1315
+aS'PHOTOS: WHO IS JASON COLLINS?'
+p1316
+aS"Q: Will Monday's news help or hurt Collins as a free agent?"
+p1317
+aS'"I don\'t think it will hurt him," Zeigler said. "There are very few front office executives who will look at somebody and say, \'He could help us, but because he\'s gay we don\'t want him.\' There will be some executives who see a marketing opportunity."'
+p1318
+aS'Veteran NBA executive Ed Stefanski was part of the then-New Jersey Nets front-office staff that drafted Jason Collins No. 18 in the first round in 2001. "His basketball IQ was off the chart," Stefanski said, adding he would be "very disappointed" if Collins\' announcement hurt his chances.'
+p1319
+aS'"He has done a good job getting his weight down," Stefanski said. "But can he be athletic enough? He\'s smart enough. But can he be a third center for a team? ... A young team can use a player like him in the locker room, and a real good team can use him in spots to give guys a breather and know the team isn\'t going to fall apart when he\'s on the court."'
+p1320
+aS'Welts is not involved in player personnel decisions, but said: "If he can convince a coach and general manager that he can play and help their team, he\'ll have another job. ... It\'ll all be what he can do on the court."'
+p1321
+aS"Q: At what point will announcements like Monday's no longer be news?"
+p1322
+aS'Zeigler: "I don\'t know at what point, whether it\'s No. 7 or 12 or 18, when the media has had enough of this story. We\'re not there yet. Gay people can\'t get married. I can\'t marry my partner of 10 years. When we have equal rights, and we\'re out and proud in every aspect of life, then I think we\'ll see that. But until then, it\'s still an issue."'
+p1323
+aS"Q: So what's the big picture takeaway?"
+p1324
+aS'"We\'re lagging behind where our society is on this issue," Welts said of men\'s pro team sports. "To some degree, we caught up a little bit today."'
+p1325
 asba(i__main__
 Document
-p1314
-(dp1315
-g9
-(lp1316
-(lp1317
-S'A bill that would end the Federal Aviation Administration\xe2\x80\x99s furlough on air traffic controllers is now on its way to President Obama to sign.'
-p1318
-aaS'On Friday, the House passed the measure 361-41.'
-p1319
-aS'\xc2\xa0'
-p1320
-asg19
-(lp1321
-S'The airlines, too, had Congress to restore the FAA to full staffing.'
-p1322
-aS'The Associated Press contributed to this report.\xc2\xa0'
-p1323
-asg25
-S'House passes bill to end FAA furloughs, now goes to Obama to sign | Fox News'
-p1324
-sg27
-S'http://www.foxnews.com/politics/2013/04/26/house-passes-bill-to-end-faa-furloughs-now-goes-to-obama-to-sign/'
-p1325
-sg29
-S'A bill that would end the Federal Aviation Administration\xe2\x80\x99s furlough on air traffic controllers is now on its way to President Obama to sign. On Friday, the House passed the measure 361-41. \xc2\xa0 On Thursday night, the Senate passed the legislation after most lawmakers had left the Capitol for a weeklong vacation.\xc2\xa0 Earlier this week, lawmakers from both parties urged the Obama administration to postpone or cancel the furlough of air traffic controllers, with some accusing the FAA of playing politics as the cuts contributed to massive delays at airports across the country. The furloughs went into effect Sunday, and the impact was felt almost immediately. The FAA reported more than 1,200 delays due to the sequester-tied cuts on Monday. On Tuesday, the agency reported "challenges" at airports in New York, Los Angeles, Las Vegas and the Dallas-Fort Worth area. On Wednesday, the FAA said there had been close to 900 flights delayed \xe2\x80\x9cattributable to staffing reductions resulting from the furlough.\xe2\x80\x9d The FAA claims the furloughs were unavoidable. But lawmakers say the agency could find the money elsewhere, by cutting spending on consultants and grant programs and in other areas.\xc2\xa0 Sen. Susan Collins, R-Maine, a key participant in the Senate-side talks, said the legislation would "prevent what otherwise would have been intolerable delays in the air travel system, inconveniencing travelers and hurting the economy." Senate approval followed several hours of pressure-filled, closed-door negotiations, and came after most senators had departed the Capitol on the assumption that the talks had fallen short Officials said a small group of senators insisted on a last-ditch effort at an agreement before Congress adjourned for a vacation that could have become politically problematic if the flight delays continued. "I want to do it right now. There are other senators you\'d have to ask what the hang-up is," Sen. Mark Udall, D-Colo., said at a point when it appeared no compromise would emerge. For the White House and Senate Democrats, the discussions on legislation relating to one relatively small slice of the $85 billion in spending cuts marked a shift in position in a long-running struggle with Republicans over budget issues. Similarly, the turn of events marked at least modest vindication of a decision by the House GOP last winter to finesse some budget struggles in order to focus public attention on the across-the-board cuts in hopes they would gain leverage over Obama. The Professional Aviation Safety Specialists, a union that represents FAA employees, reported a number of incidents it said were due to the furloughs. In one case, it said several flights headed for Long Island MacArthur Airport in New York were diverted on Wednesday when a piece of equipment failed. "While the policy for this equipment is immediate restoral, due to sequestration and furloughs it was changed to next-day restoral," the union said. It added it was "learning of additional impacts nationwide, including open watches, increased restoration times, delays resulting from insufficient funding for parts and equipment, modernization delays, missed or deferred preventative maintenance, and reduced redundancy." The airlines, too, had Congress to restore the FAA to full staffing. The Associated Press contributed to this report.\xc2\xa0'
 p1326
-sg31
-(lp1327
+(dp1327
+g9
 (lp1328
-g34
-ag38
-ag34
-aa(lp1329
-g37
-ag34
-ag38
-aa(lp1330
-g38
-ag34
-ag34
-aa(lp1331
-g37
-ag38
-ag34
-aa(lp1332
-g34
-ag38
-ag38
-aasg43
+S"WASHINGTON -- \n  Last summer, NBA veteran Jason Collins considered joining an old Stanford college roommate, U.S. Rep. Joseph Kennedy III, at Boston's gay pride parade."
+p1329
+aS"Collins eventually decided he shouldn't, because he wanted to keep his secret safe: For more than a decade as a professional athlete, he had remained silent about his sexuality, worried about what teammates, opponents, fans - the world, really - might think."
+p1330
+aS'Then came the Boston Marathon bombings two weeks ago, which Collins says "reinforced the notion that I shouldn\'t wait for the circumstances of my coming out to be perfect.'
+p1331
+aS'Things can change in an instant, so why not live truthfully?'
+p1332
+ag17
+asg18
 (lp1333
-S' Earlier this week, lawmakers from both parties urged the Obama administration to postpone or cancel the furlough of air traffic controllers, with some accusing the FAA of playing politics as the cuts contributed to massive delays at airports across the country.'
+S'In texts to the AP, Wizards guard Garrett Temple wrote, "I was surprised.'
 p1334
-aS'The furloughs went into effect Sunday, and the impact was felt almost immediately.'
+aS"I didn't know and I was right next to him in the locker room."
 p1335
-aS'The FAA reported more than 1,200 delays due to the sequester-tied cuts on Monday.'
+aS'It definitely took a lot of courage for him to come out.'
 p1336
-aS'On Tuesday, the agency reported "challenges" at airports in New York, Los Angeles, Las Vegas and the Dallas-Fort Worth area.'
+aS'He was a great teammate," and rookie Bradley Beal wrote: "I didn\'t know about it!'
 p1337
-aS'On Wednesday, the FAA said there had been close to 900 flights delayed \xe2\x80\x9cattributable to staffing reductions resulting from the furlough.\xe2\x80\x9d The FAA claims the furloughs were unavoidable.'
+aS"I don't think anyone did!"
 p1338
-aS'But lawmakers say the agency could find the money elsewhere, by cutting spending on consultants and grant programs and in other areas.\xc2\xa0 Sen. Susan Collins, R-Maine, a key participant in the Senate-side talks, said the legislation would "prevent what otherwise would have been intolerable delays in the air travel system, inconveniencing travelers and hurting the economy.'
+aS"I am proud of his decision to come out and express the way he feels and I'm supportive of that!!"
 p1339
-aS'" Senate approval followed several hours of pressure-filled, closed-door negotiations, and came after most senators had departed the Capitol on the assumption that the talks had fallen short Officials said a small group of senators insisted on a last-ditch effort at an agreement before Congress adjourned for a vacation that could have become politically problematic if the flight delays continued.'
+aS'" Collins\' coach with the Celtics, Doc Rivers, drew a comparison between Monday\'s announcement and Jackie Robinson\'s role when he joined the Brooklyn Dodgers in 1947, breaking the color barrier in Major League Baseball.'
 p1340
-aS'"I want to do it right now.'
+asg24
+S"WASHINGTON: 'I'm gay': NBA player Jason Collins breaks barrier - Miami Heat - MiamiHerald.com"
 p1341
-aS'There are other senators you\'d have to ask what the hang-up is," Sen. Mark Udall, D-Colo., said at a point when it appeared no compromise would emerge.'
+sg26
+S'http://www.miamiherald.com/2013/04/29/3370838/nba-veteran-jason-collins-comes.html'
 p1342
-aS'For the White House and Senate Democrats, the discussions on legislation relating to one relatively small slice of the $85 billion in spending cuts marked a shift in position in a long-running struggle with Republicans over budget issues.'
+sg28
+S'WASHINGTON -- \n  Last summer, NBA veteran Jason Collins considered joining an old Stanford college roommate, U.S. Rep. Joseph Kennedy III, at Boston\'s gay pride parade. Collins eventually decided he shouldn\'t, because he wanted to keep his secret safe: For more than a decade as a professional athlete, he had remained silent about his sexuality, worried about what teammates, opponents, fans - the world, really - might think. Then came the Boston Marathon bombings two weeks ago, which Collins says "reinforced the notion that I shouldn\'t wait for the circumstances of my coming out to be perfect. Things can change in an instant, so why not live truthfully?" So after having, he explains, "endured years of misery and gone to enormous lengths to live a lie," Collins became the first active player in one of the four major U.S. pro sports leagues to come out as gay. He wrote a first-person article posted Monday on Sports Illustrated\'s website that begins: "I\'m a 34-year-old NBA center. I\'m black. And I\'m gay." Most recently a little-used reserve center for the Washington Wizards after a midseason trade from the Boston Celtics, the 7-foot Collins is a free agent who can sign with any team. He wants to keep playing in the NBA. And he plans to be in Boston on June 8, marching alongside Kennedy at the city\'s 2013 gay pride parade. "I didn\'t doubt for a second, knowing he was gay, that he would be the one to do it," Kennedy, a Massachusetts Democrat, told The Associated Press. "I\'ve never known him to look for publicity, or to look for the spotlight, but given that no one else would raise their hand, I knew he would do it." Added Kennedy: "I\'m so proud of him. And I\'m so proud to call him a friend." In an interview taped Monday and aired Tuesday morning, Collins told ABC\'s "Good Morning America": "I think the country is ready for supporting an openly gay basketball player." His announcement Monday, nearly two weeks after the Wizards\' season ended, immediately drew praise and backing not only from pals, current and former teammates and coaches, the NBA itself, and a sponsor, but also from the White House. President Barack Obama called him - "he was incredibly supportive and he was proud of me," Collins told ABC - along with former President Bill Clinton, and athletes in various other sports. "I certainly appreciate it, as a gay person. Any time you can have someone this high-profile come out, it\'s just so helpful, particularly to young people. We\'ve reached a tipping point," said Billie Jean King, a member of the International Tennis Hall of Fame who won 12 Grand Slam singles titles. "We\'ve got to get rid of the shame. That\'s the main thing," King said in a telephone interview. "And Jason\'s going to help that. He\'s going to help give people courage to come out." In texts to the AP, Wizards guard Garrett Temple wrote, "I was surprised. I didn\'t know and I was right next to him in the locker room. It definitely took a lot of courage for him to come out. He was a great teammate," and rookie Bradley Beal wrote: "I didn\'t know about it! I don\'t think anyone did! I am proud of his decision to come out and express the way he feels and I\'m supportive of that!!" Collins\' coach with the Celtics, Doc Rivers, drew a comparison between Monday\'s announcement and Jackie Robinson\'s role when he joined the Brooklyn Dodgers in 1947, breaking the color barrier in Major League Baseball.'
 p1343
-aS'Similarly, the turn of events marked at least modest vindication of a decision by the House GOP last winter to finesse some budget struggles in order to focus public attention on the across-the-board cuts in hopes they would gain leverage over Obama.'
-p1344
-aS'The Professional Aviation Safety Specialists, a union that represents FAA employees, reported a number of incidents it said were due to the furloughs.'
-p1345
-aS'In one case, it said several flights headed for Long Island MacArthur Airport in New York were diverted on Wednesday when a piece of equipment failed.'
-p1346
-aS'"While the policy for this equipment is immediate restoral, due to sequestration and furloughs it was changed to next-day restoral," the union said.'
-p1347
-aS'It added it was "learning of additional impacts nationwide, including open watches, increased restoration times, delays resulting from insufficient funding for parts and equipment, modernization delays, missed or deferred preventative maintenance, and reduced redundancy.'
-p1348
-ag18
-asg94
-(lp1349
-g1318
-aS'On Friday, the House passed the measure 361-41. \xc2\xa0'
-p1350
-aS'On Thursday night, the Senate passed the legislation after most lawmakers had left the Capitol for a weeklong vacation.\xc2\xa0'
+sg30
+(lp1344
+(lp1345
+g34
+ag33
+ag33
+ag35
+ag36
+aa(lp1346
+g35
+ag35
+ag33
+ag40
+ag36
+aa(lp1347
+g33
+ag33
+ag34
+ag35
+ag36
+aa(lp1348
+g34
+ag33
+ag34
+ag33
+ag36
+aa(lp1349
+g35
+ag35
+ag34
+ag35
+ag36
+aasg42
+(lp1350
+S' So after having, he explains, "endured years of misery and gone to enormous lengths to live a lie," Collins became the first active player in one of the four major U.S. pro sports leagues to come out as gay.'
 p1351
-aS'Earlier this week, lawmakers from both parties urged the Obama administration to postpone or cancel the furlough of air traffic controllers, with some accusing the FAA of playing politics as the cuts contributed to massive delays at airports across the country.'
+aS'He wrote a first-person article posted Monday on Sports Illustrated\'s website that begins: "I\'m a 34-year-old NBA center.'
 p1352
-aS'The furloughs went into effect Sunday, and the impact was felt almost immediately.'
+aS"I'm black."
 p1353
-aS'The FAA reported more than 1,200 delays due to the sequester-tied cuts on Monday. On Tuesday, the agency reported "challenges" at airports in New York, Los Angeles, Las Vegas and the Dallas-Fort Worth area. On Wednesday, the FAA said there had been close to 900 flights delayed \xe2\x80\x9cattributable to staffing reductions resulting from the furlough.\xe2\x80\x9d'
+aS"And I'm gay."
 p1354
-aS'The FAA claims the furloughs were unavoidable. But lawmakers say the agency could find the money elsewhere, by cutting spending on consultants and grant programs and in other areas.\xc2\xa0'
+aS'" Most recently a little-used reserve center for the Washington Wizards after a midseason trade from the Boston Celtics, the 7-foot Collins is a free agent who can sign with any team.'
 p1355
-aS'Sen. Susan Collins, R-Maine, a key participant in the Senate-side talks, said the legislation would "prevent what otherwise would have been intolerable delays in the air travel system, inconveniencing travelers and hurting the economy."'
+aS'He wants to keep playing in the NBA.'
 p1356
-aS'Senate approval followed several hours of pressure-filled, closed-door negotiations, and came after most senators had departed the Capitol on the assumption that the talks had fallen short'
+aS"And he plans to be in Boston on June 8, marching alongside Kennedy at the city's 2013 gay pride parade."
 p1357
-aS'Officials said a small group of senators insisted on a last-ditch effort at an agreement before Congress adjourned for a vacation that could have become politically problematic if the flight delays continued.'
+aS'"I didn\'t doubt for a second, knowing he was gay, that he would be the one to do it," Kennedy, a Massachusetts Democrat, told The Associated Press.'
 p1358
-aS'"I want to do it right now. There are other senators you\'d have to ask what the hang-up is," Sen. Mark Udall, D-Colo., said at a point when it appeared no compromise would emerge.'
+aS'"I\'ve never known him to look for publicity, or to look for the spotlight, but given that no one else would raise their hand, I knew he would do it.'
 p1359
-aS'For the White House and Senate Democrats, the discussions on legislation relating to one relatively small slice of the $85 billion in spending cuts marked a shift in position in a long-running struggle with Republicans over budget issues. Similarly, the turn of events marked at least modest vindication of a decision by the House GOP last winter to finesse some budget struggles in order to focus public attention on the across-the-board cuts in hopes they would gain leverage over Obama.'
+aS'" Added Kennedy: "I\'m so proud of him.'
 p1360
-aS'The Professional Aviation Safety Specialists, a union that represents FAA employees, reported a number of incidents it said were due to the furloughs.'
+aS"And I'm so proud to call him a friend."
 p1361
-aS'In one case, it said several flights headed for Long Island MacArthur Airport in New York were diverted on Wednesday when a piece of equipment failed. "While the policy for this equipment is immediate restoral, due to sequestration and furloughs it was changed to next-day restoral," the union said.'
+aS'" In an interview taped Monday and aired Tuesday morning, Collins told ABC\'s "Good Morning America": "I think the country is ready for supporting an openly gay basketball player.'
 p1362
-aS'It added it was "learning of additional impacts nationwide, including open watches, increased restoration times, delays resulting from insufficient funding for parts and equipment, modernization delays, missed or deferred preventative maintenance, and reduced redundancy."'
+aS'" His announcement Monday, nearly two weeks after the Wizards\' season ended, immediately drew praise and backing not only from pals, current and former teammates and coaches, the NBA itself, and a sponsor, but also from the White House.'
 p1363
-aS'The airlines, too, had Congress to restore the FAA to full staffing.'
+aS'President Barack Obama called him - "he was incredibly supportive and he was proud of me," Collins told ABC - along with former President Bill Clinton, and athletes in various other sports.'
 p1364
-aS'The Associated Press contributed to this report.\xc2\xa0'
+aS'"I certainly appreciate it, as a gay person.'
 p1365
-asbasg451
-(lp1366
-g1027
-ag1074
-ag1101
-ag1157
-ag1198
-ag1237
-ag1284
-ag1325
-asg453
-(dp1367
+aS"Any time you can have someone this high-profile come out, it's just so helpful, particularly to young people."
+p1366
+aS'We\'ve reached a tipping point," said Billie Jean King, a member of the International Tennis Hall of Fame who won 12 Grand Slam singles titles.'
+p1367
+aS'"We\'ve got to get rid of the shame.'
+p1368
+aS'That\'s the main thing," King said in a telephone interview.'
+p1369
+aS'"And Jason\'s going to help that.'
+p1370
+aS"He's going to help give people courage to come out."
+p1371
+ag17
+asg93
+(lp1372
+g1329
+ag1330
+aS'Then came the Boston Marathon bombings two weeks ago, which Collins says "reinforced the notion that I shouldn\'t wait for the circumstances of my coming out to be perfect. Things can change in an instant, so why not live truthfully?"'
+p1373
+aS'So after having, he explains, "endured years of misery and gone to enormous lengths to live a lie," Collins became the first active player in one of the four major U.S. pro sports leagues to come out as gay. He wrote a first-person article posted Monday on Sports Illustrated\'s website that begins: "I\'m a 34-year-old NBA center. I\'m black. And I\'m gay."'
+p1374
+aS'Most recently a little-used reserve center for the Washington Wizards after a midseason trade from the Boston Celtics, the 7-foot Collins is a free agent who can sign with any team. He wants to keep playing in the NBA.'
+p1375
+aS"And he plans to be in Boston on June 8, marching alongside Kennedy at the city's 2013 gay pride parade."
+p1376
+aS'"I didn\'t doubt for a second, knowing he was gay, that he would be the one to do it," Kennedy, a Massachusetts Democrat, told The Associated Press. "I\'ve never known him to look for publicity, or to look for the spotlight, but given that no one else would raise their hand, I knew he would do it."'
+p1377
+aS'Added Kennedy: "I\'m so proud of him. And I\'m so proud to call him a friend."'
+p1378
+aS'In an interview taped Monday and aired Tuesday morning, Collins told ABC\'s "Good Morning America": "I think the country is ready for supporting an openly gay basketball player."'
+p1379
+aS'His announcement Monday, nearly two weeks after the Wizards\' season ended, immediately drew praise and backing not only from pals, current and former teammates and coaches, the NBA itself, and a sponsor, but also from the White House. President Barack Obama called him - "he was incredibly supportive and he was proud of me," Collins told ABC - along with former President Bill Clinton, and athletes in various other sports.'
+p1380
+aS'"I certainly appreciate it, as a gay person. Any time you can have someone this high-profile come out, it\'s just so helpful, particularly to young people. We\'ve reached a tipping point," said Billie Jean King, a member of the International Tennis Hall of Fame who won 12 Grand Slam singles titles.'
+p1381
+aS'"We\'ve got to get rid of the shame. That\'s the main thing," King said in a telephone interview. "And Jason\'s going to help that. He\'s going to help give people courage to come out."'
+p1382
+aS'In texts to the AP, Wizards guard Garrett Temple wrote, "I was surprised. I didn\'t know and I was right next to him in the locker room. It definitely took a lot of courage for him to come out. He was a great teammate," and rookie Bradley Beal wrote: "I didn\'t know about it! I don\'t think anyone did! I am proud of his decision to come out and express the way he feels and I\'m supportive of that!!"'
+p1383
+aS"Collins' coach with the Celtics, Doc Rivers, drew a comparison between Monday's announcement and Jackie Robinson's role when he joined the Brooklyn Dodgers in 1947, breaking the color barrier in Major League Baseball."
+p1384
+asba(i__main__
+Document
+p1385
+(dp1386
+g9
+(lp1387
+S'In 12 seasons as an N.B.A.'
+p1388
+aS'player, Jason Collins has never been an All-Star or a scoring leader or even a full-time starter, but on Monday he shattered one of the last great barriers in professional sports.'
+p1389
+aS'\xe2\x80\x9cI\xe2\x80\x99m a 34-year-old N.B.A.'
+p1390
+aS'center.'
+p1391
+aS'I\xe2\x80\x99m black and I\xe2\x80\x99m gay,\xe2\x80\x9d Collins, who finished this season with the Washington Wizards, writes in the May 6 edition of Sports Illustrated .'
+p1392
+aS'The magazine published the article online Monday morning.'
+p1393
+asg18
+(lp1394
+S'\xe2\x80\x9cI want to do the right thing and not hide anymore,\xe2\x80\x9d Collins wrote.'
+p1395
+aS'\xe2\x80\x9cI want to march for tolerance, acceptance and understanding.'
+p1396
+aS'I want to take a stand and say, \xe2\x80\x98Me, too.\xe2\x80\x99\xc2\xa0\xe2\x80\x9d'
+p1397
+asg24
+S'With the Words \xe2\x80\x98I\xe2\x80\x99m Gay,\xe2\x80\x99 an N.B.A. Center Breaks a Barrier'
+p1398
+sg26
+S'http://www.nytimes.com/2013/04/30/sports/basketball/nba-center-jason-collins-comes-out-as-gay.html?pagewanted=all'
+p1399
+sg28
+S'In 12 seasons as an N.B.A. player, Jason Collins has never been an All-Star or a scoring leader or even a full-time starter, but on Monday he shattered one of the last great barriers in professional sports. \xe2\x80\x9cI\xe2\x80\x99m a 34-year-old N.B.A. center. I\xe2\x80\x99m black and I\xe2\x80\x99m gay,\xe2\x80\x9d Collins, who finished this season with the Washington Wizards, writes in the May 6 edition of Sports Illustrated . The magazine published the article online Monday morning. With that statement, Collins became the first openly gay male athlete who is still active in a major American team sport. Other gay athletes, including the former N.B.A. center John Amaechi, have waited until retirement to divulge their sexuality publicly. The announcement followed recent decisions by two other athletes \xe2\x80\x94 the American soccer player Robbie Rogers and the women\xe2\x80\x99s basketball player Brittney Griner \xe2\x80\x94 to acknowledge that they are gay. When Rogers, 25, revealed last month that he was gay, he also said he was retiring from soccer. (He has since indicated he may play again.) Griner, the No. 1 pick in the W.N.B.A. draft, will soon embark on her professional career. Collins\xe2\x80\x99s announcement was greeted with an outpouring of support from teammates, league executives and major National Basketball Association stars, Kobe Bryant and Dwyane Wade among them. \xe2\x80\x9cProud of @jasoncollins34,\xe2\x80\x9d Bryant, the Los Angeles Lakers star, wrote on his Twitter account. \xe2\x80\x9cDon\xe2\x80\x99t suffocate who u r because of the ignorance of others.\xe2\x80\x9d Bryant added two hashtags: \xe2\x80\x9ccourage\xe2\x80\x9d and \xe2\x80\x9csupport.\xe2\x80\x9d Some of the league\xe2\x80\x99s biggest names followed suit, including the Lakers\xe2\x80\x99 Steve Nash, Oklahoma City\xe2\x80\x99s Kevin Durant, the Knicks\xe2\x80\x99 Jason Kidd and San Antonio\xe2\x80\x99s Tony Parker. Several teams sent out statements of support. Prominent coaches, including Boston\xe2\x80\x99s Doc Rivers, who has worked with Collins, gave support in interviews. However, one National Football League player, Mike Wallace of the Miami Dolphins, posted a comment on Twitter: \xe2\x80\x9cAll these beautiful women in the world and guys wanna mess with other guys.\xe2\x80\x9d He later deleted the comment and issued an apology. And on ESPN, the N.B.A. analyst Chris Broussard, citing his religious beliefs, said that living openly as a homosexual was a sin and that doing so was \xe2\x80\x9cwalking in open rebellion to God and to Jesus Christ.\xe2\x80\x9d But those comments were greatly outweighed by the supportive ones Collins received, particularly from his N.B.A. peers. \xe2\x80\x9cThe overwhelming positive reaction does not surprise me,\xe2\x80\x9d N.B.A. Commissioner David Stern said in a telephone interview. \xe2\x80\x9cOur players are actually knowledgeable and sophisticated on this issue, and our teams understand it completely. I would have expected them to be supportive, and they are.\xe2\x80\x9d President Obama called Collins \xe2\x80\x9cto express his support and said he was impressed by his courage,\xe2\x80\x9d according to a Twitter post from the White House. Michelle Obama, on her account, called Collins\xe2\x80\x99s announcement \xe2\x80\x9ca huge step forward for our country.\xe2\x80\x9d Collins becomes a free agent July 1 and intends to pursue another contract, which might be viewed as a truer test for how N.B.A. teams deal with a gay athlete. However, complicating that question is the fact that Collins, at 34, is a marginal player with limited skills, more valued for his locker-room presence than his play and not at the top of anyone\xe2\x80\x99s list of players to sign. He appeared in just 38 games this season, which he split between the Boston Celtics and the Wizards, and was used sparingly. Collins was never among the most skilled centers to begin with, instead relying on his size (7 feet, 255 pounds), intelligence and work ethic to carve out a niche after being drafted 18th over all in 2001. In his Sports Illustrated essay, Collins alludes to his future in the league: \xe2\x80\x9cI\xe2\x80\x99ve reached that enviable state in life in which I can do pretty much what I want. And what I want is to continue to play basketball. I still love the game, and I still have something to offer. My coaches and teammates recognize that. At the same time, I want to be genuine and authentic and truthful.\xe2\x80\x9d One N.B.A. scout estimated that Collins had a 25 percent chance of making an opening-night roster next season, based solely on his basketball skills. But a general manager for another team predicted that Collins would be back in the league because of his reputation as a solid teammate and leader. That general manager said that Collins\xe2\x80\x99s disclosure of his sexuality could even appeal to a forward-thinking owner. Dave Kopay, who came out as gay in 1975 after a nine-year N.F.L. career, said on Monday he had waited nearly 40 years for this moment. \xe2\x80\x9cWhat he did is not easy,\xe2\x80\x9d Kopay said. \xe2\x80\x9cAnd I\xe2\x80\x99m overwhelmed with how he\xe2\x80\x99s done this. I\xe2\x80\x99m so, so happy right now.\xe2\x80\x9d Amaechi, who announced that he was gay after a five-year N.B.A. career, called Collins\xe2\x80\x99s public declaration \xe2\x80\x9cundoubtedly groundbreaking.\xe2\x80\x9d \xe2\x80\x9cWe are unusually blessed to have such an eloquent spokesman,\xe2\x80\x9d Amaechi said in a phone interview from England, where he lives. \xe2\x80\x9cWhen I say \xe2\x80\x98we,\xe2\x80\x99 I mean society, as opposed to just gay people. Anybody who has ever interviewed Jason knows he is not just your average athlete. He\xe2\x80\x99s cerebral, thoughtful, kind \xe2\x80\x94 so many things that many athletes are not enough of. Add this authentic declaration on top of things, it makes him one of the perfect role models for our young people.\xe2\x80\x9d Amaechi was among several gay-rights advocates who said it mattered whether Collins played next season. \xe2\x80\x9cIf he\xe2\x80\x99s not on a team, he\xe2\x80\x99s just another guy who did it at the end of his career, and he retired,\xe2\x80\x9d said Jim Buzinski, a co-founder of Outsports, a Web site devoted to gays and sports. \xe2\x80\x9cUntil we see him walking onto a court, in either a starting lineup or in a backup role off the bench, and there\xe2\x80\x99s that anticipation that Jason Collins is going to step on the floor \xe2\x80\x94 it\xe2\x80\x99s not going to matter as much until that moment. That\xe2\x80\x99s what everyone is waiting for.\xe2\x80\x9d Until now, Collins\xe2\x80\x99s only public hint of his orientation was a subtle one. He wore No. 98 for the Celtics and the Wizards, in honor of Matthew Shepard, the gay University of Wyoming student who was killed in 1998. \xe2\x80\x9cThe number has great significance to the gay community,\xe2\x80\x9d Collins wrote. Collins informed his Wizards teammates, as well as Stern, in a series of phone calls Monday morning, before the story was published online. One Wizards teammate, Emeka Okafor, said that if Collins returned to Washington, \xe2\x80\x9cwe\xe2\x80\x99ll welcome him back with open arms.\xe2\x80\x9d \xe2\x80\x9cHe\xe2\x80\x99s still the same guy,\xe2\x80\x9d Okafor said. \xe2\x80\x9cHe\xe2\x80\x99s just let us know more about him.\xe2\x80\x9d Collins grew up in the Los Angeles suburbs and played college basketball at Stanford. As a professional, Collins has averaged a modest 3.6 points and 3.8 rebounds a game while playing for six teams. He spent most of his first seven seasons with the Nets, helping them reach the finals in 2002 and 2003. But Collins kept his sexuality deeply hidden. In an accompanying essay in Sports Illustrated, Collins\xe2\x80\x99s twin brother, Jarron \xe2\x80\x94 a former N.B.A. center who now scouts for the Los Angeles Clippers \xe2\x80\x94 wrote that he \xe2\x80\x9chad no idea\xe2\x80\x9d that Jason was gay until Jason told him last summer. Collins\xe2\x80\x99s announcement also surprised his closest friends, including Mark Madsen, who played three years with Collins at Stanford and another season in the N.B.A., with the Minnesota Timberwolves. Madsen was among the people Collins called Monday morning. \xe2\x80\x9cI would say one of Jason\xe2\x80\x99s amazing characteristics is he has always been unafraid to express his opinion,\xe2\x80\x9d Madsen said in a telephone interview, adding, \xe2\x80\x9cHe\xe2\x80\x99s not going to be afraid of anything, really.\xe2\x80\x9d The Nets\xe2\x80\x99 Jerry Stackhouse said that Collins, his teammate for one season in Atlanta, was the perfect individual \xe2\x80\x9cto carry the flag for other players.\xe2\x80\x9d \xe2\x80\x9cThe fact that Jason\xe2\x80\x99s been in the league for 12 years and has had so many different teammates, he\xe2\x80\x99s got people to vouch for him,\xe2\x80\x9d Stackhouse said. All of the major sports leagues have been preparing, to various degrees, for the moment when an active player comes out. The N.F.L., amid speculation that a handful of players were preparing to make the move en masse, has been working with gay advocacy groups to smooth the way for acceptance. The National Hockey League also recently announced a comprehensive program for training and counseling on gay issues for its teams and players. The N.B.A. has long included education in this area in its rookie and its veteran development programs. In his article, Collins wrote that he considered coming out a couple of years ago. He said he made the decision to do so when Joseph P. Kennedy III, Collins\xe2\x80\x99s roommate at Stanford, marched in Boston\xe2\x80\x99s gay pride parade last year. Collins said he was envious and frustrated. \xe2\x80\x9cI want to do the right thing and not hide anymore,\xe2\x80\x9d Collins wrote. \xe2\x80\x9cI want to march for tolerance, acceptance and understanding. I want to take a stand and say, \xe2\x80\x98Me, too.\xe2\x80\x99\xc2\xa0\xe2\x80\x9d'
+p1400
+sg30
+(lp1401
+(lp1402
+g35
+ag33
+ag35
+ag35
+ag34
+ag36
+aa(lp1403
+g35
+ag33
+ag34
+ag40
+ag34
+ag35
+aa(lp1404
+g35
+ag34
+ag35
+ag40
+ag33
+ag35
+aa(lp1405
+g34
+ag34
+ag34
+ag35
+ag34
+ag34
+aa(lp1406
+g34
+ag40
+ag35
+ag35
+ag40
+ag35
+aasg42
+(lp1407
+S' The announcement followed recent decisions by two other athletes \xe2\x80\x94 the American soccer player Robbie Rogers and the women\xe2\x80\x99s basketball player Brittney Griner \xe2\x80\x94 to acknowledge that they are gay.'
+p1408
+aS'When Rogers, 25, revealed last month that he was gay, he also said he was retiring from soccer.'
+p1409
+aS'(He has since indicated he may play again.'
+p1410
+aS') Griner, the No.'
+p1411
+aS'1 pick in the W.N.B.A.'
+p1412
+aS'draft, will soon embark on her professional career.'
+p1413
+aS'Collins\xe2\x80\x99s announcement was greeted with an outpouring of support from teammates, league executives and major National Basketball Association stars, Kobe Bryant and Dwyane Wade among them.'
+p1414
+aS'\xe2\x80\x9cProud of @jasoncollins34,\xe2\x80\x9d Bryant, the Los Angeles Lakers star, wrote on his Twitter account.'
+p1415
+aS'\xe2\x80\x9cDon\xe2\x80\x99t suffocate who u r because of the ignorance of others.\xe2\x80\x9d Bryant added two hashtags: \xe2\x80\x9ccourage\xe2\x80\x9d and \xe2\x80\x9csupport.\xe2\x80\x9d Some of the league\xe2\x80\x99s biggest names followed suit, including the Lakers\xe2\x80\x99 Steve Nash, Oklahoma City\xe2\x80\x99s Kevin Durant, the Knicks\xe2\x80\x99 Jason Kidd and San Antonio\xe2\x80\x99s Tony Parker.'
+p1416
+aS'Several teams sent out statements of support.'
+p1417
+aS'Prominent coaches, including Boston\xe2\x80\x99s Doc Rivers, who has worked with Collins, gave support in interviews.'
+p1418
+aS'However, one National Football League player, Mike Wallace of the Miami Dolphins, posted a comment on Twitter: \xe2\x80\x9cAll these beautiful women in the world and guys wanna mess with other guys.\xe2\x80\x9d He later deleted the comment and issued an apology.'
+p1419
+aS'And on ESPN, the N.B.A.'
+p1420
+aS'analyst Chris Broussard, citing his religious beliefs, said that living openly as a homosexual was a sin and that doing so was \xe2\x80\x9cwalking in open rebellion to God and to Jesus Christ.\xe2\x80\x9d But those comments were greatly outweighed by the supportive ones Collins received, particularly from his N.B.A.'
+p1421
+aS'peers.'
+p1422
+aS'\xe2\x80\x9cThe overwhelming positive reaction does not surprise me,\xe2\x80\x9d N.B.A.'
+p1423
+aS'Commissioner David Stern said in a telephone interview.'
+p1424
+aS'\xe2\x80\x9cOur players are actually knowledgeable and sophisticated on this issue, and our teams understand it completely.'
+p1425
+aS'I would have expected them to be supportive, and they are.\xe2\x80\x9d President Obama called Collins \xe2\x80\x9cto express his support and said he was impressed by his courage,\xe2\x80\x9d according to a Twitter post from the White House.'
+p1426
+aS'Michelle Obama, on her account, called Collins\xe2\x80\x99s announcement \xe2\x80\x9ca huge step forward for our country.\xe2\x80\x9d Collins becomes a free agent July 1 and intends to pursue another contract, which might be viewed as a truer test for how N.B.A.'
+p1427
+aS'teams deal with a gay athlete.'
+p1428
+aS'However, complicating that question is the fact that Collins, at 34, is a marginal player with limited skills, more valued for his locker-room presence than his play and not at the top of anyone\xe2\x80\x99s list of players to sign.'
+p1429
+aS'He appeared in just 38 games this season, which he split between the Boston Celtics and the Wizards, and was used sparingly.'
+p1430
+aS'Collins was never among the most skilled centers to begin with, instead relying on his size (7 feet, 255 pounds), intelligence and work ethic to carve out a niche after being drafted 18th over all in 2001.'
+p1431
+aS'In his Sports Illustrated essay, Collins alludes to his future in the league: \xe2\x80\x9cI\xe2\x80\x99ve reached that enviable state in life in which I can do pretty much what I want.'
+p1432
+aS'And what I want is to continue to play basketball.'
+p1433
+aS'I still love the game, and I still have something to offer.'
+p1434
+aS'My coaches and teammates recognize that.'
+p1435
+aS'At the same time, I want to be genuine and authentic and truthful.\xe2\x80\x9d One N.B.A.'
+p1436
+aS'scout estimated that Collins had a 25 percent chance of making an opening-night roster next season, based solely on his basketball skills.'
+p1437
+aS'But a general manager for another team predicted that Collins would be back in the league because of his reputation as a solid teammate and leader.'
+p1438
+aS'That general manager said that Collins\xe2\x80\x99s disclosure of his sexuality could even appeal to a forward-thinking owner.'
+p1439
+aS'Dave Kopay, who came out as gay in 1975 after a nine-year N.F.L.'
+p1440
+aS'career, said on Monday he had waited nearly 40 years for this moment.'
+p1441
+aS'\xe2\x80\x9cWhat he did is not easy,\xe2\x80\x9d Kopay said.'
+p1442
+aS'\xe2\x80\x9cAnd I\xe2\x80\x99m overwhelmed with how he\xe2\x80\x99s done this.'
+p1443
+aS'I\xe2\x80\x99m so, so happy right now.\xe2\x80\x9d Amaechi, who announced that he was gay after a five-year N.B.A.'
+p1444
+aS'career, called Collins\xe2\x80\x99s public declaration \xe2\x80\x9cundoubtedly groundbreaking.\xe2\x80\x9d \xe2\x80\x9cWe are unusually blessed to have such an eloquent spokesman,\xe2\x80\x9d Amaechi said in a phone interview from England, where he lives.'
+p1445
+aS'\xe2\x80\x9cWhen I say \xe2\x80\x98we,\xe2\x80\x99 I mean society, as opposed to just gay people.'
+p1446
+aS'Anybody who has ever interviewed Jason knows he is not just your average athlete.'
+p1447
+aS'He\xe2\x80\x99s cerebral, thoughtful, kind \xe2\x80\x94 so many things that many athletes are not enough of.'
+p1448
+aS'Add this authentic declaration on top of things, it makes him one of the perfect role models for our young people.\xe2\x80\x9d Amaechi was among several gay-rights advocates who said it mattered whether Collins played next season.'
+p1449
+aS'\xe2\x80\x9cIf he\xe2\x80\x99s not on a team, he\xe2\x80\x99s just another guy who did it at the end of his career, and he retired,\xe2\x80\x9d said Jim Buzinski, a co-founder of Outsports, a Web site devoted to gays and sports.'
+p1450
+aS'\xe2\x80\x9cUntil we see him walking onto a court, in either a starting lineup or in a backup role off the bench, and there\xe2\x80\x99s that anticipation that Jason Collins is going to step on the floor \xe2\x80\x94 it\xe2\x80\x99s not going to matter as much until that moment.'
+p1451
+aS'That\xe2\x80\x99s what everyone is waiting for.\xe2\x80\x9d Until now, Collins\xe2\x80\x99s only public hint of his orientation was a subtle one.'
+p1452
+aS'He wore No.'
+p1453
+aS'98 for the Celtics and the Wizards, in honor of Matthew Shepard, the gay University of Wyoming student who was killed in 1998.'
+p1454
+aS'\xe2\x80\x9cThe number has great significance to the gay community,\xe2\x80\x9d Collins wrote.'
+p1455
+aS'Collins informed his Wizards teammates, as well as Stern, in a series of phone calls Monday morning, before the story was published online.'
+p1456
+aS'One Wizards teammate, Emeka Okafor, said that if Collins returned to Washington, \xe2\x80\x9cwe\xe2\x80\x99ll welcome him back with open arms.\xe2\x80\x9d \xe2\x80\x9cHe\xe2\x80\x99s still the same guy,\xe2\x80\x9d Okafor said.'
+p1457
+aS'\xe2\x80\x9cHe\xe2\x80\x99s just let us know more about him.\xe2\x80\x9d Collins grew up in the Los Angeles suburbs and played college basketball at Stanford.'
+p1458
+aS'As a professional, Collins has averaged a modest 3.6 points and 3.8 rebounds a game while playing for six teams.'
+p1459
+aS'He spent most of his first seven seasons with the Nets, helping them reach the finals in 2002 and 2003.'
+p1460
+aS'But Collins kept his sexuality deeply hidden.'
+p1461
+aS'In an accompanying essay in Sports Illustrated, Collins\xe2\x80\x99s twin brother, Jarron \xe2\x80\x94 a former N.B.A.'
+p1462
+aS'center who now scouts for the Los Angeles Clippers \xe2\x80\x94 wrote that he \xe2\x80\x9chad no idea\xe2\x80\x9d that Jason was gay until Jason told him last summer.'
+p1463
+aS'Collins\xe2\x80\x99s announcement also surprised his closest friends, including Mark Madsen, who played three years with Collins at Stanford and another season in the N.B.A., with the Minnesota Timberwolves.'
+p1464
+aS'Madsen was among the people Collins called Monday morning.'
+p1465
+aS'\xe2\x80\x9cI would say one of Jason\xe2\x80\x99s amazing characteristics is he has always been unafraid to express his opinion,\xe2\x80\x9d Madsen said in a telephone interview, adding, \xe2\x80\x9cHe\xe2\x80\x99s not going to be afraid of anything, really.\xe2\x80\x9d The Nets\xe2\x80\x99 Jerry Stackhouse said that Collins, his teammate for one season in Atlanta, was the perfect individual \xe2\x80\x9cto carry the flag for other players.\xe2\x80\x9d \xe2\x80\x9cThe fact that Jason\xe2\x80\x99s been in the league for 12 years and has had so many different teammates, he\xe2\x80\x99s got people to vouch for him,\xe2\x80\x9d Stackhouse said.'
+p1466
+aS'All of the major sports leagues have been preparing, to various degrees, for the moment when an active player comes out.'
+p1467
+aS'The N.F.L., amid speculation that a handful of players were preparing to make the move en masse, has been working with gay advocacy groups to smooth the way for acceptance.'
+p1468
+aS'The National Hockey League also recently announced a comprehensive program for training and counseling on gay issues for its teams and players.'
+p1469
+aS'The N.B.A.'
+p1470
+aS'has long included education in this area in its rookie and its veteran development programs.'
+p1471
+aS'In his article, Collins wrote that he considered coming out a couple of years ago.'
+p1472
+aS'He said he made the decision to do so when Joseph P. Kennedy III, Collins\xe2\x80\x99s roommate at Stanford, marched in Boston\xe2\x80\x99s gay pride parade last year.'
+p1473
+aS'Collins said he was envious and frustrated.'
+p1474
+asg93
+(lp1475
+S'In 12 seasons as an N.B.A. player, Jason Collins has never been an All-Star or a scoring leader or even a full-time starter, but on Monday he shattered one of the last great barriers in professional sports.'
+p1476
+aS'\xe2\x80\x9cI\xe2\x80\x99m a 34-year-old N.B.A. center. I\xe2\x80\x99m black and I\xe2\x80\x99m gay,\xe2\x80\x9d Collins, who finished this season with the Washington Wizards, writes in the May 6 edition of Sports Illustrated . The magazine published the article online Monday morning.'
+p1477
+aS'With that statement, Collins became the first openly gay male athlete who is still active in a major American team sport. Other gay athletes, including the former N.B.A. center John Amaechi, have waited until retirement to divulge their sexuality publicly.'
+p1478
+aS'The announcement followed recent decisions by two other athletes \xe2\x80\x94 the American soccer player Robbie Rogers and the women\xe2\x80\x99s basketball player Brittney Griner \xe2\x80\x94 to acknowledge that they are gay. When Rogers, 25, revealed last month that he was gay, he also said he was retiring from soccer. (He has since indicated he may play again.) Griner, the No. 1 pick in the W.N.B.A. draft, will soon embark on her professional career.'
+p1479
+aS'Collins\xe2\x80\x99s announcement was greeted with an outpouring of support from teammates, league executives and major National Basketball Association stars, Kobe Bryant and Dwyane Wade among them.'
+p1480
+aS'\xe2\x80\x9cProud of @jasoncollins34,\xe2\x80\x9d Bryant, the Los Angeles Lakers star, wrote on his Twitter account. \xe2\x80\x9cDon\xe2\x80\x99t suffocate who u r because of the ignorance of others.\xe2\x80\x9d Bryant added two hashtags: \xe2\x80\x9ccourage\xe2\x80\x9d and \xe2\x80\x9csupport.\xe2\x80\x9d'
+p1481
+aS'Some of the league\xe2\x80\x99s biggest names followed suit, including the Lakers\xe2\x80\x99 Steve Nash, Oklahoma City\xe2\x80\x99s Kevin Durant, the Knicks\xe2\x80\x99 Jason Kidd and San Antonio\xe2\x80\x99s Tony Parker. Several teams sent out statements of support. Prominent coaches, including Boston\xe2\x80\x99s Doc Rivers, who has worked with Collins, gave support in interviews.'
+p1482
+aS'However, one National Football League player, Mike Wallace of the Miami Dolphins, posted a comment on Twitter: \xe2\x80\x9cAll these beautiful women in the world and guys wanna mess with other guys.\xe2\x80\x9d He later deleted the comment and issued an apology.'
+p1483
+aS'And on ESPN, the N.B.A. analyst Chris Broussard, citing his religious beliefs, said that living openly as a homosexual was a sin and that doing so was \xe2\x80\x9cwalking in open rebellion to God and to Jesus Christ.\xe2\x80\x9d'
+p1484
+aS'But those comments were greatly outweighed by the supportive ones Collins received, particularly from his N.B.A. peers.'
+p1485
+aS'\xe2\x80\x9cThe overwhelming positive reaction does not surprise me,\xe2\x80\x9d N.B.A. Commissioner David Stern said in a telephone interview. \xe2\x80\x9cOur players are actually knowledgeable and sophisticated on this issue, and our teams understand it completely. I would have expected them to be supportive, and they are.\xe2\x80\x9d'
+p1486
+aS'President Obama called Collins \xe2\x80\x9cto express his support and said he was impressed by his courage,\xe2\x80\x9d according to a Twitter post from the White House. Michelle Obama, on her account, called Collins\xe2\x80\x99s announcement \xe2\x80\x9ca huge step forward for our country.\xe2\x80\x9d'
+p1487
+aS'Collins becomes a free agent July 1 and intends to pursue another contract, which might be viewed as a truer test for how N.B.A. teams deal with a gay athlete. However, complicating that question is the fact that Collins, at 34, is a marginal player with limited skills, more valued for his locker-room presence than his play and not at the top of anyone\xe2\x80\x99s list of players to sign. He appeared in just 38 games this season, which he split between the Boston Celtics and the Wizards, and was used sparingly.'
+p1488
+aS'Collins was never among the most skilled centers to begin with, instead relying on his size (7 feet, 255 pounds), intelligence and work ethic to carve out a niche after being drafted 18th over all in 2001.'
+p1489
+aS'In his Sports Illustrated essay, Collins alludes to his future in the league: \xe2\x80\x9cI\xe2\x80\x99ve reached that enviable state in life in which I can do pretty much what I want. And what I want is to continue to play basketball. I still love the game, and I still have something to offer. My coaches and teammates recognize that. At the same time, I want to be genuine and authentic and truthful.\xe2\x80\x9d'
+p1490
+aS'One N.B.A. scout estimated that Collins had a 25 percent chance of making an opening-night roster next season, based solely on his basketball skills. But a general manager for another team predicted that Collins would be back in the league because of his reputation as a solid teammate and leader. That general manager said that Collins\xe2\x80\x99s disclosure of his sexuality could even appeal to a forward-thinking owner.'
+p1491
+aS'Dave Kopay, who came out as gay in 1975 after a nine-year N.F.L. career, said on Monday he had waited nearly 40 years for this moment. \xe2\x80\x9cWhat he did is not easy,\xe2\x80\x9d Kopay said. \xe2\x80\x9cAnd I\xe2\x80\x99m overwhelmed with how he\xe2\x80\x99s done this. I\xe2\x80\x99m so, so happy right now.\xe2\x80\x9d'
+p1492
+aS'Amaechi, who announced that he was gay after a five-year N.B.A. career, called Collins\xe2\x80\x99s public declaration \xe2\x80\x9cundoubtedly groundbreaking.\xe2\x80\x9d'
+p1493
+aS'\xe2\x80\x9cWe are unusually blessed to have such an eloquent spokesman,\xe2\x80\x9d Amaechi said in a phone interview from England, where he lives. \xe2\x80\x9cWhen I say \xe2\x80\x98we,\xe2\x80\x99 I mean society, as opposed to just gay people. Anybody who has ever interviewed Jason knows he is not just your average athlete. He\xe2\x80\x99s cerebral, thoughtful, kind \xe2\x80\x94 so many things that many athletes are not enough of. Add this authentic declaration on top of things, it makes him one of the perfect role models for our young people.\xe2\x80\x9d'
+p1494
+aS'Amaechi was among several gay-rights advocates who said it mattered whether Collins played next season.'
+p1495
+aS'\xe2\x80\x9cIf he\xe2\x80\x99s not on a team, he\xe2\x80\x99s just another guy who did it at the end of his career, and he retired,\xe2\x80\x9d said Jim Buzinski, a co-founder of Outsports, a Web site devoted to gays and sports. \xe2\x80\x9cUntil we see him walking onto a court, in either a starting lineup or in a backup role off the bench, and there\xe2\x80\x99s that anticipation that Jason Collins is going to step on the floor \xe2\x80\x94 it\xe2\x80\x99s not going to matter as much until that moment. That\xe2\x80\x99s what everyone is waiting for.\xe2\x80\x9d'
+p1496
+aS'Until now, Collins\xe2\x80\x99s only public hint of his orientation was a subtle one. He wore No. 98 for the Celtics and the Wizards, in honor of Matthew Shepard, the gay University of Wyoming student who was killed in 1998. \xe2\x80\x9cThe number has great significance to the gay community,\xe2\x80\x9d Collins wrote.'
+p1497
+aS'Collins informed his Wizards teammates, as well as Stern, in a series of phone calls Monday morning, before the story was published online. One Wizards teammate, Emeka Okafor, said that if Collins returned to Washington, \xe2\x80\x9cwe\xe2\x80\x99ll welcome him back with open arms.\xe2\x80\x9d'
+p1498
+aS'\xe2\x80\x9cHe\xe2\x80\x99s still the same guy,\xe2\x80\x9d Okafor said. \xe2\x80\x9cHe\xe2\x80\x99s just let us know more about him.\xe2\x80\x9d'
+p1499
+aS'Collins grew up in the Los Angeles suburbs and played college basketball at Stanford. As a professional, Collins has averaged a modest 3.6 points and 3.8 rebounds a game while playing for six teams. He spent most of his first seven seasons with the Nets, helping them reach the finals in 2002 and 2003.'
+p1500
+aS'But Collins kept his sexuality deeply hidden. In an accompanying essay in Sports Illustrated, Collins\xe2\x80\x99s twin brother, Jarron \xe2\x80\x94 a former N.B.A. center who now scouts for the Los Angeles Clippers \xe2\x80\x94 wrote that he \xe2\x80\x9chad no idea\xe2\x80\x9d that Jason was gay until Jason told him last summer.'
+p1501
+aS'Collins\xe2\x80\x99s announcement also surprised his closest friends, including Mark Madsen, who played three years with Collins at Stanford and another season in the N.B.A., with the Minnesota Timberwolves. Madsen was among the people Collins called Monday morning.'
+p1502
+aS'\xe2\x80\x9cI would say one of Jason\xe2\x80\x99s amazing characteristics is he has always been unafraid to express his opinion,\xe2\x80\x9d Madsen said in a telephone interview, adding, \xe2\x80\x9cHe\xe2\x80\x99s not going to be afraid of anything, really.\xe2\x80\x9d'
+p1503
+aS'The Nets\xe2\x80\x99 Jerry Stackhouse said that Collins, his teammate for one season in Atlanta, was the perfect individual \xe2\x80\x9cto carry the flag for other players.\xe2\x80\x9d'
+p1504
+aS'\xe2\x80\x9cThe fact that Jason\xe2\x80\x99s been in the league for 12 years and has had so many different teammates, he\xe2\x80\x99s got people to vouch for him,\xe2\x80\x9d Stackhouse said.'
+p1505
+aS'All of the major sports leagues have been preparing, to various degrees, for the moment when an active player comes out. The N.F.L., amid speculation that a handful of players were preparing to make the move en masse, has been working with gay advocacy groups to smooth the way for acceptance. The National Hockey League also recently announced a comprehensive program for training and counseling on gay issues for its teams and players. The N.B.A. has long included education in this area in its rookie and its veteran development programs.'
+p1506
+aS'In his article, Collins wrote that he considered coming out a couple of years ago. He said he made the decision to do so when Joseph P. Kennedy III, Collins\xe2\x80\x99s roommate at Stanford, marched in Boston\xe2\x80\x99s gay pride parade last year. Collins said he was envious and frustrated.'
+p1507
+aS'\xe2\x80\x9cI want to do the right thing and not hide anymore,\xe2\x80\x9d Collins wrote. \xe2\x80\x9cI want to march for tolerance, acceptance and understanding. I want to take a stand and say, \xe2\x80\x98Me, too.\xe2\x80\x99\xc2\xa0\xe2\x80\x9d'
+p1508
+asba(i__main__
+Document
+p1509
+(dp1510
+g9
+(lp1511
+S'NBA center and Harvard-Westlake School graduate Jason Collins came out Monday as the first active gay athlete in a major professional sport.'
+p1512
+aS'The 34-year-old Los Angeles native who helped lead Harvard-Westlake to two state championships in the 1990s with his twin brother, announced his sexual orientation in the May 6 issue of Sports Illustrated .'
+p1513
+aS'\xe2\x80\x9cI wish I wasn\xe2\x80\x99t the kid in the classroom raising his hand and saying, \xe2\x80\x98I\xe2\x80\x99m different,\xe2\x80\x99 \xe2\x80\x9d Collins wrote.'
+p1514
+aS'\xe2\x80\x9cIf I had my way, someone else would have already done this.'
+p1515
+aS'Nobody has, which is why I\xe2\x80\x99m raising my hand.\xe2\x80\x9d'
+p1516
+asg18
+(lp1517
+S'twitter.com/josephserna joseph.serna@latimes.com'
+p1518
+asg24
+S"'I'm gay': Jason Collins, L.A. native, hopes for best, plans for worst"
+p1519
+sg26
+S'http://www.latimes.com/local/lanow/la-me-ln-jason-collins-gay-20130429,0,6662860.story'
+p1520
+sg28
+S"NBA center and Harvard-Westlake School graduate Jason Collins came out Monday as the first active gay athlete in a major professional sport. The 34-year-old Los Angeles native who helped lead Harvard-Westlake to two state championships in the 1990s with his twin brother, announced his sexual orientation in the May 6 issue of Sports Illustrated . \xe2\x80\x9cI wish I wasn\xe2\x80\x99t the kid in the classroom raising his hand and saying, \xe2\x80\x98I\xe2\x80\x99m different,\xe2\x80\x99 \xe2\x80\x9d Collins wrote. \xe2\x80\x9cIf I had my way, someone else would have already done this. Nobody has, which is why I\xe2\x80\x99m raising my hand.\xe2\x80\x9d PHOTOS: NBC center Jason Collins Collins is the first active athlete to come out as gay in professional basketball, baseball, football or hockey. Others have come out as gay after they\xe2\x80\x99ve retired, but never when they may still have to be in the locker room with teammates. \xe2\x80\x9cI\xe2\x80\x99ve been asked how other players will respond to my announcement,\xe2\x80\x9d Collins wrote in the magazine. \xe2\x80\x9cThe simple answer is, I have no idea. ... I hope for the best, but plan for the worst.\xe2\x80\x9d Homosexuality in men\xe2\x80\x99s professional sports -- particularly in the NBA -- has only been a topic for the last few years. In 2007, former player John Amaechi was the first former player to come out. In the last couple of years, the topic has come up in the NFL . Minnesota Vikings punter Chris Kluwe and Baltimore Ravens linebacker Brendon Ayanbadejo have been at the forefront of the conversation, with each filing amicus curiae briefs to the U.S. Supreme Court advocating for gay marriage. ALSO: 1 killed, 2 wounded in early morning L.A. shootings Police find fingerprints at scene of 8-year-old girl's killing L.A. Votes: Record-breaking spending as voters pick next mayor twitter.com/josephserna joseph.serna@latimes.com"
+p1521
+sg30
+(lp1522
+(lp1523
+g33
+ag33
+ag33
+ag34
+ag33
+aa(lp1524
+g34
+ag33
+ag34
+ag34
+ag35
+aa(lp1525
+g33
+ag34
+ag40
+ag35
+ag40
+aasg42
+(lp1526
+S' PHOTOS: NBC center Jason Collins Collins is the first active athlete to come out as gay in professional basketball, baseball, football or hockey.'
+p1527
+aS'Others have come out as gay after they\xe2\x80\x99ve retired, but never when they may still have to be in the locker room with teammates.'
+p1528
+aS'\xe2\x80\x9cI\xe2\x80\x99ve been asked how other players will respond to my announcement,\xe2\x80\x9d Collins wrote in the magazine.'
+p1529
+aS'\xe2\x80\x9cThe simple answer is, I have no idea.'
+p1530
+aS'...'
+p1531
+aS'I hope for the best, but plan for the worst.\xe2\x80\x9d Homosexuality in men\xe2\x80\x99s professional sports -- particularly in the NBA -- has only been a topic for the last few years.'
+p1532
+aS'In 2007, former player John Amaechi was the first former player to come out.'
+p1533
+aS'In the last couple of years, the topic has come up in the NFL .'
+p1534
+aS'Minnesota Vikings punter Chris Kluwe and Baltimore Ravens linebacker Brendon Ayanbadejo have been at the forefront of the conversation, with each filing amicus curiae briefs to the U.S. Supreme Court advocating for gay marriage.'
+p1535
+aS"ALSO: 1 killed, 2 wounded in early morning L.A. shootings Police find fingerprints at scene of 8-year-old girl's killing L.A."
+p1536
+aS'Votes: Record-breaking spending as voters pick next mayor'
+p1537
+asg93
+(lp1538
+g1512
+ag1513
+aS'\xe2\x80\x9cI wish I wasn\xe2\x80\x99t the kid in the classroom raising his hand and saying, \xe2\x80\x98I\xe2\x80\x99m different,\xe2\x80\x99 \xe2\x80\x9d Collins wrote. \xe2\x80\x9cIf I had my way, someone else would have already done this. Nobody has, which is why I\xe2\x80\x99m raising my hand.\xe2\x80\x9d'
+p1539
+aS'PHOTOS: NBC center Jason Collins'
+p1540
+aS'Collins is the first active athlete to come out as gay in professional basketball, baseball, football or hockey. Others have come out as gay after they\xe2\x80\x99ve retired, but never when they may still have to be in the locker room with teammates.'
+p1541
+aS'\xe2\x80\x9cI\xe2\x80\x99ve been asked how other players will respond to my announcement,\xe2\x80\x9d Collins wrote in the magazine. \xe2\x80\x9cThe simple answer is, I have no idea. ... I hope for the best, but plan for the worst.\xe2\x80\x9d'
+p1542
+aS'Homosexuality in men\xe2\x80\x99s professional sports -- particularly in the NBA -- has only been a topic for the last few years. In 2007, former player John Amaechi was the first former player to come out.'
+p1543
+aS'In the last couple of years, the topic has come up in the NFL . Minnesota Vikings punter Chris Kluwe and Baltimore Ravens linebacker Brendon Ayanbadejo have been at the forefront of the conversation, with each filing amicus curiae briefs to the U.S. Supreme Court advocating for gay marriage.'
+p1544
+aS'ALSO:'
+p1545
+aS'1 killed, 2 wounded in early morning L.A. shootings'
+p1546
+aS"Police find fingerprints at scene of 8-year-old girl's killing"
+p1547
+aS'L.A. Votes: Record-breaking spending as voters pick next mayor'
+p1548
+aS'twitter.com/josephserna'
+p1549
+aS'joseph.serna@latimes.com'
+p1550
+asba(i__main__
+Document
+p1551
+(dp1552
+g9
+(lp1553
+S"Jason Collins, who played with the NBA's Boston Celtics and Washington Wizards this season, has disclosed that he is gay, making him the first active openly gay male athlete in the four major American pro team sports."
+p1554
+aS'The center, who said he is now a free agent, made the disclosure in a column appearing in the upcoming issue of Sports Illustrated .'
+p1555
+aS'"I didn\'t set out to be the first openly gay athlete playing in a major American team sport.'
+p1556
+aS"But since I am, I'm happy to start the conversation."
+p1557
+aS"I wish I wasn't the kid in the classroom raising his hand and saying, 'I'm different."
+p1558
+aS"' If I had my way, someone else would have already done this."
+p1559
+aS'Nobody has, which is why I\'m raising my hand," he wrote.'
+p1560
+asg18
+(lp1561
+S'Brittney Griner, the No.'
+p1562
+aS"1 pick in this year's WNBA draft, recently said in an interview with Sports Illustrated that she is gay."
+p1563
+aS"Griner finished her college career as the NCAA's all-time leading shot-blocker with 748 and as the No."
+p1564
+aS'2 all-time scorer with 3,283 points.'
+p1565
+aS'Opinion: Openly gay player is not a distraction'
+p1566
+asg24
+S"NBA's Jason Collins comes out as gay"
+p1567
+sg26
+S'http://www.cnn.com/2013/04/29/sport/collins-gay/index.html?hpt=hp_t3'
+p1568
+sg28
+S'Jason Collins, who played with the NBA\'s Boston Celtics and Washington Wizards this season, has disclosed that he is gay, making him the first active openly gay male athlete in the four major American pro team sports. The center, who said he is now a free agent, made the disclosure in a column appearing in the upcoming issue of Sports Illustrated . "I didn\'t set out to be the first openly gay athlete playing in a major American team sport. But since I am, I\'m happy to start the conversation. I wish I wasn\'t the kid in the classroom raising his hand and saying, \'I\'m different.\' If I had my way, someone else would have already done this. Nobody has, which is why I\'m raising my hand," he wrote. Collins also wrote that the killing of three people at the Boston Marathon persuaded him to make an announcement. Things can change in a moment, so why not start living more truthfully, he wrote. On Twitter, Collins thanked everyone who sent him messages of support. "All the support I have received today is truly inspirational. I knew that I was choosing the road less traveled but I\'m not walking it alone," he wrote . Sports Illustrated\'s managing editor said Collins was reticent about being a flag bearer. Spike Lee slams the Collins hate machine "It is a much simpler, more personal reason. He wants to have a family," Chris Stone told CNN. "He wants the same life that his twin brother, Jarron, has. This is a secret he\'s kept for a very long time. He didn\'t even inform his brother that he was gay until late last summer. ... So much for twin telepathy." Jarron, who played in the NBA for 10 seasons and was Jason\'s teammate at Stanford, tweeted to his brother: "Very proud of you." "Jason Collins has forever changed the face of sports," said the Human Rights Campaign, a civil rights group fighting for gay rights. It likened the announcement to Jackie Robinson, the first African-American to play in major league baseball in the modern era. NBA\'s first openly gay player "At a time when millions are reflecting on the life and legacy of Jackie Robinson, Jason Collins is a hero for our own times," the group said. Former NBA player Charles Barkley, now an analyst for "Inside the NBA" on TNT, told CNN on Monday night that active players shouldn\'t be surprised that a teammate is gay. "I think anybody who thinks they never played with a gay player is an idiot," he said on "AC360." "I played with several gay players. It\'s their own business, and I think they should get to be who they want to be." Collins is a 7-footer who has played with six NBA teams -- the Wizards, Celtics, Atlanta Hawks, Minnesota Timberwolves, Memphis Grizzlies and New Jersey Nets -- over the past 12 seasons. He has averaged 3.6 points and 3.8 rebounds in 713 career games, and he has had a great deal of playoff experience with the Nets (who have since moved to Brooklyn) and the Hawks. Momentum had been growing in recent months for an active player in the National Football League, National Hockey League, National Basketball Association or Major League Baseball to come out. Just a few weeks ago, the NHL announced a new program teaching tolerance and giving support to gay athletes. Commissioner Gary Bettman said the agreement made the NHL\'s policy of inclusiveness "clear and unequivocal." "While we believe that our actions in the past have shown our support for the LGBT community, we are delighted to reaffirm through this joint venture with the NHL Players\' Association that the official policy of the NHL is one of inclusion on the ice, in our locker rooms and in the stands," Bettman said in the joint statement with You Can Play. And NFL player Brendon Ayanbadejo, The New York Times reported, has been in contact with closeted players in several sports. "What we\'re trying to facilitate is to get them together and do what they want to do, do what is right for them," he told the Times. Collins paves way for gay athletes In February, former professional soccer player Robbie Rogers announced on his blog that he is gay. His former U.S. teammates showed solidarity in response to the news. Though reaction to Collins\' announcement also was overwhelming support, not everyone had a positive response. ESPN basketball analyst Chris Broussard said the Bible calls homosexuality a sin. "If you\'re openly living in unrepentant sin, whatever it may be, not just homosexuality, adultery, fornication, premarital sex between heterosexuals, whatever it may be. I think that\'s walking in open rebellion to God and to Jesus Christ," he said. NFL receiver Mike Wallace tweeted Monday: "All these beautiful women in the world and guys wanna mess with other guys SMH." He tweeted again, saying he was being misinterpreted. "Never said anything was right or wrong I just said I don\'t understand!! Deeply sorry for anyone that I offended," he wrote. The Dolphins, Wallace\'s employer, issued a statement saying the team has spoken with Wallace about the tweets. The team said it will address its policy of inclusion with all of its players. NBA Commissioner David Stern said Collins, a 34-year-old veteran, is widely respected in the league. "We are proud he has assumed the leadership mantle on this very important issue," he said in a statement. Washington Wizards President Ernie Grunfeld said the team is "extremely proud of Jason and support his decision to live his life proudly and openly." "He has been a leader on and off the court and an outstanding teammate throughout his NBA career. Those qualities will continue to serve him both as a player and as a positive role model for others of all sexual orientations," Grunfeld said. Boston Celtics head coach Doc Rivers called Collins "a pro\'s pro" and one of his favorite players he ever coached. "If you have learned anything from Jackie Robinson, it is that teammates are always the first to accept," Rivers said. "It will be society who has to learn tolerance." Bill Clinton called the announcement an "important moment for professional sports and in the history of the LGBT community." Clintons welcome announcement from friend Jason Collins Collins, who had been traded by the Celtics to the Wizards this season, wrote in his essay that U.S. Rep. Joe Kennedy, D-Massachusetts, helped prompt his decision to come out as gay. Kennedy and Collins were roommates at Stanford. He recounts hearing about Kennedy, who is not gay, marching in Boston\'s Gay Pride Parade. "For as long as I\'ve known Jason Collins he has been defined by three things: his passion for the sport he loves, his unwavering integrity, and the biggest heart you will ever find," Kennedy said. "I\'m proud to stand with him today and proud to call him a friend." President Barack Obama called Collins "to express his support and said he was impressed by his courage," a White House official said. Active players posted their approval on Twitter. The Los Angeles Lakers\' Kobe Bryant said: "Proud of @jasoncollins34. Don\'t suffocate who u r because of the ignorance of others." Steve Nash, also a Laker, said: "The time has come. Maximum respect." Two Wizards players, Garrett Temple and Bradley Beal, said in tweets they were "proud" of Collins. "Much respect to my teammate," Temple said. "Great teammate, mentor and better person," said Beal. Collins\' announcement comes after the end of the Wizards\' season, and he is no longer under contract. He is an "old" player by NBA standards who has never been a star. So will he play in the NBA this fall? ESPN.com said only six of 14 team officials reached for an unofficial poll Monday thought he would be back in the league. If he does return, he probably will play only a few minutes a game for a team that needs a veteran leader, the other executives told ESPN.com. Twitter reacts to the revelation Some male athletes have come out as gay after they\'ve left professional sports. One is John Amaechi, a former NBA player. Amaechi told CNN he hopes Collins will be a catalyst for a wider acceptance of openly gay athletes, saying he believes Collins is better equipped than anyone who came before him to handle the attention that will come his way. But it may take more, Amaechi said. People like to believe one iconic figure can change things, he said, "but the reality is that when there\'s this tipping point, or enough people coming together deciding that change is necessary, that\'s when change happens." The Women\'s National Basketball Association, the women\'s pro league, has had its share of milestones and openness as far as gays are concerned. In 2005, Sheryl Swoopes, a top player in the WNBA, announced she was gay. Brittney Griner, the No. 1 pick in this year\'s WNBA draft, recently said in an interview with Sports Illustrated that she is gay. Griner finished her college career as the NCAA\'s all-time leading shot-blocker with 748 and as the No. 2 all-time scorer with 3,283 points. Opinion: Openly gay player is not a distraction'
+p1569
+sg30
+(lp1570
+(lp1571
+g33
+ag40
+ag35
+ag40
+ag35
+ag34
+ag40
+aa(lp1572
+g33
+ag35
+ag34
+ag35
+ag33
+ag34
+ag33
+aa(lp1573
+g34
+ag35
+ag34
+ag35
+ag40
+ag34
+ag35
+aa(lp1574
+g33
+ag34
+ag34
+ag35
+ag40
+ag35
+ag34
+aa(lp1575
+g34
+ag34
+ag34
+ag34
+ag34
+ag34
+ag34
+aasg42
+(lp1576
+S' Collins also wrote that the killing of three people at the Boston Marathon persuaded him to make an announcement.'
+p1577
+aS'Things can change in a moment, so why not start living more truthfully, he wrote.'
+p1578
+aS'On Twitter, Collins thanked everyone who sent him messages of support.'
+p1579
+aS'"All the support I have received today is truly inspirational.'
+p1580
+aS'I knew that I was choosing the road less traveled but I\'m not walking it alone," he wrote .'
+p1581
+aS"Sports Illustrated's managing editor said Collins was reticent about being a flag bearer."
+p1582
+aS'Spike Lee slams the Collins hate machine "It is a much simpler, more personal reason.'
+p1583
+aS'He wants to have a family," Chris Stone told CNN.'
+p1584
+aS'"He wants the same life that his twin brother, Jarron, has.'
+p1585
+aS"This is a secret he's kept for a very long time."
+p1586
+aS"He didn't even inform his brother that he was gay until late last summer."
+p1587
+aS'...'
+p1588
+aS'So much for twin telepathy.'
+p1589
+aS'" Jarron, who played in the NBA for 10 seasons and was Jason\'s teammate at Stanford, tweeted to his brother: "Very proud of you.'
+p1590
+aS'" "Jason Collins has forever changed the face of sports," said the Human Rights Campaign, a civil rights group fighting for gay rights.'
+p1591
+aS'It likened the announcement to Jackie Robinson, the first African-American to play in major league baseball in the modern era.'
+p1592
+aS'NBA\'s first openly gay player "At a time when millions are reflecting on the life and legacy of Jackie Robinson, Jason Collins is a hero for our own times," the group said.'
+p1593
+aS'Former NBA player Charles Barkley, now an analyst for "Inside the NBA" on TNT, told CNN on Monday night that active players shouldn\'t be surprised that a teammate is gay.'
+p1594
+aS'"I think anybody who thinks they never played with a gay player is an idiot," he said on "AC360.'
+p1595
+aS'" "I played with several gay players.'
+p1596
+aS"It's their own business, and I think they should get to be who they want to be."
+p1597
+aS'" Collins is a 7-footer who has played with six NBA teams -- the Wizards, Celtics, Atlanta Hawks, Minnesota Timberwolves, Memphis Grizzlies and New Jersey Nets -- over the past 12 seasons.'
+p1598
+aS'He has averaged 3.6 points and 3.8 rebounds in 713 career games, and he has had a great deal of playoff experience with the Nets (who have since moved to Brooklyn) and the Hawks.'
+p1599
+aS'Momentum had been growing in recent months for an active player in the National Football League, National Hockey League, National Basketball Association or Major League Baseball to come out.'
+p1600
+aS'Just a few weeks ago, the NHL announced a new program teaching tolerance and giving support to gay athletes.'
+p1601
+aS'Commissioner Gary Bettman said the agreement made the NHL\'s policy of inclusiveness "clear and unequivocal.'
+p1602
+aS'" "While we believe that our actions in the past have shown our support for the LGBT community, we are delighted to reaffirm through this joint venture with the NHL Players\' Association that the official policy of the NHL is one of inclusion on the ice, in our locker rooms and in the stands," Bettman said in the joint statement with You Can Play.'
+p1603
+aS'And NFL player Brendon Ayanbadejo, The New York Times reported, has been in contact with closeted players in several sports.'
+p1604
+aS'"What we\'re trying to facilitate is to get them together and do what they want to do, do what is right for them," he told the Times.'
+p1605
+aS'Collins paves way for gay athletes In February, former professional soccer player Robbie Rogers announced on his blog that he is gay.'
+p1606
+aS'His former U.S. teammates showed solidarity in response to the news.'
+p1607
+aS"Though reaction to Collins' announcement also was overwhelming support, not everyone had a positive response."
+p1608
+aS'ESPN basketball analyst Chris Broussard said the Bible calls homosexuality a sin.'
+p1609
+aS'"If you\'re openly living in unrepentant sin, whatever it may be, not just homosexuality, adultery, fornication, premarital sex between heterosexuals, whatever it may be.'
+p1610
+aS'I think that\'s walking in open rebellion to God and to Jesus Christ," he said.'
+p1611
+aS'NFL receiver Mike Wallace tweeted Monday: "All these beautiful women in the world and guys wanna mess with other guys SMH.'
+p1612
+aS'" He tweeted again, saying he was being misinterpreted.'
+p1613
+aS'"Never said anything was right or wrong I just said I don\'t understand!!'
+p1614
+aS'Deeply sorry for anyone that I offended," he wrote.'
+p1615
+aS"The Dolphins, Wallace's employer, issued a statement saying the team has spoken with Wallace about the tweets."
+p1616
+aS'The team said it will address its policy of inclusion with all of its players.'
+p1617
+aS'NBA Commissioner David Stern said Collins, a 34-year-old veteran, is widely respected in the league.'
+p1618
+aS'"We are proud he has assumed the leadership mantle on this very important issue," he said in a statement.'
+p1619
+aS'Washington Wizards President Ernie Grunfeld said the team is "extremely proud of Jason and support his decision to live his life proudly and openly.'
+p1620
+aS'" "He has been a leader on and off the court and an outstanding teammate throughout his NBA career.'
+p1621
+aS'Those qualities will continue to serve him both as a player and as a positive role model for others of all sexual orientations," Grunfeld said.'
+p1622
+aS'Boston Celtics head coach Doc Rivers called Collins "a pro\'s pro" and one of his favorite players he ever coached.'
+p1623
+aS'"If you have learned anything from Jackie Robinson, it is that teammates are always the first to accept," Rivers said.'
+p1624
+aS'"It will be society who has to learn tolerance.'
+p1625
+aS'" Bill Clinton called the announcement an "important moment for professional sports and in the history of the LGBT community.'
+p1626
+aS'" Clintons welcome announcement from friend Jason Collins Collins, who had been traded by the Celtics to the Wizards this season, wrote in his essay that U.S. Rep. Joe Kennedy, D-Massachusetts, helped prompt his decision to come out as gay.'
+p1627
+aS'Kennedy and Collins were roommates at Stanford.'
+p1628
+aS"He recounts hearing about Kennedy, who is not gay, marching in Boston's Gay Pride Parade."
+p1629
+aS'"For as long as I\'ve known Jason Collins he has been defined by three things: his passion for the sport he loves, his unwavering integrity, and the biggest heart you will ever find," Kennedy said.'
+p1630
+aS'"I\'m proud to stand with him today and proud to call him a friend.'
+p1631
+aS'" President Barack Obama called Collins "to express his support and said he was impressed by his courage," a White House official said.'
+p1632
+aS'Active players posted their approval on Twitter.'
+p1633
+aS'The Los Angeles Lakers\' Kobe Bryant said: "Proud of @jasoncollins34.'
+p1634
+aS"Don't suffocate who u r because of the ignorance of others."
+p1635
+aS'" Steve Nash, also a Laker, said: "The time has come.'
+p1636
+aS'Maximum respect.'
+p1637
+aS'" Two Wizards players, Garrett Temple and Bradley Beal, said in tweets they were "proud" of Collins.'
+p1638
+aS'"Much respect to my teammate," Temple said.'
+p1639
+aS'"Great teammate, mentor and better person," said Beal.'
+p1640
+aS"Collins' announcement comes after the end of the Wizards' season, and he is no longer under contract."
+p1641
+aS'He is an "old" player by NBA standards who has never been a star.'
+p1642
+aS'So will he play in the NBA this fall?'
+p1643
+aS'ESPN.com said only six of 14 team officials reached for an unofficial poll Monday thought he would be back in the league.'
+p1644
+aS'If he does return, he probably will play only a few minutes a game for a team that needs a veteran leader, the other executives told ESPN.com.'
+p1645
+aS"Twitter reacts to the revelation Some male athletes have come out as gay after they've left professional sports."
+p1646
+aS'One is John Amaechi, a former NBA player.'
+p1647
+aS'Amaechi told CNN he hopes Collins will be a catalyst for a wider acceptance of openly gay athletes, saying he believes Collins is better equipped than anyone who came before him to handle the attention that will come his way.'
+p1648
+aS'But it may take more, Amaechi said.'
+p1649
+aS'People like to believe one iconic figure can change things, he said, "but the reality is that when there\'s this tipping point, or enough people coming together deciding that change is necessary, that\'s when change happens.'
+p1650
+aS'" The Women\'s National Basketball Association, the women\'s pro league, has had its share of milestones and openness as far as gays are concerned.'
+p1651
+aS'In 2005, Sheryl Swoopes, a top player in the WNBA, announced she was gay.'
+p1652
+asg93
+(lp1653
+g1554
+ag1555
+aS'"I didn\'t set out to be the first openly gay athlete playing in a major American team sport. But since I am, I\'m happy to start the conversation. I wish I wasn\'t the kid in the classroom raising his hand and saying, \'I\'m different.\' If I had my way, someone else would have already done this. Nobody has, which is why I\'m raising my hand," he wrote.'
+p1654
+aS'Collins also wrote that the killing of three people at the Boston Marathon persuaded him to make an announcement. Things can change in a moment, so why not start living more truthfully, he wrote.'
+p1655
+aS'On Twitter, Collins thanked everyone who sent him messages of support.'
+p1656
+aS'"All the support I have received today is truly inspirational. I knew that I was choosing the road less traveled but I\'m not walking it alone," he wrote .'
+p1657
+aS"Sports Illustrated's managing editor said Collins was reticent about being a flag bearer."
+p1658
+aS'Spike Lee slams the Collins hate machine'
+p1659
+aS'"It is a much simpler, more personal reason. He wants to have a family," Chris Stone told CNN. "He wants the same life that his twin brother, Jarron, has. This is a secret he\'s kept for a very long time. He didn\'t even inform his brother that he was gay until late last summer. ... So much for twin telepathy."'
+p1660
+aS'Jarron, who played in the NBA for 10 seasons and was Jason\'s teammate at Stanford, tweeted to his brother: "Very proud of you."'
+p1661
+aS'"Jason Collins has forever changed the face of sports," said the Human Rights Campaign, a civil rights group fighting for gay rights.'
+p1662
+aS'It likened the announcement to Jackie Robinson, the first African-American to play in major league baseball in the modern era.'
+p1663
+aS"NBA's first openly gay player"
+p1664
+aS'"At a time when millions are reflecting on the life and legacy of Jackie Robinson, Jason Collins is a hero for our own times," the group said.'
+p1665
+aS'Former NBA player Charles Barkley, now an analyst for "Inside the NBA" on TNT, told CNN on Monday night that active players shouldn\'t be surprised that a teammate is gay.'
+p1666
+aS'"I think anybody who thinks they never played with a gay player is an idiot," he said on "AC360." "I played with several gay players. It\'s their own business, and I think they should get to be who they want to be."'
+p1667
+aS'Collins is a 7-footer who has played with six NBA teams -- the Wizards, Celtics, Atlanta Hawks, Minnesota Timberwolves, Memphis Grizzlies and New Jersey Nets -- over the past 12 seasons. He has averaged 3.6 points and 3.8 rebounds in 713 career games, and he has had a great deal of playoff experience with the Nets (who have since moved to Brooklyn) and the Hawks.'
+p1668
+aS'Momentum had been growing in recent months for an active player in the National Football League, National Hockey League, National Basketball Association or Major League Baseball to come out.'
+p1669
+aS'Just a few weeks ago, the NHL announced a new program teaching tolerance and giving support to gay athletes.'
+p1670
+aS'Commissioner Gary Bettman said the agreement made the NHL\'s policy of inclusiveness "clear and unequivocal."'
+p1671
+aS'"While we believe that our actions in the past have shown our support for the LGBT community, we are delighted to reaffirm through this joint venture with the NHL Players\' Association that the official policy of the NHL is one of inclusion on the ice, in our locker rooms and in the stands," Bettman said in the joint statement with You Can Play.'
+p1672
+aS'And NFL player Brendon Ayanbadejo, The New York Times reported, has been in contact with closeted players in several sports.'
+p1673
+aS'"What we\'re trying to facilitate is to get them together and do what they want to do, do what is right for them," he told the Times.'
+p1674
+aS'Collins paves way for gay athletes'
+p1675
+aS'In February, former professional soccer player Robbie Rogers announced on his blog that he is gay. His former U.S. teammates showed solidarity in response to the news.'
+p1676
+aS"Though reaction to Collins' announcement also was overwhelming support, not everyone had a positive response."
+p1677
+aS'ESPN basketball analyst Chris Broussard said the Bible calls homosexuality a sin.'
+p1678
+aS'"If you\'re openly living in unrepentant sin, whatever it may be, not just homosexuality, adultery, fornication, premarital sex between heterosexuals, whatever it may be. I think that\'s walking in open rebellion to God and to Jesus Christ," he said.'
+p1679
+aS'NFL receiver Mike Wallace tweeted Monday: "All these beautiful women in the world and guys wanna mess with other guys SMH."'
+p1680
+aS'He tweeted again, saying he was being misinterpreted.'
+p1681
+aS'"Never said anything was right or wrong I just said I don\'t understand!! Deeply sorry for anyone that I offended," he wrote.'
+p1682
+aS"The Dolphins, Wallace's employer, issued a statement saying the team has spoken with Wallace about the tweets. The team said it will address its policy of inclusion with all of its players."
+p1683
+aS'NBA Commissioner David Stern said Collins, a 34-year-old veteran, is widely respected in the league.'
+p1684
+aS'"We are proud he has assumed the leadership mantle on this very important issue," he said in a statement.'
+p1685
+aS'Washington Wizards President Ernie Grunfeld said the team is "extremely proud of Jason and support his decision to live his life proudly and openly."'
+p1686
+aS'"He has been a leader on and off the court and an outstanding teammate throughout his NBA career. Those qualities will continue to serve him both as a player and as a positive role model for others of all sexual orientations," Grunfeld said.'
+p1687
+aS'Boston Celtics head coach Doc Rivers called Collins "a pro\'s pro" and one of his favorite players he ever coached.'
+p1688
+aS'"If you have learned anything from Jackie Robinson, it is that teammates are always the first to accept," Rivers said. "It will be society who has to learn tolerance."'
+p1689
+aS'Bill Clinton called the announcement an "important moment for professional sports and in the history of the LGBT community."'
+p1690
+aS'Clintons welcome announcement from friend Jason Collins'
+p1691
+aS"Collins, who had been traded by the Celtics to the Wizards this season, wrote in his essay that U.S. Rep. Joe Kennedy, D-Massachusetts, helped prompt his decision to come out as gay. Kennedy and Collins were roommates at Stanford. He recounts hearing about Kennedy, who is not gay, marching in Boston's Gay Pride Parade."
+p1692
+aS'"For as long as I\'ve known Jason Collins he has been defined by three things: his passion for the sport he loves, his unwavering integrity, and the biggest heart you will ever find," Kennedy said. "I\'m proud to stand with him today and proud to call him a friend."'
+p1693
+aS'President Barack Obama called Collins "to express his support and said he was impressed by his courage," a White House official said.'
+p1694
+aS'Active players posted their approval on Twitter. The Los Angeles Lakers\' Kobe Bryant said: "Proud of @jasoncollins34. Don\'t suffocate who u r because of the ignorance of others." Steve Nash, also a Laker, said: "The time has come. Maximum respect."'
+p1695
+aS'Two Wizards players, Garrett Temple and Bradley Beal, said in tweets they were "proud" of Collins. "Much respect to my teammate," Temple said. "Great teammate, mentor and better person," said Beal.'
+p1696
+aS'Collins\' announcement comes after the end of the Wizards\' season, and he is no longer under contract. He is an "old" player by NBA standards who has never been a star. So will he play in the NBA this fall?'
+p1697
+aS'ESPN.com said only six of 14 team officials reached for an unofficial poll Monday thought he would be back in the league. If he does return, he probably will play only a few minutes a game for a team that needs a veteran leader, the other executives told ESPN.com.'
+p1698
+aS'Twitter reacts to the revelation'
+p1699
+aS"Some male athletes have come out as gay after they've left professional sports. One is John Amaechi, a former NBA player."
+p1700
+aS'Amaechi told CNN he hopes Collins will be a catalyst for a wider acceptance of openly gay athletes, saying he believes Collins is better equipped than anyone who came before him to handle the attention that will come his way. But it may take more, Amaechi said.'
+p1701
+aS'People like to believe one iconic figure can change things, he said, "but the reality is that when there\'s this tipping point, or enough people coming together deciding that change is necessary, that\'s when change happens."'
+p1702
+aS"The Women's National Basketball Association, the women's pro league, has had its share of milestones and openness as far as gays are concerned. In 2005, Sheryl Swoopes, a top player in the WNBA, announced she was gay."
+p1703
+aS"Brittney Griner, the No. 1 pick in this year's WNBA draft, recently said in an interview with Sports Illustrated that she is gay. Griner finished her college career as the NCAA's all-time leading shot-blocker with 748 and as the No. 2 all-time scorer with 3,283 points."
+p1704
+aS'Opinion: Openly gay player is not a distraction'
+p1705
+asbasg401
+(lp1706
+g875
+ag1120
+ag1167
+ag1342
+ag1399
+ag1520
+ag1568
+asg403
+(dp1707
 sba.

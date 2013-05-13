@@ -113,6 +113,7 @@ class Document:
         return ranked_sentences, best_first, best_middle, best_last
 
     def get_best_sentence_in_set(self, sentence_set, ranked_sentences):
+        """Returns the index of the best sentence in the set"""
         best = ''
         indexof = -1
         for sentence in ranked_sentences:
@@ -123,16 +124,17 @@ class Document:
         return best, indexof
 
     def eval_best_sentence(self):
+        """ Returns a list of all of the sentences greater than the mean of all the results """
         __mat = []
         for vec in self.answers:
             __mat.append(map(int, vec))
 
         mat = np.matrix(__mat)
-
         mean_mat = np.mean(mat, axis=0)
-
-        occurences = np.where(mean_mat == mean_mat.max())
-        return occurences
+        occurences = mean_mat.ravel().tolist()[0]
+        val = max(occurences)
+        indexes = [i for i, k in enumerate(occurences) if k == val]
+        return indexes
 
     def tokenize_and_clean(text):
         """Tokenizes and removes stopwords"""
@@ -279,12 +281,17 @@ if __name__ == "__main__":
         for topic in topics:
             for doc in topic.documents:
                 total += 1
-                for best_sent in np.array(doc.eval_best_sentence())[0][0]:
-                    if doc.get_most_important_sentences()[1][1] == best_sent + 1:
+
+                for best_sent in doc.eval_best_sentence():
+                    print 'best sent:',doc.eval_best_sentence(), '  ' ,doc.get_most_important_sentences()[1]
+                    if doc.get_most_important_sentences()[1][1] == best_sent:
+                        print doc.get_most_important_sentences()[1]
+                        print doc.get_most_important_sentences()[1][1]
+                        #print best_sent
                         total_correct += 1
                         break
-            print topic.topic
-            print topic.summarize()
+            #print topic.topic
+            #print topic.summarize()
         print 'Total Correct: %d or %.2f%%' % (total_correct, float(total_correct)/total * 100)
         print 'Total Incorrect %d or %.2f%%' % ((total-total_correct), float(total-total_correct)/total * 100)
 
