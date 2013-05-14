@@ -5,6 +5,8 @@ Required External Libraries
 --------
 
 - [nltk](http://nltk.org/)
+- [scipy](http://www.scipy.org/)
+- [scikit-learn](http://scikit-learn.org/)
 - [networkx](http://networkx.github.io/)
 - [tweepy](https://github.com/tweepy/tweepy)
 - [BeatifulSoup](http://www.crummy.com/software/BeautifulSoup/)
