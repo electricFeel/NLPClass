@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+"""
+  This file only contains the articles that were used for our data set.
+  Note that this is not a executable script.
+"""
+
 #mississippi ricin arrest
 mississippi = ['http://www.cnn.com/2013/04/27/justice/ricin-investigation/index.html?hpt=hp_t1',
                'http://www.nytimes.com/2013/04/28/us/mississippi-man-arrested-in-sending-of-letters-laced-with-ricin.html?_r=0',
@@ -193,20 +198,20 @@ if __name__ == "__main__":
     print len(total)
 
     # testing all articles and printing the ones with error
-    import extractor, sys
-    c = 0
-    exceptions = []
-    for x in total:
-        try:
-            e = extractor.build_extractor(x)
-            e.article()
-        except:
-            c += 1
-            print '---\n%d.\n' % c
-            print x
-            print ''
-            print sys.exc_info()
-            print '---'
+    # import extractor, sys
+    # c = 0
+    # exceptions = []
+    # for x in total:
+    #     try:
+    #         e = extractor.build_extractor(x)
+    #         e.article()
+    #     except:
+    #         c += 1
+    #         print '---\n%d.\n' % c
+    #         print x
+    #         print ''
+    #         print sys.exc_info()
+    #         print '---'
 
 
     #e = extractor.build_extractor('http://www.washingtonpost.com/politics/mississippi-man-suspected-in-ricin-case-has-been-arrested-fbi-says/2013/04/27/e5954196-af50-11e2-8bf6-e70cb6ae066e_story.html')

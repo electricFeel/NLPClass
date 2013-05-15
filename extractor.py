@@ -1,15 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-from util import clean_html, is_url_allowed
+from util import clean_html
 import urllib
 import urllib2
 import cookielib
 import urlparse
-import unittest
 from bs4 import BeautifulSoup
 
 
 def build_extractor(url):
+    """ Builds an extractor object based on the URL passed by argument """
     parsed = urlparse.urlparse(url)
     if parsed.hostname in ALLOWED_HOSTNAMES:
         extractor_cls = ALLOWED_HOSTNAMES.get(parsed.hostname)
@@ -19,7 +19,12 @@ def build_extractor(url):
 
 
 class ArticleExtractor():
-    """ Base Class for Article Text Extraction """
+    """ Base Class for Article Text Extraction 
+
+    Subclasses of this class are able to extract content for specific sites.
+    A call to extractor.article() returns a structured dictionary with
+    article's title and paragraphs.
+    """
 
     def __init__(self, url):
         self.html_parser = 'html5lib'
@@ -42,6 +47,7 @@ class ArticleExtractor():
         self._get_raw()
 
     def _get_raw(self):
+        """ Gets raw content (i.e. HTML content) and stores it """
         resp = self.opener.open(self.url)
 
         # 200, OK
@@ -231,31 +237,6 @@ ALLOWED_HOSTNAMES = {'www.nytimes.com': NYTArticleExtractor,
                      'www.nbcnews.com': NBCNewsExtractor
                      }
 
-
-class ExtractorTests(unittest.TestCase):
-    def setUp(self):
-        pass
-
-    def test_apbigstory(self):
-        """ AP bigstory """
-        self.url = 'http://bigstory.ap.org/article/toll-bangladesh-building-collapse-climbs-290'
-        self.expected_title = u'UNIDENTIFIED VICTIMS OF BANGLADESH COLLAPSE BURIED'
-        self.expected_p = u'JURAIN, Bangladesh (AP) — Dozens of Bangladeshi garment workers whose bodies were too battered or decomposed to be identified were buried in a mass funeral, a week after the eight-story building they worked in collapsed, killing at least 410 people and injuring thousands.'
-        self.general_test()
-
-    def test_abcnews(self):
-        """ ABC News """
-        self.url = 'http://abcnews.go.com/Entertainment/opening-statements-set-begin-michael-jackson-wrong-death/story?id=19063372'
-        self.expected_title = u'Lawyer: Concert Promoter Pushed Michael Jackson Despite Rx Drug Struggle'
-        self.expected_p = u"Michael Jackson's family and friends knew the King of Pop abused prescription drugs, an attorney for Jackson's mother told a Los Angeles jury today, yet the promoters of his ill-fated 2009 comeback tour denied any knowledge of it."
-        self.general_test()
-
-    def general_test(self):
-        e = build_extractor(self.url).article()
-        self.assertEqual(e.title, self.expected_title)
-        self.assertEqual(e.paragraphs[0], self.expected_p)
-
-
 if __name__ == "__main__":
     # evalute arguments
 
@@ -269,16 +250,10 @@ if __name__ == "__main__":
     parser.add_argument('-f', action='store_true',
                         help='prints full text')
 
-    parser.add_argument('--test', action='store_true',
-                        help='called to test the extractor unit tests')
-
     args = parser.parse_args()
 
     # executes script
-    if args.test:
-        unittest.main()
-
-    elif args.url:
+    if args.url:
         a = build_extractor(args.url).article()
         if args.f:
             print '# Title: \n\n%s\n\n# Text:\n\n%s' % (a['title'], '\n\n'.join(a['paragraphs']))
