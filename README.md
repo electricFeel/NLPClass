@@ -98,6 +98,7 @@ This is the main interface of the system. The machine running this script should
 After that, the web interface should be running at <http://localhost:8080>
 
 As mentioned above, our search field is limited to pre-processed topics, which are the following in our dataset:
+	
 	american_held_nk, poison, syria, mississippi, boston_miranda, sunil_tripathi, pills 
 	sherpa_fight, michigan, faa_furloughs, jason_collins, bagram, jackson, virgin_galactic, bangladesh
 
@@ -120,8 +121,7 @@ prints current trending topics for United States
 #### Examples of usage:
 
 	python extractor.py http://www.cnn.com/2013/04/27/justice/ricin-investigation/index.html
-prints the title and first paragraph of the article <http://www.cnn.com/2013/04/27/justice/ricin-investigation/index.html>
-if you add -f, it will print the full text of the article
+prints the title and first paragraph of the article <http://www.cnn.com/2013/04/27/justice/ricin-investigation/index.html>. If you add -f, it will print the full text of the article.
 
 ### Data Set Builder
 
@@ -135,16 +135,3 @@ This command will build new [Pickle](http://docs.python.org/2/library/pickle.htm
 
 This command will compute accuracy of the sentence selection of our algorithm against the gold standard generated using Amazon Machine Turk.
 The current settings in similarity.py will test accuracy of the algorithm with TF-IDF normalization, Cosine Simlarity Measure, no Stop words, and no Stemmer. The complete results of all alternatives can be found in our project report.
-
-Scratch
---------
-
-Tokenizer:
-Before using the Tokenizer, both NLTK and the Punkt dataset must be
-installed. After installing NLTK call nltk.download() and then navigate
-and download the correct corpora. I already had it downloaded but 
-because it was out of date it was causing errors.
-
-Punkt Tokenizer in NLTK. Algorithm citation below.
-Kiss, Tibor and Strunk, Jan (2006): Unsupervised Multilingual Sentence
-  Boundary Detection.  Computational Linguistics 32: 485-525.
