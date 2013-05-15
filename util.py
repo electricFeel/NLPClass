@@ -7,7 +7,7 @@ from nltk import tokenize
 
 
 class HTTPRedirectHandler(urllib2.HTTPRedirectHandler):
-    """ Handles redirects to cache redirects """
+    """ Handles HTTP redirects to cache redirects """
     def __init__(self, urlsyn):
         self.urlsyn = urlsyn
 
@@ -17,7 +17,11 @@ class HTTPRedirectHandler(urllib2.HTTPRedirectHandler):
 
 
 def unshorten(url):
-    """ Unshortens URLs like in bit.ly, t.co, etc """
+    """ Unshortens URLs like in bit.ly, t.co, etc 
+
+    This function uses an internal cache to avoid reprocessing URL 
+    that already have been unshotened in the current runtime."""
+
     # check if caching dict is available
     if not hasattr(unshorten, "urlsyn_dict"):
         unshorten.urlsyn_dict = dict()
@@ -41,9 +45,6 @@ def unshorten(url):
 
     request = urllib2.Request(url)
 
-    # hack to avoid getting full page contents
-    # request.get_method = lambda: 'HEAD'
-
     opener.open(request)
 
     # caching redirects
@@ -55,7 +56,8 @@ def unshorten(url):
 
 
 def is_url_allowed(url):
-    """ Checks if the URL is allowed in the application """
+    import extractor
+    """ Checks if the URL is allowed in the application (within our crawlabe sites) """
     parsed = urlparse.urlparse(url)
     return (parsed.hostname in extractor.ALLOWED_HOSTNAMES)
 
@@ -64,3 +66,10 @@ def clean_html(text):
     """ Sanitizes text to remove any html content / entities """
     html_parser = HTMLParser.HTMLParser()
     return html_parser.unescape(nltk.util.clean_html(str(text)))
+
+def print_table(table):
+    """ Prints tabular data """
+    col_width = [max(len(x) for x in col) for col in zip(*table)]
+    for line in table:
+        print "| " + " | ".join("{:{}}".format(x, col_width[i])
+                                for i, x in enumerate(line)) + " |"
