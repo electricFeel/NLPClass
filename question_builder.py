@@ -15,6 +15,10 @@ SECRET_KEY = ''
 HOST = 'mechanicalturk.amazonaws.com'
 
 def build_survey_list(listOfLinks=[]):
+    """ Build the survey from the list of links passed. Uses the extractor classes to request, parse and 
+        extract the article from the URL. This function then builds the survey questions from the first
+        paragraph of the article and returns a tuple list of [(url, title, sentences)]
+    """
     tuple_list = []
     for item in listOfLinks:
         try:
@@ -38,6 +42,10 @@ def get_paragraph(listOfParagraphs, first):
 
 
 def submit_forms():
+    """
+    Creates all of the surveys for processing as HITs on Mechanical Turk. Article sources are pulled from
+    articles.py
+    """
     fact = MTurkSurveyFactory()
     mtc = MTurkConnection(aws_access_key_id=ACCESS_ID,
                          aws_secret_access_key=SECRET_KEY,
