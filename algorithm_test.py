@@ -3,7 +3,7 @@ from nltk.corpus import stopwords
 import nltk
 from nltk import tokenize
 from nltk.stem.wordnet import WordNetLemmatizer
-from extractor import *
+import extractor 
 import pickle
 from similarity import textrank
 import numpy as np
@@ -20,7 +20,12 @@ class Topic:
 
     def add_document(self, url, answers=[]):
         """ Adds a document to the topic list"""
-        article = build_extractor(url).article()
+        try:
+            article = extractor.build_extractor(url).article()
+        except:
+            print 'URL %s is not parsable' % url
+            return  # cancels adding
+        
         doc = Document(article, url, answers)
         self.documents.append(doc)
         self.urls.append(url)
@@ -136,46 +141,6 @@ class Document:
         indexes = [i for i, k in enumerate(occurences) if k == val]
         return indexes
 
-    def tokenize_and_clean(text):
-        """Tokenizes and removes stopwords"""
-        tokenized = nltk.word_tokenize(text)
-        cleaned_sentence = [w for w in tokenized if w.lower() not in stopwords]
-        return cleaned_sentence
-
-    def lemmatizer(tokenized):
-        """ Uses the built in wordnet lemmatizer to generate a summary"""
-        lematized = [lmtzr.lemmatize(w) for w in tokenized]
-        return lematized
-
-    def pos_tagging(tokenized_text):
-        """ Apparently there are multiple ways to do POS tagging in
-            NLTK. Unfortunetly, the standard wordnet tagger has some
-            internal problems, so instead we'll use the (already trained)
-            treebank tagger
-        """
-        #note we're not using this just yet
-        tagged = nltk.pos_tag(tokenized_text)
-        #convert all of the tags to wordnet standard
-        tagged = [get_wordnet_pos(tag) for tag in tagged]
-        pass
-
-    def get_wordnet_pos(treebank_tag):
-        """
-            Converts the treebank tag to the standard wordnet tag.
-            Shamelessly taken from:
-            http://stackoverflow.com/questions/15586721/wordnet-lemmatization-and-pos-tagging-in-python
-        """
-        if treebank_tag.startswith('J'):
-            return wordnet.ADJ
-        elif treebank_tag.startswith('V'):
-            return wordnet.VERB
-        elif treebank_tag.startswith('N'):
-            return wordnet.NOUN
-        elif treebank_tag.startswith('R'):
-            return wordnet.ADV
-        else:
-            return ''
-
 
 class Tester:
     def __init__(self):
@@ -271,11 +236,6 @@ if __name__ == "__main__":
     # test argument
     elif args.test:
         topics = pickle.load(open("dev_set.p", "rb"))
-        doc = topics[0].documents[0]
-        # print '#################'
-        # print doc.get_most_important_sentences()[1], doc.get_most_important_sentences()[2], doc.get_most_important_sentences()[3]
-        # print np.array(doc.eval_best_sentence())[0][0][0]
-        # print '#################'
         total_correct = 0
         total = 0
         for topic in topics:
@@ -285,13 +245,8 @@ if __name__ == "__main__":
                 for best_sent in doc.eval_best_sentence():
                     print 'best sent:',doc.eval_best_sentence(), '  ' ,doc.get_most_important_sentences()[1]
                     if doc.get_most_important_sentences()[1][1] == best_sent:
-                        print doc.get_most_important_sentences()[1]
-                        print doc.get_most_important_sentences()[1][1]
-                        #print best_sent
                         total_correct += 1
                         break
-            #print topic.topic
-            #print topic.summarize()
         print 'Total Correct: %d or %.2f%%' % (total_correct, float(total_correct)/total * 100)
         print 'Total Incorrect %d or %.2f%%' % ((total-total_correct), float(total-total_correct)/total * 100)
 
