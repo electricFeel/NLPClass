@@ -1,4 +1,4 @@
-NLPClass
+Multi-Document Extractive Summarization
 ========
 
 Required External Libraries
